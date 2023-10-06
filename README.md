@@ -308,7 +308,6 @@
 - [BebraHack/BebraHackAddon](https://github.com/BebraHack/BebraHackAddon) - Meteor addon dedicated to Bebra
 - [XatzClient/PenisESP](https://github.com/XatzClient/PenisESP) - Not made by us, but since we use, we may aswell give its src
 - [AlexProgrammerDE/PistonChat](https://github.com/AlexProgrammerDE/PistonChat) - An advanced chat plugin for survival/anarchy servers.
-- [SagXD/Potato](https://github.com/SagXD/Potato) - If you fork this then you can say you forked a potato.
 - [BleachDev/BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
 - [sigmaclientwastaken/Raven-bPLUS](https://github.com/sigmaclientwastaken/Raven-bPLUS) - Raven b+ : Raven b3 but better.
 - [Based-devs/Lynx](https://github.com/Based-devs/Lynx) - Lynx client is a utility mod for 1.12.2 anarchy servers.
@@ -356,6 +355,7 @@
 
 ## JavaScript 
 
+- [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
@@ -527,7 +527,6 @@
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
 - [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader
-- [SagXD/SagXD](https://github.com/SagXD/SagXD) - Config files for my GitHub profile.
 
 ## PHP 
 
