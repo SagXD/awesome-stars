@@ -55,12 +55,14 @@
 - [html](#html)
 - [html5](#html5)
 - [icon-font](#icon-font)
+- [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [js](#js)
+- [json](#json)
 - [kotlin](#kotlin)
 - [library](#library)
 - [linux](#linux)
@@ -101,7 +103,10 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sql](#sql)
 - [svelte](#svelte)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -150,7 +155,6 @@
 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - Awesome List of My Starred Repositories
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -263,6 +267,7 @@
 
 ## discord 
 
+- [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
 - [billythegoat356/Plague](https://github.com/billythegoat356/Plague) - A Discord token grabber written in Python3, with awesome obfuscation and anti-debug protection.
 - [Shinyenigma/Millenium-RAT](https://github.com/Shinyenigma/Millenium-RAT) - 🔶A new fully telegram-controlled RAT. ✨Only for 10$ in 2023✨. Please read the README file before
 - [doenerium69/doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer:  We are not responsible for any damages this software may cause after being acquired. This softwa
@@ -472,6 +477,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## ios 
+
+- [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
+
 ## iot 
 
 - [ojoanalogo/issuetron-3000](https://github.com/ojoanalogo/issuetron-3000) - 🚨 Trigger a MQTT alert when someone opens an issue in one of your repositories
@@ -521,6 +530,10 @@
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
+## json 
+
+- [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
+
 ## kotlin 
 
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
@@ -559,6 +572,7 @@
 
 ## macos 
 
+- [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
@@ -574,6 +588,7 @@
 
 ## mastodon 
 
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
 
 ## material-design 
@@ -689,6 +704,7 @@
 
 ## nodejs 
 
+- [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PeralStudio/DiscordJS-V14-Bot-V2](https://github.com/PeralStudio/DiscordJS-V14-Bot-V2) - A Discord bot project made with Discord.js v14 and it handles Prefix, Slash, User, Message commands, and Modals
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -700,6 +716,7 @@
 
 ## open-source 
 
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [Bonfire/JClicker](https://github.com/Bonfire/JClicker) - An extremely lightweight Java auto-clicker
 - [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS) - Raven b+ : Raven b3 but better.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
@@ -720,6 +737,8 @@
 
 ## others 
 
+- [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
+- [sheodox/alexandrite](https://github.com/sheodox/alexandrite) - A beautiful and convenient desktop-first alternate web UI for Lemmy.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy
 - [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
@@ -1091,6 +1110,7 @@
 
 ## reactjs 
 
+- [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
 ## reverse-engineering 
@@ -1101,6 +1121,7 @@
 
 ## rust 
 
+- [IronOxidizer/lemmy-lite](https://github.com/IronOxidizer/lemmy-lite) - A static, JSless, touch-friendly Lemmy frontend built for legacy web clients and maximum performance
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1136,9 +1157,23 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## sql 
+
+- [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
+
 ## svelte 
 
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
+
+## swift 
+
+- [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
+- [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
+
+## swiftui 
+
+- [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
+- [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
 
 ## telegram 
 
