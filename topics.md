@@ -222,7 +222,6 @@
 ## config 
 
 - [FireFox-CSS/FireFox-CSS](https://github.com/FireFox-CSS/FireFox-CSS) - My Config
-- [SagXD/SagXD](https://github.com/SagXD/SagXD) - Config files for my GitHub profile.
 
 ## cpp 
 
@@ -405,7 +404,6 @@
 ## github-config 
 
 - [FireFox-CSS/FireFox-CSS](https://github.com/FireFox-CSS/FireFox-CSS) - My Config
-- [SagXD/SagXD](https://github.com/SagXD/SagXD) - Config files for my GitHub profile.
 
 ## go 
 
@@ -737,6 +735,7 @@
 
 ## others 
 
+- [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
 - [sheodox/alexandrite](https://github.com/sheodox/alexandrite) - A beautiful and convenient desktop-first alternate web UI for Lemmy.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
@@ -954,7 +953,6 @@
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
 - [AlexProgrammerDE/PistonChat](https://github.com/AlexProgrammerDE/PistonChat) - An advanced chat plugin for survival/anarchy servers.
-- [SagXD/Potato](https://github.com/SagXD/Potato) - If you fork this then you can say you forked a potato.
 - [PlutoSolutions/Abyss](https://github.com/PlutoSolutions/Abyss) - abyss 1.6.0 free and open for everyone version - I1rQsNCd0LDRiNC40YU=
 - [sigmaclientwastaken/Raven-bPLUS](https://github.com/sigmaclientwastaken/Raven-bPLUS) - Raven b+ : Raven b3 but better.
 - [s7n1ax/Thunderhackplus](https://github.com/s7n1ax/Thunderhackplus) - 
