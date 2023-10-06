@@ -453,6 +453,7 @@
 
 ## Others 
 
+- [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - Awesome List of My Starred Repositories
 - [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
 - [Bugswriter/amptest](https://github.com/Bugswriter/amptest) - 
 - [Bugswriter/metawood](https://github.com/Bugswriter/metawood) - 
@@ -537,6 +538,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [AntiCope/anticope.ml](https://github.com/AntiCope/anticope.ml) - Welcome to the AntiCope Website! Here you can find a list of free and open-source Meteor Client addons as well as other client-side Fabric Minecraft mods.
 - [mdwalters/lemonade](https://github.com/mdwalters/lemonade) - 🍋 Follow discussions on Lemmy
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
