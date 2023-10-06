@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
+- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -34,6 +35,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -135,6 +137,7 @@
 
 ## CSS 
 
+- [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [Spelis123/MC-NewTab-for-Firefox](https://github.com/Spelis123/MC-NewTab-for-Firefox) - a custom UserContent.css file for Mozilla Firefox
 - [Astromations/FlyingFox](https://github.com/Astromations/FlyingFox) - FlyingFox Revamped
@@ -159,6 +162,10 @@
 
 - [radian628/lispsmos](https://github.com/radian628/lispsmos) - A LISP-y language that compiles to Desmos expressions.
 
+## Dart 
+
+- [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
+
 ## Emacs Lisp 
 
 - [Bugswriter/.emacs.d](https://github.com/Bugswriter/.emacs.d) - 
@@ -170,6 +177,8 @@
 
 ## Go 
 
+- [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) - Create free subdomain free
@@ -347,6 +356,7 @@
 
 ## JavaScript 
 
+- [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo
 - [TheWisker/Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
@@ -412,6 +422,7 @@
 
 ## Kotlin 
 
+- [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [andstatus/game2048](https://github.com/andstatus/game2048) - 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGe game engine
@@ -453,8 +464,9 @@
 
 ## Others 
 
+- [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
+- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - Awesome List of My Starred Repositories
 - [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
 - [Bugswriter/amptest](https://github.com/Bugswriter/amptest) - 
 - [Bugswriter/metawood](https://github.com/Bugswriter/metawood) - 
@@ -539,6 +551,8 @@
 
 ## Python 
 
+- [dbeley/awesome-lemmy](https://github.com/dbeley/awesome-lemmy) - A community driven list of useful apps, tools and websites for the Lemmy federated social network.
+- [maltfield/awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [AntiCope/anticope.ml](https://github.com/AntiCope/anticope.ml) - Welcome to the AntiCope Website! Here you can find a list of free and open-source Meteor Client addons as well as other client-side Fabric Minecraft mods.
 - [mdwalters/lemonade](https://github.com/mdwalters/lemonade) - 🍋 Follow discussions on Lemmy
@@ -599,6 +613,8 @@
 
 ## Rust 
 
+- [IronOxidizer/lemmy-lite](https://github.com/IronOxidizer/lemmy-lite) - A static, JSless, touch-friendly Lemmy frontend built for legacy web clients and maximum performance
+- [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
@@ -638,10 +654,18 @@
 
 ## Svelte 
 
+- [sheodox/alexandrite](https://github.com/sheodox/alexandrite) - A beautiful and convenient desktop-first alternate web UI for Lemmy.
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
+
+## Swift 
+
+- [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
+- [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
 
 ## TypeScript 
 
+- [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
