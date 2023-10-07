@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -13,23 +14,29 @@
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
+- [Haxe](#haxe)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ren'Py](#ren'py)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
@@ -41,6 +48,10 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [mcfunction](#mcfunction)
+
+## Assembly 
+
+- [Sanqui/2048-gb](https://github.com/Sanqui/2048-gb) - a gameboy (and SMS) port of 2048
 
 ## AutoIt 
 
@@ -55,6 +66,11 @@
 
 ## C 
 
+- [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+- [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
+- [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
+- [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Bugswriter/dmenu](https://github.com/Bugswriter/dmenu) - dmenu setup for LARBS
@@ -69,6 +85,13 @@
 
 ## C# # 
 
+- [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
+- [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
+- [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
+- [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+- [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [Technoguyfication/Minecraft-Unity3D](https://github.com/Technoguyfication/Minecraft-Unity3D) - Vanilla-compatible Minecraft multiplayer client written from scratch in C#
+- [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 - [Stealerium/Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
@@ -103,6 +126,17 @@
 
 ## C++ 
 
+- [plibither8/2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
+- [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, 
+- [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
+- [ketoo/NoahGameFrame](https://github.com/ketoo/NoahGameFrame) - A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/L
+- [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
+- [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
+- [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
+- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+- [atxi/Polymer](https://github.com/atxi/Polymer) - In-development Minecraft client using C++ and Vulkan.
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 - [babbaj/nether-pathfinder](https://github.com/babbaj/nether-pathfinder) - 
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
@@ -137,6 +171,8 @@
 
 ## CSS 
 
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [Spelis123/MC-NewTab-for-Firefox](https://github.com/Spelis123/MC-NewTab-for-Firefox) - a custom UserContent.css file for Mozilla Firefox
@@ -164,11 +200,23 @@
 
 ## Dart 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [anuranBarman/2048](https://github.com/anuranBarman/2048) - Famous 2048 Game in Flutter
+- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
+
+## Elm 
+
+- [dwayne/elm-2048](https://github.com/dwayne/elm-2048) - A 2048 clone written in Elm.
 
 ## Emacs Lisp 
 
 - [Bugswriter/.emacs.d](https://github.com/Bugswriter/.emacs.d) - 
+
+## GDScript 
+
+- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 
 ## GLSL 
 
@@ -177,6 +225,11 @@
 
 ## Go 
 
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [alyyousuf7/twenty48](https://github.com/alyyousuf7/twenty48) - 2048 game on CLI
+- [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
@@ -188,6 +241,7 @@
 
 ## HTML 
 
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Bugswriter/simple-base64-upload](https://github.com/Bugswriter/simple-base64-upload) - 
 - [Bugswriter/iiser-poc](https://github.com/Bugswriter/iiser-poc) - 
 - [Bugswriter/ecomsite](https://github.com/Bugswriter/ecomsite) - 
@@ -209,12 +263,27 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
 
+## Haxe 
+
+- [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
+
 ## Inno Setup 
 
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 
 ## Java 
 
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
+- [smallSohoSolo/android2048](https://github.com/smallSohoSolo/android2048) - Android 2048
+- [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
+- [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+- [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
+- [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 1.8 to 1.19.2 (With Forg
+- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
+- [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - The main client
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.20.1 Fishing bot for Minecraft
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
 - [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A female gender mod created for Minecraft.
@@ -355,6 +424,18 @@
 
 ## JavaScript 
 
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [liuhong1happy/react-native-2048](https://github.com/liuhong1happy/react-native-2048) - React Native 2048 Game
+- [gd4Ark/2048](https://github.com/gd4Ark/2048) - 🎮 2048 game developed using javascript
+- [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
+- [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
+- [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
+- [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+- [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
+- [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo
@@ -376,7 +457,6 @@
 - [chrisJuresh/redditFetch](https://github.com/chrisJuresh/redditFetch) - A simple discord bot to pull various posts from reddit.
 - [PeralStudio/DiscordJS-V14-Bot-V2](https://github.com/PeralStudio/DiscordJS-V14-Bot-V2) - A Discord bot project made with Discord.js v14 and it handles Prefix, Slash, User, Message commands, and Modals
 - [LilyAsFlora/reddit-fetch](https://github.com/LilyAsFlora/reddit-fetch) - A simple wrapper for fetching information from reddit posts.
-- [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge that shows your Discord account, a server invite, or a bot account.
@@ -420,8 +500,35 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
+## Jupyter Notebook 
+
+- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+
 ## Kotlin 
 
+- [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app build with MD3
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+- [SimpleMobileTools/Simple-Launcher](https://github.com/SimpleMobileTools/Simple-Launcher) - A practical and customizable launcher for launching your favorite apps easily.
+- [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
+- [SimpleMobileTools/Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
+- [SimpleMobileTools/Simple-Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) - A calculator for quick simple calculations with a nice user interface and no ads
+- [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
+- [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
+- [SimpleMobileTools/Simple-SMS-Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) - An easy and quick way of managing SMS and MMS messages without ads.
+- [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
+- [SimpleMobileTools/Simple-Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
+- [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
+- [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
+- [SimpleMobileTools/Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
+- [SimpleMobileTools/Simple-Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
+- [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads.
+- [SimpleMobileTools/Simple-Commons](https://github.com/SimpleMobileTools/Simple-Commons) - Some helper functions and shared resources to be used only by the simple apps suite.
+- [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
+- [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
+- [manuel-martos/compose-2048](https://github.com/manuel-martos/compose-2048) - Porting 2048 game to Android using Jetpack Compose
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
@@ -451,6 +558,8 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 
@@ -462,8 +571,37 @@
 
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
 
+## Objective-C 
+
+- [danqing/2048](https://github.com/danqing/2048) - The iOS version of 2048, made using SpriteKit
+
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
+- [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
 - [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -473,7 +611,6 @@
 - [Bugswriter/fooddish](https://github.com/Bugswriter/fooddish) - 
 - [Bugswriter/bugsnavi](https://github.com/Bugswriter/bugsnavi) - 
 - [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
-- [Shinyenigma/Millenium-RAT](https://github.com/Shinyenigma/Millenium-RAT) - 🔶A new fully telegram-controlled RAT. ✨Only for 10$ in 2023✨. Please read the README file before
 - [3arthh4ckDevelopment/3arthh4ck-Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) - Earthhack Plugins
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
@@ -550,6 +687,17 @@
 
 ## Python 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
+- [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
+- [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Games: Create interesting games in pure python.
+- [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
+- [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [Fallen-Breath/PCRC](https://github.com/Fallen-Breath/PCRC) - PyCraft based Replay Client
 - [dbeley/awesome-lemmy](https://github.com/dbeley/awesome-lemmy) - A community driven list of useful apps, tools and websites for the Lemmy federated social network.
 - [maltfield/awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -610,8 +758,16 @@
 - [blankRiot96/pyhb](https://github.com/blankRiot96/pyhb) - An ASMR keyboard sound effect CLI package
 - [pystardust/Welearn-bot](https://github.com/pystardust/Welearn-bot) - A bot that downloads all the necessary files from WeLearn and lists your assignments, filter due assignments, etc.
 
+## Ren'Py 
+
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
+
 ## Rust 
 
+- [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
+- [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
+- [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+- [DarkZek/RustCraft](https://github.com/DarkZek/RustCraft) - Rustcraft is a Minecraft Client, positioning itself as the performant Minecraft Java Edition client, with support with higher quality graphical options than that of the Mojang Minecraft Client.
 - [IronOxidizer/lemmy-lite](https://github.com/IronOxidizer/lemmy-lite) - A static, JSless, touch-friendly Lemmy frontend built for legacy web clients and maximum performance
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy
@@ -636,6 +792,8 @@
 
 ## Shell 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Bugswriter/wal-telegram](https://github.com/Bugswriter/wal-telegram) - :paintbrush: A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
 - [Bugswriter/pirokit](https://github.com/Bugswriter/pirokit) - 
 - [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
@@ -658,17 +816,22 @@
 
 ## Swift 
 
+- [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
 - [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
 
 ## TypeScript 
 
+- [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
 - [ignSKRRRTT/aiden.gg](https://github.com/ignSKRRRTT/aiden.gg) - Personal site
+- [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
@@ -681,6 +844,7 @@
 
 ## Vim Script 
 
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -691,6 +855,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Bugswriter/contact-app](https://github.com/Bugswriter/contact-app) - 
 - [Bugswriter/vuelocker](https://github.com/Bugswriter/vuelocker) - 
 - [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue 2.0.
