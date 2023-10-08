@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [plibither8/2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, 
 - [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
@@ -273,6 +274,8 @@
 
 ## Java 
 
+- [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
+- [MrStahlfelge/lightblocks](https://github.com/MrStahlfelge/lightblocks) - Falling Lightblocks. Falling block game for Android (Mobile and TV), iOS, Web browsers. Works on desktops, too.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 - [smallSohoSolo/android2048](https://github.com/smallSohoSolo/android2048) - Android 2048
@@ -424,6 +427,14 @@
 
 ## JavaScript 
 
+- [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
+- [OgarProject/Ogar](https://github.com/OgarProject/Ogar) - An open source Agar.io server implementation, written with Node.js.
+- [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
+- [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -506,6 +517,16 @@
 
 ## Kotlin 
 
+- [vector-im/element-x-android](https://github.com/vector-im/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+- [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
+- [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+- [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
+- [you-apps/MellowMusic](https://github.com/you-apps/MellowMusic) - Music player app using Piped API to fetch music
+- [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app build with MD3
+- [you-apps/ClockYou](https://github.com/you-apps/ClockYou) - Privacy focused clock app build with MD3
+- [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app build with MD3
+- [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app build with MD3
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -558,6 +579,9 @@
 
 ## Lua 
 
+- [Uberi/Minetest-WorldEdit](https://github.com/Uberi/Minetest-WorldEdit) - The ultimate in-game world editing tool for Minetest! Tons of functionality to help with building, fixing, and more.
+- [minetest-mods/technic](https://github.com/minetest-mods/technic) - Technic mod for Minetest
+- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
@@ -577,6 +601,9 @@
 
 ## Others 
 
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -687,6 +714,7 @@
 
 ## Python 
 
+- [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
@@ -742,7 +770,6 @@
 - [Xello-Blue/blueshare](https://github.com/Xello-Blue/blueshare) - Open source screen capture tool made for Xello.Blue hosting
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
-- [Wolfsurge/HTMLBrackets](https://github.com/Wolfsurge/HTMLBrackets) - 
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [WindSlashKing/Item-Frame-Duper-for-6b6t](https://github.com/WindSlashKing/Item-Frame-Duper-for-6b6t) - A simple program that automates the duplication glitch on the Minecraft server 6b6t.org
@@ -781,6 +808,7 @@
 
 ## SCSS 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [Bugswriter/website-1](https://github.com/Bugswriter/website-1) - hillhacks website
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
@@ -823,6 +851,10 @@
 
 ## TypeScript 
 
+- [HasangerGames/survivreloaded-server](https://github.com/HasangerGames/survivreloaded-server) - An open source server for the defunct online game surviv.io. Work in progress.
+- [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
