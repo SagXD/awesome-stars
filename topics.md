@@ -14,7 +14,6 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
@@ -286,6 +285,7 @@
 
 ## awesome-list 
 
+- [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
@@ -321,10 +321,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [AlfarexGuy2019/awesome-tweaks](https://github.com/AlfarexGuy2019/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
 
-## backend 
-
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-
 ## bash 
 
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
@@ -352,6 +348,7 @@
 
 ## c 
 
+- [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
@@ -601,6 +598,14 @@
 
 ## game 
 
+- [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
+- [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
+- [vaneenige/zero-distraction-js13k](https://github.com/vaneenige/zero-distraction-js13k) - 🔥A simple (6kb) WebGL game made for the JS13K competition!
+- [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
+- [danprince/norman-the-necromancer](https://github.com/danprince/norman-the-necromancer) - 💀 Entry for JS13k 2022
+- [KilledByAPixel/SpaceHuggers](https://github.com/KilledByAPixel/SpaceHuggers) - A roguelike platformer with destructible environments in 13KB of JavaScript
+- [KilledByAPixel/BounceBack](https://github.com/KilledByAPixel/BounceBack) - Boomerang Zelda Homage for JS13k
+- [jackrugile/radius-raid-js13k](https://github.com/jackrugile/radius-raid-js13k) - Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effect
 - [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
 - [HasangerGames/survivreloaded-server](https://github.com/HasangerGames/survivreloaded-server) - An open source server for the defunct online game surviv.io. Work in progress.
 - [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
@@ -673,6 +678,7 @@
 
 ## game-development 
 
+- [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
 - [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
@@ -735,6 +741,7 @@
 
 ## games 
 
+- [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
 - [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, 
@@ -937,6 +944,10 @@
 
 ## javascript 
 
+- [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
+- [KilledByAPixel/SpaceHuggers](https://github.com/KilledByAPixel/SpaceHuggers) - A roguelike platformer with destructible environments in 13KB of JavaScript
+- [foumart/JS.13kGames](https://github.com/foumart/JS.13kGames) - Progressive Web App starter pack for JS13k games
+- [jackrugile/radius-raid-js13k](https://github.com/jackrugile/radius-raid-js13k) - Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effect
 - [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
@@ -1240,6 +1251,7 @@
 
 ## open-source 
 
+- [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [SimpleMobileTools/Simple-App-Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
@@ -1272,6 +1284,7 @@
 
 ## operating-system 
 
+- [KilledByAPixel/OS13k](https://github.com/KilledByAPixel/OS13k) - A Tiny OS and Mini Game Engine
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
@@ -1282,6 +1295,9 @@
 
 ## others 
 
+- [schoolpost/CinePI](https://github.com/schoolpost/CinePI) - OpenSource Cinema Camera using Raspberry Pi
+- [dogagenc/flying-bubbles](https://github.com/dogagenc/flying-bubbles) - An HTML5 Game
+- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
 - [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
 - [OgarProject/Ogar](https://github.com/OgarProject/Ogar) - An open source Agar.io server implementation, written with Node.js.
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
@@ -1625,12 +1641,14 @@
 
 ## pwa 
 
+- [foumart/JS.13kGames](https://github.com/foumart/JS.13kGames) - Progressive Web App starter pack for JS13k games
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
 
 ## python 
 
+- [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -1802,6 +1820,7 @@
 
 ## typescript 
 
+- [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
 - [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
@@ -1857,6 +1876,7 @@
 
 ## windows 
 
+- [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, 
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
