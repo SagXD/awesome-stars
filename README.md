@@ -376,7 +376,6 @@
 - [doctor-swag/moneymod-rewrite](https://github.com/doctor-swag/moneymod-rewrite) - block game client made by ruskis
 - [Eralp232/KonasClient](https://github.com/Eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
-- [Tecnio/AntiCheatBase](https://github.com/Tecnio/AntiCheatBase) - So good base bro get good 20 tps.
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
 - [BebraHack/BebraHackAddon](https://github.com/BebraHack/BebraHackAddon) - Meteor addon dedicated to Bebra
 - [XatzClient/PenisESP](https://github.com/XatzClient/PenisESP) - Not made by us, but since we use, we may aswell give its src
