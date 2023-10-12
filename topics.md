@@ -173,7 +173,7 @@
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
-- [you-apps/MellowMusic](https://github.com/you-apps/MellowMusic) - Music player app using Piped API to fetch music
+- [you-apps/VibeYou](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
 - [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app build with MD3
 - [you-apps/ClockYou](https://github.com/you-apps/ClockYou) - Privacy focused clock app build with MD3
 - [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app build with MD3
@@ -1206,7 +1206,7 @@
 
 ## music 
 
-- [you-apps/MellowMusic](https://github.com/you-apps/MellowMusic) - Music player app using Piped API to fetch music
+- [you-apps/VibeYou](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
@@ -1328,7 +1328,7 @@
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [radian628/lispsmos](https://github.com/radian628/lispsmos) - A LISP-y language that compiles to Desmos expressions.
-- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A female gender mod created for Minecraft.
+- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A female gender mod created for Minecraft. No longer actively supporting Forge!
 - [fthx/no-overview](https://github.com/fthx/no-overview) - 
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
