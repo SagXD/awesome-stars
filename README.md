@@ -541,6 +541,9 @@
 
 ## Kotlin 
 
+- [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
+- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - A Material You GitHub Mobile client
+- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [vector-im/element-x-android](https://github.com/vector-im/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
@@ -625,6 +628,7 @@
 
 ## Others 
 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [ronilan/that-is-impossible](https://github.com/ronilan/that-is-impossible) - Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps
 - [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
 - [schoolpost/CinePI](https://github.com/schoolpost/CinePI) - OpenSource Cinema Camera using Raspberry Pi
@@ -820,6 +824,7 @@
 
 ## Rust 
 
+- [revoltchat/mutiny](https://github.com/revoltchat/mutiny) - Community-led Project: GTK4 Revolt Client
 - [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
 - [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -849,6 +854,7 @@
 
 ## Shell 
 
+- [cancng/fonts](https://github.com/cancng/fonts) - 
 - [ronilan/crumbicon](https://github.com/ronilan/crumbicon) - An SVG favicon editor for your terminal (written in Crumb)
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -881,6 +887,8 @@
 
 ## TypeScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [t2bot/matrix-appservice-discord](https://github.com/t2bot/matrix-appservice-discord) - A bridge between Matrix and Discord. This is t2bot.io's custom version of the bridge - use the upstream if you're looking for a stable option.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
 - [danprince/norman-the-necromancer](https://github.com/danprince/norman-the-necromancer) - 💀 Entry for JS13k 2022
