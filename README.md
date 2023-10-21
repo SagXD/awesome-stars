@@ -104,7 +104,7 @@
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [u16rogue/csgo_external_cs](https://github.com/u16rogue/csgo_external_cs) - External CS:GO cheat written in C#. Comes with Trigger-bot, Radar ESP, and Glow ESP. Uses pattern scanning for offsets to lessen maintenance every update of the game.
 - [NightfallGT/Mercurial-Grabber](https://github.com/NightfallGT/Mercurial-Grabber) - Grab Discord tokens, Chrome passwords and cookies, and more
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Minecraft ESP written in C# NAOT (.dll)
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Java Minecraft 1.8.9 - 1.12.2
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [Pickleft/Window-Manager](https://github.com/Pickleft/Window-Manager) - Window Automation & Management for .Net C#
 - [Pickleft/HCF-Switcher](https://github.com/Pickleft/HCF-Switcher) - Armor Set Switcher For HCF / Similar Mini-Games. (Macro-Switch)
@@ -511,7 +511,7 @@
 - [Scythe-Anticheat/Scythe-AntiCheat](https://github.com/Scythe-Anticheat/Scythe-AntiCheat) - Scythe AntiCheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - Use a Discord bot to control your Mineflayer bot.
-- [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
+- [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [RattlesHyper/TrafficerMC](https://github.com/RattlesHyper/TrafficerMC) - A Minecraft botting tool with Anti-AFK, Chat spammer, Inventory/Chest manager features.
 - [VeryBigSad/unnamedBot](https://github.com/VeryBigSad/unnamedBot) - A minecraft chat bot for anarchy servers (similar to mooomooo)
