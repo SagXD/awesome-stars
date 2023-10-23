@@ -1397,6 +1397,7 @@
 
 ## others 
 
+- [victal/tapas-rss](https://github.com/victal/tapas-rss) - A Firefox webextension to add RSS Feed buttons on tapas.io webcomic pages
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
 - [Alex313031/Snippets](https://github.com/Alex313031/Snippets) - Various little snippets, scripts, and batch files, usually having something to do with Chromium or Windows.
@@ -1577,7 +1578,7 @@
 - [19MisterX98/Atomic](https://github.com/19MisterX98/Atomic) - based client the 2nd, for 1.17
 - [19MisterX98/SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
 - [mrkite/minutor](https://github.com/mrkite/minutor) - Mapping for Minecraft
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Java Minecraft 1.8.9 - 1.12.2
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Minecraft Java 1.8.9 - 1.12.2
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
 - [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
 - [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
