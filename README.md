@@ -111,7 +111,7 @@
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [u16rogue/csgo_external_cs](https://github.com/u16rogue/csgo_external_cs) - External CS:GO cheat written in C#. Comes with Trigger-bot, Radar ESP, and Glow ESP. Uses pattern scanning for offsets to lessen maintenance every update of the game.
 - [NightfallGT/Mercurial-Grabber](https://github.com/NightfallGT/Mercurial-Grabber) - Grab Discord tokens, Chrome passwords and cookies, and more
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Java Minecraft 1.8.9 - 1.12.2
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Minecraft Java 1.8.9 - 1.12.2
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [Pickleft/Window-Manager](https://github.com/Pickleft/Window-Manager) - Window Automation & Management for .Net C#
 - [Pickleft/HCF-Switcher](https://github.com/Pickleft/HCF-Switcher) - Armor Set Switcher For HCF / Similar Mini-Games. (Macro-Switch)
@@ -452,6 +452,7 @@
 
 ## JavaScript 
 
+- [victal/tapas-rss](https://github.com/victal/tapas-rss) - A Firefox webextension to add RSS Feed buttons on tapas.io webcomic pages
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
