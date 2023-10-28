@@ -26,6 +26,7 @@
 - [cli](#cli)
 - [code](#code)
 - [code-quality](#code-quality)
+- [computer-science](#computer-science)
 - [config](#config)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -410,6 +411,12 @@
 ## code-quality 
 
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+
+## computer-science 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## config 
 
