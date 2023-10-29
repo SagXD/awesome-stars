@@ -64,7 +64,6 @@
 - [Alex313031/Snippets](https://github.com/Alex313031/Snippets) - Various little snippets, scripts, and batch files, usually having something to do with Chromium or Windows.
 - [Alex313031/Thorium-Win-AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) - Repo to serve AVX2 Windows builds of Thorium. https://github.com/Alex313031/Thorium/
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
-- [auraside/HoneCtrl](https://github.com/auraside/HoneCtrl) - 
 - [eppic/ytBATCH](https://github.com/eppic/ytBATCH) - An easy to use Batch Script for downloading Audio and Video using yt-dlp.
 - [exrodev/voidclicker](https://github.com/exrodev/voidclicker) - Void Clicker is an autoclicker in a batch file that uses some trickery to run Powershell code in the same file which then runs C# code making it able to simulate a click.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
@@ -299,6 +298,7 @@
 
 ## Java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [RacoonDog/Tokyo-Client](https://github.com/RacoonDog/Tokyo-Client) - Anarchy tool of the future.
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [MrStahlfelge/lightblocks](https://github.com/MrStahlfelge/lightblocks) - Falling Lightblocks. Falling block game for Android (Mobile and TV), iOS, Web browsers. Works on desktops, too.
@@ -651,6 +651,7 @@
 
 ## Others 
 
+- [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/ultrakill](https://github.com/catppuccin/ultrakill) - 🩸 Soothing pastel theme for ULTRAKILL
 - [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
 - [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
@@ -706,6 +707,7 @@
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [eric48906/Discord-Token-Generator](https://github.com/eric48906/Discord-Token-Generator) - Discord Token Generator (hCaptcha AI Solver / hCaptcha Bypass), 1,000 Tokens Per Minute!
+- [auraside/Hone](https://github.com/auraside/Hone) - 
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
 - [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 - [deaFPS/apex-configs-by-deafps](https://github.com/deaFPS/apex-configs-by-deafps) - 
@@ -917,6 +919,8 @@
 
 ## TypeScript 
 
+- [vendetta-mod/Vendetta](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
