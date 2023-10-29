@@ -171,6 +171,7 @@
 
 ## android 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - A Material You GitHub Mobile client
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
@@ -506,6 +507,7 @@
 
 ## discord 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
@@ -883,6 +885,8 @@
 
 ## hacktoberfest 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/ultrakill](https://github.com/catppuccin/ultrakill) - 🩸 Soothing pastel theme for ULTRAKILL
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [catppuccin/toolbox](https://github.com/catppuccin/toolbox) - 🧰 Catppuccin's development tools
@@ -899,7 +903,6 @@
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 - [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
@@ -979,6 +982,7 @@
 
 ## java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
@@ -1061,6 +1065,7 @@
 
 ## kotlin 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - A Material You GitHub Mobile client
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
@@ -1404,6 +1409,8 @@
 
 ## others 
 
+- [vendetta-mod/Vendetta](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop
 - [victal/tapas-rss](https://github.com/victal/tapas-rss) - A Firefox webextension to add RSS Feed buttons on tapas.io webcomic pages
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
@@ -1548,7 +1555,7 @@
 - [KgDW/MadCat-deobf-decomp-buildable](https://github.com/KgDW/MadCat-deobf-decomp-buildable) - M3dC3t
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-- [auraside/HoneCtrl](https://github.com/auraside/HoneCtrl) - 
+- [auraside/Hone](https://github.com/auraside/Hone) - 
 - [Daniel-Liu-c0deb0t/uwu](https://github.com/Daniel-Liu-c0deb0t/uwu) - fastest text uwuifier in the west
 - [CarloxCoC/SpamBot](https://github.com/CarloxCoC/SpamBot) - Spam bot for 6b6t.org using Mineflayer
 - [lambda-client-unofficial/plugin-repo](https://github.com/lambda-client-unofficial/plugin-repo) - Plugins that does not belong to the official organization
