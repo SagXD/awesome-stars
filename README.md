@@ -111,7 +111,7 @@
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [u16rogue/csgo_external_cs](https://github.com/u16rogue/csgo_external_cs) - External CS:GO cheat written in C#. Comes with Trigger-bot, Radar ESP, and Glow ESP. Uses pattern scanning for offsets to lessen maintenance every update of the game.
 - [NightfallGT/Mercurial-Grabber](https://github.com/NightfallGT/Mercurial-Grabber) - Grab Discord tokens, Chrome passwords and cookies, and more
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Minecraft Java 1.8.9 - 1.12.2
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [Pickleft/Window-Manager](https://github.com/Pickleft/Window-Manager) - Window Automation & Management for .Net C#
 - [Pickleft/HCF-Switcher](https://github.com/Pickleft/HCF-Switcher) - Armor Set Switcher For HCF / Similar Mini-Games. (Macro-Switch)
@@ -782,6 +782,7 @@
 
 ## Python 
 
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
