@@ -446,6 +446,7 @@
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 - [Stealerium/Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Pickleft/Imgur-Downloader](https://github.com/Pickleft/Imgur-Downloader) - Downloads Pics & Gifs & Videos From Imgur With Specific Keywords.
 
 ## css 
@@ -1234,6 +1235,7 @@
 - [wrrulos/MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.20.1
 - [RedCarlos26/HIGTools](https://github.com/RedCarlos26/HIGTools) - Highway Tools for Meteor Client.
+- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Sjnez613/RenoSense-Rewrite](https://github.com/Sjnez613/RenoSense-Rewrite) - Rewrite with oyvey
 - [moneymod/moneymod](https://github.com/moneymod/moneymod) - 1.12.2 crystalpvp modification (especially for non strict servers like cc)
 - [SkidwareMC/Skidware-Client](https://github.com/SkidwareMC/Skidware-Client) - Minecraft Injection Client
@@ -1411,6 +1413,7 @@
 
 ## others 
 
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
 - [odziom91/libadwaita-themes](https://github.com/odziom91/libadwaita-themes) - Themes for GNOME 42 GTK4.0
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [KuroZen/r34-json-api](https://github.com/KuroZen/r34-json-api) - A simple wrapper for the rule34 api.
@@ -1598,7 +1601,6 @@
 - [19MisterX98/Atomic](https://github.com/19MisterX98/Atomic) - based client the 2nd, for 1.17
 - [19MisterX98/SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
 - [mrkite/minutor](https://github.com/mrkite/minutor) - Mapping for Minecraft
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack for Minecraft Java 1.8.9 - 1.12.2
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
 - [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
 - [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
