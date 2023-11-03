@@ -288,7 +288,7 @@
 - [hitthemoney/krunker-logo-maker](https://github.com/hitthemoney/krunker-logo-maker) - 
 - [LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives) - A list of recommended OptiFine alternatives.
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
-- [allo-/firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) - A tool to create firefox profiles with personalized defaults.
+- [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 
 ## Haxe 
 
