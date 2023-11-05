@@ -29,6 +29,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
 - [Objective-C](#objective-c)
@@ -136,6 +137,7 @@
 
 ## C++ 
 
+- [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) - Partially open-source alternative Steam Client for Linux.
 - [Alex313031/thorium-win7](https://github.com/Alex313031/thorium-win7) - Repo for Windows 7/8/8.1 Thorium Builds (32 bit SSE2, 64 bit SSE3, AVX, and AVX2 builds)
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -641,6 +643,10 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 
+## Makefile 
+
+- [bahmanm/lemmy-synapse](https://github.com/bahmanm/lemmy-synapse) - A humble bundle of observability and monitoring for your Lemmy cluster.
+
 ## Markdown 
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
@@ -892,6 +898,8 @@
 
 ## Shell 
 
+- [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 - [cancng/fonts](https://github.com/cancng/fonts) - 
 - [ronilan/crumbicon](https://github.com/ronilan/crumbicon) - An SVG favicon editor for your terminal (written in Crumb)
