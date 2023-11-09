@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
+- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -25,8 +26,10 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [computer-science](#computer-science)
 - [config](#config)
 - [cpp](#cpp)
@@ -50,12 +53,14 @@
 - [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -72,21 +77,27 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gradle](#gradle)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
+- [kubernetes](#kubernetes)
+- [languages](#languages)
+- [latex](#latex)
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
@@ -117,6 +128,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phaser](#phaser)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
@@ -131,6 +143,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [reverse-engineering](#reverse-engineering)
+- [ruby](#ruby)
 - [rust](#rust)
 - [scala](#scala)
 - [security](#security)
@@ -152,6 +165,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -167,6 +181,7 @@
 
 ## ai 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
 
@@ -176,6 +191,7 @@
 
 ## android 
 
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
@@ -234,6 +250,10 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+
+## angular 
+
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## ansible 
 
@@ -347,6 +367,7 @@
 
 ## backend 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## bash 
@@ -364,6 +385,7 @@
 
 ## bot 
 
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.20.2 Fishing bot for Minecraft
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
@@ -389,10 +411,13 @@
 
 ## chatgpt 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
 ## chrome 
 
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [Alex313031/Thorium-Win-AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) - Repo to serve AVX2 Windows builds of Thorium. https://github.com/Alex313031/Thorium/
 - [Alex313031/Thorium-WOA](https://github.com/Alex313031/Thorium-WOA) - Repo to serve ARM64 Windows on Arm builds of Thorium. https://github.com/Alex313031/Thorium/
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
@@ -411,12 +436,17 @@
 
 ## cli 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [alyyousuf7/twenty48](https://github.com/alyyousuf7/twenty48) - 2048 game on CLI
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
+
+## clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## code 
 
@@ -425,6 +455,10 @@
 ## code-quality 
 
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+
+## code-review 
+
+- [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
 ## computer-science 
 
@@ -438,6 +472,7 @@
 
 ## cpp 
 
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [plibither8/2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 - [tomlooman/EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame) - Third-person Survival Game for Unreal Engine (Sample Project)
@@ -450,6 +485,7 @@
 
 ## csharp 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -463,6 +499,8 @@
 
 ## css 
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -521,6 +559,8 @@
 
 ## discord 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
@@ -565,6 +605,7 @@
 
 ## docker 
 
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
@@ -572,6 +613,11 @@
 
 ## documentation 
 
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
 
@@ -589,6 +635,9 @@
 
 ## electron 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -605,6 +654,9 @@
 
 ## emoji 
 
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
@@ -613,6 +665,10 @@
 
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
+
+## es6 
+
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## eslint 
 
@@ -625,6 +681,8 @@
 
 ## firefox 
 
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [Astromations/FlyingFox](https://github.com/Astromations/FlyingFox) - FlyingFox Revamped
@@ -662,8 +720,14 @@
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 
+## frontend 
+
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
 ## game 
 
+- [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
+- [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
 - [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [vaneenige/zero-distraction-js13k](https://github.com/vaneenige/zero-distraction-js13k) - 🔥A simple (6kb) WebGL game made for the JS13K competition!
@@ -744,6 +808,10 @@
 
 ## game-development 
 
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
@@ -768,6 +836,7 @@
 
 ## game-engine 
 
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
@@ -786,6 +855,11 @@
 
 ## gamedev 
 
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
+- [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
@@ -809,6 +883,7 @@
 
 ## games 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
@@ -822,10 +897,15 @@
 
 ## git 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 
 ## github 
 
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - A Material You GitHub Mobile client
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -858,6 +938,7 @@
 
 ## go 
 
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
@@ -869,6 +950,9 @@
 
 ## godot 
 
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
+- [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
 - [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 
 ## golang 
@@ -891,8 +975,13 @@
 
 ## gradle 
 
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku) - Lightweight, dependency-free Minecraft 1.12.2 hack
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+## graphql 
+
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## hacking 
 
@@ -905,6 +994,12 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -965,6 +1060,9 @@
 
 ## html 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
@@ -972,6 +1070,8 @@
 
 ## html5 
 
+- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
@@ -985,6 +1085,10 @@
 ## icon-font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## image-processing 
+
+- [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
 
 ## ios 
 
@@ -1007,6 +1111,9 @@
 
 ## java 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
+- [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
@@ -1042,6 +1149,19 @@
 
 ## javascript 
 
+- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [walterhiggins/ScriptCraft](https://github.com/walterhiggins/ScriptCraft) - Write Minecraft Plugins in JavaScript.
+- [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - A spirte art tool for making 32x32 sprites with the NES Palette
+- [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
@@ -1074,7 +1194,12 @@
 
 ## jekyll 
 
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
+
+## jquery 
+
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
 ## js 
 
@@ -1084,6 +1209,7 @@
 
 ## json 
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
@@ -1125,12 +1251,28 @@
 - [Wolfsurge/Paragon](https://github.com/Wolfsurge/Paragon) - A 1.12.2 utility mod intended for anarchy servers
 - [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client forked from LiquidBounce
 
+## kubernetes 
+
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+## languages 
+
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+
+## latex 
+
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 ## library 
 
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 
 ## linux 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
@@ -1160,6 +1302,7 @@
 
 ## lua 
 
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [lite-xl/lite-xl-lsp](https://github.com/lite-xl/lite-xl-lsp) - LSP Plugin for Lite XL editor
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -1170,6 +1313,7 @@
 
 ## mac 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1184,6 +1328,8 @@
 
 ## macos 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
@@ -1198,6 +1344,28 @@
 
 ## markdown 
 
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge that shows your Discord account, a server invite, or a bot account.
@@ -1226,6 +1394,10 @@
 
 ## minecraft 
 
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
+- [leereilly/hubot-minecraft-skin](https://github.com/leereilly/hubot-minecraft-skin) - Hubot's very own Minecraft skin
+- [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)
 - [RacoonDog/Tokyo-Client](https://github.com/RacoonDog/Tokyo-Client) - Anarchy tool of the future.
 - [Technoguyfication/Minecraft-Unity3D](https://github.com/Technoguyfication/Minecraft-Unity3D) - Vanilla-compatible Minecraft multiplayer client written from scratch in C#
 - [atxi/Polymer](https://github.com/atxi/Polymer) - In-development Minecraft client using C++ and Vulkan.
@@ -1339,6 +1511,8 @@
 
 ## music 
 
+- [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
+- [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
 - [you-apps/VibeYou](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -1360,6 +1534,7 @@
 
 ## node 
 
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1367,6 +1542,9 @@
 
 ## nodejs 
 
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -1396,6 +1574,8 @@
 
 ## open-source 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
@@ -1444,6 +1624,18 @@
 
 ## others 
 
+- [thehatclub/anime-archive](https://github.com/thehatclub/anime-archive) - A place where you can store your progress offline
+- [gamelab/kiwi.js](https://github.com/gamelab/kiwi.js) - Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
+- [micdoodle8/Galacticraft](https://github.com/micdoodle8/Galacticraft) - An advanced Space Dimension Mod for Minecraft
+- [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
+- [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
+- [essentials/Essentials](https://github.com/essentials/Essentials) - Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server
+- [minefold/hubot-minecraft](https://github.com/minefold/hubot-minecraft) - A Minecraft hubot adapter
+- [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
+- [jackschaedler/goya](https://github.com/jackschaedler/goya) - Pixel art editor built on Clojurescript + Om
+- [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
+- [maierfelix/poxi](https://github.com/maierfelix/poxi) - A flat pixel art editor
+- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
 - [mycodedoesnotcompile2/jdownloader_mirror](https://github.com/mycodedoesnotcompile2/jdownloader_mirror) - JDownloader open-source code mirror
 - [mirror/jdownloader](https://github.com/mirror/jdownloader) - JDownloader mirror
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) - Partially open-source alternative Steam Client for Linux.
@@ -1508,12 +1700,10 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [MakkusuOtaku/minegpt](https://github.com/MakkusuOtaku/minegpt) - Minecraft bot controlled with an LLM.
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
-- [Bugswriter/dmenu](https://github.com/Bugswriter/dmenu) - dmenu setup for LARBS
 - [Bugswriter/wal-telegram](https://github.com/Bugswriter/wal-telegram) - :paintbrush: A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
 - [Bugswriter/bipolar-assignment](https://github.com/Bugswriter/bipolar-assignment) - 
 - [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
 - [Bugswriter/pirokit](https://github.com/Bugswriter/pirokit) - 
-- [Bugswriter/.emacs.d](https://github.com/Bugswriter/.emacs.d) - 
 - [Bugswriter/simple-base64-upload](https://github.com/Bugswriter/simple-base64-upload) - 
 - [Bugswriter/website-1](https://github.com/Bugswriter/website-1) - hillhacks website
 - [Bugswriter/amptest](https://github.com/Bugswriter/amptest) - 
@@ -1534,7 +1724,6 @@
 - [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
 - [Bugswriter/gcontacts-alternative](https://github.com/Bugswriter/gcontacts-alternative) - 
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [Bugswriter/dwm](https://github.com/Bugswriter/dwm) - 
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [pycatmc/TotemParticlesChanger](https://github.com/pycatmc/TotemParticlesChanger) - Changes size, velocity multiplier, gravity, lifetime and color of totem particles.
 - [mioclient/hitbox-desync](https://github.com/mioclient/hitbox-desync) - private russian exploit that uses 1.19 swimming mechanics to phase
@@ -1618,7 +1807,6 @@
 - [Neptunium-Development/neptunium-client](https://github.com/Neptunium-Development/neptunium-client) - 
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
-- [NightfallGT/Mercurial-Grabber](https://github.com/NightfallGT/Mercurial-Grabber) - Grab Discord tokens, Chrome passwords and cookies, and more
 - [DaddySte/Merzi-Clicker](https://github.com/DaddySte/Merzi-Clicker) - A simple Console Clicker
 - [NotTolon/Vega.wtf](https://github.com/NotTolon/Vega.wtf) - old autoclicker worked on by RuneGaming and sometimes me he quit tho so src
 - [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
@@ -1629,7 +1817,6 @@
 - [thebest9178/Unminable-Meteor](https://github.com/thebest9178/Unminable-Meteor) - A port of LXYan2333's Fabric-Bedrock-Miner to Meteor addon.
 - [mapcrafter/mapcrafter](https://github.com/mapcrafter/mapcrafter) - High Performance Minecraft Map Renderer.
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) - A feature-rich fork of Terra121 focusing on performance.
-- [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [jaquadro/StorageDrawers](https://github.com/jaquadro/StorageDrawers) - A mod adding compartmental storage for Minecraft Forge
 - [19MisterX98/DiamondSim](https://github.com/19MisterX98/DiamondSim) - 
 - [19MisterX98/Atomic](https://github.com/19MisterX98/Atomic) - based client the 2nd, for 1.17
@@ -1799,12 +1986,28 @@
 
 - [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
 
+## phaser 
+
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
 ## pico-8 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## pixel-art 
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
+- [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - A spirte art tool for making 32x32 sprites with the NES Palette
+- [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
+- [rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) - A Pixel Art Editor
+- [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
+- [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
+- [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 
@@ -1823,6 +2026,7 @@
 
 ## pwa 
 
+- [rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) - A Pixel Art Editor
 - [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [foumart/JS.13kGames](https://github.com/foumart/JS.13kGames) - Progressive Web App starter pack for JS13k games
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1831,6 +2035,10 @@
 
 ## python 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [ViRb3/upscale-win](https://github.com/ViRb3/upscale-win) - Workflow for upscaling and interpolating videos with NVIDIA TensorRT acceleration
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
@@ -1863,6 +2071,7 @@
 
 ## python3 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
 - [mdwalters/lemonade](https://github.com/mdwalters/lemonade) - 🍋 Follow discussions on Lemmy
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -1880,10 +2089,15 @@
 
 ## raspberry-pi 
 
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## react 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
+- [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [kurozenzen/r34-react](https://github.com/kurozenzen/r34-react) - A modern tag-based rule 34 browsing site focused on simplicity and user experience.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1906,12 +2120,15 @@
 
 ## reactjs 
 
+- [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
+- [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
 ## redux 
 
+- [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
 
@@ -1921,8 +2138,13 @@
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
+## ruby 
+
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
 ## rust 
 
+- [cloudhead/rx](https://github.com/cloudhead/rx) - 👾 Modern and minimalist pixel editor
 - [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
 - [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -1947,6 +2169,8 @@
 
 ## self-hosted 
 
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1954,6 +2178,7 @@
 
 ## server 
 
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 
@@ -2005,6 +2230,7 @@
 
 ## terminal 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
@@ -2024,6 +2250,9 @@
 
 ## typescript 
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [kurozenzen/r34-react](https://github.com/kurozenzen/r34-react) - A modern tag-based rule 34 browsing site focused on simplicity and user experience.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
@@ -2043,6 +2272,7 @@
 
 ## vim 
 
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -2055,6 +2285,10 @@
 
 ## vue 
 
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Rule-34/App](https://github.com/Rule-34/App) - Browse the most popular Boorus with the Rule 34 App.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2062,18 +2296,25 @@
 
 ## web 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 
+## webapp 
+
+- [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
+
 ## webpack 
 
+- [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API.
 
 ## website 
 
+- [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - A spirte art tool for making 32x32 sprites with the NES Palette
 - [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨
@@ -2085,6 +2326,11 @@
 
 ## windows 
 
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
+- [ViRb3/upscale-win](https://github.com/ViRb3/upscale-win) - Workflow for upscaling and interpolating videos with NVIDIA TensorRT acceleration
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [Alex313031/Thorium-Win-AVX2](https://github.com/Alex313031/Thorium-Win-AVX2) - Repo to serve AVX2 Windows builds of Thorium. https://github.com/Alex313031/Thorium/
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
