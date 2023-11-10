@@ -1811,7 +1811,7 @@
 - [NotTolon/Vega.wtf](https://github.com/NotTolon/Vega.wtf) - old autoclicker worked on by RuneGaming and sometimes me he quit tho so src
 - [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
 - [Weave-MC/Weave-Gradle](https://github.com/Weave-MC/Weave-Gradle) - Gradle build system plugin used to automate the setup of a modding environment.
-- [deaFPS/apex-configs-by-deafps](https://github.com/deaFPS/apex-configs-by-deafps) - 
+- [DEAFPS/apex-configs-by-deafps](https://github.com/DEAFPS/apex-configs-by-deafps) - 
 - [TheKisDevs/LavaHack-Public](https://github.com/TheKisDevs/LavaHack-Public) - #ZaПобеду
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
 - [thebest9178/Unminable-Meteor](https://github.com/thebest9178/Unminable-Meteor) - A port of LXYan2333's Fabric-Bedrock-Miner to Meteor addon.
@@ -1849,7 +1849,6 @@
 - [RedPer/MC-Auto-Sprint-Mod](https://github.com/RedPer/MC-Auto-Sprint-Mod) - A mod that sprints for you.
 - [Cookei/bad-apple-onion-skin](https://github.com/Cookei/bad-apple-onion-skin) - 
 - [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - Java obfuscators list
-- [Xello-Blue/blueshare](https://github.com/Xello-Blue/blueshare) - Open source screen capture tool made for Xello.Blue hosting
 - [CDAGaming/CrystalOptimizer](https://github.com/CDAGaming/CrystalOptimizer) - Inspired from Marlow's Crystal Optimizer, now open-sourced and for more MC Versions! For Research Purposes!
 - [Nooniboi/Public-Ikea](https://github.com/Nooniboi/Public-Ikea) - Public Ikea Addon
 - [altrisi/FastOpenLinksAndFolders](https://github.com/altrisi/FastOpenLinksAndFolders) - A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder.
