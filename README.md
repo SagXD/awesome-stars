@@ -422,7 +422,6 @@
 - [unnamedlife/bbcware](https://github.com/unnamedlife/bbcware) - Strongest Minecraft PVP Utility for 1.19.2
 - [Hackerokuz/meteor-litematica-printer](https://github.com/Hackerokuz/meteor-litematica-printer) - 
 - [kkllffaa/meteor-litematica-printer](https://github.com/kkllffaa/meteor-litematica-printer) - 
-- [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Pan4ur/ThunderHackPlus](https://github.com/Pan4ur/ThunderHackPlus) - 1.12.2 Minecraft hacked client for sword / crystal hvh
 - [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - Adds additional functionality to Meteor Client ☄️.
 - [KassuK1/BlackOut](https://github.com/KassuK1/BlackOut) - Plugin for meteor client adding more features mostly focusing on CPVP
@@ -685,6 +684,7 @@
 - [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
 - [Weave-MC/Weave-Gradle](https://github.com/Weave-MC/Weave-Gradle) - Gradle build system plugin used to automate the setup of a modding environment.
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
+- [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [SooStrator1136/FlightRadar4k](https://github.com/SooStrator1136/FlightRadar4k) - API for FlightRadar24 written in kotlin.
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
