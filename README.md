@@ -655,7 +655,7 @@
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
 - [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
-- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - A Material You GitHub Mobile client
+- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [vector-im/element-x-android](https://github.com/vector-im/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
