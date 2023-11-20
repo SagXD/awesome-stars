@@ -99,6 +99,7 @@
 
 ## C# # 
 
+- [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
