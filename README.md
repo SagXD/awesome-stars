@@ -147,7 +147,7 @@
 
 - [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A Geometry Dash bot with an internal renderer.
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
-- [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels with sfml
+- [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
 - [matcool/ReplayBot](https://github.com/matcool/ReplayBot) - a replay bot for gd
 - [geode-sdk/geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
 - [Open-GD/OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of Geometry Dash powered by a fork of cocos2dx 4.0.
