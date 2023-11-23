@@ -1694,7 +1694,7 @@
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A Geometry Dash bot with an internal renderer.
-- [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels with sfml
+- [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
 - [GDColon/GD-Randomizer](https://github.com/GDColon/GD-Randomizer) - a dumb program that randomizes all the geometry dash textures
 - [matcool/ReplayBot](https://github.com/matcool/ReplayBot) - a replay bot for gd
 - [Cvolton/GMDprivateServer](https://github.com/Cvolton/GMDprivateServer) - Geometry Dash Private Server
