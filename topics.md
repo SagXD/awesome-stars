@@ -1543,7 +1543,7 @@
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
 - [LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives) - A list of recommended OptiFine alternatives.
 - [Guichaguri/TickrateChanger](https://github.com/Guichaguri/TickrateChanger) - A mod that changes the game speed
-- [MinecraftTAS/TASmod](https://github.com/MinecraftTAS/TASmod) - Minecraft Tool-Assisted Speedrun (TAS) Tools with Input playback
+- [MinecraftTAS/TASmod](https://github.com/MinecraftTAS/TASmod) - Minecraft Tool-Assisted Speedrun (TAS) Tools with input playback
 - [BalintCsala/VanillaPuddingTart](https://github.com/BalintCsala/VanillaPuddingTart) - Path tracing shaders for vanilla minecraft 1.17+
 - [KygekDev/default-textures](https://github.com/KygekDev/default-textures) - [Please read README] Minecraft Bedrock default vanilla textures library (for references only)
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
@@ -1858,6 +1858,7 @@
 - [etiaro/mineflayer-antiafk](https://github.com/etiaro/mineflayer-antiafk) - 
 - [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - API wraper for rule34.xxx | https://pypi.org/project/rule34Py/
 - [HouseHouseHause1/DomainWhitelist](https://github.com/HouseHouseHause1/DomainWhitelist) - Qbasty's shit OpenAnarchy Domain Whitelist (Old as shit)
+- [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
