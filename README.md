@@ -386,6 +386,7 @@
 - [RedstoneTools/redstonetools-mod](https://github.com/RedstoneTools/redstonetools-mod) - A Redstone Quality of Life mod.
 - [ZeonDevelopment/Zeon](https://github.com/ZeonDevelopment/Zeon) - An addon for Meteor Client
 - [HouseHouseHause1/DomainWhitelist](https://github.com/HouseHouseHause1/DomainWhitelist) - Qbasty's shit OpenAnarchy Domain Whitelist (Old as shit)
+- [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
 - [nukiz/3arthh4ck-continued](https://github.com/nukiz/3arthh4ck-continued) - Utility mod and proxy server for 1.12.2 - now continued by nukiz...
@@ -495,7 +496,7 @@
 - [thealpinegoat/Excavate](https://github.com/thealpinegoat/Excavate) - 
 - [thealpinegoat/Feller](https://github.com/thealpinegoat/Feller) - 
 - [Guichaguri/TickrateChanger](https://github.com/Guichaguri/TickrateChanger) - A mod that changes the game speed
-- [MinecraftTAS/TASmod](https://github.com/MinecraftTAS/TASmod) - Minecraft Tool-Assisted Speedrun (TAS) Tools with Input playback
+- [MinecraftTAS/TASmod](https://github.com/MinecraftTAS/TASmod) - Minecraft Tool-Assisted Speedrun (TAS) Tools with input playback
 - [nodusclient/girlboss](https://github.com/nodusclient/girlboss) - 
 - [carl-vbn/minecraft-voxel-loader](https://github.com/carl-vbn/minecraft-voxel-loader) - A Fabric Mod and a set of Python scripts to load and play 3D animations inside Minecraft
 - [nodusclient/gaslight](https://github.com/nodusclient/gaslight) - 
