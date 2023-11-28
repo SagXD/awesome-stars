@@ -1829,7 +1829,6 @@
 - [mioclient/hitbox-desync](https://github.com/mioclient/hitbox-desync) - private russian exploit that uses 1.19 swimming mechanics to phase
 - [babbaj/nether-pathfinder-mod](https://github.com/babbaj/nether-pathfinder-mod) - 
 - [babbaj/nether-pathfinder](https://github.com/babbaj/nether-pathfinder) - 
-- [ElijahBare/baritone](https://github.com/ElijahBare/baritone) - google maps for block game
 - [spencexd7/mass-ghost-pinger](https://github.com/spencexd7/mass-ghost-pinger) - discord mass ghost pinger
 - [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster) - Shout-out supporters in your GitHub README file.
 - [3arthh4ckDevelopment/3arthh4ck-Client](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client) - Utility mod and proxy server for 1.12.2 - now continued
@@ -2438,7 +2437,6 @@
 ## webpack 
 
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
-- [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API.
 
 ## website 
