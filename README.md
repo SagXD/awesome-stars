@@ -203,7 +203,7 @@
 - [b1scoito/clicker](https://github.com/b1scoito/clicker) - Advanced Minecraft auto-clicker made in C++
 - [kenyhnrv/Minecraft-Autoclicker](https://github.com/kenyhnrv/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
 - [ferrislovescpp/lithium.rip](https://github.com/ferrislovescpp/lithium.rip) - the official source-code leak of lithiumclient.wtf
-- [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20 data packs
+- [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.2 data packs
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Cracked Minecraft launcher. Not related to the original developers.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -219,7 +219,6 @@
 
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
-- [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [Spelis123/MC-NewTab-for-Firefox](https://github.com/Spelis123/MC-NewTab-for-Firefox) - a custom UserContent.css file for Mozilla Firefox
 - [Astromations/FlyingFox](https://github.com/Astromations/FlyingFox) - FlyingFox Revamped
@@ -627,7 +626,7 @@
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - Use a Discord bot to control your Mineflayer bot.
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [RattlesHyper/TrafficerMC](https://github.com/RattlesHyper/TrafficerMC) - A Minecraft botting tool with Anti-AFK, Chat spammer, Inventory/Chest manager features.
 - [VeryBigSad/unnamedBot](https://github.com/VeryBigSad/unnamedBot) - A minecraft chat bot for anarchy servers (similar to mooomooo)
 - [OBNinjaa/queue-waiter](https://github.com/OBNinjaa/queue-waiter) - A minecraft proxy which can be be used to wait out 2b2t's queue without having to have your game open
@@ -1100,6 +1099,7 @@
 - [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
+- [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
