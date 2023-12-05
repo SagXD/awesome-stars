@@ -377,7 +377,6 @@
 - [pycatmc/TotemParticlesChanger](https://github.com/pycatmc/TotemParticlesChanger) - Changes size, velocity multiplier, gravity, lifetime and color of totem particles.
 - [mioclient/hitbox-desync](https://github.com/mioclient/hitbox-desync) - private russian exploit that uses 1.19 swimming mechanics to phase
 - [babbaj/nether-pathfinder-mod](https://github.com/babbaj/nether-pathfinder-mod) - 
-- [ElijahBare/baritone](https://github.com/ElijahBare/baritone) - google maps for block game
 - [3arthh4ckDevelopment/3arthh4ck-Client](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client) - Utility mod and proxy server for 1.12.2 - now continued
 - [maxsupermanhd/meteor-villager-roller](https://github.com/maxsupermanhd/meteor-villager-roller) - Module for Meteor Client that continiously breaks and places work block of villager until it has desired trade
 - [AlexProgrammerDE/ServerWrecker](https://github.com/AlexProgrammerDE/ServerWrecker) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
