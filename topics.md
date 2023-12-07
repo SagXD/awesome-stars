@@ -1308,7 +1308,6 @@
 
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [inkstray/dotted-repo](https://github.com/inkstray/dotted-repo) - EVERY config or file or whatever I used to set something up.
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1830,6 +1829,7 @@
 - [mioclient/hitbox-desync](https://github.com/mioclient/hitbox-desync) - private russian exploit that uses 1.19 swimming mechanics to phase
 - [babbaj/nether-pathfinder-mod](https://github.com/babbaj/nether-pathfinder-mod) - 
 - [babbaj/nether-pathfinder](https://github.com/babbaj/nether-pathfinder) - 
+- [ElijahBare/baritone](https://github.com/ElijahBare/baritone) - google maps for block game
 - [spencexd7/mass-ghost-pinger](https://github.com/spencexd7/mass-ghost-pinger) - discord mass ghost pinger
 - [nastyox/Repo-Roster](https://github.com/nastyox/Repo-Roster) - Shout-out supporters in your GitHub README file.
 - [3arthh4ckDevelopment/3arthh4ck-Client](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client) - Utility mod and proxy server for 1.12.2 - now continued
