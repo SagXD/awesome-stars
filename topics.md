@@ -202,6 +202,7 @@
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
+- [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1253,6 +1254,7 @@
 ## kotlin 
 
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -1431,6 +1433,7 @@
 
 ## mastodon 
 
+- [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
@@ -1759,7 +1762,6 @@
 - [Aetopia/AppLifecycleOptOut](https://github.com/Aetopia/AppLifecycleOptOut) - A tool to prevent UWP apps from being suspended.
 - [revoltchat/mutiny](https://github.com/revoltchat/mutiny) - GTK4 Revolt Client. Community-led project.
 - [cancng/fonts](https://github.com/cancng/fonts) - 
-- [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [t2bot/matrix-appservice-discord](https://github.com/t2bot/matrix-appservice-discord) - A bridge between Matrix and Discord. This is t2bot.io's custom version of the bridge - use the upstream if you're looking for a stable option.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [ronilan/that-is-impossible](https://github.com/ronilan/that-is-impossible) - Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps
@@ -1933,7 +1935,7 @@
 - [NDCFL/JavaToDll](https://github.com/NDCFL/JavaToDll) - java调用动态库文件
 - [CoolClientCollectorz/future-for-everyone](https://github.com/CoolClientCollectorz/future-for-everyone) - Providing Future to everyone, free of charge
 - [funtimeonly990/Public-nhack4](https://github.com/funtimeonly990/Public-nhack4) - pobos火卫一打滑
-- [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
 - [Darthfett/helperbot](https://github.com/Darthfett/helperbot) - A mineflayer bot that helps you do things in minecraft.
 - [Hackerokuz/meteor-litematica-printer](https://github.com/Hackerokuz/meteor-litematica-printer) - 
 - [kkllffaa/meteor-litematica-printer](https://github.com/kkllffaa/meteor-litematica-printer) - 
@@ -2114,7 +2116,7 @@
 
 ## powershell 
 
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## programming 
@@ -2480,7 +2482,7 @@
 - [fligger/FateInjector](https://github.com/fligger/FateInjector) - The Fate Client Themed UWP app dll Injector
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [eppic/ytBATCH](https://github.com/eppic/ytBATCH) - An easy to use Batch Script for downloading Audio and Video using yt-dlp.
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [wrrulos/MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
