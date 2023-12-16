@@ -1106,7 +1106,6 @@
 
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
-- [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -2143,7 +2142,6 @@
 ## pwa 
 
 - [rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) - A Pixel Art Editor
-- [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [foumart/JS.13kGames](https://github.com/foumart/JS.13kGames) - Progressive Web App starter pack for JS13k games
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
@@ -2457,7 +2455,6 @@
 
 - [Flexiston/homepage](https://github.com/Flexiston/homepage) - Flexistonの个人主页
 - [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - A spirte art tool for making 32x32 sprites with the NES Palette
-- [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
