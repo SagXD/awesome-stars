@@ -547,7 +547,6 @@
 - [KuroZen/r34-json-api](https://github.com/KuroZen/r34-json-api) - A simple wrapper for the rule34 api.
 - [victal/tapas-rss](https://github.com/victal/tapas-rss) - A Firefox webextension to add RSS Feed buttons on tapas.io webcomic pages
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
-- [Alex313031/Alex313031.github.io](https://github.com/Alex313031/Alex313031.github.io) - Thorium Website Source Code https://thorium.rocks/
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
 - [revoltchat/mutiny](https://github.com/revoltchat/mutiny) - GTK4 Revolt Client. Community-led project.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
