@@ -730,7 +730,7 @@
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [Uberi/Minetest-WorldEdit](https://github.com/Uberi/Minetest-WorldEdit) - The ultimate in-game world editing tool for Minetest! Tons of functionality to help with building, fixing, and more.
 - [minetest-mods/technic](https://github.com/minetest-mods/technic) - Technic mod for Minetest
-- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
+- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding [https://github.com/minetest/minetest/]
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
