@@ -1860,7 +1860,6 @@
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
-- [nukiz/3arthh4ck-continued](https://github.com/nukiz/3arthh4ck-continued) - Utility mod and proxy server for 1.12.2 - now continued by nukiz...
 - [efeketket/Ketket-s-Chairs](https://github.com/efeketket/Ketket-s-Chairs) - Datapack Description
 - [LowLevelLemmy/Blind](https://github.com/LowLevelLemmy/Blind) - A game even blind people can play!
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
