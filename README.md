@@ -389,7 +389,6 @@
 - [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
-- [nukiz/3arthh4ck-continued](https://github.com/nukiz/3arthh4ck-continued) - Utility mod and proxy server for 1.12.2 - now continued by nukiz...
 - [Hypnotic-Development/Hypnotic-Client](https://github.com/Hypnotic-Development/Hypnotic-Client) - gamer client pvp
 - [BlockhostOfficial/CrashTheServer](https://github.com/BlockhostOfficial/CrashTheServer) - Core plugin for CrashTheServer.net
 - [ItziSpyder/ClickCrystals](https://github.com/ItziSpyder/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
