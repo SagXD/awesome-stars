@@ -563,7 +563,7 @@
 - [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
 - [OgarProject/Ogar](https://github.com/OgarProject/Ogar) - An open source Agar.io server implementation, written with Node.js.
 - [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
-- [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io) - A multiplayer sword fighting IO game.
+- [codergautam/swordbattle.io-legacy](https://github.com/codergautam/swordbattle.io-legacy) - A multiplayer sword fighting IO game.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
