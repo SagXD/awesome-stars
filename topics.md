@@ -197,6 +197,7 @@
 
 ## android 
 
+- [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -544,9 +545,9 @@
 
 ## dart 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [anuranBarman/2048](https://github.com/anuranBarman/2048) - Famous 2048 Game in Flutter
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
@@ -721,10 +722,10 @@
 
 ## flutter 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [anuranBarman/2048](https://github.com/anuranBarman/2048) - Famous 2048 Game in Flutter
@@ -931,6 +932,7 @@
 
 ## github 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -938,7 +940,6 @@
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -1693,6 +1694,7 @@
 
 ## others 
 
+- [thermatk/FastHub-Libre](https://github.com/thermatk/FastHub-Libre) - Libre fork of FastHub, the ultimate GitHub client for Android.
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -1855,12 +1857,12 @@
 - [BigPapi13/Delta](https://github.com/BigPapi13/Delta) - Explosion-based player motion library for Minecraft
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
 - [etiaro/mineflayer-antiafk](https://github.com/etiaro/mineflayer-antiafk) - 
-- [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - API wraper for rule34.xxx | https://pypi.org/project/rule34Py/
+- [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - python api wrapper for rule34.xxx rest api
 - [HouseHouseHause1/DomainWhitelist](https://github.com/HouseHouseHause1/DomainWhitelist) - Qbasty's shit OpenAnarchy Domain Whitelist (Old as shit)
 - [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
-- [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
+- [TheMosKau/LiquidBouncePlusPlusOLD](https://github.com/TheMosKau/LiquidBouncePlusPlusOLD) - 
 - [efeketket/Ketket-s-Chairs](https://github.com/efeketket/Ketket-s-Chairs) - Datapack Description
 - [LowLevelLemmy/Blind](https://github.com/LowLevelLemmy/Blind) - A game even blind people can play!
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
