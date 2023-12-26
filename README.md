@@ -254,9 +254,9 @@
 
 ## Dart 
 
+- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [anuranBarman/2048](https://github.com/anuranBarman/2048) - Famous 2048 Game in Flutter
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -349,6 +349,8 @@
 
 ## Java 
 
+- [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
+- [thermatk/FastHub-Libre](https://github.com/thermatk/FastHub-Libre) - Libre fork of FastHub, the ultimate GitHub client for Android.
 - [micdoodle8/Galacticraft](https://github.com/micdoodle8/Galacticraft) - An advanced Space Dimension Mod for Minecraft
 - [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
@@ -388,7 +390,7 @@
 - [HouseHouseHause1/DomainWhitelist](https://github.com/HouseHouseHause1/DomainWhitelist) - Qbasty's shit OpenAnarchy Domain Whitelist (Old as shit)
 - [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
-- [TheMosKau/LiquidBouncePlusPlus](https://github.com/TheMosKau/LiquidBouncePlusPlus) - 
+- [TheMosKau/LiquidBouncePlusPlusOLD](https://github.com/TheMosKau/LiquidBouncePlusPlusOLD) - 
 - [Hypnotic-Development/Hypnotic-Client](https://github.com/Hypnotic-Development/Hypnotic-Client) - gamer client pvp
 - [BlockhostOfficial/CrashTheServer](https://github.com/BlockhostOfficial/CrashTheServer) - Core plugin for CrashTheServer.net
 - [ItziSpyder/ClickCrystals](https://github.com/ItziSpyder/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
@@ -942,7 +944,7 @@
 - [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
-- [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - API wraper for rule34.xxx | https://pypi.org/project/rule34Py/
+- [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - python api wrapper for rule34.xxx rest api
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [thucngyyen/random-dev-memer](https://github.com/thucngyyen/random-dev-memer) - Random dev meme scraped from Memedroid
 - [ironmaniiith/Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - :sunglasses: Write your name using the github commits and make your profile awesome
