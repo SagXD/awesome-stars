@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
 - [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A Geometry Dash bot with an internal renderer.
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
 - [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
@@ -217,6 +218,7 @@
 
 ## CSS 
 
+- [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - I believe in Nobara supremacy
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
@@ -349,6 +351,10 @@
 
 ## Java 
 
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
+- [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
+- [antoniolg/MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp) - Example of a Material App for Android
+- [KingContaria/FastQuit](https://github.com/KingContaria/FastQuit) - Lets you return to the title screen early while your world is still saving in the background
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [thermatk/FastHub-Libre](https://github.com/thermatk/FastHub-Libre) - Libre fork of FastHub, the ultimate GitHub client for Android.
 - [micdoodle8/Galacticraft](https://github.com/micdoodle8/Galacticraft) - An advanced Space Dimension Mod for Minecraft
@@ -505,6 +511,9 @@
 
 ## JavaScript 
 
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [GDColon/GD-Randomizer](https://github.com/GDColon/GD-Randomizer) - a dumb program that randomizes all the geometry dash textures
 - [nwutils/nw-sample-apps](https://github.com/nwutils/nw-sample-apps) - Sample Apps
@@ -652,6 +661,8 @@
 
 ## Kotlin 
 
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Android Launcher. Reduce your screen time by half.
+- [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI 12】防止应用被侧滑杀死或一键清理
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
@@ -755,6 +766,9 @@
 
 ## Others 
 
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - VMware Workstation Pro 17 full license keys. Collected and sorted out thousands of universal License Keys for all major versions of VMware Workstation Pro 17 versions.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nw-cn/awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit)
@@ -893,6 +907,7 @@
 
 ## Python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -1070,6 +1085,7 @@
 
 ## TypeScript 
 
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [dubisdev/quickgpt](https://github.com/dubisdev/quickgpt) - A chatGPT tool for Windows
 - [ruralad/notedown](https://github.com/ruralad/notedown) - Note taking with react + rust. For windows, mac and linux.
