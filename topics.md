@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [algorithm](#algorithm)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -186,10 +187,15 @@
 
 ## ai 
 
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
+
+## algorithm 
+
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## analytics 
 
@@ -197,6 +203,10 @@
 
 ## android 
 
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Android Launcher. Reduce your screen time by half.
+- [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI 12】防止应用被侧滑杀死或一键清理
+- [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
@@ -279,6 +289,7 @@
 
 ## artificial-intelligence 
 
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
 
 ## automation 
@@ -293,6 +304,7 @@
 
 ## awesome 
 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -340,6 +352,7 @@
 
 ## awesome-list 
 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
@@ -400,6 +413,7 @@
 
 ## bot 
 
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.20.3 Fishing bot for Minecraft
@@ -572,6 +586,7 @@
 
 ## design 
 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 
@@ -582,6 +597,7 @@
 
 ## discord 
 
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -654,6 +670,8 @@
 
 ## education 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
@@ -749,6 +767,7 @@
 
 ## frontend 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## game 
@@ -1026,6 +1045,8 @@
 
 ## hacktoberfest 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [catppuccin/aseprite](https://github.com/catppuccin/aseprite) - 🖍 Soothing pastel theme for Aseprite
@@ -1184,6 +1205,7 @@
 
 ## javascript 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1254,6 +1276,7 @@
 
 ## kotlin 
 
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Android Launcher. Reduce your screen time by half.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
@@ -1305,6 +1328,7 @@
 
 ## library 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 
 ## linux 
@@ -1441,6 +1465,7 @@
 
 ## material-design 
 
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -1569,6 +1594,7 @@
 
 ## music 
 
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
 - [you-apps/VibeYou](https://github.com/you-apps/VibeYou) - Privacy focused music player built with MD3
@@ -1605,6 +1631,7 @@
 
 ## nodejs 
 
+- [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -1694,6 +1721,13 @@
 
 ## others 
 
+- [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - VMware Workstation Pro 17 full license keys. Collected and sorted out thousands of universal License Keys for all major versions of VMware Workstation Pro 17 versions.
+- [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - I believe in Nobara supremacy
+- [antoniolg/MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp) - Example of a Material App for Android
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+- [KingContaria/FastQuit](https://github.com/KingContaria/FastQuit) - Lets you return to the title screen early while your world is still saving in the background
 - [thermatk/FastHub-Libre](https://github.com/thermatk/FastHub-Libre) - Libre fork of FastHub, the ultimate GitHub client for Android.
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
@@ -2151,6 +2185,8 @@
 
 ## python 
 
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [nwutils/Web2Executable](https://github.com/nwutils/Web2Executable) - Uses NW.js to generate "native" apps for already existing web apps.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2216,6 +2252,7 @@
 
 ## react 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [ruralad/notedown](https://github.com/ruralad/notedown) - Note taking with react + rust. For windows, mac and linux.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -2354,6 +2391,7 @@
 
 ## telegram 
 
+- [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
