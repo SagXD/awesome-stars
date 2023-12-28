@@ -351,6 +351,9 @@
 
 ## Java 
 
+- [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
+- [ghmxr/apkextractor](https://github.com/ghmxr/apkextractor) - an android application using to extract app packages installed on the device
+- [Litarvan/OpenAuth](https://github.com/Litarvan/OpenAuth) - Java Yggdrasil library.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
 - [antoniolg/MaterializeYourApp](https://github.com/antoniolg/MaterializeYourApp) - Example of a Material App for Android
@@ -880,6 +883,7 @@
 - [FireFox-CSS/Game-Modding-Tools](https://github.com/FireFox-CSS/Game-Modding-Tools) - List Of Some Tools For Game Modding (Unity).
 - [FireFox-CSS/tweaks](https://github.com/FireFox-CSS/tweaks) - 💻 List of awesome programs and tweaks for Windows
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader
 
@@ -1065,7 +1069,6 @@
 - [YongSheng109/PingBypassInstaller](https://github.com/YongSheng109/PingBypassInstaller) - ping player.exe
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
 - [KygekDev/default-textures](https://github.com/KygekDev/default-textures) - [Please read README] Minecraft Bedrock default vanilla textures library (for references only)
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [pystardust/waldl](https://github.com/pystardust/waldl) - Browse and download wallhaven.cc using sxiv
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
