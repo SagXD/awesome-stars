@@ -1721,6 +1721,9 @@
 
 ## others 
 
+- [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
+- [ghmxr/apkextractor](https://github.com/ghmxr/apkextractor) - an android application using to extract app packages installed on the device
+- [Litarvan/OpenAuth](https://github.com/Litarvan/OpenAuth) - Java Yggdrasil library.
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - VMware Workstation Pro 17 full license keys. Collected and sorted out thousands of universal License Keys for all major versions of VMware Workstation Pro 17 versions.
