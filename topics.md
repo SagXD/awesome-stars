@@ -1977,7 +1977,7 @@
 - [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Pan4ur/ThunderHackPlus](https://github.com/Pan4ur/ThunderHackPlus) - 1.12.2 Minecraft hacked client for sword / crystal hvh
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
-- [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - Adds additional functionality to Meteor Client ☄️.
+- [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Meteorist is an add-on for Meteor that adds useful utilities for non-vanilla anarchy servers ☄️
 - [CarloxCoC/Toro-Dupe](https://github.com/CarloxCoC/Toro-Dupe) - Dupe for 6b6t.org created by Carlox and Colonizadores
 - [BedTrap/PenisESP-addon](https://github.com/BedTrap/PenisESP-addon) - Prolly the best Meteor Addon ever, change my mind.
 - [Crimply/Claudius](https://github.com/Crimply/Claudius) - Claudius 1.12.2 Mod
