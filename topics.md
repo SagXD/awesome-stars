@@ -24,6 +24,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -97,6 +98,7 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [languages](#languages)
 - [latex](#latex)
 - [library](#library)
@@ -204,6 +206,7 @@
 
 ## android 
 
+- [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [tobykurien/WebApps](https://github.com/tobykurien/WebApps) - DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
 - [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
@@ -463,10 +466,15 @@
 
 ## chatgpt 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [dubisdev/quickgpt](https://github.com/dubisdev/quickgpt) - A chatGPT tool for Windows
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
 
@@ -621,6 +629,7 @@
 
 ## discord 
 
+- [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
@@ -777,6 +786,7 @@
 
 ## font 
 
+- [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1229,6 +1239,7 @@
 
 ## javascript 
 
+- [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -1363,6 +1374,10 @@
 
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
+## language 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## languages 
 
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -1378,6 +1393,7 @@
 
 ## linux 
 
+- [Arcticons-Team/Arcticons-Linux](https://github.com/Arcticons-Team/Arcticons-Linux) - Arcticons for Linux
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
@@ -1788,6 +1804,10 @@
 
 ## others 
 
+- [alilotfi/VirusTotalClient](https://github.com/alilotfi/VirusTotalClient) - VirusTotal for Android checks the applications installed in your Android phone against VirusTotal (http://www.virustotal.com)
+- [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
+- [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [ivansaul/terabox_downloader](https://github.com/ivansaul/terabox_downloader) - Terabox Downloader
 - [LukeNeedham/Vibrator](https://github.com/LukeNeedham/Vibrator) - Simple Android app for starting and stopping the system vibrator
 - [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
@@ -1861,7 +1881,7 @@
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A lite-xl plugin manager.
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
 - [Alex313031/Snippets](https://github.com/Alex313031/Snippets) - Various little snippets, scripts, and batch files, usually having something to do with Chromium or Windows.
-- [Alex313031/thorium-win7](https://github.com/Alex313031/thorium-win7) - Repo for Windows 7/8/8.1 Thorium Builds (32 bit SSE2, 64 bit SSE3, AVX, and AVX2 builds)
+- [Alex313031/thorium-win7](https://github.com/Alex313031/thorium-win7) - Repo for Windows 7/8/8.1 Thorium Builds
 - [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience. Test fonts, viewport units, ad blockers, and more.
 - [Garbg/litexl-catppuccin](https://github.com/Garbg/litexl-catppuccin) - 🖥️ Soothing pastel theme for Lite XL
 - [lite-xl/lite-xl-colors](https://github.com/lite-xl/lite-xl-colors) - Themes for the Lite XL editor
