@@ -353,6 +353,8 @@
 
 ## Java 
 
+- [LEAWIND/Third-Person](https://github.com/LEAWIND/Third-Person) - A minecraft mod provides enhanced third-person perspective.
+- [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
 - [ghmxr/apkextractor](https://github.com/ghmxr/apkextractor) - an android application using to extract app packages installed on the device
 - [Litarvan/OpenAuth](https://github.com/Litarvan/OpenAuth) - Java Yggdrasil library.
@@ -689,7 +691,7 @@
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 - [LukeNeedham/Vibrator](https://github.com/LukeNeedham/Vibrator) - Simple Android app for starting and stopping the system vibrator
-- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Android Launcher. Reduce your screen time by half.
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Helps you reduce your screen time. Looks good.
 - [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI 12】防止应用被侧滑杀死或一键清理
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
@@ -1123,6 +1125,7 @@
 
 ## TypeScript 
 
+- [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [dubisdev/quickgpt](https://github.com/dubisdev/quickgpt) - A chatGPT tool for Windows
