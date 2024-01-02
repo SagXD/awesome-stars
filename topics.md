@@ -841,7 +841,7 @@
 - [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
-- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
+- [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [Warzone2100/warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, 
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
@@ -1038,7 +1038,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
-- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
+- [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 
 ## golang 
 
@@ -1221,7 +1221,6 @@
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [GameboyVlol/Rat](https://github.com/GameboyVlol/Rat) - A Tool To Get Another Computer’s Information And Send It Via A Webhook To Your Discord Server
 - [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) - fabric-carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible. Feel free to add as many fixes as you want!   Currently 220+ Fixes!
-- [Wolfsurge/Paragon](https://github.com/Wolfsurge/Paragon) - A 1.12.2 utility mod intended for anarchy servers
 - [BleachDev/BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
 - [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku) - Lightweight, dependency-free Minecraft 1.12.2 hack
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -1368,7 +1367,6 @@
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-- [Wolfsurge/Paragon](https://github.com/Wolfsurge/Paragon) - A 1.12.2 utility mod intended for anarchy servers
 - [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client forked from LiquidBounce
 
 ## kubernetes 
@@ -1604,7 +1602,6 @@
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [BebraHack/BebraHackAddon](https://github.com/BebraHack/BebraHackAddon) - Meteor addon dedicated to Bebra
 - [rebane2001/mapartcraft](https://github.com/rebane2001/mapartcraft) - A Minecraft custom mapart schematica generator, designed to be feasible in survival in servers like 2b2t
-- [Wolfsurge/Paragon](https://github.com/Wolfsurge/Paragon) - A 1.12.2 utility mod intended for anarchy servers
 - [BleachDev/BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
 - [Pr3roxDLC/Catalyst](https://github.com/Pr3roxDLC/Catalyst) - Open Source Catalyst  Client
 - [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku) - Lightweight, dependency-free Minecraft 1.12.2 hack
@@ -1806,6 +1803,11 @@
 
 ## others 
 
+- [rebane2001/cr3stal](https://github.com/rebane2001/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
+- [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
+- [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [alilotfi/VirusTotalClient](https://github.com/alilotfi/VirusTotalClient) - VirusTotal for Android checks the applications installed in your Android phone against VirusTotal (http://www.virustotal.com)
 - [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
