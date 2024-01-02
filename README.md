@@ -282,7 +282,7 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
-- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
+- [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 
 ## GLSL 
 
@@ -353,6 +353,7 @@
 
 ## Java 
 
+- [rebane2001/cr3stal](https://github.com/rebane2001/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
 - [LEAWIND/Third-Person](https://github.com/LEAWIND/Third-Person) - A minecraft mod provides enhanced third-person perspective.
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
@@ -518,6 +519,7 @@
 
 ## JavaScript 
 
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -669,6 +671,7 @@
 
 ## Kotlin 
 
+- [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
 - [alilotfi/VirusTotalClient](https://github.com/alilotfi/VirusTotalClient) - VirusTotal for Android checks the applications installed in your Android phone against VirusTotal (http://www.virustotal.com)
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
@@ -752,7 +755,6 @@
 - [lambda-plugins/HighwayTools](https://github.com/lambda-plugins/HighwayTools) - Advanced highway building bot
 - [lambda-client/cape-api](https://github.com/lambda-client/cape-api) - Our Cape API
 - [Toasterbirb/kami-red](https://github.com/Toasterbirb/kami-red) - KAMI Red: a continuation of 1.12.2 KAMI Blue
-- [Wolfsurge/Paragon](https://github.com/Wolfsurge/Paragon) - A 1.12.2 utility mod intended for anarchy servers
 - [zeroeightysix/KAMI](https://github.com/zeroeightysix/KAMI) - Minecraft utility mod aimed at anarchy servers
 - [kami-blue/client](https://github.com/kami-blue/client) - ARCHIVED - KAMI Blue: a continuation of 1.12.2 KAMI
 - [Luna5ama/TrollHack](https://github.com/Luna5ama/TrollHack) - Strong utility mod for Minecraft anarchy servers.
@@ -797,6 +799,7 @@
 
 ## Others 
 
+- [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
@@ -1125,6 +1128,7 @@
 
 ## TypeScript 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
