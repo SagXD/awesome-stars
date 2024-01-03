@@ -206,6 +206,13 @@
 
 ## android 
 
+- [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
+- [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
+- [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
+- [martinmimigames/little-file-explorer](https://github.com/martinmimigames/little-file-explorer) - Android 1.0+ mini file explorer and manager
+- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A multifunctional Android code editor library. (aka CodeEditor)
+- [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
+- [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [tobykurien/WebApps](https://github.com/tobykurien/WebApps) - DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps
@@ -630,6 +637,7 @@
 
 ## discord 
 
+- [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
@@ -774,6 +782,7 @@
 
 ## flutter 
 
+- [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -807,6 +816,7 @@
 
 ## game 
 
+- [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
@@ -1035,6 +1045,7 @@
 
 ## godot 
 
+- [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
@@ -1162,6 +1173,7 @@
 
 ## html5 
 
+- [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
@@ -1183,6 +1195,7 @@
 
 ## ios 
 
+- [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1202,6 +1215,8 @@
 
 ## java 
 
+- [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
+- [martinmimigames/little-file-explorer](https://github.com/martinmimigames/little-file-explorer) - Android 1.0+ mini file explorer and manager
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)
@@ -1311,6 +1326,8 @@
 
 ## kotlin 
 
+- [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
+- [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
 - [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
 - [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
@@ -1596,7 +1613,7 @@
 - [vined-underscore/VAddon](https://github.com/vined-underscore/VAddon) - Meteor Addon for the Meteor Client in the Minecraft game
 - [evelyn-gosselin/haarper.github.io](https://github.com/evelyn-gosselin/haarper.github.io) - If you know, you know.
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
-- [Eralp232/KonasClient](https://github.com/Eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
+- [eralp232/KonasClient](https://github.com/eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
@@ -1654,6 +1671,8 @@
 
 ## music 
 
+- [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
+- [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
@@ -1803,6 +1822,11 @@
 
 ## others 
 
+- [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+- [timscriptov/ApkEditor](https://github.com/timscriptov/ApkEditor) - 
+- [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) - Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
+- [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [rebane2001/cr3stal](https://github.com/rebane2001/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
 - [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
@@ -1983,7 +2007,7 @@
 - [BlueFalconHD/SimpleFox-Feather](https://github.com/BlueFalconHD/SimpleFox-Feather) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [ZeonDevelopment/Zeon](https://github.com/ZeonDevelopment/Zeon) - An addon for Meteor Client
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
-- [Eralp232/BozeClient-Web](https://github.com/Eralp232/BozeClient-Web) - @boze.dev website source & other files.
+- [eralp232/BozeClient-Web](https://github.com/eralp232/BozeClient-Web) - @boze.dev website source & other files.
 - [ewanhowell5195/blockbenchPlugins](https://github.com/ewanhowell5195/blockbenchPlugins) - My plugins for Blockbench
 - [BigPapi13/Delta](https://github.com/BigPapi13/Delta) - Explosion-based player motion library for Minecraft
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
@@ -2097,15 +2121,15 @@
 - [Zane2b2t/Phobos-1.1.0](https://github.com/Zane2b2t/Phobos-1.1.0) - Phobos 1.0.4 buildable src.
 - [JoshnaksPNG/Bad_Apple_Youtube_Page](https://github.com/JoshnaksPNG/Bad_Apple_Youtube_Page) - Script to play Bad Apple in the YouTube Homepage
 - [Kiyoshi-23/BD-Custom-CSS](https://github.com/Kiyoshi-23/BD-Custom-CSS) - Some of the custom CSS snippets that I have created for betterdiscord.
-- [Eralp232/InertiaClient-Web](https://github.com/Eralp232/InertiaClient-Web) - @inertiaclient.com website source & other files.
-- [Eralp232/ImpactClient-Web](https://github.com/Eralp232/ImpactClient-Web) - @impactclient.net website source & other files.
+- [eralp232/InertiaClient-Web](https://github.com/eralp232/InertiaClient-Web) - @inertiaclient.com website source & other files.
+- [eralp232/ImpactClient-Web](https://github.com/eralp232/ImpactClient-Web) - @impactclient.net website source & other files.
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
 - [lambda-client/cape-api](https://github.com/lambda-client/cape-api) - Our Cape API
-- [Eralp232/Eralp232](https://github.com/Eralp232/Eralp232) - 
-- [Eralp232/AgalarClient](https://github.com/Eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
-- [Eralp232/ChipsHack-Rewrite](https://github.com/Eralp232/ChipsHack-Rewrite) - ChipsHack Rewrite, public version.
-- [Eralp232/AbyssClient-Web](https://github.com/Eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
-- [Eralp232/PyroClient-Web](https://github.com/Eralp232/PyroClient-Web) - @pyroclient.com website source & other files.
+- [eralp232/Eralp232](https://github.com/eralp232/Eralp232) - 
+- [eralp232/AgalarClient](https://github.com/eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
+- [eralp232/ChipsHack-Rewrite](https://github.com/eralp232/ChipsHack-Rewrite) - ChipsHack Rewrite, public version.
+- [eralp232/AbyssClient-Web](https://github.com/eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
+- [eralp232/PyroClient-Web](https://github.com/eralp232/PyroClient-Web) - @pyroclient.com website source & other files.
 - [stuffbydavid/Mine-imator](https://github.com/stuffbydavid/Mine-imator) - 3D movie maker based on the sandbox game Minecraft
 - [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
 - [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
@@ -2283,6 +2307,7 @@
 
 ## python 
 
+- [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
@@ -2338,6 +2363,8 @@
 
 ## qt 
 
+- [kefir500/apk-icon-editor](https://github.com/kefir500/apk-icon-editor) - APK editor to easily change APK icons, name and version.
+- [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
@@ -2405,6 +2432,7 @@
 
 ## rust 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [ruralad/notedown](https://github.com/ruralad/notedown) - Note taking with react + rust. For windows, mac and linux.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2528,6 +2556,7 @@
 
 ## typescript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
