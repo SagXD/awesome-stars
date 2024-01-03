@@ -147,6 +147,8 @@
 
 ## C++ 
 
+- [kefir500/apk-icon-editor](https://github.com/kefir500/apk-icon-editor) - APK editor to easily change APK icons, name and version.
+- [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
 - [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A Geometry Dash bot with an internal renderer.
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
@@ -257,6 +259,7 @@
 
 ## Dart 
 
+- [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -279,6 +282,7 @@
 
 ## GDScript 
 
+- [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
 - [krmeet/sound-space-plus](https://github.com/krmeet/sound-space-plus) - Rhythm-based aim game
@@ -326,12 +330,12 @@
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
-- [Eralp232/BozeClient-Web](https://github.com/Eralp232/BozeClient-Web) - @boze.dev website source & other files.
+- [eralp232/BozeClient-Web](https://github.com/eralp232/BozeClient-Web) - @boze.dev website source & other files.
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
-- [Eralp232/InertiaClient-Web](https://github.com/Eralp232/InertiaClient-Web) - @inertiaclient.com website source & other files.
-- [Eralp232/ImpactClient-Web](https://github.com/Eralp232/ImpactClient-Web) - @impactclient.net website source & other files.
-- [Eralp232/AbyssClient-Web](https://github.com/Eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
-- [Eralp232/PyroClient-Web](https://github.com/Eralp232/PyroClient-Web) - @pyroclient.com website source & other files.
+- [eralp232/InertiaClient-Web](https://github.com/eralp232/InertiaClient-Web) - @inertiaclient.com website source & other files.
+- [eralp232/ImpactClient-Web](https://github.com/eralp232/ImpactClient-Web) - @impactclient.net website source & other files.
+- [eralp232/AbyssClient-Web](https://github.com/eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
+- [eralp232/PyroClient-Web](https://github.com/eralp232/PyroClient-Web) - @pyroclient.com website source & other files.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [davidrazmadzeExtra/Linktree_HTML_CSS](https://github.com/davidrazmadzeExtra/Linktree_HTML_CSS) - 
 - [hitthemoney/krunker-logo-maker](https://github.com/hitthemoney/krunker-logo-maker) - 
@@ -353,6 +357,14 @@
 
 ## Java 
 
+- [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+- [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
+- [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
+- [martinmimigames/little-file-explorer](https://github.com/martinmimigames/little-file-explorer) - Android 1.0+ mini file explorer and manager
+- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) - A multifunctional Android code editor library. (aka CodeEditor)
+- [timscriptov/ApkEditor](https://github.com/timscriptov/ApkEditor) - 
+- [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) - Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [rebane2001/cr3stal](https://github.com/rebane2001/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
 - [LEAWIND/Third-Person](https://github.com/LEAWIND/Third-Person) - A minecraft mod provides enhanced third-person perspective.
 - [zixpo/candybar](https://github.com/zixpo/candybar) - Dashboard for Android Icon Packs. Supported by the community.
@@ -466,9 +478,9 @@
 - [jabronyyy/Quantium-addon](https://github.com/jabronyyy/Quantium-addon) - 
 - [UltimateBoomer/mc-no-fade](https://github.com/UltimateBoomer/mc-no-fade) - Remove all fade out animations from Minecraft
 - [Zane2b2t/Phobos-1.1.0](https://github.com/Zane2b2t/Phobos-1.1.0) - Phobos 1.0.4 buildable src.
-- [Eralp232/ChipsHack-Rewrite](https://github.com/Eralp232/ChipsHack-Rewrite) - ChipsHack Rewrite, public version.
+- [eralp232/ChipsHack-Rewrite](https://github.com/eralp232/ChipsHack-Rewrite) - ChipsHack Rewrite, public version.
 - [doctor-swag/moneymod-rewrite](https://github.com/doctor-swag/moneymod-rewrite) - block game client made by ruskis
-- [Eralp232/KonasClient](https://github.com/Eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
+- [eralp232/KonasClient](https://github.com/eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
 - [BebraHack/BebraHackAddon](https://github.com/BebraHack/BebraHackAddon) - Meteor addon dedicated to Bebra
@@ -671,6 +683,9 @@
 
 ## Kotlin 
 
+- [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
+- [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
+- [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
 - [alilotfi/VirusTotalClient](https://github.com/alilotfi/VirusTotalClient) - VirusTotal for Android checks the applications installed in your Android phone against VirusTotal (http://www.virustotal.com)
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
@@ -889,8 +904,8 @@
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
 - [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - This contains info about Minecraft Shaders
-- [Eralp232/Eralp232](https://github.com/Eralp232/Eralp232) - 
-- [Eralp232/AgalarClient](https://github.com/Eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
+- [eralp232/Eralp232](https://github.com/eralp232/Eralp232) - 
+- [eralp232/AgalarClient](https://github.com/eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
 - [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
 - [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
@@ -945,6 +960,7 @@
 
 ## Python 
 
+- [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
 - [ivansaul/terabox_downloader](https://github.com/ivansaul/terabox_downloader) - Terabox Downloader
@@ -1128,6 +1144,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
