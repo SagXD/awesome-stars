@@ -88,7 +88,6 @@
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -179,6 +178,7 @@
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -683,6 +683,10 @@
 
 ## Kotlin 
 
+- [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
+- [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
@@ -814,6 +818,7 @@
 
 ## Others 
 
+- [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
@@ -1105,6 +1110,7 @@
 
 ## Shell 
 
+- [saitamasahil/APK-Compare-Tool](https://github.com/saitamasahil/APK-Compare-Tool) - Discover APK Differences Effortlessly!!
 - [Arcticons-Team/Arcticons-Linux](https://github.com/Arcticons-Team/Arcticons-Linux) - Arcticons for Linux
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
