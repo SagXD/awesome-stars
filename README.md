@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [kefir500/apk-icon-editor](https://github.com/kefir500/apk-icon-editor) - APK editor to easily change APK icons, name and version.
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
@@ -259,6 +260,7 @@
 
 ## Dart 
 
+- [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
@@ -357,6 +359,8 @@
 
 ## Java 
 
+- [sinkillerj/ProjectE](https://github.com/sinkillerj/ProjectE) - ProjectE. A complete rewrite of EE2 for modern Minecraft versions.
+- [theAkshayP/TouchDroid](https://github.com/theAkshayP/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
@@ -531,6 +535,7 @@
 
 ## JavaScript 
 
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
@@ -683,6 +688,9 @@
 
 ## Kotlin 
 
+- [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
+- [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+- [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
@@ -818,6 +826,8 @@
 
 ## Others 
 
+- [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
+- [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
@@ -1068,6 +1078,7 @@
 
 ## Rust 
 
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -1110,6 +1121,7 @@
 
 ## Shell 
 
+- [tytydraco/KTweak](https://github.com/tytydraco/KTweak) - A no-nonsense kernel tweak script for Linux and Android systems, backed by evidence.
 - [saitamasahil/APK-Compare-Tool](https://github.com/saitamasahil/APK-Compare-Tool) - Discover APK Differences Effortlessly!!
 - [Arcticons-Team/Arcticons-Linux](https://github.com/Arcticons-Team/Arcticons-Linux) - Arcticons for Linux
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
