@@ -208,6 +208,7 @@
 
 ## android 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of 
 - [theAkshayP/TouchDroid](https://github.com/theAkshayP/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
@@ -1347,6 +1348,7 @@
 
 ## kotlin 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of 
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
@@ -1852,6 +1854,7 @@
 
 ## others 
 
+- [KDE/tok](https://github.com/KDE/tok) - Telegram client built using Kirigami
 - [sinkillerj/ProjectE](https://github.com/sinkillerj/ProjectE) - ProjectE. A complete rewrite of EE2 for modern Minecraft versions.
 - [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
 - [tytydraco/KTweak](https://github.com/tytydraco/KTweak) - A no-nonsense kernel tweak script for Linux and Android systems, backed by evidence.
@@ -2341,6 +2344,7 @@
 
 ## python 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2384,6 +2388,7 @@
 
 ## python3 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2498,6 +2503,7 @@
 
 ## self-hosted 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
