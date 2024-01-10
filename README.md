@@ -262,6 +262,7 @@
 
 ## Dart 
 
+- [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin; connecting you to the fediverse.
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
@@ -493,7 +494,7 @@
 - [jabronyyy/Quantium-addon](https://github.com/jabronyyy/Quantium-addon) - 
 - [UltimateBoomer/mc-no-fade](https://github.com/UltimateBoomer/mc-no-fade) - Remove all fade out animations from Minecraft
 - [Zane2b2t/Phobos-1.1.0](https://github.com/Zane2b2t/Phobos-1.1.0) - Phobos 1.0.4 buildable src.
-- [eralp232/ChipsHack-Rewrite](https://github.com/eralp232/ChipsHack-Rewrite) - ChipsHack Rewrite, public version.
+- [eralp232/ChipsHack-Rewrite](https://github.com/eralp232/ChipsHack-Rewrite) - ChipsHack is an Anarchy crystal pvp utility mod client for 2b2t.org , previous private but now open source & free.
 - [doctor-swag/moneymod-rewrite](https://github.com/doctor-swag/moneymod-rewrite) - block game client made by ruskis
 - [eralp232/KonasClient](https://github.com/eralp232/KonasClient) - Official Konas Client Archive, all versions and with source code.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
@@ -704,6 +705,7 @@
 
 ## Kotlin 
 
+- [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV app to stream movies and TV shows for free
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
@@ -852,6 +854,7 @@
 
 ## Others 
 
+- [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
@@ -1051,7 +1054,6 @@
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
 - [spencexd7/mass-ghost-pinger](https://github.com/spencexd7/mass-ghost-pinger) - discord mass ghost pinger
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
-- [billythegoat356/Plague](https://github.com/billythegoat356/Plague) - A Discord token grabber written in Python3, with awesome obfuscation and anti-debug protection.
 - [Blank-c/Blank-Grabber](https://github.com/Blank-c/Blank-Grabber) - The most powerful stealer written in Python 3 and packed with a lot of features.
 - [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet collider that brute forces random wallet addresses
 - [Ayhuuu/Creal-Stealer](https://github.com/Ayhuuu/Creal-Stealer) - A Powerfull Token Stealer!!!! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
@@ -1198,6 +1200,7 @@
 
 ## TypeScript 
 
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
