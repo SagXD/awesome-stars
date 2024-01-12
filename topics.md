@@ -210,6 +210,8 @@
 
 ## android 
 
+- [Yanndroid/NotiNotes](https://github.com/Yanndroid/NotiNotes) - A Notes app living in your notification panel
+- [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [N0-0NE-Dev/NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - A streaming app with no ADs.
@@ -825,6 +827,7 @@
 
 ## flutter 
 
+- [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
@@ -1158,7 +1161,6 @@
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -1254,6 +1256,7 @@
 
 ## ios 
 
+- [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1642,6 +1645,7 @@
 
 ## minecraft 
 
+- [klikli-dev/modonomicon](https://github.com/klikli-dev/modonomicon) - Data-driven minecraft in-game documentation with progress visualization.
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [LEAWIND/Third-Person](https://github.com/LEAWIND/Third-Person) - A minecraft mod provides enhanced third-person perspective.
@@ -1717,7 +1721,7 @@
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [eHonnef/afk-clicker](https://github.com/eHonnef/afk-clicker) - An AFK clicker that allow to simulate keystrokes (mouse or keyboard) even if the window isn't focused.
 - [Lufzys/MinecraftAutoClicker](https://github.com/Lufzys/MinecraftAutoClicker) - Minecraft - Auto Clicker (Source & Release)
-- [kenyhnrv/Minecraft-Autoclicker](https://github.com/kenyhnrv/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
+- [nicolascarlino/Minecraft-Autoclicker](https://github.com/nicolascarlino/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
 - [Pickleft/Swift](https://github.com/Pickleft/Swift) - A Semi Advanced Minecraft AutoClicker || http://getswift.tk/
 - [Levi2288/Akira-Client](https://github.com/Levi2288/Akira-Client) - minecraft ghost client
 - [WurstPlus/wurst-plus-three](https://github.com/WurstPlus/wurst-plus-three) - forge mod for 1.12.2 minecraft
@@ -1762,6 +1766,7 @@
 
 ## music 
 
+- [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
@@ -1916,6 +1921,7 @@
 
 ## others 
 
+- [paypal/PayPal-Java-SDK](https://github.com/paypal/PayPal-Java-SDK) - Java SDK for PayPal RESTful APIs
 - [Goodwy/Messages](https://github.com/Goodwy/Messages) - 
 - [Goodwy/Gallery](https://github.com/Goodwy/Gallery) - 
 - [Goodwy/Dialer](https://github.com/Goodwy/Dialer) - 
