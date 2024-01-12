@@ -207,7 +207,7 @@
 - [dillongoostudios/goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [b1scoito/clicker](https://github.com/b1scoito/clicker) - Advanced Minecraft auto-clicker made in C++
-- [kenyhnrv/Minecraft-Autoclicker](https://github.com/kenyhnrv/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
+- [nicolascarlino/Minecraft-Autoclicker](https://github.com/nicolascarlino/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
 - [ferrislovescpp/lithium.rip](https://github.com/ferrislovescpp/lithium.rip) - the official source-code leak of lithiumclient.wtf
 - [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.2 data packs
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
@@ -262,6 +262,7 @@
 
 ## Dart 
 
+- [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin; connecting you to the fediverse.
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
@@ -368,6 +369,8 @@
 
 ## Java 
 
+- [paypal/PayPal-Java-SDK](https://github.com/paypal/PayPal-Java-SDK) - Java SDK for PayPal RESTful APIs
+- [klikli-dev/modonomicon](https://github.com/klikli-dev/modonomicon) - Data-driven minecraft in-game documentation with progress visualization.
 - [woheller69/Level](https://github.com/woheller69/Level) - Android spirit level & ruler
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) - Java Driver for Apache Cassandra®
@@ -706,6 +709,7 @@
 
 ## Kotlin 
 
+- [Yanndroid/NotiNotes](https://github.com/Yanndroid/NotiNotes) - A Notes app living in your notification panel
 - [Goodwy/Messages](https://github.com/Goodwy/Messages) - 
 - [Goodwy/Gallery](https://github.com/Goodwy/Gallery) - 
 - [Goodwy/Dialer](https://github.com/Goodwy/Dialer) - 
@@ -1206,6 +1210,7 @@
 
 ## TypeScript 
 
+- [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
