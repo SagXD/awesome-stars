@@ -39,6 +39,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -120,6 +121,7 @@
 - [music](#music)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -145,6 +147,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -210,6 +213,10 @@
 
 ## android 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
+- [JoshLudahl/tipuous](https://github.com/JoshLudahl/tipuous) - A basic, but useful, tipping calculator for Android using Kotlin and Jetpack Compose/XML hybrid
+- [JoshLudahl/Warbler-Weather](https://github.com/JoshLudahl/Warbler-Weather) - Android Weather App utilizing the Open Weather API
 - [Yanndroid/NotiNotes](https://github.com/Yanndroid/NotiNotes) - A Notes app living in your notification panel
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
@@ -366,6 +373,7 @@
 
 ## awesome 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
@@ -414,6 +422,7 @@
 
 ## awesome-list 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -639,6 +648,10 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) - 🐒  A mobile client for lemmy
 
+## data-science 
+
+- [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+
 ## data-structures 
 
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -655,6 +668,8 @@
 
 ## deep-learning 
 
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 
@@ -827,6 +842,8 @@
 
 ## flutter 
 
+- [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform app made for e-hentai & exhentai by Flutter
+- [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
@@ -1050,6 +1067,7 @@
 
 ## github 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -1146,6 +1164,8 @@
 
 ## hacktoberfest 
 
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
@@ -1372,6 +1392,7 @@
 
 ## jekyll 
 
+- [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
 
@@ -1394,6 +1415,8 @@
 
 ## kotlin 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
+- [JoshLudahl/tipuous](https://github.com/JoshLudahl/tipuous) - A basic, but useful, tipping calculator for Android using Kotlin and Jetpack Compose/XML hybrid
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV app to stream movies and TV shows for free
@@ -1561,6 +1584,7 @@
 
 ## machine-learning 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1628,6 +1652,7 @@
 
 ## material-design 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
@@ -1793,8 +1818,14 @@
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
+## nextjs 
+
+- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
+
 ## nlp 
 
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 
 ## node 
@@ -1921,6 +1952,13 @@
 
 ## others 
 
+- [XeraPlugins/8b8tCore](https://github.com/XeraPlugins/8b8tCore) - Folia Core Plugin for 8b8t and Anarchy Servers
+- [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener) - Your own free URL shortener with Netlify
+- [jakejarvis/jrvs.io](https://github.com/jakejarvis/jrvs.io) - 🔗 Personal URL shortener
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+- [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
+- [JoshLudahl/Tokenator](https://github.com/JoshLudahl/Tokenator) - A password generator written in Kotlin for Android.
 - [paypal/PayPal-Java-SDK](https://github.com/paypal/PayPal-Java-SDK) - Java SDK for PayPal RESTful APIs
 - [Goodwy/Messages](https://github.com/Goodwy/Messages) - 
 - [Goodwy/Gallery](https://github.com/Goodwy/Gallery) - 
@@ -2394,6 +2432,7 @@
 
 ## privacy 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [tobykurien/WebApps](https://github.com/tobykurien/WebApps) - DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps
 - [Alex313031/Mercury](https://github.com/Alex313031/Mercury) - Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.
@@ -2429,6 +2468,9 @@
 
 ## python 
 
+- [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [TechShreyash/AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -2487,6 +2529,13 @@
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 
+## pytorch 
+
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
 ## qt 
 
 - [kefir500/apk-icon-editor](https://github.com/kefir500/apk-icon-editor) - APK editor to easily change APK icons, name and version.
@@ -2503,6 +2552,7 @@
 
 ## react 
 
+- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [N0-0NE-Dev/NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - A streaming app with no ADs.
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -2586,6 +2636,7 @@
 
 ## security 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
@@ -2664,6 +2715,7 @@
 
 ## tensorflow 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
 ## terminal 
