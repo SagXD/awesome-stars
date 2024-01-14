@@ -60,6 +60,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -213,6 +214,9 @@
 
 ## android 
 
+- [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
+- [beat-feet/beat-feet](https://github.com/beat-feet/beat-feet) - Jump your way through cities, each automatically generated from the beat of the music.
+- [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
 - [JoshLudahl/tipuous](https://github.com/JoshLudahl/tipuous) - A basic, but useful, tipping calculator for Android using Kotlin and Jetpack Compose/XML hybrid
@@ -819,6 +823,10 @@
 - [goddtriffin/Oasis](https://github.com/goddtriffin/Oasis) - Realtime multiplayer .IO game written in nothing but JavaScript and Socket.IO.
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
+## firebase 
+
+- [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
+
 ## firefox 
 
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
@@ -884,6 +892,8 @@
 
 ## game 
 
+- [beat-feet/beat-feet](https://github.com/beat-feet/beat-feet) - Jump your way through cities, each automatically generated from the beat of the music.
+- [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [attogram/games](https://github.com/attogram/games) - Your own games website, filled with open source goodness!  Automated installation of a plethora of open source web games.  Fully customizable.
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
@@ -1298,6 +1308,7 @@
 
 ## java 
 
+- [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-file-explorer](https://github.com/martinmimigames/little-file-explorer) - Android 1.0+ mini file explorer and manager
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -1415,6 +1426,7 @@
 
 ## kotlin 
 
+- [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [JoshLudahl/tipuous](https://github.com/JoshLudahl/tipuous) - A basic, but useful, tipping calculator for Android using Kotlin and Jetpack Compose/XML hybrid
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
@@ -1670,6 +1682,7 @@
 
 ## minecraft 
 
+- [Dark-Developments/Zewo2-MeteorAddon](https://github.com/Dark-Developments/Zewo2-MeteorAddon) - Addon for meteor client
 - [klikli-dev/modonomicon](https://github.com/klikli-dev/modonomicon) - Data-driven minecraft in-game documentation with progress visualization.
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
@@ -1775,6 +1788,7 @@
 
 ## mobile 
 
+- [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1877,6 +1891,7 @@
 
 ## open-source 
 
+- [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [N0-0NE-Dev/NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - A streaming app with no ADs.
 - [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) - Naruto Anime Characters
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1952,6 +1967,9 @@
 
 ## others 
 
+- [mim1q/MineCells](https://github.com/mim1q/MineCells) - Minecraft mod which adds content from the game Dead Cells.
+- [nproth/pin](https://github.com/nproth/pin) - A minimalistic note-taking app for android utilizing your phone's notification area.
+- [khuttun/NotificationNotes](https://github.com/khuttun/NotificationNotes) - Notification Notes is a simple note taking Android app that lets you display your notes as native Android notifications
 - [XeraPlugins/8b8tCore](https://github.com/XeraPlugins/8b8tCore) - Folia Core Plugin for 8b8t and Anarchy Servers
 - [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener) - Your own free URL shortener with Netlify
 - [jakejarvis/jrvs.io](https://github.com/jakejarvis/jrvs.io) - 🔗 Personal URL shortener
@@ -1964,7 +1982,7 @@
 - [Goodwy/Gallery](https://github.com/Goodwy/Gallery) - 
 - [Goodwy/Dialer](https://github.com/Goodwy/Dialer) - 
 - [Goodwy/Contacts](https://github.com/Goodwy/Contacts) - 
-- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - An Operating System Interface made in Godot!
+- [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin; connecting you to the fediverse.
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
