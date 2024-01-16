@@ -84,6 +84,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -494,6 +495,8 @@
 
 ## bot 
 
+- [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
+- [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
@@ -703,6 +706,8 @@
 
 ## discord 
 
+- [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
+- [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
 - [riolubruh/YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
@@ -752,6 +757,7 @@
 
 ## docker 
 
+- [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1172,8 +1178,13 @@
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
+## hackathon 
+
+- [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
+
 ## hacking 
 
+- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [doenerium69/doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer:  We are not responsible for any damages this software may cause after being acquired. This softwa
@@ -1823,6 +1834,7 @@
 
 ## music 
 
+- [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
@@ -1871,6 +1883,7 @@
 
 ## nodejs 
 
+- [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -1985,6 +1998,10 @@
 
 ## others 
 
+- [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
+- [parampatel3/url-shortner](https://github.com/parampatel3/url-shortner) - 
+- [comp500/Indium](https://github.com/comp500/Indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
+- [Sharkgrammer/clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
 - [monkeycz/python.js](https://github.com/monkeycz/python.js) - Call python code from node.js
 - [sxmurxy2005/CustomHitboxes](https://github.com/sxmurxy2005/CustomHitboxes) - The mod for Minecraft to customize entities hitboxes with simple GUI.
 - [lgbt-sh/lgbt-sh](https://github.com/lgbt-sh/lgbt-sh) - Free lgbt.sh sub-domain registration service
@@ -2431,6 +2448,7 @@
 
 ## penetration-testing 
 
+- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
 ## pentesting 
@@ -2780,6 +2798,7 @@
 
 ## termux 
 
+- [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
 - [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
