@@ -557,6 +557,7 @@
 
 ## cli 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -827,10 +828,12 @@
 
 ## es6 
 
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## eslint 
 
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
 
 ## express 
@@ -1085,6 +1088,7 @@
 
 ## git 
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -1195,6 +1199,7 @@
 
 ## hacktoberfest 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [frknkrc44/superboard](https://github.com/frknkrc44/superboard) - A mirror of https://gitlab.com/frknkrc44/superboard. Please do everything on my GitLab repository.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1372,6 +1377,7 @@
 
 ## javascript 
 
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) - Naruto Anime Characters
@@ -1971,6 +1977,7 @@
 
 ## opencv 
 
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
 ## opengl 
@@ -1998,6 +2005,7 @@
 
 ## others 
 
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [parampatel3/url-shortner](https://github.com/parampatel3/url-shortner) - 
 - [comp500/Indium](https://github.com/comp500/Indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
@@ -2727,6 +2735,7 @@
 
 ## shell 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2781,6 +2790,7 @@
 
 ## terminal 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2890,6 +2900,7 @@
 
 ## windows 
 
+- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
