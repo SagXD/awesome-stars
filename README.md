@@ -239,6 +239,7 @@
 
 ## CSS 
 
+- [roanuz/cricket-html-template](https://github.com/roanuz/cricket-html-template) - HTML template for Cricket Score and Stats
 - [TechShreyash/AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
 - [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - I believe in Nobara supremacy
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
@@ -605,6 +606,8 @@
 
 ## JavaScript 
 
+- [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
+- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [ytiurin/tetris](https://github.com/ytiurin/tetris) - :space_invader: The original TETRIS game simulator
 - [kubowania/Tetris](https://github.com/kubowania/Tetris) - A vanilla javascript game
 - [simonlc/tetr.js](https://github.com/simonlc/tetr.js) - 🕹️ Tetris clone in HTML5 and JavaScript
@@ -1120,6 +1123,7 @@
 
 ## Python 
 
+- [roanuz/py-cricket](https://github.com/roanuz/py-cricket) - 
 - [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game) - A Tetris Game with AI
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired program using Python and Pyglet
