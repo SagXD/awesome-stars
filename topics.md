@@ -32,6 +32,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
+- [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
 - [cpp](#cpp)
@@ -187,6 +188,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [web-components](#web-components)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -194,6 +196,7 @@
 
 ## 3d 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
@@ -221,6 +224,12 @@
 
 ## android 
 
+- [patzly/doodle-android](https://github.com/patzly/doodle-android) - Colorful live wallpapers with auto dark mode and power-efficient animations
+- [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ⭐ A powerful collection of views (including dialogs, popups, and bottom sheets) designed to streamline common use-cases in Material Design 3 for Jetpack Compose.
+- [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
+- [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
+- [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [inbasic/turbo-download-manager](https://github.com/inbasic/turbo-download-manager) - a multi-browser download manager with multi-threading support
 - [TachibanaGeneralLaboratories/download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Free and  Open Source software download manager
@@ -248,7 +257,6 @@
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [theAkshayP/TouchDroid](https://github.com/theAkshayP/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
@@ -524,6 +532,7 @@
 
 ## c 
 
+- [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
 - [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
@@ -595,6 +604,10 @@
 
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
+## compiler 
+
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+
 ## computer-science 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -642,6 +655,7 @@
 
 ## css 
 
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -727,6 +741,7 @@
 
 ## discord 
 
+- [BoobBot/BoobBot](https://github.com/BoobBot/BoobBot) - Pictures of nature. 🍑
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
@@ -843,6 +858,7 @@
 
 ## emulator 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 
@@ -888,6 +904,7 @@
 
 ## flutter 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [yubo725/flutter-tetris](https://github.com/yubo725/flutter-tetris) - 基于Flutter的俄罗斯方块小游戏
 - [boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris) - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
@@ -911,6 +928,7 @@
 
 ## flutter-apps 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris) - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
 - [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
@@ -1213,6 +1231,7 @@
 
 ## google 
 
+- [patzly/doodle-android](https://github.com/patzly/doodle-android) - Colorful live wallpapers with auto dark mode and power-efficient animations
 - [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) - the t-rex runner game extracted from chromium
 
 ## gradle 
@@ -1243,6 +1262,8 @@
 
 ## hacktoberfest 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+- [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [wvffle/mineflayer-dashboard](https://github.com/wvffle/mineflayer-dashboard) - 
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1394,6 +1415,7 @@
 
 ## java 
 
+- [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
 - [Tutorials-By-Kaupenjoe/Minecraft-1.16.5](https://github.com/Tutorials-By-Kaupenjoe/Minecraft-1.16.5) - Repository for my 1.16.5 Minecraft Modding Tutorial Series. Different Videos will be in different branches. Master branch should always be the newest published video. Check out the playlist below.
@@ -1439,6 +1461,7 @@
 
 ## javascript 
 
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [Pierce01/MinecraftLauncher-core](https://github.com/Pierce01/MinecraftLauncher-core) - Lightweight module that downloads and runs Minecraft using javascript / NodeJS
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1521,6 +1544,11 @@
 
 ## kotlin 
 
+- [BoobBot/BoobBot](https://github.com/BoobBot/BoobBot) - Pictures of nature. 🍑
+- [mi-g-alex/Telegram-Monet](https://github.com/mi-g-alex/Telegram-Monet) - Create themes for telegram using material 3 colors
+- [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
+- [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
 - [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 - [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
@@ -1532,7 +1560,6 @@
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [sosauce/CuteCalc](https://github.com/sosauce/CuteCalc) - CuteCalc is a simple,lightweight and open-source calculator app for Android.
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
@@ -1619,11 +1646,13 @@
 
 ## library 
 
+- [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 
 ## linux 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [Arcticons-Team/Arcticons-Linux](https://github.com/Arcticons-Team/Arcticons-Linux) - Arcticons for Linux
@@ -1764,6 +1793,11 @@
 
 ## material-design 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
+- [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
@@ -1786,6 +1820,7 @@
 
 ## minecraft 
 
+- [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
 - [tr7zw/NotEnoughAnimations](https://github.com/tr7zw/NotEnoughAnimations) - Brings the First-Person animations to the Third-Person and tries to fix other animation issues of the Third-Person.
 - [tr7zw/WaveyCapes](https://github.com/tr7zw/WaveyCapes) - The cape shouldn't be a static slab
 - [tr7zw/3d-Skin-Layers](https://github.com/tr7zw/3d-Skin-Layers) - Renders the player skin layer in 3d
@@ -1822,7 +1857,7 @@
 - [fligger/WurstAutoBuildGen](https://github.com/fligger/WurstAutoBuildGen) - A simple GUI application to generate Wurst compatible autobuild json file templates.
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [fligger/FateInjector](https://github.com/fligger/FateInjector) - The Fate Client Themed UWP app dll Injector
-- [AlexProgrammerDE/ServerWrecker](https://github.com/AlexProgrammerDE/ServerWrecker) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
+- [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Ivaynn/TurtleCraft](https://github.com/Ivaynn/TurtleCraft) - A Minecraft data pack that adds programmable turtles
@@ -1904,6 +1939,7 @@
 
 ## mobile 
 
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1921,6 +1957,8 @@
 
 ## music 
 
+- [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
+- [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
@@ -2088,6 +2126,8 @@
 
 ## others 
 
+- [Tuxemon/Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG.
+- [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [httpsecure/hugo-cat](https://github.com/httpsecure/hugo-cat) - hugo theme
 - [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub) - 🐻 A lightweight Hugo theme based on Bear Blog and Hugo Bear Blog
@@ -2407,7 +2447,6 @@
 - [SpritzLanguage/Spritz](https://github.com/SpritzLanguage/Spritz) - The main repository for the Spritz language
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
-- [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 - [PianoPenguin471/RavenWeave](https://github.com/PianoPenguin471/RavenWeave) - 
 - [Neptunium-Development/neptunium-client](https://github.com/Neptunium-Development/neptunium-client) - 
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
@@ -2429,7 +2468,6 @@
 - [mrkite/minutor](https://github.com/mrkite/minutor) - Mapping for Minecraft
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
 - [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
-- [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
 - [ShinyDragon96/ShiNeaL](https://github.com/ShinyDragon96/ShiNeaL) - 
 - [leijurv/MineBot](https://github.com/leijurv/MineBot) - 
 - [SIMULATAN/meteor-notifications-addon](https://github.com/SIMULATAN/meteor-notifications-addon) - An addon for the MeteorClient that displays various notifications on the HUD | still WIP, code might be messy
@@ -2452,7 +2490,6 @@
 - [Ai2473/3arthh4ck](https://github.com/Ai2473/3arthh4ck) - Utility mod and proxy server for 1.12.2
 - [RedPer/MC-Auto-Sprint-Mod](https://github.com/RedPer/MC-Auto-Sprint-Mod) - A mod that sprints for you.
 - [Cookei/bad-apple-onion-skin](https://github.com/Cookei/bad-apple-onion-skin) - 
-- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - Java obfuscators list
 - [CDAGaming/CrystalOptimizer](https://github.com/CDAGaming/CrystalOptimizer) - Inspired from Marlow's Crystal Optimizer, now open-sourced and for more MC Versions! For Research Purposes!
 - [Nooniboi/Public-Ikea](https://github.com/Nooniboi/Public-Ikea) - Public Ikea Addon
 - [altrisi/FastOpenLinksAndFolders](https://github.com/altrisi/FastOpenLinksAndFolders) - A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder.
@@ -2814,6 +2851,7 @@
 
 ## rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
@@ -2916,6 +2954,7 @@
 
 ## telegram 
 
+- [mi-g-alex/Telegram-Monet](https://github.com/mi-g-alex/Telegram-Monet) - Create themes for telegram using material 3 colors
 - [ni554n/battarang-notifier-android](https://github.com/ni554n/battarang-notifier-android) - Get notified when your android's battery is low or full
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
@@ -3016,12 +3055,18 @@
 
 ## web 
 
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
+
+## web-components 
+
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 
 ## webapp 
 
@@ -3050,6 +3095,7 @@
 
 ## windows 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
