@@ -224,6 +224,10 @@
 
 ## android 
 
+- [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
+- [pgp/XFiles](https://github.com/pgp/XFiles) - A general-purpose file explorer for (rooted) Android, with support for compressed archives, remote file servers, device-to-device file transfers, checksums, etc...
 - [patzly/doodle-android](https://github.com/patzly/doodle-android) - Colorful live wallpapers with auto dark mode and power-efficient animations
 - [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ⭐ A powerful collection of views (including dialogs, popups, and bottom sheets) designed to streamline common use-cases in Material Design 3 for Jetpack Compose.
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
@@ -257,7 +261,7 @@
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [theAkshayP/TouchDroid](https://github.com/theAkshayP/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
@@ -278,7 +282,7 @@
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [tobykurien/WebApps](https://github.com/tobykurien/WebApps) - DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
+- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Fossify apps!
 - [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
@@ -741,7 +745,7 @@
 
 ## discord 
 
-- [BoobBot/BoobBot](https://github.com/BoobBot/BoobBot) - Pictures of nature. 🍑
+- [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
@@ -1195,7 +1199,7 @@
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1206,6 +1210,7 @@
 
 ## godot 
 
+- [SteveSmith16384/TinyTrainsToy](https://github.com/SteveSmith16384/TinyTrainsToy) - A simple version of Mini Metro.  Build trains and tracks to connect stations
 - [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [Rhythia/Rhythia](https://github.com/Rhythia/Rhythia) - Rhythia is an aim-based rhythm game
@@ -1216,7 +1221,7 @@
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [alyyousuf7/twenty48](https://github.com/alyyousuf7/twenty48) - 2048 game on CLI
@@ -1231,11 +1236,13 @@
 
 ## google 
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [patzly/doodle-android](https://github.com/patzly/doodle-android) - Colorful live wallpapers with auto dark mode and power-efficient animations
 - [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) - the t-rex runner game extracted from chromium
 
 ## gradle 
 
+- [pgp/XFiles](https://github.com/pgp/XFiles) - A general-purpose file explorer for (rooted) Android, with support for compressed archives, remote file servers, device-to-device file transfers, checksums, etc...
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku) - Lightweight, dependency-free Minecraft 1.12.2 hack
@@ -1415,6 +1422,9 @@
 
 ## java 
 
+- [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
+- [pgp/XFiles](https://github.com/pgp/XFiles) - A general-purpose file explorer for (rooted) Android, with support for compressed archives, remote file servers, device-to-device file transfers, checksums, etc...
+- [romainhry/MiniMetro_Game](https://github.com/romainhry/MiniMetro_Game) - Java educational project with JavaFX
 - [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
@@ -1456,6 +1466,7 @@
 
 ## javafx 
 
+- [romainhry/MiniMetro_Game](https://github.com/romainhry/MiniMetro_Game) - Java educational project with JavaFX
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 
@@ -1544,7 +1555,9 @@
 
 ## kotlin 
 
-- [BoobBot/BoobBot](https://github.com/BoobBot/BoobBot) - Pictures of nature. 🍑
+- [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
 - [mi-g-alex/Telegram-Monet](https://github.com/mi-g-alex/Telegram-Monet) - Create themes for telegram using material 3 colors
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
@@ -1567,7 +1580,7 @@
 - [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
 - [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
+- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Fossify apps!
 - [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [FossifyOrg/Camera](https://github.com/FossifyOrg/Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
@@ -1793,6 +1806,8 @@
 
 ## material-design 
 
+- [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+- [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
@@ -1957,6 +1972,9 @@
 
 ## music 
 
+- [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
+- [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9+.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
@@ -2054,7 +2072,7 @@
 - [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) - Naruto Anime Characters
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
-- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Simple Mobile Tools apps!
+- [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Fossify apps!
 - [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - A simple holder for favourite apps for quick & easy app launcher icon management
 - [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [FossifyOrg/Camera](https://github.com/FossifyOrg/Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
@@ -2126,6 +2144,11 @@
 
 ## others 
 
+- [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
+- [Polyfrost/CrashPatch](https://github.com/Polyfrost/CrashPatch) - Stop crashes from closing your game!
+- [CookieJarApps/SmartCookieWeb-Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview) - SmartCookieWeb, redesigned using GeckoView
+- [DuckOfDisorder/BlobCats](https://github.com/DuckOfDisorder/BlobCats) - A rich repositery of BlobCat emojis, derived from Google's blob emojis
+- [Xposed-Modules-Repo/com.simo.tgramhooks](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks) - TGɾαɱHσσƙʂ
 - [Tuxemon/Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG.
 - [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -2660,6 +2683,8 @@
 
 ## privacy 
 
+- [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
+- [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
 - [tobykurien/WebApps](https://github.com/tobykurien/WebApps) - DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps
@@ -2838,6 +2863,7 @@
 
 ## reverse-engineering 
 
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [Open-GD/OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of Geometry Dash powered by a fork of cocos2dx 4.0.
@@ -2851,6 +2877,7 @@
 
 ## rust 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
@@ -3095,6 +3122,7 @@
 
 ## windows 
 
+- [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
