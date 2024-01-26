@@ -417,6 +417,7 @@
 
 ## Java 
 
+- [Polyfrost/CrashPatch](https://github.com/Polyfrost/CrashPatch) - Stop crashes from closing your game!
 - [pgp/XFiles](https://github.com/pgp/XFiles) - A general-purpose file explorer for (rooted) Android, with support for compressed archives, remote file servers, device-to-device file transfers, checksums, etc...
 - [romainhry/MiniMetro_Game](https://github.com/romainhry/MiniMetro_Game) - Java educational project with JavaFX
 - [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
@@ -630,6 +631,8 @@
 
 ## JavaScript 
 
+- [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [wvffle/mineflayer-dashboard](https://github.com/wvffle/mineflayer-dashboard) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -819,6 +822,8 @@
 
 ## Kotlin 
 
+- [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
 - [CookieJarApps/SmartCookieWeb-Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview) - SmartCookieWeb, redesigned using GeckoView
 - [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
@@ -1002,6 +1007,7 @@
 
 ## Others 
 
+- [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [DuckOfDisorder/BlobCats](https://github.com/DuckOfDisorder/BlobCats) - A rich repositery of BlobCat emojis, derived from Google's blob emojis
 - [Xposed-Modules-Repo/com.simo.tgramhooks](https://github.com/Xposed-Modules-Repo/com.simo.tgramhooks) - TGɾαɱHσσƙʂ
@@ -1286,6 +1292,7 @@
 
 ## Rust 
 
+- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
