@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -423,6 +424,9 @@
 
 ## Java 
 
+- [KosmX/minecraftPlayerAnimator](https://github.com/KosmX/minecraftPlayerAnimator) - Minecraft 1.16+ player animation library
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
 - [RaphiMC/JavaDowngrader](https://github.com/RaphiMC/JavaDowngrader) - Standalone program and library which can downgrade Java classes/programs down to Java 8
 - [openintents/filemanager](https://github.com/openintents/filemanager) - OpenIntents file manager
 - [Polyfrost/CrashPatch](https://github.com/Polyfrost/CrashPatch) - Stop crashes from closing your game!
@@ -502,6 +506,7 @@
 - [smallSohoSolo/android2048](https://github.com/smallSohoSolo/android2048) - Android 2048
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - [Pending archivation] Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 1.
 - [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
@@ -639,6 +644,13 @@
 
 ## JavaScript 
 
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [vmavromatis/Lemmy-keyboard-navigation](https://github.com/vmavromatis/Lemmy-keyboard-navigation) - RES-like script that allows you to easily navigate Lemmy with your keyboard
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
@@ -657,7 +669,7 @@
 - [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
 - [Aerolab/blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
-- [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
+- [ovidiuch/flatris](https://github.com/ovidiuch/flatris) - Fast-paced two-player web game
 - [delaford/game](https://github.com/delaford/game) - ⚔️ An online JavaScript 2D Medieval RPG.
 - [ewanhowell5195/MinecraftTitleGenerator](https://github.com/ewanhowell5195/MinecraftTitleGenerator) - Textures and fonts for the Minecraft Title Generator Blockbench plugin
 - [Pierce01/MinecraftLauncher-core](https://github.com/Pierce01/MinecraftLauncher-core) - Lightweight module that downloads and runs Minecraft using javascript / NodeJS
@@ -833,6 +845,9 @@
 
 ## Kotlin 
 
+- [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
+- [shxp3/CrossSine](https://github.com/shxp3/CrossSine) - 
+- [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - An open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
@@ -946,7 +961,6 @@
 - [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [manuel-martos/compose-2048](https://github.com/manuel-martos/compose-2048) - Porting 2048 game to Android using Jetpack Compose
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
@@ -1019,6 +1033,7 @@
 
 ## Others 
 
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -1305,11 +1320,15 @@
 
 ## Ruby 
 
+- [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
@@ -1491,6 +1510,7 @@
 
 ## Vue 
 
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Rule-34/App](https://github.com/Rule-34/App) - Browse the most popular Boorus with the Rule 34 App.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
