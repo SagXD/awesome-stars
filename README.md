@@ -424,6 +424,9 @@
 
 ## Java 
 
+- [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
+- [Chisel-Team/Chisel](https://github.com/Chisel-Team/Chisel) - A builder's best friend
+- [gsantner/memetastic](https://github.com/gsantner/memetastic) - Meme Creator for Android - Simple & Ad-Free
 - [KosmX/minecraftPlayerAnimator](https://github.com/KosmX/minecraftPlayerAnimator) - Minecraft 1.16+ player animation library
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
@@ -845,6 +848,8 @@
 
 ## Kotlin 
 
+- [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
+- [element-hq/element-android](https://github.com/element-hq/element-android) - A glossy Matrix collaboration client for Android.
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
 - [shxp3/CrossSine](https://github.com/shxp3/CrossSine) - 
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
@@ -922,7 +927,7 @@
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 - [LukeNeedham/Vibrator](https://github.com/LukeNeedham/Vibrator) - Simple Android app for starting and stopping the system vibrator
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
-- [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI 12】防止应用被侧滑杀死或一键清理
+- [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI】防止应用被侧滑杀死或一键清理
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
@@ -1033,6 +1038,7 @@
 
 ## Others 
 
+- [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A list of all Telegram bots source code hosted on github
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
@@ -1111,7 +1117,6 @@
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
-- [LinuxCafeFederation/awesome-alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives) - A list of alternative websites/software to popular proprietary services.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
 - [Bugswriter/amptest](https://github.com/Bugswriter/amptest) - 
@@ -1201,6 +1206,8 @@
 
 ## Python 
 
+- [rabilrbl/hugging-tg-chatbot](https://github.com/rabilrbl/hugging-tg-chatbot) - A Python Telegram bot powered by HuggingFace Chat API.
+- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [Tuxemon/Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG.
 - [GloriousEggroll/ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font
