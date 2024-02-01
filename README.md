@@ -39,6 +39,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [MoonScript](#moonscript)
+- [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -87,6 +88,8 @@
 
 ## C 
 
+- [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
+- [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [lucianoforks/tetris-os](https://github.com/lucianoforks/tetris-os) - An operating system, but it only plays Tetris.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -422,6 +425,8 @@
 
 ## Java 
 
+- [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
+- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - 
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - 
@@ -648,6 +653,12 @@
 
 ## JavaScript 
 
+- [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
+- [sonnyp/OhMySVG](https://github.com/sonnyp/OhMySVG) - Reduce the size of SVGs
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [developerrahulofficial/impressingCrush](https://github.com/developerrahulofficial/impressingCrush) - 
@@ -852,6 +863,8 @@
 
 ## Kotlin 
 
+- [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
+- [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A glossy Matrix collaboration client for Android.
@@ -1000,6 +1013,7 @@
 
 ## Lua 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [tylerneylon/termtris](https://github.com/tylerneylon/termtris) - A text-based game inspired by tetris.
 - [dan200/ComputerCraft](https://github.com/dan200/ComputerCraft) - Programmable Computers for Minecraft
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -1037,12 +1051,17 @@
 
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
 
+## Nim 
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+
 ## Objective-C 
 
 - [danqing/2048](https://github.com/danqing/2048) - The iOS version of 2048, made using SpriteKit
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -1306,7 +1325,6 @@
 - [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
-- [WindSlashKing/Item-Frame-Duper-for-6b6t](https://github.com/WindSlashKing/Item-Frame-Duper-for-6b6t) - A simple program that automates the duplication glitch on the Minecraft server 6b6t.org
 - [G-eb/pingr](https://github.com/G-eb/pingr) - 
 - [Nikateen/Python-Clicker](https://github.com/Nikateen/Python-Clicker) - Python based auto clicker
 - [eHonnef/afk-clicker](https://github.com/eHonnef/afk-clicker) - An AFK clicker that allow to simulate keystrokes (mouse or keyboard) even if the window isn't focused.
@@ -1398,6 +1416,7 @@
 
 ## Shell 
 
+- [laserbat/vpnify](https://github.com/laserbat/vpnify) - vpnify - transparently route traffic of a process through VPN
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1438,7 +1457,7 @@
 ## Swift 
 
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
