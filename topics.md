@@ -131,6 +131,7 @@
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
+- [nim](#nim)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -184,6 +185,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
+- [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -231,6 +233,8 @@
 
 ## android 
 
+- [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
+- [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
 - [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
@@ -526,6 +530,7 @@
 
 ## bash 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
@@ -592,7 +597,6 @@
 - [Alex313031/Thorium-WOA](https://github.com/Alex313031/Thorium-WOA) - Repo to serve ARM64 Windows on Arm builds of Thorium. https://github.com/Alex313031/Thorium/
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - An unofficial BetterDiscord injector for the web client.
 - [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) - the t-rex runner game extracted from chromium
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
@@ -609,6 +613,7 @@
 
 ## cli 
 
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -687,6 +692,7 @@
 
 ## css 
 
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
@@ -1463,6 +1469,7 @@
 
 ## image-processing 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
 
 ## ios 
@@ -1470,7 +1477,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [yubo725/flutter-tetris](https://github.com/yubo725/flutter-tetris) - 基于Flutter的俄罗斯方块小游戏
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
@@ -1549,6 +1556,9 @@
 
 ## javascript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1642,6 +1652,7 @@
 
 ## kotlin 
 
+- [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
@@ -1758,6 +1769,7 @@
 
 ## linux 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -1838,6 +1850,7 @@
 
 ## macos 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -1906,6 +1919,7 @@
 
 ## material-design 
 
+- [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -2058,7 +2072,7 @@
 
 ## mobile 
 
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2099,6 +2113,7 @@
 
 ## neovim 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -2113,6 +2128,10 @@
 ## nextjs 
 
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
+
+## nim 
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
 ## nlp 
 
@@ -2132,6 +2151,8 @@
 
 ## nodejs 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -2251,6 +2272,13 @@
 
 ## others 
 
+- [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
+- [sonnyp/OhMySVG](https://github.com/sonnyp/OhMySVG) - Reduce the size of SVGs
+- [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
+- [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
+- [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
+- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - 
+- [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
 - [boeledi/flutter_crush](https://github.com/boeledi/flutter_crush) - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
@@ -2685,7 +2713,6 @@
 - [alimustafa53tr/3arth4ck-Configs](https://github.com/alimustafa53tr/3arth4ck-Configs) - every single 3arth4ck config i have
 - [Based-devs/Lynx](https://github.com/Based-devs/Lynx) - Lynx client is a utility mod for 1.12.2 anarchy servers.
 - [s7n1ax/PerryPhobos](https://github.com/s7n1ax/PerryPhobos) - Another bush client leaked by me lmao
-- [WindSlashKing/Item-Frame-Duper-for-6b6t](https://github.com/WindSlashKing/Item-Frame-Duper-for-6b6t) - A simple program that automates the duplication glitch on the Minecraft server 6b6t.org
 - [bebeli555/CookieClient](https://github.com/bebeli555/CookieClient) - CookieClient is a utility client for anarchy servers
 - [stupitdog/bleachhackplus](https://github.com/stupitdog/bleachhackplus) - A minecraft hack client mod so you can cheat in block game, intended for anarchy, I do not recommend using it on hypixel.
 - [anOtherAnalyse/FamilyFunPack](https://github.com/anOtherAnalyse/FamilyFunPack) - Family Fun Pack utility mod for 2b2t
@@ -2760,6 +2787,7 @@
 
 ## package-manager 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 
 ## penetration-testing 
@@ -2813,6 +2841,8 @@
 
 ## privacy 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [laserbat/vpnify](https://github.com/laserbat/vpnify) - vpnify - transparently route traffic of a process through VPN
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -3021,6 +3051,7 @@
 
 ## rust 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
@@ -3063,6 +3094,7 @@
 
 ## self-hosted 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -3085,6 +3117,7 @@
 
 ## shell 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -3113,7 +3146,7 @@
 ## swift 
 
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
@@ -3122,7 +3155,7 @@
 ## swiftui 
 
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -3149,6 +3182,7 @@
 
 ## terminal 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -3173,8 +3207,13 @@
 - [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## testing 
+
+- [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
+
 ## twitter 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 
 ## typescript 
