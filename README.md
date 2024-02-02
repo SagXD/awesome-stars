@@ -371,6 +371,7 @@
 
 ## HTML 
 
+- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [jonschlinkert/gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML
 - [httpsecure/hugo-cat](https://github.com/httpsecure/hugo-cat) - hugo theme
 - [clente/hugo-bearcub](https://github.com/clente/hugo-bearcub) - 🐻 A lightweight Hugo theme based on Bear Blog and Hugo Bear Blog
@@ -425,6 +426,13 @@
 
 ## Java 
 
+- [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with few but useful mods.
+- [JapanYoshi/dollphone-foss](https://github.com/JapanYoshi/dollphone-foss) - Cute soft icon pack
+- [drizzt/Mercurygram](https://github.com/drizzt/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
+- [SpartanB312/Cursa](https://github.com/SpartanB312/Cursa) - An opensource Minecraft utility mod for Anarchy and CrystalPVP
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
+- [you-apps/CalcYou](https://github.com/you-apps/CalcYou) - Privacy focused calculator app built with MD3
+- [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - 
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
@@ -863,6 +871,17 @@
 
 ## Kotlin 
 
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+- [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
+- [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
+- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
+- [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
+- [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+- [Project-Based-Learning-IT/e2ee-chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) - e2ee-chat
+- [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - Summarize YouTube-Videos & Articles with AI
+- [KieronQuinn/DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above
+- [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
+- [wingio/Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android
 - [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
@@ -1061,6 +1080,8 @@
 
 ## Others 
 
+- [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
+- [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
@@ -1231,6 +1252,7 @@
 
 ## Python 
 
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [rabilrbl/hugging-tg-chatbot](https://github.com/rabilrbl/hugging-tg-chatbot) - A Python Telegram bot powered by HuggingFace Chat API.
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [Tuxemon/Tuxemon](https://github.com/Tuxemon/Tuxemon) - Open source monster-fighting RPG.
@@ -1416,6 +1438,7 @@
 
 ## Shell 
 
+- [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [laserbat/vpnify](https://github.com/laserbat/vpnify) - vpnify - transparently route traffic of a process through VPN
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
@@ -1457,7 +1480,7 @@
 ## Swift 
 
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Easy & customizable popup presentation in SwiftUI
+- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple (SwiftUI)
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
