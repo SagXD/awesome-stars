@@ -288,6 +288,7 @@
 
 ## Dart 
 
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
 - [boeledi/flutter_crush](https://github.com/boeledi/flutter_crush) - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
@@ -426,6 +427,7 @@
 
 ## Java 
 
+- [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with few but useful mods.
 - [JapanYoshi/dollphone-foss](https://github.com/JapanYoshi/dollphone-foss) - Cute soft icon pack
 - [drizzt/Mercurygram](https://github.com/drizzt/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
@@ -434,7 +436,7 @@
 - [you-apps/CalcYou](https://github.com/you-apps/CalcYou) - Privacy focused calculator app built with MD3
 - [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
-- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - 
+- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - Material You Redesign of aShell app.
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - 
@@ -661,6 +663,7 @@
 
 ## JavaScript 
 
+- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [sonnyp/OhMySVG](https://github.com/sonnyp/OhMySVG) - Reduce the size of SVGs
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -871,6 +874,8 @@
 
 ## Kotlin 
 
+- [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
+- [jiesou/Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
