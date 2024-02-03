@@ -233,6 +233,9 @@
 
 ## android 
 
+- [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
+- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
 - [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
@@ -964,6 +967,7 @@
 
 ## flutter 
 
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -2295,6 +2299,8 @@
 
 ## others 
 
+- [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
+- [jiesou/Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [JapanYoshi/dollphone-foss](https://github.com/JapanYoshi/dollphone-foss) - Cute soft icon pack
@@ -2312,7 +2318,7 @@
 - [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
-- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - 
+- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - Material You Redesign of aShell app.
 - [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
