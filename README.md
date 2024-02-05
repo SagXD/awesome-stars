@@ -289,6 +289,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
 - [boeledi/flutter_crush](https://github.com/boeledi/flutter_crush) - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
@@ -316,7 +317,7 @@
 
 ## EJS 
 
-- [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience. Test fonts, viewport units, ad blockers, and more.
+- [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
 
 ## Elm 
 
@@ -373,6 +374,7 @@
 
 ## HTML 
 
+- [do-not-theme/do-not-theme.github.io](https://github.com/do-not-theme/do-not-theme.github.io) - 
 - [du82/privacyspreadsheet.com](https://github.com/du82/privacyspreadsheet.com) - The Privacy Spreadsheet HTML and raw CSV data
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [jonschlinkert/gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML
@@ -429,6 +431,8 @@
 
 ## Java 
 
+- [Pritish-git/new-dark-theme-implementation](https://github.com/Pritish-git/new-dark-theme-implementation) - New dark theme implementation features which were added in android 10 and later
+- [KhunHtetzNaing/ADB-OTG](https://github.com/KhunHtetzNaing/ADB-OTG) - Android Debug Bridge On The Go.
 - [neeyatl/DarkModePreferenceTutorialJava](https://github.com/neeyatl/DarkModePreferenceTutorialJava) - Part of a tutorial that shows how to create Dark Mode in Android. This project is written in Java and is a counterpart to DarkModePreferenceTutorial, the Kotlin version.
 - [achmadqomarudin/NightMode](https://github.com/achmadqomarudin/NightMode) - 🌓 Enabling switching between Dark Mode and Light Mode in an Android app using Java code base in a few seconds.
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
@@ -880,6 +884,7 @@
 
 ## Kotlin 
 
+- [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
 - [Darkempire78/OpenCalc](https://github.com/Darkempire78/OpenCalc) - A simple and beautiful calculator for Android
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
@@ -1267,6 +1272,7 @@
 
 ## Python 
 
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [rabilrbl/hugging-tg-chatbot](https://github.com/rabilrbl/hugging-tg-chatbot) - A Python Telegram bot powered by HuggingFace Chat API.
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -1344,7 +1350,7 @@
 - [catppuccin/gtk](https://github.com/catppuccin/gtk) - 🪟 Soothing pastel theme for GTK
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 - [b3yc0d3/rule34Py](https://github.com/b3yc0d3/rule34Py) - python api wrapper for rule34.xxx rest api
-- [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connec
+- [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
 - [thucngyyen/random-dev-memer](https://github.com/thucngyyen/random-dev-memer) - Random dev meme scraped from Memedroid
 - [ironmaniiith/Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - :sunglasses: Write your name using the github commits and make your profile awesome
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
@@ -1503,6 +1509,7 @@
 
 ## TypeScript 
 
+- [polywrap/evo.ninja](https://github.com/polywrap/evo.ninja) - 
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
