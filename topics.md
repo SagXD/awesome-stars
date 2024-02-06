@@ -115,6 +115,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [localization](#localization)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -1175,6 +1176,7 @@
 
 ## gamedev 
 
+- [dannygaray60/localization-editor-g3](https://github.com/dannygaray60/localization-editor-g3) - A tool for adding/editing/deleting translations in .csv files made with Godot Engine
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1286,6 +1288,9 @@
 
 ## godot 
 
+- [otDan/Brotato-WeaponExplorer](https://github.com/otDan/Brotato-WeaponExplorer) - Adds a menu to show and manage weapons
+- [Nailim/brotato-mod-secondchance](https://github.com/Nailim/brotato-mod-secondchance) - A Brotato mod that gives the player a second chance on death by returning him one wave back instead of ending the run.
+- [otDan/Brotato-RollsLeft](https://github.com/otDan/Brotato-RollsLeft) - Adds roll counter in the shop menu
 - [SteveSmith16384/TinyTrainsToy](https://github.com/SteveSmith16384/TinyTrainsToy) - A simple version of Mini Metro.  Build trains and tracks to connect stations
 - [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
@@ -1383,7 +1388,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [catppuccin/aseprite](https://github.com/catppuccin/aseprite) - 🖍 Soothing pastel theme for Aseprite
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -1854,6 +1858,10 @@
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## localization 
+
+- [dannygaray60/localization-editor-g3](https://github.com/dannygaray60/localization-editor-g3) - A tool for adding/editing/deleting translations in .csv files made with Godot Engine
+
 ## lua 
 
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -2310,6 +2318,15 @@
 
 ## others 
 
+- [BrotatoMods/KANA-BFX](https://github.com/BrotatoMods/KANA-BFX) - [KANA] Library of effects 🧪
+- [BrotatoMods/Darkly77-LimitProjectiles](https://github.com/BrotatoMods/Darkly77-LimitProjectiles) - Limits the number of enemy projectiles that can be onscreen at once. Aka "Less Enemy Bullets"
+- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader plus installer
+- [BrotatoMods/Brotato-Mod-Options](https://github.com/BrotatoMods/Brotato-Mod-Options) - An in-game UI to view and edit mod configurations
+- [BrotatoMods/Darkly77-ExpandedChallenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) - Gives you lots more options for your custom challenges, including D5 unlocks
+- [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
+- [BrotatoMods/Darkly77-TranslationsDemo](https://github.com/BrotatoMods/Darkly77-TranslationsDemo) - Demo for making a custom translations mod
+- [bene-labs/Brotato-WeaponDpsDisplay](https://github.com/bene-labs/Brotato-WeaponDpsDisplay) - A mod for Brotato that displays the DPS of all weapons.
+- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - 
 - [do-not-theme/do-not-theme.github.io](https://github.com/do-not-theme/do-not-theme.github.io) - 
 - [Pritish-git/new-dark-theme-implementation](https://github.com/Pritish-git/new-dark-theme-implementation) - New dark theme implementation features which were added in android 10 and later
 - [KhunHtetzNaing/ADB-OTG](https://github.com/KhunHtetzNaing/ADB-OTG) - Android Debug Bridge On The Go.
@@ -3204,6 +3221,7 @@
 
 ## svelte 
 
+- [KANAjetzt/BrotatoTwitchExtension](https://github.com/KANAjetzt/BrotatoTwitchExtension) - Twitch Overlay for Brotato 🥔 - Get all the information about items, weapons, and stats currently used in a run.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
 
