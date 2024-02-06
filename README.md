@@ -329,6 +329,17 @@
 
 ## GDScript 
 
+- [BrotatoMods/KANA-BFX](https://github.com/BrotatoMods/KANA-BFX) - [KANA] Library of effects 🧪
+- [BrotatoMods/Darkly77-LimitProjectiles](https://github.com/BrotatoMods/Darkly77-LimitProjectiles) - Limits the number of enemy projectiles that can be onscreen at once. Aka "Less Enemy Bullets"
+- [BrotatoMods/Brotato-Mod-Options](https://github.com/BrotatoMods/Brotato-Mod-Options) - An in-game UI to view and edit mod configurations
+- [BrotatoMods/Darkly77-ExpandedChallenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) - Gives you lots more options for your custom challenges, including D5 unlocks
+- [dannygaray60/localization-editor-g3](https://github.com/dannygaray60/localization-editor-g3) - A tool for adding/editing/deleting translations in .csv files made with Godot Engine
+- [BrotatoMods/Darkly77-TranslationsDemo](https://github.com/BrotatoMods/Darkly77-TranslationsDemo) - Demo for making a custom translations mod
+- [otDan/Brotato-WeaponExplorer](https://github.com/otDan/Brotato-WeaponExplorer) - Adds a menu to show and manage weapons
+- [Nailim/brotato-mod-secondchance](https://github.com/Nailim/brotato-mod-secondchance) - A Brotato mod that gives the player a second chance on death by returning him one wave back instead of ending the run.
+- [otDan/Brotato-RollsLeft](https://github.com/otDan/Brotato-RollsLeft) - Adds roll counter in the shop menu
+- [bene-labs/Brotato-WeaponDpsDisplay](https://github.com/bene-labs/Brotato-WeaponDpsDisplay) - A mod for Brotato that displays the DPS of all weapons.
+- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - 
 - [SteveSmith16384/TinyTrainsToy](https://github.com/SteveSmith16384/TinyTrainsToy) - A simple version of Mini Metro.  Build trains and tracks to connect stations
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
@@ -1099,6 +1110,7 @@
 
 ## Others 
 
+- [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
 - [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -1272,6 +1284,7 @@
 
 ## Python 
 
+- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader plus installer
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [rabilrbl/hugging-tg-chatbot](https://github.com/rabilrbl/hugging-tg-chatbot) - A Python Telegram bot powered by HuggingFace Chat API.
@@ -1494,6 +1507,7 @@
 
 ## Svelte 
 
+- [KANAjetzt/BrotatoTwitchExtension](https://github.com/KANAjetzt/BrotatoTwitchExtension) - Twitch Overlay for Brotato 🥔 - Get all the information about items, weapons, and stats currently used in a run.
 - [HuakunShen/EzUp](https://github.com/HuakunShen/EzUp) - Easy File Upload to Cloud Storage
 - [sheodox/alexandrite](https://github.com/sheodox/alexandrite) - A beautiful and convenient desktop-first alternate web UI for Lemmy.
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
