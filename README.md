@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [CacahueteSansSel/mcLaunch](https://github.com/CacahueteSansSel/mcLaunch) - A Minecraft launcher that puts your Minecraft in a box 📦
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
@@ -449,6 +450,13 @@
 
 ## Java 
 
+- [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2
+- [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
+- [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.19.3 Lightweight Minecraft server
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+- [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+- [RakambdaOrg/FallingTree](https://github.com/RakambdaOrg/FallingTree) - Minecraft mod to make the trees fall in one cut
 - [Pritish-git/new-dark-theme-implementation](https://github.com/Pritish-git/new-dark-theme-implementation) - New dark theme implementation features which were added in android 10 and later
 - [KhunHtetzNaing/ADB-OTG](https://github.com/KhunHtetzNaing/ADB-OTG) - Android Debug Bridge On The Go.
 - [neeyatl/DarkModePreferenceTutorialJava](https://github.com/neeyatl/DarkModePreferenceTutorialJava) - Part of a tutorial that shows how to create Dark Mode in Android. This project is written in Java and is a counterpart to DarkModePreferenceTutorial, the Kotlin version.
@@ -690,6 +698,9 @@
 
 ## JavaScript 
 
+- [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
+- [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
+- [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
 - [Stevertus/mcscript](https://github.com/Stevertus/mcscript) - A programming language for Minecraft Vanilla
 - [upes-open/OSoC-Swayam-Bazaar](https://github.com/upes-open/OSoC-Swayam-Bazaar) - This Web Application connects with local shops for personalized shopping. Help you buy goods from your favorite stores.  Shopkeepers add their products, building a complete database. The application w
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
@@ -903,6 +914,8 @@
 
 ## Kotlin 
 
+- [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
+- [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [TeamNothingMuch/NothingMuch](https://github.com/TeamNothingMuch/NothingMuch) - An icon pack based on Nothing Brand Colors
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
@@ -971,7 +984,6 @@
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-- [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
@@ -1119,6 +1131,7 @@
 
 ## Others 
 
+- [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
@@ -1267,6 +1280,8 @@
 
 ## PHP 
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - A server software for Minecraft: Bedrock Edition in PHP
+- [aternosorg/mclogs](https://github.com/aternosorg/mclogs) - Paste, share and analyse Minecraft logs
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [mrclay/minify](https://github.com/mrclay/minify) - Combines. minifies, and serves CSS or Javascript files
 - [RikudouSage/LemmyAutoTldrBot](https://github.com/RikudouSage/LemmyAutoTldrBot) - 
@@ -1293,6 +1308,8 @@
 
 ## Python 
 
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [XelXen/GiveawayBot](https://github.com/XelXen/GiveawayBot) - 
 - [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader plus installer
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -1482,6 +1499,7 @@
 
 ## Shell 
 
+- [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [laserbat/vpnify](https://github.com/laserbat/vpnify) - vpnify - transparently route traffic of a process through VPN
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
@@ -1533,6 +1551,7 @@
 
 ## TypeScript 
 
+- [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [polywrap/evo.ninja](https://github.com/polywrap/evo.ninja) - 
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
@@ -1629,6 +1648,7 @@
 
 ## mcfunction 
 
+- [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) - A popular Minecraft worldgen datapack for the Overworld
 - [BigPapi13/Delta](https://github.com/BigPapi13/Delta) - Explosion-based player motion library for Minecraft
 - [efeketket/Ketket-s-Chairs](https://github.com/efeketket/Ketket-s-Chairs) - Datapack Description
 - [Ivaynn/TurtleCraft](https://github.com/Ivaynn/TurtleCraft) - A Minecraft data pack that adds programmable turtles
