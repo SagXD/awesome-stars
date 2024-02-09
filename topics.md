@@ -131,6 +131,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
+- [mysql](#mysql)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -236,6 +237,9 @@
 
 ## android 
 
+- [msasikanth/ColorSheet](https://github.com/msasikanth/ColorSheet) - A color picker bottom sheet 🌈
+- [msasikanth/pinnit](https://github.com/msasikanth/pinnit) - Notification history and pinning
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [achmadqomarudin/NightMode](https://github.com/achmadqomarudin/NightMode) - 🌓 Enabling switching between Dark Mode and Light Mode in an Android app using Java code base in a few seconds.
@@ -698,6 +702,7 @@
 
 ## csharp 
 
+- [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a lightweight pixel art editor made with .NET 7
@@ -886,6 +891,7 @@
 
 ## dotnet 
 
+- [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -983,6 +989,7 @@
 
 ## flutter 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
@@ -1011,6 +1018,7 @@
 
 ## flutter-apps 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -1045,6 +1053,7 @@
 
 ## game 
 
+- [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [ytiurin/tetris](https://github.com/ytiurin/tetris) - :space_invader: The original TETRIS game simulator
 - [simonlc/tetr.js](https://github.com/simonlc/tetr.js) - 🕹️ Tetris clone in HTML5 and JavaScript
 - [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
@@ -1547,6 +1556,7 @@
 
 ## java 
 
+- [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
 - [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.19.3 Lightweight Minecraft server
@@ -1985,6 +1995,7 @@
 
 ## material-design 
 
+- [msasikanth/ColorSheet](https://github.com/msasikanth/ColorSheet) - A color picker bottom sheet 🌈
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
 - [Project-Based-Learning-IT/e2ee-chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) - e2ee-chat
 - [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
@@ -2095,7 +2106,7 @@
 - [DaMatrix/SaveSearcher](https://github.com/DaMatrix/SaveSearcher) - scan a minecraft world for various things
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [wrrulos/MCPTool](https://github.com/wrrulos/MCPTool) - Pentesting tool for Minecraft
-- [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.20.1
+- [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.20.3
 - [RedCarlos26/HIGTools](https://github.com/RedCarlos26/HIGTools) - Highway Tools for Meteor Client.
 - [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Sjnez613/RenoSense-Rewrite](https://github.com/Sjnez613/RenoSense-Rewrite) - Rewrite with oyvey
@@ -2177,6 +2188,7 @@
 
 ## music 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
@@ -2197,6 +2209,10 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
+
+## mysql 
+
+- [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
 
 ## neovim 
 
@@ -2282,6 +2298,7 @@
 
 ## open-source 
 
+- [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
@@ -2361,6 +2378,11 @@
 
 ## others 
 
+- [hexated/cloudstream-extensions-hexated](https://github.com/hexated/cloudstream-extensions-hexated) - Julidfisabilillah for Palestine :palestinian_territories:
+- [simpledotorg/simple-android](https://github.com/simpledotorg/simple-android) - An Android app for recording hypertension-related data.
+- [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
+- [Goodwy/Discussion](https://github.com/Goodwy/Discussion) - A place for discussing all apps in general + anything else you want to say
+- [emileb/Freedoom-for-Android](https://github.com/emileb/Freedoom-for-Android) - Freedoom with GZDoom for Android
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [Stardust-Labs-MC/Terralith](https://github.com/Stardust-Labs-MC/Terralith) - A popular Minecraft worldgen datapack for the Overworld
 - [TeamNothingMuch/NothingMuch](https://github.com/TeamNothingMuch/NothingMuch) - An icon pack based on Nothing Brand Colors
@@ -3272,6 +3294,7 @@
 
 ## sqlite 
 
+- [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 
