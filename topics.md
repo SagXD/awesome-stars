@@ -2411,6 +2411,7 @@
 
 ## others 
 
+- [MeteorDevelopment/meteor-addon-template](https://github.com/MeteorDevelopment/meteor-addon-template) - A template project to help people use the Meteor Client Addon API.
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
@@ -2472,7 +2473,7 @@
 - [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
-- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - Material You Redesign of aShell app.
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app.
 - [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
@@ -3081,6 +3082,7 @@
 
 ## python 
 
+- [amit9838/mousam](https://github.com/amit9838/mousam) - Beautiful and lightweight weather app build using Gtk4, Libadwaita and Python.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - Summarize YouTube-Videos & Articles with AI
