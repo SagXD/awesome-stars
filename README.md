@@ -456,6 +456,7 @@
 
 ## Java 
 
+- [MeteorDevelopment/meteor-addon-template](https://github.com/MeteorDevelopment/meteor-addon-template) - A template project to help people use the Meteor Client Addon API.
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [akanshSirohi/ShareX](https://github.com/akanshSirohi/ShareX) - 🚀 Send and receive files in hassle-free way with fast speed!
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
@@ -483,7 +484,7 @@
 - [you-apps/CalcYou](https://github.com/you-apps/CalcYou) - Privacy focused calculator app built with MD3
 - [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
-- [DP-Hridayan/ashell](https://github.com/DP-Hridayan/ashell) - Material You Redesign of aShell app.
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - Material You Redesign of aShell app.
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - 
@@ -1336,6 +1337,7 @@
 
 ## Python 
 
+- [amit9838/mousam](https://github.com/amit9838/mousam) - Beautiful and lightweight weather app build using Gtk4, Libadwaita and Python.
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
