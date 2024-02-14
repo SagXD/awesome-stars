@@ -377,7 +377,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -456,6 +456,9 @@
 
 ## Java 
 
+- [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
+- [UltimateBoomer/mc-smoothboot](https://github.com/UltimateBoomer/mc-smoothboot) - Improve and tweak Minecraft thread scheduling.
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [MeteorDevelopment/meteor-addon-template](https://github.com/MeteorDevelopment/meteor-addon-template) - A template project to help people use the Meteor Client Addon API.
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [akanshSirohi/ShareX](https://github.com/akanshSirohi/ShareX) - 🚀 Send and receive files in hassle-free way with fast speed!
@@ -627,6 +630,7 @@
 - [Sjnez613/RenoSense-Rewrite](https://github.com/Sjnez613/RenoSense-Rewrite) - Rewrite with oyvey
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
 - [moneymod/moneymod](https://github.com/moneymod/moneymod) - 1.12.2 crystalpvp modification (especially for non strict servers like cc)
+- [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
 - [ShinyDragon96/ShiNeaL](https://github.com/ShinyDragon96/ShiNeaL) - 
 - [leijurv/MineBot](https://github.com/leijurv/MineBot) - 
 - [SIMULATAN/meteor-notifications-addon](https://github.com/SIMULATAN/meteor-notifications-addon) - An addon for the MeteorClient that displays various notifications on the HUD | still WIP, code might be messy
@@ -928,6 +932,7 @@
 
 ## Kotlin 
 
+- [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
@@ -1263,6 +1268,7 @@
 - [eric48906/Discord-Token-Generator](https://github.com/eric48906/Discord-Token-Generator) - Discord Token Generator (hCaptcha AI Solver / hCaptcha Bypass), 1,000 Tokens Per Minute!
 - [auraside/Hone](https://github.com/auraside/Hone) - 
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
+- [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 - [DEAFPS/apex-configs-by-deafps](https://github.com/DEAFPS/apex-configs-by-deafps) - 
 - [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
 - [devsyedmohsin/css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - Handmade collection of css tips tricks. Give it a star if you find it useful 🌟
@@ -1271,6 +1277,7 @@
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Gatohost/gatoclient](https://github.com/Gatohost/gatoclient) - Gatoclient Rewritten - What people would have wanted
 - [RedPer/MC-Auto-Sprint-Mod](https://github.com/RedPer/MC-Auto-Sprint-Mod) - A mod that sprints for you.
+- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - Java obfuscators list
 - [PlutoSolutions/Boze](https://github.com/PlutoSolutions/Boze) - rip bozo client (newest exit scam made by konas developers WOWWWWWWWWWWWWWWW) - https://crystalpvp.ru/boze
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
@@ -1473,6 +1480,7 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1586,6 +1594,7 @@
 
 ## TypeScript 
 
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [Lanred-Dev/justreddit](https://github.com/Lanred-Dev/justreddit) - A simple package for getting random posts, random images, random SubReddits, and SubReddit info.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
