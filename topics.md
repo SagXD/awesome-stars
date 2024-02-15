@@ -180,8 +180,11 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [spring](#spring)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -237,6 +240,7 @@
 
 ## android 
 
+- [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
@@ -426,6 +430,7 @@
 
 ## api 
 
+- [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
@@ -555,6 +560,7 @@
 
 ## backend 
 
+- [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -826,6 +832,7 @@
 
 ## discord 
 
+- [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [diamondburned/gtkcord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord client in Go, attempt #4.
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -917,6 +924,7 @@
 
 ## electron 
 
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1044,6 +1052,7 @@
 
 ## framework 
 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -1154,6 +1163,7 @@
 
 ## game-development 
 
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [delaford/game](https://github.com/delaford/game) - ⚔️ An online JavaScript 2D Medieval RPG.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1250,6 +1260,7 @@
 
 ## git 
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -1262,6 +1273,11 @@
 
 ## github 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -1309,7 +1325,7 @@
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1337,7 +1353,7 @@
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [alyyousuf7/twenty48](https://github.com/alyyousuf7/twenty48) - 2048 game on CLI
@@ -1392,6 +1408,11 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
+- [claytonjhamilton/stackoverflow-badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this unique StackOverflow Badge
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [akanshSirohi/ShareX](https://github.com/akanshSirohi/ShareX) - 🚀 Send and receive files in hassle-free way with fast speed!
@@ -1575,6 +1596,7 @@
 
 ## java 
 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -1979,6 +2001,8 @@
 
 ## markdown 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
@@ -2021,6 +2045,7 @@
 
 ## material-design 
 
+- [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
 - [msasikanth/ColorSheet](https://github.com/msasikanth/ColorSheet) - A color picker bottom sheet 🌈
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
@@ -2054,6 +2079,7 @@
 
 ## minecraft 
 
+- [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
@@ -2411,6 +2437,15 @@
 
 ## others 
 
+- [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub-profile views tracker: displaying monthly view statistics
+- [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
+- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
+- [WalmartSolutions/Francium-1.20.4](https://github.com/WalmartSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
+- [SwiftAndroid/swift](https://github.com/SwiftAndroid/swift) - Port of Apple's reference Swift toolchain to Android; doesn't quite work yet
+- [zhuowei/MCPELauncher](https://github.com/zhuowei/MCPELauncher) - Source code for BlockLauncher, a launcher that patches Minecraft for Android
+- [requarks/wiki-heroku](https://github.com/requarks/wiki-heroku) - Heroku deploy manifest for Wiki.js
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
+- [UltimateBoomer/mc-smoothboot](https://github.com/UltimateBoomer/mc-smoothboot) - Improve and tweak Minecraft thread scheduling.
 - [MeteorDevelopment/meteor-addon-template](https://github.com/MeteorDevelopment/meteor-addon-template) - A template project to help people use the Meteor Client Addon API.
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
@@ -2819,6 +2854,7 @@
 - [SpritzLanguage/Spritz](https://github.com/SpritzLanguage/Spritz) - The main repository for the Spritz language
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
+- [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 - [PianoPenguin471/RavenWeave](https://github.com/PianoPenguin471/RavenWeave) - 
 - [Neptunium-Development/neptunium-client](https://github.com/Neptunium-Development/neptunium-client) - 
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
@@ -2840,6 +2876,7 @@
 - [mrkite/minutor](https://github.com/mrkite/minutor) - Mapping for Minecraft
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
 - [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
+- [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
 - [ShinyDragon96/ShiNeaL](https://github.com/ShinyDragon96/ShiNeaL) - 
 - [leijurv/MineBot](https://github.com/leijurv/MineBot) - 
 - [SIMULATAN/meteor-notifications-addon](https://github.com/SIMULATAN/meteor-notifications-addon) - An addon for the MeteorClient that displays various notifications on the HUD | still WIP, code might be messy
@@ -2862,6 +2899,7 @@
 - [Ai2473/3arthh4ck](https://github.com/Ai2473/3arthh4ck) - Utility mod and proxy server for 1.12.2
 - [RedPer/MC-Auto-Sprint-Mod](https://github.com/RedPer/MC-Auto-Sprint-Mod) - A mod that sprints for you.
 - [Cookei/bad-apple-onion-skin](https://github.com/Cookei/bad-apple-onion-skin) - 
+- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - Java obfuscators list
 - [CDAGaming/CrystalOptimizer](https://github.com/CDAGaming/CrystalOptimizer) - Inspired from Marlow's Crystal Optimizer, now open-sourced and for more MC Versions! For Research Purposes!
 - [Nooniboi/Public-Ikea](https://github.com/Nooniboi/Public-Ikea) - Public Ikea Addon
 - [altrisi/FastOpenLinksAndFolders](https://github.com/altrisi/FastOpenLinksAndFolders) - A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder.
@@ -3006,6 +3044,7 @@
 
 ## php 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [aternosorg/mclogs](https://github.com/aternosorg/mclogs) - Paste, share and analyse Minecraft logs
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
@@ -3220,6 +3259,7 @@
 
 ## reactjs 
 
+- [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
 - [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
@@ -3255,6 +3295,7 @@
 
 ## rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3333,6 +3374,14 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## spring 
+
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+
+## spring-boot 
+
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+
 ## sql 
 
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
@@ -3343,6 +3392,10 @@
 - [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
+
+## statistics 
+
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
 
 ## svelte 
 
@@ -3427,6 +3480,9 @@
 
 ## typescript 
 
+- [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
+- [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
+- [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
