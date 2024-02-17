@@ -296,6 +296,7 @@
 
 ## Dart 
 
+- [alexrintt/kanade](https://github.com/alexrintt/kanade) - Android app to extract apks from installed apps.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
@@ -464,6 +465,9 @@
 
 ## Java 
 
+- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
+- [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - A freely moveable floating window which shows the package name and class name of current activity
 - [zhuowei/MCPELauncher](https://github.com/zhuowei/MCPELauncher) - Source code for BlockLauncher, a launcher that patches Minecraft for Android
 - [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
 - [UltimateBoomer/mc-smoothboot](https://github.com/UltimateBoomer/mc-smoothboot) - Improve and tweak Minecraft thread scheduling.
@@ -943,6 +947,7 @@
 
 ## Kotlin 
 
+- [MobileFirstLLC/irregular-expressions](https://github.com/MobileFirstLLC/irregular-expressions) - Android virtual keyboard for expressive typing
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
@@ -1498,6 +1503,7 @@
 
 ## Rust 
 
+- [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
