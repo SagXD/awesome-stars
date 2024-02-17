@@ -240,6 +240,9 @@
 
 ## android 
 
+- [alexrintt/kanade](https://github.com/alexrintt/kanade) - Android app to extract apks from installed apps.
+- [MobileFirstLLC/irregular-expressions](https://github.com/MobileFirstLLC/irregular-expressions) - Android virtual keyboard for expressive typing
+- [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - A freely moveable floating window which shows the package name and class name of current activity
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
 - [fakeyatogod/AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - An Anime Streaming Application for Android Devices to watch your favourite anime.
@@ -1004,6 +1007,7 @@
 
 ## flutter 
 
+- [alexrintt/kanade](https://github.com/alexrintt/kanade) - Android app to extract apks from installed apps.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
@@ -1408,6 +1412,8 @@
 
 ## hacktoberfest 
 
+- [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
+- [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - A freely moveable floating window which shows the package name and class name of current activity
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 - [claytonjhamilton/stackoverflow-badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this unique StackOverflow Badge
@@ -2039,6 +2045,7 @@
 
 ## mastodon 
 
+- [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [MateriiApps/Dimett](https://github.com/MateriiApps/Dimett) - Material You Mastodon/Akkoma/Pleroma client
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 - [BentonEdmondson/servitor](https://github.com/BentonEdmondson/servitor) - A command-line Fediverse client that doesn’t require a server
@@ -2079,6 +2086,7 @@
 
 ## minecraft 
 
+- [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
 - [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
@@ -2437,6 +2445,7 @@
 
 ## others 
 
+- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub-profile views tracker: displaying monthly view statistics
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
@@ -3475,6 +3484,7 @@
 
 ## twitter 
 
+- [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 
