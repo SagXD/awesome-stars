@@ -90,6 +90,9 @@
 
 ## C 
 
+- [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon) - vib-ribbon decompilation (PAL version)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [Maxr1998/SimpleShutdownDialog](https://github.com/Maxr1998/SimpleShutdownDialog) - A simple dialog to shutdown, reboot, suspend or logout, built with GTK
 - [emileb/Freedoom-for-Android](https://github.com/emileb/Freedoom-for-Android) - Freedoom with GZDoom for Android
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
@@ -119,6 +122,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [CacahueteSansSel/mcLaunch](https://github.com/CacahueteSansSel/mcLaunch) - A Minecraft launcher that puts your Minecraft in a box 📦
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -169,6 +173,7 @@
 
 ## C++ 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [SwiftAndroid/swift](https://github.com/SwiftAndroid/swift) - Port of Apple's reference Swift toolchain to Android; doesn't quite work yet
 - [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -296,6 +301,8 @@
 
 ## Dart 
 
+- [gita/Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App) - Flutter app for Bhagavad Gita
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [alexrintt/kanade](https://github.com/alexrintt/kanade) - Android app to extract apks from installed apps.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -465,6 +472,20 @@
 
 ## Java 
 
+- [larvalabs/boo](https://github.com/larvalabs/boo) - An Android Experiment that uses face detection to model shy little creatures.
+- [Trambled/OzarkClient](https://github.com/Trambled/OzarkClient) - very sexy client
+- [RealzPrestige/health-indicators](https://github.com/RealzPrestige/health-indicators) - Simple health indicators for fabric 1.19.2
+- [AnOpenSauceDev/Methane-mod](https://github.com/AnOpenSauceDev/Methane-mod) - A 1.19+ performance mod for Fabric and Quilt
+- [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
+- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [fengdai/AlertDialogPro](https://github.com/fengdai/AlertDialogPro) - [Deprecated] This project can make it easy to theme and custom Android's dialog. Also provides Holo and Material themes for old devices.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+- [magicsih/AndroidScreenCaster](https://github.com/magicsih/AndroidScreenCaster) - Efficient, low-latency Android screen casting with H.264 and WebM encoding via TCP and UDP.
+- [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
+- [neoblackxt/AnyWebView](https://github.com/neoblackxt/AnyWebView) - Any WebView is OK!
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
 - [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - A freely moveable floating window which shows the package name and class name of current activity
@@ -589,6 +610,7 @@
 - [smallSohoSolo/android2048](https://github.com/smallSohoSolo/android2048) - Android 2048
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - [Pending archivation] Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 1.
 - [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
@@ -727,6 +749,11 @@
 
 ## JavaScript 
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
@@ -947,6 +974,16 @@
 
 ## Kotlin 
 
+- [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
+- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
+- [WirelessAlien/BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - A Simple Open-source Android App for Bhagavad Gita
+- [waseefakhtar/dose-android](https://github.com/waseefakhtar/dose-android) - 💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Architecture
+- [dokar3/upnext-gpt](https://github.com/dokar3/upnext-gpt) - GPT powered playlist App for Android. Supports Apple Music, Spotify, and Youtube Music.
+- [karasevm/PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server
+- [Omico/CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor. Currently, become an implementation of Google's recommended Android app architecture
+- [zacharee/WiFiList](https://github.com/zacharee/WiFiList) - 
+- [Tetr4/CompassTile](https://github.com/Tetr4/CompassTile) - Compass as a tile for the Android quick settings menu
+- [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro) - 
 - [MobileFirstLLC/irregular-expressions](https://github.com/MobileFirstLLC/irregular-expressions) - Android virtual keyboard for expressive typing
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - An useful tool that controls android components
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
@@ -1101,7 +1138,6 @@
 - [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [manuel-martos/compose-2048](https://github.com/manuel-martos/compose-2048) - Porting 2048 game to Android using Jetpack Compose
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
@@ -1180,6 +1216,7 @@
 
 ## Others 
 
+- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [WalmartSolutions/Francium-1.20.4](https://github.com/WalmartSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [Goodwy/Discussion](https://github.com/Goodwy/Discussion) - A place for discussing all apps in general + anything else you want to say
@@ -1358,12 +1395,17 @@
 
 ## PowerShell 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Python 
 
+- [gita/gita](https://github.com/gita/gita) - Bhagavad Gita in JSON
+- [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [claytonjhamilton/stackoverflow-badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this unique StackOverflow Badge
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
@@ -1484,6 +1526,7 @@
 
 ## QML 
 
+- [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [KDE/tok](https://github.com/KDE/tok) - Telegram client built using Kirigami
 
 ## Ren'Py 
@@ -1503,6 +1546,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
@@ -1619,6 +1663,11 @@
 
 ## TypeScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
@@ -1707,6 +1756,7 @@
 
 ## Vue 
 
+- [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
