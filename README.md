@@ -90,6 +90,7 @@
 
 ## C 
 
+- [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
 - [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon) - vib-ribbon decompilation (PAL version)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Maxr1998/SimpleShutdownDialog](https://github.com/Maxr1998/SimpleShutdownDialog) - A simple dialog to shutdown, reboot, suspend or logout, built with GTK
@@ -122,6 +123,7 @@
 
 ## C# # 
 
+- [etaxi341/FreeSteamGames-TelegramBot](https://github.com/etaxi341/FreeSteamGames-TelegramBot) - A Telegram Bot that sends you a message when a game on steam is free
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Quaver/Quaver](https://github.com/Quaver/Quaver) - The ultimate community-driven, and open-source competitive rhythm game available on Steam.
 - [CacahueteSansSel/mcLaunch](https://github.com/CacahueteSansSel/mcLaunch) - A Minecraft launcher that puts your Minecraft in a box 📦
@@ -173,6 +175,7 @@
 
 ## C++ 
 
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [SwiftAndroid/swift](https://github.com/SwiftAndroid/swift) - Port of Apple's reference Swift toolchain to Android; doesn't quite work yet
 - [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
@@ -317,7 +320,7 @@
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform app made for e-hentai & exhentai by Flutter
 - [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
-- [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin; connecting you to the fediverse.
+- [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin/Mbin; connecting you to the fediverse.
 - [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
@@ -472,6 +475,9 @@
 
 ## Java 
 
+- [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
+- [Kaiserdragon2/IconRequest](https://github.com/Kaiserdragon2/IconRequest) - An Android app to get unthemed icons and their activity names
 - [larvalabs/boo](https://github.com/larvalabs/boo) - An Android Experiment that uses face detection to model shy little creatures.
 - [Trambled/OzarkClient](https://github.com/Trambled/OzarkClient) - very sexy client
 - [RealzPrestige/health-indicators](https://github.com/RealzPrestige/health-indicators) - Simple health indicators for fabric 1.19.2
@@ -749,6 +755,7 @@
 
 ## JavaScript 
 
+- [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1069,7 +1076,7 @@
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
@@ -1216,6 +1223,7 @@
 
 ## Others 
 
+- [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games) - Source 1 based games such as TF2 and Counter-Strike: Source
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [WalmartSolutions/Francium-1.20.4](https://github.com/WalmartSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
@@ -1402,6 +1410,13 @@
 
 ## Python 
 
+- [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
+- [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
+- [TGExplore/TG-Files-to-Link](https://github.com/TGExplore/TG-Files-to-Link) - A Telegram bot that can stream Telegram files to users over HTTP.
+- [Sallat-M/FileToLink](https://github.com/Sallat-M/FileToLink) - A Telegram Bot to generate permanent Stream and Download links for any Telegram file
+- [hemantapkh/TorrentSeedr](https://github.com/hemantapkh/TorrentSeedr) - 🌱 Telegram bot client for seedr.cc.
+- [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
+- [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
 - [gita/gita](https://github.com/gita/gita) - Bhagavad Gita in JSON
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1680,7 +1695,7 @@
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
