@@ -245,6 +245,8 @@
 
 ## android 
 
+- [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
+- [Kaiserdragon2/IconRequest](https://github.com/Kaiserdragon2/IconRequest) - An Android app to get unthemed icons and their activity names
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
 - [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
@@ -347,7 +349,7 @@
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [saitamasahil/APK-Compare-Tool](https://github.com/saitamasahil/APK-Compare-Tool) - Discover APK Differences Effortlessly!!
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [dulvui/ball2box](https://github.com/dulvui/ball2box) - Casual ball game created with Godot Engine for iOS, Android and html5.
@@ -616,6 +618,8 @@
 
 ## bot 
 
+- [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
+- [etaxi341/FreeSteamGames-TelegramBot](https://github.com/etaxi341/FreeSteamGames-TelegramBot) - A Telegram Bot that sends you a message when a game on steam is free
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
@@ -733,6 +737,7 @@
 
 ## cpp 
 
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [geode-sdk/geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
@@ -774,7 +779,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1465,6 +1470,10 @@
 
 ## hacktoberfest 
 
+- [hemantapkh/TorrentSeedr](https://github.com/hemantapkh/TorrentSeedr) - 🌱 Telegram bot client for seedr.cc.
+- [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
+- [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [AnOpenSauceDev/Methane-mod](https://github.com/AnOpenSauceDev/Methane-mod) - A 1.19+ performance mod for Fabric and Quilt
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [gita/gita](https://github.com/gita/gita) - Bhagavad Gita in JSON
@@ -1674,6 +1683,7 @@
 
 ## java 
 
+- [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
 - [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
@@ -1759,7 +1769,7 @@
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [Pierce01/MinecraftLauncher-core](https://github.com/Pierce01/MinecraftLauncher-core) - Lightweight module that downloads and runs Minecraft using javascript / NodeJS
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1847,6 +1857,7 @@
 
 ## kotlin 
 
+- [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
 - [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
@@ -1889,7 +1900,7 @@
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [sosauce/CuteCalc](https://github.com/sosauce/CuteCalc) - CuteCalc is a simple,lightweight and open-source calculator app for Android.
 - [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
 - [SanmerApps/PI](https://github.com/SanmerApps/PI) - PackageInstaller
@@ -1979,6 +1990,7 @@
 
 ## linux 
 
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -2164,12 +2176,12 @@
 - [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2188,6 +2200,7 @@
 
 ## minecraft 
 
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods!
 - [AnOpenSauceDev/Methane-mod](https://github.com/AnOpenSauceDev/Methane-mod) - A 1.19+ performance mod for Fabric and Quilt
 - [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
 - [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
@@ -2339,7 +2352,7 @@
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
 - [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple (SwiftUI)
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS page
+- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
@@ -2555,6 +2568,12 @@
 
 ## others 
 
+- [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
+- [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
+- [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
+- [TGExplore/TG-Files-to-Link](https://github.com/TGExplore/TG-Files-to-Link) - A Telegram bot that can stream Telegram files to users over HTTP.
+- [Sallat-M/FileToLink](https://github.com/Sallat-M/FileToLink) - A Telegram Bot to generate permanent Stream and Download links for any Telegram file
+- [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games) - Source 1 based games such as TF2 and Counter-Strike: Source
 - [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 - [larvalabs/boo](https://github.com/larvalabs/boo) - An Android Experiment that uses face detection to model shy little creatures.
 - [Trambled/OzarkClient](https://github.com/Trambled/OzarkClient) - very sexy client
@@ -2731,7 +2750,7 @@
 - [Goodwy/Contacts](https://github.com/Goodwy/Contacts) - 
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
-- [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin; connecting you to the fediverse.
+- [jwr1/interstellar](https://github.com/jwr1/interstellar) - An app for Kbin/Mbin; connecting you to the fediverse.
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -3253,6 +3272,7 @@
 
 ## python 
 
+- [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [amit9838/mousam](https://github.com/amit9838/mousam) - Beautiful and lightweight weather app build using Gtk4, Libadwaita and Python.
@@ -3422,6 +3442,7 @@
 
 ## reverse-engineering 
 
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
@@ -3577,6 +3598,8 @@
 
 ## telegram 
 
+- [hemantapkh/TorrentSeedr](https://github.com/hemantapkh/TorrentSeedr) - 🌱 Telegram bot client for seedr.cc.
+- [etaxi341/FreeSteamGames-TelegramBot](https://github.com/etaxi341/FreeSteamGames-TelegramBot) - A Telegram Bot that sends you a message when a game on steam is free
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with few but useful mods.
 - [drizzt/Mercurygram](https://github.com/drizzt/Mercurygram) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -3722,7 +3745,7 @@
 
 ## web-components 
 
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 
 ## web-development 
@@ -3763,6 +3786,7 @@
 
 ## windows 
 
+- [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
