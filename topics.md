@@ -972,6 +972,8 @@
 
 ## electron 
 
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
+- [drweissbrot/cs-hud](https://github.com/drweissbrot/cs-hud) - Custom Counter-Strike Spectator HUD
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
@@ -2568,6 +2570,11 @@
 
 ## others 
 
+- [mikkokko/csldr](https://github.com/mikkokko/csldr) - Client-side enhancements for CS 1.6 and Condition Zero
+- [Alex313031/beaker-ng](https://github.com/Alex313031/beaker-ng) - An experimental peer-to-peer Web browser - Compiler optimized, community maintained fork.
+- [TheDoctor0/CSGOMod](https://github.com/TheDoctor0/CSGOMod) - CS:GO Mod for Counter-Strike 1.6 (AMXX 1.8.3 / 1.9 / 1.10).
+- [AMXX-pl/BasePack](https://github.com/AMXX-pl/BasePack) - Base pack for Counter-Strike 1.6 servers.
+- [Fundynamic/RealBot](https://github.com/Fundynamic/RealBot) - Counter-Strike 1.6 - AI Opponent
 - [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
 - [Aadhi000/File-To-Link](https://github.com/Aadhi000/File-To-Link) - 
@@ -3164,6 +3171,7 @@
 
 ## p2p 
 
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -3663,6 +3671,7 @@
 
 ## typescript 
 
+- [VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter Strike implementation with Javascript/Typescript
 - [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
@@ -3731,6 +3740,7 @@
 
 ## web 
 
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [aternosorg/mclogs](https://github.com/aternosorg/mclogs) - Paste, share and analyse Minecraft logs
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
