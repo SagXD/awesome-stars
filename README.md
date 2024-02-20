@@ -45,6 +45,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Pawn](#pawn)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -57,6 +58,7 @@
 - [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
+- [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -90,6 +92,7 @@
 
 ## C 
 
+- [mikkokko/csldr](https://github.com/mikkokko/csldr) - Client-side enhancements for CS 1.6 and Condition Zero
 - [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
 - [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon) - vib-ribbon decompilation (PAL version)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -175,6 +178,7 @@
 
 ## C++ 
 
+- [Fundynamic/RealBot](https://github.com/Fundynamic/RealBot) - Counter-Strike 1.6 - AI Opponent
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [SwiftAndroid/swift](https://github.com/SwiftAndroid/swift) - Port of Apple's reference Swift toolchain to Android; doesn't quite work yet
@@ -755,6 +759,9 @@
 
 ## JavaScript 
 
+- [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
+- [Alex313031/beaker-ng](https://github.com/Alex313031/beaker-ng) - An experimental peer-to-peer Web browser - Compiler optimized, community maintained fork.
+- [drweissbrot/cs-hud](https://github.com/drweissbrot/cs-hud) - Custom Counter-Strike Spectator HUD
 - [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
@@ -1397,6 +1404,10 @@
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 
+## Pawn 
+
+- [TheDoctor0/CSGOMod](https://github.com/TheDoctor0/CSGOMod) - CS:GO Mod for Counter-Strike 1.6 (AMXX 1.8.3 / 1.9 / 1.10).
+
 ## Perl 
 
 - [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
@@ -1659,6 +1670,10 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## SourcePawn 
+
+- [AMXX-pl/BasePack](https://github.com/AMXX-pl/BasePack) - Base pack for Counter-Strike 1.6 servers.
+
 ## Svelte 
 
 - [KANAjetzt/BrotatoTwitchExtension](https://github.com/KANAjetzt/BrotatoTwitchExtension) - Twitch Overlay for Brotato 🥔 - Get all the information about items, weapons, and stats currently used in a run.
@@ -1678,6 +1693,7 @@
 
 ## TypeScript 
 
+- [VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter Strike implementation with Javascript/Typescript
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
