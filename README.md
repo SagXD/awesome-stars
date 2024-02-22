@@ -92,6 +92,7 @@
 
 ## C 
 
+- [tomwillow/2048](https://github.com/tomwillow/2048) - No Ads, More Advanced 2048 Game
 - [mikkokko/csldr](https://github.com/mikkokko/csldr) - Client-side enhancements for CS 1.6 and Condition Zero
 - [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
 - [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon) - vib-ribbon decompilation (PAL version)
@@ -178,6 +179,7 @@
 
 ## C++ 
 
+- [jvaelen/2048](https://github.com/jvaelen/2048) - A C++/Qt clone of the popular 2048 game
 - [Fundynamic/RealBot](https://github.com/Fundynamic/RealBot) - Counter-Strike 1.6 - AI Opponent
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -481,6 +483,12 @@
 
 ## Java 
 
+- [MrSparsh/2048](https://github.com/MrSparsh/2048) - Implementation of popular 2048 game on Android using Android Studio
+- [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
+- [bulenkov/2048](https://github.com/bulenkov/2048) - Java implementation of 2048
+- [veryyoung/2048](https://github.com/veryyoung/2048) - 2048 for Android(2048 安卓版)
+- [tito/2048](https://github.com/tito/2048) - 2048 Game with Kivy
+- [uberspot/2048-android](https://github.com/uberspot/2048-android) - The android port of the 2048 game (for offline playing)
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -996,6 +1004,10 @@
 
 ## Kotlin 
 
+- [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
+- [joaomanaia/game-2048-compose](https://github.com/joaomanaia/game-2048-compose) - A simple 2048 game written with 100% Jetpack Compose.
+- [8cAyqpVKio/android-2048-compose-material3](https://github.com/8cAyqpVKio/android-2048-compose-material3) - 2048 implemented using Jetpack Compose, Material Design 3, MVVM, Hilt
+- [alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
 - [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
 - [WirelessAlien/BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - A Simple Open-source Android App for Bhagavad Gita
@@ -1238,6 +1250,7 @@
 
 ## Others 
 
+- [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N) - 
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
 - [Xubuntu/xubuntu-seed](https://github.com/Xubuntu/xubuntu-seed) - Read-only mirror of lp:~xubuntu-dev/ubuntu-seeds/+git/xubuntu
 - [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games) - Source 1 based games such as TF2 and Counter-Strike: Source
@@ -1277,7 +1290,7 @@
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
-- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - VMware Workstation Pro 17 full license keys. Collected and sorted out thousands of universal License Keys for all major versions of VMware Workstation Pro 17 versions.
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - A well organized & frequently updated collection of apps that supports material you design/theme.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
@@ -1648,6 +1661,7 @@
 
 ## Shell 
 
+- [JosefZIla/bash2048](https://github.com/JosefZIla/bash2048) - Bash implementation of 2048 game
 - [MIUI-Monet-Project/Module](https://github.com/MIUI-Monet-Project/Module) - Material You wallpaper-based dynamic theme for MIUI & HyperOS system apps on Android 12+
 - [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
