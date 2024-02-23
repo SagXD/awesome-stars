@@ -245,6 +245,13 @@
 
 ## android 
 
+- [hegocre/ScoreCounter](https://github.com/hegocre/ScoreCounter) - Simple app to keep track of two scores.
+- [SuhasDissa/RunePad](https://github.com/SuhasDissa/RunePad) - Character input pad with almost all the useful Unicode symbols for science students
+- [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
+- [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
+- [PsiCodes/KtxPy](https://github.com/PsiCodes/KtxPy) - Python Compiler/ide For Android with Material3
+- [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86
 - [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
 - [8cAyqpVKio/android-2048-compose-material3](https://github.com/8cAyqpVKio/android-2048-compose-material3) - 2048 implemented using Jetpack Compose, Material Design 3, MVVM, Hilt
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -311,7 +318,7 @@
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
 - [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
-- [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - An open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
+- [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
@@ -541,7 +548,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -623,6 +630,7 @@
 
 ## bot 
 
+- [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
 - [dishapatel010/SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Snapchat Bot to get Public Stories 👻 on Telegram
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
@@ -686,6 +694,7 @@
 
 ## chrome-extension 
 
+- [plibither8/asciinema-player-for-github](https://github.com/plibither8/asciinema-player-for-github) - 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -745,6 +754,7 @@
 
 ## cpp 
 
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -905,7 +915,7 @@
 - [doenerium69/doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer:  We are not responsible for any damages this software may cause after being acquired. This softwa
 - [Blank-c/Blank-Grabber](https://github.com/Blank-c/Blank-Grabber) - The most powerful stealer written in Python 3 and packed with a lot of features.
 - [Stealerium/Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
-- [Ayhuuu/Creal-Stealer](https://github.com/Ayhuuu/Creal-Stealer) - A Powerfull Token Stealer!!!! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
+- [Ayhuuu/Creal-Stealer](https://github.com/Ayhuuu/Creal-Stealer) - [ UPDATE ]  A Powerfull Token Stealer!!!! Discord Token Grabber , Password Stealer, Cookie Stealer, File Stealer, Crypto wallet Stealer etc.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python!
 - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API.
@@ -1349,6 +1359,7 @@
 
 ## github 
 
+- [plibither8/asciinema-player-for-github](https://github.com/plibither8/asciinema-player-for-github) - 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
@@ -1487,6 +1498,8 @@
 
 ## hacktoberfest 
 
+- [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
+- [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [hemantapkh/TorrentSeedr](https://github.com/hemantapkh/TorrentSeedr) - 🌱 Telegram bot client for seedr.cc.
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
 - [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
@@ -1700,6 +1713,7 @@
 
 ## java 
 
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android x86
 - [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
@@ -1879,6 +1893,8 @@
 
 ## kotlin 
 
+- [hegocre/ScoreCounter](https://github.com/hegocre/ScoreCounter) - Simple app to keep track of two scores.
+- [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
 - [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
@@ -1905,7 +1921,7 @@
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - Android finger picker app
-- [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - An open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
+- [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 - [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A secure, open source web browser for Android.
@@ -2015,6 +2031,7 @@
 
 ## linux 
 
+- [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - a script that lets you change the colors of folders in Papirus icon theme
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -2599,7 +2616,22 @@
 
 ## others 
 
-- [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N) - 
+- [Floorp-Projects/Floorp-Android](https://github.com/Floorp-Projects/Floorp-Android) - 
+- [yewtudotbe/invidious-custom](https://github.com/yewtudotbe/invidious-custom) - Invidious with some git patches (mostly from existing PRs)
+- [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
+- [azuo/another-widget](https://github.com/azuo/another-widget) - Watch events, weather and much more at a glance.
+- [Pahiro/AutoIT-Scripts](https://github.com/Pahiro/AutoIT-Scripts) - All of my AutoIT Scripts
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
+- [mttaggart/I-S00N](https://github.com/mttaggart/I-S00N) - Anxun Shanghai (I-SOON) Data Dump Translations (PII Redacted)
+- [MadeWithLoveInIndia/MadeWithLoveInIndia](https://github.com/MadeWithLoveInIndia/MadeWithLoveInIndia) - ♥️ A movement to celebrate, promote, and build a brand — India
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [zacharee/CellReader](https://github.com/zacharee/CellReader) - Playing around with reading cell stuff on Android
+- [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!
+- [Xtr126/wayland-getevent](https://github.com/Xtr126/wayland-getevent) - 
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+- [j0be/PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
 - [joaomanaia/game-2048-compose](https://github.com/joaomanaia/game-2048-compose) - A simple 2048 game written with 100% Jetpack Compose.
 - [MrSparsh/2048](https://github.com/MrSparsh/2048) - Implementation of popular 2048 game on Android using Android Studio
 - [alexjlockwood/android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
@@ -2767,7 +2799,7 @@
 - [fogleman/Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired program using Python and Pyglet
 - [VKCOM/vk-android-sdk](https://github.com/VKCOM/vk-android-sdk) - Android library for working with VK API, authorization through VK app, using VK functions.
 - [face-hh/bussin](https://github.com/face-hh/bussin) - An esolang in TypeScript, for heaven's sake.
-- [rdwz/freedomain.directory](https://github.com/rdwz/freedomain.directory) - 🆓 Free Domain Directory - Comprehensive list of 24 Subdomains to choose from!!
+- [rdwz/freesubdoma.in](https://github.com/rdwz/freesubdoma.in) - 🆓 Free Domain Directory - Comprehensive list of 24 Subdomains to choose from!!
 - [illust-bio/illust.bio](https://github.com/illust-bio/illust.bio) - Free domains for illustrators (or anyone related to illustrations).
 - [twente-me/twente.me](https://github.com/twente-me/twente.me) - 🐎 The Twente domain for the community, get your.twente.me for free
 - [WaifuPX-DG/WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) - Android App Anime Wallpapers Material Design
@@ -3280,6 +3312,7 @@
 
 ## privacy 
 
+- [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [laserbat/vpnify](https://github.com/laserbat/vpnify) - vpnify - transparently route traffic of a process through VPN
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
@@ -3325,6 +3358,7 @@
 
 ## python 
 
+- [PsiCodes/KtxPy](https://github.com/PsiCodes/KtxPy) - Python Compiler/ide For Android with Material3
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [weebzone/WZML-X](https://github.com/weebzone/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -3360,7 +3394,7 @@
 - [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [neek8044/Perfect-Circle](https://github.com/neek8044/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 - [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Games: Create interesting games in pure python.
@@ -3654,6 +3688,7 @@
 
 ## telegram 
 
+- [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
 - [dishapatel010/SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Snapchat Bot to get Public Stories 👻 on Telegram
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [hemantapkh/TorrentSeedr](https://github.com/hemantapkh/TorrentSeedr) - 🌱 Telegram bot client for seedr.cc.
