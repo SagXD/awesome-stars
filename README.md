@@ -111,6 +111,7 @@
 
 ## C 
 
+- [carl-vbn/opengl-portals](https://github.com/carl-vbn/opengl-portals) - 
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
 - [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
@@ -174,6 +175,7 @@
 
 ## C# # 
 
+- [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [TorniX0/OpenTimerResolution](https://github.com/TorniX0/OpenTimerResolution) - OpenTimerResolution is a lightweight open-source application that changes the timer resolution of the Windows system Timer to a specified value.
 - [insomniachi/Totoro](https://github.com/insomniachi/Totoro) - A Windows 10/11 only application that is a go to for all things anime.
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -1698,6 +1700,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
@@ -1728,6 +1731,7 @@
 
 ## PowerShell 
 
+- [RocketGod-git/Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - My SD Drive for Flipper Zero
 - [fgsfds/Blood-Voxel-Pack](https://github.com/fgsfds/Blood-Voxel-Pack) - Additional voxel models for Blood video game
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -2029,6 +2033,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors
