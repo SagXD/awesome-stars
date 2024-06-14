@@ -111,6 +111,7 @@
 
 ## C 
 
+- [Gcenx/game-porting-toolkit](https://github.com/Gcenx/game-porting-toolkit) - Apple's Game Porting Toolkit
 - [carl-vbn/opengl-portals](https://github.com/carl-vbn/opengl-portals) - 
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [videogamepreservation/descent](https://github.com/videogamepreservation/descent) - Descent (1995) by Parallax Software Corp.
@@ -255,6 +256,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [daniele-rapagnani/alephone-android](https://github.com/daniele-rapagnani/alephone-android) - Port of the AlephOne engine on Android
 - [TASEmulators/fceux](https://github.com/TASEmulators/fceux) - FCEUX, a NES Emulator
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth
@@ -652,6 +654,8 @@
 
 ## Java 
 
+- [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
+- [FxMorin/MoreCulling](https://github.com/FxMorin/MoreCulling) - Stop rendering things you can't see. A mod that changes how multiple types of culling are handled in order to improve performance
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [RedCarlos26/WiderTab](https://github.com/RedCarlos26/WiderTab) - A mod that extends the tablist to fit more players.
@@ -730,7 +734,7 @@
 - [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.20.6 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [RakambdaOrg/FallingTree](https://github.com/RakambdaOrg/FallingTree) - Minecraft mod to make the trees fall in one cut
@@ -1249,6 +1253,7 @@
 
 ## Kotlin 
 
+- [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
 - [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to modify android system via shizuku.
@@ -1487,7 +1492,7 @@
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
 - [Gakuto1112/SenkoSan](https://github.com/Gakuto1112/SenkoSan) - "Senko-san (仙狐さん)" the avatar for Figura, the skin mod for Minecraft.
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
-- [nh6574/JokerDisplay](https://github.com/nh6574/JokerDisplay) - Quality of life mod for vanilla Balatro
+- [nh6574/JokerDisplay](https://github.com/nh6574/JokerDisplay) - Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits underneath Jokers.
 - [Firch/Bunco](https://github.com/Firch/Bunco) - 
 - [Kooluve/Better-Mouse-And-Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - A Balatro functional mod. Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button.
 - [balamod/aseprite-balamod-extension](https://github.com/balamod/aseprite-balamod-extension) - An extension for the spriting software Asesprite to help make Balatro assets
@@ -1776,6 +1781,12 @@
 
 ## Python 
 
+- [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
+- [DXVVAY/Xvirus-Tools](https://github.com/DXVVAY/Xvirus-Tools) - Xvirus-Tools is a discord tool with tons of scripts that takes advantage of Discords WEAK API
+- [the-cult-of-integral/discord-raidkit](https://github.com/the-cult-of-integral/discord-raidkit) - An open-source, forever free tool that allows you to raid and destroy Discord servers via Discord bots, compromise Discord accounts, and generate Discord token grabbers.
+- [imvast/Discord-Account-Creator](https://github.com/imvast/Discord-Account-Creator) - Discord Account/Token Creator + Automatic Server Joiner + Instant Boosting
+- [severityc/Fake-Vouch](https://github.com/severityc/Fake-Vouch) - A fully functioning Fake Vouch Python script using Discord API to automate messages to startup servers
+- [tehskai/godot-unpacker](https://github.com/tehskai/godot-unpacker) - godot .pck unpacker
 - [YashGoti/crtsh](https://github.com/YashGoti/crtsh) - A Python Script to Get Subdomain using https://crt.sh
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [aayushdutt/ncert-downloader](https://github.com/aayushdutt/ncert-downloader) - Quickly scrape NCERT books to PDFs, organized by classes and subjects
@@ -2082,6 +2093,7 @@
 
 ## Shell 
 
+- [christopherkobayashi/xfce4-hotcorner-plugin](https://github.com/christopherkobayashi/xfce4-hotcorner-plugin) - Xfce4 HotCorner Panel Plugin
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [j-hc/FlagSecurePatcher](https://github.com/j-hc/FlagSecurePatcher) - Magisk module to patch service.jar on device to disable flag secure and screenshot listeners
@@ -2180,6 +2192,7 @@
 
 ## TypeScript 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - Are you weeb developer looking for free webspace to host your project? Get free subdomain merahputih.moe UwU
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
