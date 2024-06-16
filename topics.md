@@ -20,6 +20,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
+- [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
@@ -206,6 +207,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
+- [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -268,6 +270,10 @@
 
 ## android 
 
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
+- [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) - The missing link between Android and a sorted file system.
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore link control on Android 12+
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
@@ -589,6 +595,7 @@
 
 ## awesome 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -710,7 +717,12 @@
 
 ## aws 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [hfreire/get-me-a-date](https://github.com/hfreire/get-me-a-date) - :heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:
+
+## azure 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 ## backend 
 
@@ -907,6 +919,8 @@
 
 ## cpp 
 
+- [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
@@ -942,6 +956,7 @@
 
 ## csharp 
 
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -1152,6 +1167,7 @@
 
 ## docker 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1271,6 +1287,17 @@
 
 ## emulator 
 
+- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+- [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
+- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
+- [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
+- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [SourMesen/Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG) for Windows, Linux and macOS
 - [ducalex/retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
@@ -1431,6 +1458,7 @@
 
 ## game 
 
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
@@ -1871,6 +1899,9 @@
 
 ## hacktoberfest 
 
+- [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
@@ -2137,6 +2168,7 @@
 
 ## java 
 
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
 - [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [GlowstoneMC/Glowstone](https://github.com/GlowstoneMC/Glowstone) - A fast, customizable and compatible open source server for Minecraft: Java Edition
@@ -2221,6 +2253,8 @@
 
 ## javascript 
 
+- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
+- [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [keerthivasansa/animos](https://github.com/keerthivasansa/animos) - Animos - Clean and minimal Anime-streaming desktop application without any ads.
@@ -2357,6 +2391,7 @@
 
 ## kotlin 
 
+- [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) - The missing link between Android and a sorted file system.
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
 - [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk & KernelSU
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
@@ -2478,6 +2513,7 @@
 
 ## kubernetes 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
@@ -2515,6 +2551,7 @@
 
 ## linux 
 
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
@@ -2821,6 +2858,7 @@
 
 ## microsoft 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## minecraft 
@@ -2928,7 +2966,7 @@
 - [ItziSpyder/ClickCrystals](https://github.com/ItziSpyder/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
 - [quangei/Q-bot-console](https://github.com/quangei/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
-- [Scythe-Anticheat/Scythe-AntiCheat](https://github.com/Scythe-Anticheat/Scythe-AntiCheat) - Scythe AntiCheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
+- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe AntiCheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.
@@ -3250,6 +3288,7 @@
 
 ## opengl 
 
+- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
@@ -3281,6 +3320,8 @@
 
 ## others 
 
+- [Shadows-of-Fire/Apotheosis](https://github.com/Shadows-of-Fire/Apotheosis) - All things that should have been.
+- [castdrian/mw-native](https://github.com/castdrian/mw-native) - The native app version of movie-web
 - [Team-Hibiscus/NaturesSpirit](https://github.com/Team-Hibiscus/NaturesSpirit) - 
 - [Enchanted-Games/fix-horizontal-camera-lag](https://github.com/Enchanted-Games/fix-horizontal-camera-lag) - A minecraft mod that fixes the horizontal camera lag when riding an entity
 - [Adrenix/Nostalgic-Tweaks](https://github.com/Adrenix/Nostalgic-Tweaks) - This mod brings back a plethora of Minecraft Alpha/Beta gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft by tweaking the mod to their pr
@@ -4041,7 +4082,7 @@
 - [thealpinegoat/Feller](https://github.com/thealpinegoat/Feller) - 
 - [exrodev/voidclicker](https://github.com/exrodev/voidclicker) - Void Clicker is an autoclicker in a batch file that uses some trickery to run Powershell code in the same file which then runs C# code making it able to simulate a click.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
-- [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - 
+- [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [isuewo/OverimaginedShaders](https://github.com/isuewo/OverimaginedShaders) - A Complementary Reimagined edit
 - [weynn/Exelon](https://github.com/weynn/Exelon) - 
 - [TheAlienDoctor/minecraft-resource-pack-converter](https://github.com/TheAlienDoctor/minecraft-resource-pack-converter) - Converts Minecraft resource packs between versions (Bedrock and Java)
@@ -4203,6 +4244,7 @@
 
 ## python 
 
+- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
 - [DXVVAY/Xvirus-Tools](https://github.com/DXVVAY/Xvirus-Tools) - Xvirus-Tools is a discord tool with tons of scripts that takes advantage of Discords WEAK API
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -4341,6 +4383,7 @@
 
 ## react 
 
+- [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [carlelieser/flixerr](https://github.com/carlelieser/flixerr) - The best free movie torrent streaming app.
@@ -4422,6 +4465,7 @@
 
 ## reverse-engineering 
 
+- [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -4452,6 +4496,7 @@
 
 ## rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
@@ -4540,6 +4585,7 @@
 
 ## server 
 
+- [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [thecoder-001/MineColab](https://github.com/thecoder-001/MineColab) - Run Minecraft Server on Google Colab.
@@ -4717,6 +4763,10 @@
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## terraform 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+
 ## testing 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -4736,6 +4786,7 @@
 
 ## typescript 
 
+- [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
@@ -4902,6 +4953,8 @@
 
 ## windows 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube support, with Effects and Themes. Win & Linux
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
