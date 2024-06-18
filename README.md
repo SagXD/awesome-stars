@@ -99,7 +99,6 @@
 
 ## Batchfile 
 
-- [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - NetherSX2 based on AetherSX2 3668
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [Alex313031/Snippets](https://github.com/Alex313031/Snippets) - Various little snippets, scripts, binaries, and batch files, usually having something to do with Chromium or Windows.
@@ -258,6 +257,7 @@
 
 ## C++ 
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
@@ -455,6 +455,7 @@
 
 ## Dart 
 
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [postbloomly/muffed](https://github.com/postbloomly/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
@@ -596,6 +597,7 @@
 
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
 - [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
+- [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - NetherSX2 based on AetherSX2 3668
 - [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
@@ -663,6 +665,7 @@
 
 ## Java 
 
+- [quek04/undergarden](https://github.com/quek04/undergarden) - Repository for the Undergarden, a Minecraft dimension mod.
 - [Shadows-of-Fire/Apotheosis](https://github.com/Shadows-of-Fire/Apotheosis) - All things that should have been.
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [Team-Hibiscus/NaturesSpirit](https://github.com/Team-Hibiscus/NaturesSpirit) - 
@@ -991,6 +994,7 @@
 
 ## JavaScript 
 
+- [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -1222,7 +1226,7 @@
 - [Faruk-Tutkus/macroaimtrainer](https://github.com/Faruk-Tutkus/macroaimtrainer) - Aim Trainer - Challenge and Tracking
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-- [quangei/Q-bot-console](https://github.com/quangei/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
+- [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [CarloxCoC/SpamBot](https://github.com/CarloxCoC/SpamBot) - Spam bot for 6b6t.org using Mineflayer
 - [TomPlaneta/SpamBotPlus](https://github.com/TomPlaneta/SpamBotPlus) - Improved version of spam bot for 6b6t.org using Mineflayer
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
@@ -1577,6 +1581,8 @@
 
 ## Others 
 
+- [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
+- [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Enchanted-Games/fix-horizontal-camera-lag](https://github.com/Enchanted-Games/fix-horizontal-camera-lag) - A minecraft mod that fixes the horizontal camera lag when riding an entity
 - [Adrenix/Nostalgic-Tweaks](https://github.com/Adrenix/Nostalgic-Tweaks) - This mod brings back a plethora of Minecraft Alpha/Beta gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft by tweaking the mod to their pr
@@ -1803,6 +1809,8 @@
 
 ## Python 
 
+- [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
+- [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot) - Sync Bluetooth for dualboot Linux and Windows
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
@@ -1882,7 +1890,7 @@
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [XelXen/GiveawayBot](https://github.com/XelXen/GiveawayBot) - 
-- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader plus installer
+- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [JapanYoshi/dollphone-foss](https://github.com/JapanYoshi/dollphone-foss) - Cute soft icon pack
@@ -2015,6 +2023,9 @@
 
 ## Rust 
 
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -2217,6 +2228,8 @@
 
 ## TypeScript 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
