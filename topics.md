@@ -264,6 +264,7 @@
 
 ## analytics 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
@@ -538,6 +539,7 @@
 
 ## angular 
 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## ansible 
@@ -595,6 +597,7 @@
 
 ## awesome 
 
+- [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -662,6 +665,7 @@
 
 ## awesome-list 
 
+- [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -733,6 +737,7 @@
 
 ## bash 
 
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1899,6 +1904,8 @@
 
 ## hacktoberfest 
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -2168,6 +2175,7 @@
 
 ## java 
 
+- [quek04/undergarden](https://github.com/quek04/undergarden) - Repository for the Undergarden, a Minecraft dimension mod.
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
 - [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
@@ -2551,6 +2559,8 @@
 
 ## linux 
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
@@ -2724,6 +2734,7 @@
 
 ## macos 
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
@@ -2804,6 +2815,7 @@
 
 ## mastodon 
 
+- [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
@@ -2863,6 +2875,7 @@
 
 ## minecraft 
 
+- [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
 - [PoeticRainbow/golden-days](https://github.com/PoeticRainbow/golden-days) - Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.
 - [mortuusars/Exposure](https://github.com/mortuusars/Exposure) - Camera mod for Minecraft with focus on process and aesthetics.
 - [FxMorin/MoreCulling](https://github.com/FxMorin/MoreCulling) - Stop rendering things you can't see. A mod that changes how multiple types of culling are handled in order to improve performance
@@ -2964,7 +2977,7 @@
 - [horionclient/Horion](https://github.com/horionclient/Horion) - Horion - A Minecraft: Bedrock Edition Utility Mod.
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [ItziSpyder/ClickCrystals](https://github.com/ItziSpyder/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
-- [quangei/Q-bot-console](https://github.com/quangei/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
+- [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
 - [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe AntiCheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
@@ -3096,6 +3109,7 @@
 
 ## mysql 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -3320,6 +3334,9 @@
 
 ## others 
 
+- [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
+- [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot) - Sync Bluetooth for dualboot Linux and Windows
 - [Shadows-of-Fire/Apotheosis](https://github.com/Shadows-of-Fire/Apotheosis) - All things that should have been.
 - [castdrian/mw-native](https://github.com/castdrian/mw-native) - The native app version of movie-web
 - [Team-Hibiscus/NaturesSpirit](https://github.com/Team-Hibiscus/NaturesSpirit) - 
@@ -3581,7 +3598,7 @@
 - [BrotatoMods/KANA-ModLoaderPatcher](https://github.com/BrotatoMods/KANA-ModLoaderPatcher) - [KANA] Patches the ModLoader to the latest version. 🔼
 - [BrotatoMods/KANA-BFX](https://github.com/BrotatoMods/KANA-BFX) - [KANA] Library of effects 🧪
 - [BrotatoMods/Darkly77-LimitProjectiles](https://github.com/BrotatoMods/Darkly77-LimitProjectiles) - Limits the number of enemy projectiles that can be onscreen at once. Aka "Less Enemy Bullets"
-- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader plus installer
+- [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader
 - [BrotatoMods/Brotato-Mod-Options](https://github.com/BrotatoMods/Brotato-Mod-Options) - An in-game UI to view and edit mod configurations
 - [BrotatoMods/Darkly77-ExpandedChallenges](https://github.com/BrotatoMods/Darkly77-ExpandedChallenges) - Gives you lots more options for your custom challenges, including D5 unlocks
 - [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
@@ -4116,6 +4133,7 @@
 
 ## p2p 
 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -4180,6 +4198,7 @@
 
 ## postgresql 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## powershell 
@@ -4436,6 +4455,7 @@
 
 ## reactjs 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
@@ -4496,6 +4516,8 @@
 
 ## rust 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -4599,6 +4621,8 @@
 
 ## serverless 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -4637,6 +4661,7 @@
 
 ## sql 
 
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 
@@ -4953,6 +4978,8 @@
 
 ## windows 
 
+- [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
