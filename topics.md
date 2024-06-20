@@ -245,6 +245,8 @@
 
 ## ai 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [niedev/RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [hfreire/get-me-a-date](https://github.com/hfreire/get-me-a-date) - :heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:
@@ -271,6 +273,10 @@
 
 ## android 
 
+- [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
+- [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
+- [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter).
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -285,7 +291,7 @@
 - [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide) - Slide is an open-source, ad-free Reddit browser for Android.
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
-- [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk & KernelSU
+- [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - Modules Manager for Magisk & KernelSU
 - [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
 - [0xf4b1/motionmate](https://github.com/0xf4b1/motionmate) - Simple and lightweight step counter app for Android
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
@@ -549,6 +555,7 @@
 
 ## api 
 
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
@@ -727,6 +734,8 @@
 
 ## azure 
 
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 ## backend 
@@ -815,6 +824,9 @@
 
 ## chatgpt 
 
+- [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, JDA and other implementations.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
+- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
@@ -847,6 +859,7 @@
 
 ## chrome-extension 
 
+- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [cynber/lemmy-instance-assistant](https://github.com/cynber/lemmy-instance-assistant) - Browser extension to help make Lemmy & Kbin easier to use
 - [plibither8/asciinema-player-for-github](https://github.com/plibither8/asciinema-player-for-github) - 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
@@ -1244,6 +1257,7 @@
 
 ## electron 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [keerthivasansa/animos](https://github.com/keerthivasansa/animos) - Animos - Clean and minimal Anime-streaming desktop application without any ads.
 - [4xmen/anubias](https://github.com/4xmen/anubias) - Developed mobile apps so easy and native with GUI 📱
@@ -1355,6 +1369,8 @@
 
 ## firefox 
 
+- [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
+- [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
@@ -1386,6 +1402,7 @@
 
 ## flutter 
 
+- [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter).
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
@@ -1472,6 +1489,7 @@
 
 ## game 
 
+- [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
@@ -1601,6 +1619,7 @@
 
 ## game-development 
 
+- [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [libktx/ktx](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework
@@ -1836,6 +1855,7 @@
 
 ## golang 
 
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
@@ -1863,6 +1883,7 @@
 
 ## google 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -1913,6 +1934,10 @@
 
 ## hacktoberfest 
 
+- [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, JDA and other implementations.
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
+- [Darkhax-Minecraft/Enchantment-Descriptions](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) - Displays descriptions about an enchantment on the tooltip.
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
@@ -2152,6 +2177,7 @@
 
 ## ios 
 
+- [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [blake502/balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
@@ -2186,6 +2212,9 @@
 
 ## java 
 
+- [MohistMC/Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
+- [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, JDA and other implementations.
+- [TeamLapen/Vampirism](https://github.com/TeamLapen/Vampirism) - A Minecraft mod called Vampirism
 - [quek04/undergarden](https://github.com/quek04/undergarden) - Repository for the Undergarden, a Minecraft dimension mod.
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
@@ -2411,9 +2440,11 @@
 
 ## kotlin 
 
+- [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) - The missing link between Android and a sorted file system.
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
-- [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk & KernelSU
+- [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - Modules Manager for Magisk & KernelSU
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
@@ -2571,6 +2602,8 @@
 
 ## linux 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [energye/systray](https://github.com/energye/systray) - Support for Windows, Linux, and MacOSX system trays
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
@@ -2723,6 +2756,7 @@
 
 ## mac 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -2841,6 +2875,7 @@
 
 ## material-design 
 
+- [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
 - [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
@@ -2887,6 +2922,18 @@
 
 ## minecraft 
 
+- [MohistMC/Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
+- [BlouFlin/Photography](https://github.com/BlouFlin/Photography) - Yet another Minecraft camera mod to take photos of your world on maps!
+- [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, JDA and other implementations.
+- [HttpMarco/polocloud](https://github.com/HttpMarco/polocloud) - PoloCloud is the simplest and easiest Cloud for Minecraft
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [AdamCalculator/DynamicPack](https://github.com/AdamCalculator/DynamicPack) - This minecraft mod will automatically update your resource packs!
+- [TudbuT/ttc](https://github.com/TudbuT/ttc) - TTC Client
+- [XatzClient/official-skid-list](https://github.com/XatzClient/official-skid-list) - I was pretty dumb and forked a joke project, enjoy the skid list for minecraft speds ig
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
+- [ChoiceTheorem/ChoiceTheorem-s-overhauled-village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
+- [FTBTeam/FTB-Teams](https://github.com/FTBTeam/FTB-Teams) - Teaming system for Minecraft, create a team, claim chunks with FTB Chunks or share progress with FTB Quests, and much more.
+- [TeamLapen/Vampirism](https://github.com/TeamLapen/Vampirism) - A Minecraft mod called Vampirism
 - [valaphee/mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs.
 - [mcbeet/beet](https://github.com/mcbeet/beet) - The Minecraft pack development kit.
 - [nebuIr/Default-Dark-Mode](https://github.com/nebuIr/Default-Dark-Mode) - 🌙 The Dark Mode Resource Pack for Minecraft: Java Edition
@@ -3096,6 +3143,7 @@
 
 ## music 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube support, with Effects and Themes. Win & Linux
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [tmhglnd/total-serialism](https://github.com/tmhglnd/total-serialism) - Toolbox full of Algorithmic Composition methods
@@ -3182,6 +3230,7 @@
 
 ## node 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api) - 🤳 Instagram Private Web API client for Node
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
@@ -3354,6 +3403,21 @@
 
 ## others 
 
+- [3dfxdev/EDGE](https://github.com/3dfxdev/EDGE) - EDGE Source Code
+- [ZDoom/Raze](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
+- [ZDoom/gzdoom](https://github.com/ZDoom/gzdoom) - GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities
+- [aryanA101a/2048](https://github.com/aryanA101a/2048) - 2048 in Kotlin Android.
+- [agilanbu/2048-Game](https://github.com/agilanbu/2048-Game) - 2048 game in native android using kotlin
+- [dkim19375/Game2048Android](https://github.com/dkim19375/Game2048Android) - 2048 for WearOS
+- [sogilis/qt2048](https://github.com/sogilis/qt2048) - 2048 for desktop, iOS and Android
+- [PreviousAlone/Nnngram](https://github.com/PreviousAlone/Nnngram) - Another gram by NextAlone
+- [DerTyp7214/RboardThemeManagerV3](https://github.com/DerTyp7214/RboardThemeManagerV3) - 
+- [satisfyu/Meadow](https://github.com/satisfyu/Meadow) - A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.
+- [Patbox/UniversalGraves](https://github.com/Patbox/UniversalGraves) - Grave mod for Fabric!
+- [MehVahdJukaar/WoodGood](https://github.com/MehVahdJukaar/WoodGood) - 
+- [betmma/my_balatro_mods](https://github.com/betmma/my_balatro_mods) - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.
+- [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
+- [McJtyMods/TheOneProbe](https://github.com/McJtyMods/TheOneProbe) - This simple mod adds a probe and an API for other mods to show information with that probe
 - [HypixelDev/ResourcePackConverter](https://github.com/HypixelDev/ResourcePackConverter) - Hypixel's 1.13 Resource Pack converter.
 - [famedly/matrix-dart-sdk](https://github.com/famedly/matrix-dart-sdk) - Matrix SDK written in pure Dart.
 - [Rustnot/Trekfetch](https://github.com/Rustnot/Trekfetch) - A gorgeous neofetch custom config for your Linux terminal
@@ -4276,6 +4340,7 @@
 
 ## pwa 
 
+- [svg-beauty/svgomfg](https://github.com/svg-beauty/svgomfg) - Offline Capable⚡Web GUI for easy and visual 🎛️ Vector Optimization feat. latest⚙️SVGO v3.1.0
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [ovidiuch/flatris](https://github.com/ovidiuch/flatris) - Fast-paced two-player web game
@@ -4718,6 +4783,7 @@
 
 ## swift 
 
+- [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [avery-pierce/Cavy](https://github.com/avery-pierce/Cavy) - Lemmy client for iOS, written in Swift
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -4730,6 +4796,7 @@
 
 ## swiftui 
 
+- [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [avery-pierce/Cavy](https://github.com/avery-pierce/Cavy) - Lemmy client for iOS, written in Swift
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
@@ -4742,6 +4809,7 @@
 
 ## telegram 
 
+- [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
@@ -4941,6 +5009,7 @@
 
 ## web 
 
+- [PrismarineJS/prismarine-web-client](https://github.com/PrismarineJS/prismarine-web-client) - Minecraft web client running in your browser
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -4963,11 +5032,13 @@
 
 ## web-development 
 
+- [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## webapp 
 
+- [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [heysagnik/screenREC](https://github.com/heysagnik/screenREC) - A really simple , ad-free & minimal web based screen recorder 📹
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [upes-open/OSoC-Swayam-Bazaar](https://github.com/upes-open/OSoC-Swayam-Bazaar) - This Web Application connects with local shops for personalized shopping. Help you buy goods from your favorite stores.  Shopkeepers add their products, building a complete database. The application w
@@ -5004,6 +5075,8 @@
 
 ## windows 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [energye/systray](https://github.com/energye/systray) - Support for Windows, Linux, and MacOSX system trays
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
