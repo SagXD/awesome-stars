@@ -404,6 +404,7 @@
 
 ## CSS 
 
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [castdrian/mw-native](https://github.com/castdrian/mw-native) - The native app version of movie-web
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
@@ -684,6 +685,9 @@
 
 ## Java 
 
+- [Lightman314/LightmansCurrency](https://github.com/Lightman314/LightmansCurrency) - Lightman's Currency Minecraft Mod
+- [mariumbacchus/Soulslike-Weaponry](https://github.com/mariumbacchus/Soulslike-Weaponry) - A minecraft mod that adds new bosses and legendary weapons
+- [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
 - [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
 - [BuildCraft/BuildCraft](https://github.com/BuildCraft/BuildCraft) - BuildCraft
@@ -782,7 +786,7 @@
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [FabricMC/yarn](https://github.com/FabricMC/yarn) - Libre Minecraft mappings, free to use for everyone. No exceptions.
-- [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - A freely moveable floating window which shows the package name and class name of current activity
+- [codehasan/Current-Activity](https://github.com/codehasan/Current-Activity) - 📱 A floating window that can be moved freely and displays the package and class name of the active application
 - [zhuowei/MCPELauncher](https://github.com/zhuowei/MCPELauncher) - Source code for BlockLauncher, a launcher that patches Minecraft for Android
 - [skywardmc/threadtweak](https://github.com/skywardmc/threadtweak) - Improve and tweak Minecraft thread scheduling (again!)
 - [UltimateBoomer/mc-smoothboot](https://github.com/UltimateBoomer/mc-smoothboot) - Improve and tweak Minecraft thread scheduling.
@@ -1326,6 +1330,8 @@
 
 ## Kotlin 
 
+- [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
+- [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 - [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
 - [aryanA101a/2048](https://github.com/aryanA101a/2048) - 2048 in Kotlin Android.
 - [agilanbu/2048-Game](https://github.com/agilanbu/2048-Game) - 2048 game in native android using kotlin
@@ -1571,6 +1577,7 @@
 
 ## Lua 
 
+- [MathIsFun0/Cryptid](https://github.com/MathIsFun0/Cryptid) - An unbalanced Balatro mod
 - [betmma/my_balatro_mods](https://github.com/betmma/my_balatro_mods) - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
@@ -2201,6 +2208,7 @@
 
 ## Shell 
 
+- [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [christopherkobayashi/xfce4-hotcorner-plugin](https://github.com/christopherkobayashi/xfce4-hotcorner-plugin) - Xfce4 HotCorner Panel Plugin
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
