@@ -178,6 +178,7 @@
 
 ## C# # 
 
+- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube support, with Effects and Themes. Win & Linux
@@ -259,6 +260,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [momentum-mod/game](https://github.com/momentum-mod/game) - Momentum Mod - Standalone Source Movement Speedrunning (READ README)
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [3dfxdev/EDGE](https://github.com/3dfxdev/EDGE) - EDGE Source Code
@@ -685,6 +687,11 @@
 
 ## Java 
 
+- [MoriyaShiine/bewitchment](https://github.com/MoriyaShiine/bewitchment) - A Minecraft mod that aims to add witchcraft.
+- [Pandarix/BetterArcheology](https://github.com/Pandarix/BetterArcheology) - Fabric Mod that enhances the boring archeology-system in 1.20
+- [FileContainer/iAdb-api](https://github.com/FileContainer/iAdb-api) - 
+- [tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling) - Using async path-tracing to hide Tiles/Entities that are not visible
+- [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
 - [Lightman314/LightmansCurrency](https://github.com/Lightman314/LightmansCurrency) - Lightman's Currency Minecraft Mod
 - [mariumbacchus/Soulslike-Weaponry](https://github.com/mariumbacchus/Soulslike-Weaponry) - A minecraft mod that adds new bosses and legendary weapons
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
@@ -1017,7 +1024,7 @@
 - [colorblindness/3arthh4ck](https://github.com/colorblindness/3arthh4ck) - The real phobos recode. Brought to you by oHareDaBoss himself.
 - [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - The most popular skin plugin for Minecraft
 - [zPeanut/Hydrogen](https://github.com/zPeanut/Hydrogen) - An open source, mixin based ghost client for Minecraft 1.8.9 built on Minecraft Forge.
-- [MokkowDev/LiquidBouncePlusPlus](https://github.com/MokkowDev/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
+- [MongusOrg/LiquidBouncePlusPlus](https://github.com/MongusOrg/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
 - [3arthqu4ke/3arthh4ck](https://github.com/3arthqu4ke/3arthh4ck) - Utility mod and proxy server for 1.12.2
 - [pkst-bta-stuffs/BTAModList](https://github.com/pkst-bta-stuffs/BTAModList) - A GUI of loaded Babric mods, for Better than Adventure
 - [Flamarine/BTAModList](https://github.com/Flamarine/BTAModList) - A GUI of loaded Babric mods, for Better than Adventure
@@ -1330,6 +1337,8 @@
 
 ## Kotlin 
 
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+- [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 - [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
