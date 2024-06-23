@@ -273,6 +273,8 @@
 
 ## android 
 
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+- [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 - [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
@@ -980,6 +982,7 @@
 
 ## csharp 
 
+- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
@@ -1241,6 +1244,7 @@
 
 ## dotnet 
 
+- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube support, with Effects and Themes. Win & Linux
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
@@ -1634,6 +1638,7 @@
 
 ## game-development 
 
+- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1898,6 +1903,7 @@
 
 ## google 
 
+- [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [readtedium/udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
@@ -1949,6 +1955,8 @@
 
 ## hacktoberfest 
 
+- [MoriyaShiine/bewitchment](https://github.com/MoriyaShiine/bewitchment) - A Minecraft mod that aims to add witchcraft.
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
@@ -2310,7 +2318,7 @@
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [MaikeMota/robot](https://github.com/MaikeMota/robot) - A library for build Robots with Java
 - [Bonfire/JClicker](https://github.com/Bonfire/JClicker) - An extremely lightweight Java auto-clicker
-- [MokkowDev/LiquidBouncePlusPlus](https://github.com/MokkowDev/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
+- [MongusOrg/LiquidBouncePlusPlus](https://github.com/MongusOrg/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
 - [Wurst-Imperium/Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
 - [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client forked from LiquidBounce
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
@@ -2953,6 +2961,9 @@
 
 ## minecraft 
 
+- [MoriyaShiine/bewitchment](https://github.com/MoriyaShiine/bewitchment) - A Minecraft mod that aims to add witchcraft.
+- [Pandarix/BetterArcheology](https://github.com/Pandarix/BetterArcheology) - Fabric Mod that enhances the boring archeology-system in 1.20
+- [tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling) - Using async path-tracing to hide Tiles/Entities that are not visible
 - [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
 - [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -3139,7 +3150,7 @@
 - [WurstPlus/wurst-plus-three](https://github.com/WurstPlus/wurst-plus-three) - forge mod for 1.12.2 minecraft
 - [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - The most popular skin plugin for Minecraft
 - [ferrislovescpp/lithium.rip](https://github.com/ferrislovescpp/lithium.rip) - the official source-code leak of lithiumclient.wtf
-- [MokkowDev/LiquidBouncePlusPlus](https://github.com/MokkowDev/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
+- [MongusOrg/LiquidBouncePlusPlus](https://github.com/MongusOrg/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
 - [Elemend/Vein-Miner-Unified](https://github.com/Elemend/Vein-Miner-Unified) - The One Vein-Miner-Datapack: Minecraft Java Versions 1.13/1.14/1.15/1.16/1.17
 - [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.4 data packs
 - [AntonSofron/oCd-Pack-Vanilla](https://github.com/AntonSofron/oCd-Pack-Vanilla) - Minecraft oCd pack 16x
@@ -3452,6 +3463,9 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [FileContainer/iAdb-api](https://github.com/FileContainer/iAdb-api) - 
+- [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
 - [Lightman314/LightmansCurrency](https://github.com/Lightman314/LightmansCurrency) - Lightman's Currency Minecraft Mod
 - [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
 - [MathIsFun0/Cryptid](https://github.com/MathIsFun0/Cryptid) - An unbalanced Balatro mod
