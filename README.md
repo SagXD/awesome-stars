@@ -111,6 +111,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [Novum/vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
@@ -482,7 +483,7 @@
 - [StarsWarrior/BlackHole](https://github.com/StarsWarrior/BlackHole) - A Music Player App made with Flutter
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
 - [gita/Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App) - Flutter app for Bhagavad Gita
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [alexrintt/kanade](https://github.com/alexrintt/kanade) - Android app to extract apks from installed apps.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -762,7 +763,6 @@
 - [agateau/pixelwheels](https://github.com/agateau/pixelwheels) - A top-down retro racing game for PC (Linux, macOS, Windows) and Android.
 - [himekifee/MCMTFabric](https://github.com/himekifee/MCMTFabric) - Minecraft Multi-Threading Mod Fabric Version
 - [osudroid/osu-droid](https://github.com/osudroid/osu-droid) - 
-- [danielricci/solitaire](https://github.com/danielricci/solitaire) - Step into a nostalgic world with this homage to the classic Solitaire from Windows 95. Experience the same addictive gameplay, now refined for a flawless journey. Immerse yourself in the timeless char
 - [kiooeht/ModTheSpire](https://github.com/kiooeht/ModTheSpire) - External mod loader for Slay The Spire
 - [bttv-android/bttv](https://github.com/bttv-android/bttv) - A mod of the Twitch Android Mobile App adding BetterTTV, FrankerFaceZ and 7TV emotes
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
@@ -1347,6 +1347,8 @@
 
 ## Kotlin 
 
+- [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+- [vishal2376/scroll-block](https://github.com/vishal2376/scroll-block) - Scroll Block is an MVVM Jetpack Compose app which provides ad-free control over your scrolling habits with built-in analytics to help you understand your usage patterns and boost productivity.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [oikvpqya/android-2048-compose](https://github.com/oikvpqya/android-2048-compose) - 2048 implemented using Jetpack Compose
@@ -1675,6 +1677,7 @@
 
 ## Others 
 
+- [BogdanKlimov11/BogdanKlimov11](https://github.com/BogdanKlimov11/BogdanKlimov11) - 
 - [Keksuccino/FancyMenu](https://github.com/Keksuccino/FancyMenu) - Source code for FancyMenu.
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
 - [XatzClient/official-skid-list](https://github.com/XatzClient/official-skid-list) - I was pretty dumb and forked a joke project, enjoy the skid list for minecraft speds ig
