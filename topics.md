@@ -825,6 +825,7 @@
 
 ## c 
 
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
@@ -1519,6 +1520,10 @@
 
 ## game 
 
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
+- [Cynthion21x/Calcuslugs](https://github.com/Cynthion21x/Calcuslugs) - An artillery game about slugs killing each other using maths
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
 - [momentum-mod/game](https://github.com/momentum-mod/game) - Momentum Mod - Standalone Source Movement Speedrunning (READ README)
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
@@ -1651,6 +1656,7 @@
 
 ## game-development 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
@@ -1693,6 +1699,7 @@
 
 ## game-engine 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth
 - [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine
@@ -1758,6 +1765,7 @@
 
 ## games 
 
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
@@ -1862,7 +1870,7 @@
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1901,7 +1909,7 @@
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [alyyousuf7/twenty48](https://github.com/alyyousuf7/twenty48) - 2048 game on CLI
@@ -1970,6 +1978,7 @@
 
 ## hacktoberfest 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
@@ -2501,6 +2510,7 @@
 
 ## kotlin 
 
+- [kiwicom/navigation-compose-typed](https://github.com/kiwicom/navigation-compose-typed) - Type-safe arguments for Jetpack Navigation Compose using Kotlinx.Serialization
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 - [vishal2376/scroll-block](https://github.com/vishal2376/scroll-block) - Scroll Block is an MVVM Jetpack Compose app which provides ad-free control over your scrolling habits with built-in analytics to help you understand your usage patterns and boost productivity.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
@@ -2654,6 +2664,7 @@
 
 ## learning 
 
+- [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ## library 
@@ -2795,7 +2806,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - Summarize YouTube-Videos, Articles, Images and Documents with AI
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 
 ## localization 
 
@@ -3462,6 +3473,7 @@
 
 ## opengl 
 
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
 - [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
@@ -3529,7 +3541,7 @@
 - [satisfyu/Meadow](https://github.com/satisfyu/Meadow) - A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.
 - [Patbox/UniversalGraves](https://github.com/Patbox/UniversalGraves) - Grave mod for Fabric!
 - [MehVahdJukaar/WoodGood](https://github.com/MehVahdJukaar/WoodGood) - 
-- [niedev/RTranslator](https://github.com/niedev/RTranslator) - An open source real-time translation app for Android that runs locally
+- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [betmma/my_balatro_mods](https://github.com/betmma/my_balatro_mods) - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [McJtyMods/TheOneProbe](https://github.com/McJtyMods/TheOneProbe) - This simple mod adds a probe and an API for other mods to show information with that probe
@@ -3563,7 +3575,7 @@
 - [sixpounder/game-of-life](https://github.com/sixpounder/game-of-life) - A Conway's Game Of Life application for the gnome desktop
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations.
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet
-- [j-hc/FlagSecurePatcher](https://github.com/j-hc/FlagSecurePatcher) - Magisk module to patch service.jar on device to disable flag secure and screenshot listeners
+- [j-hc/FlagSecurePatcher](https://github.com/j-hc/FlagSecurePatcher) - Magisk module to patch service.jar on device to disable secure lock and screenshot listeners
 - [Skai256/mapart](https://github.com/Skai256/mapart) - Mineflayer flat carpet automation
 - [FiguraMC/Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 - [samolego/FabricTailor](https://github.com/samolego/FabricTailor) - A server-side or singleplayer skin changing mod for fabric.
@@ -4471,6 +4483,8 @@
 
 ## python 
 
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
+- [Cynthion21x/Calcuslugs](https://github.com/Cynthion21x/Calcuslugs) - An artillery game about slugs killing each other using maths
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
 - [DXVVAY/Xvirus-Tools](https://github.com/DXVVAY/Xvirus-Tools) - Xvirus-Tools is a discord tool with tons of scripts that takes advantage of Discords WEAK API
@@ -4557,6 +4571,7 @@
 
 ## python3 
 
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
