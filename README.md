@@ -957,6 +957,7 @@
 - [babbaj/nether-pathfinder-mod](https://github.com/babbaj/nether-pathfinder-mod) - 
 - [ElijahBare/baritone](https://github.com/ElijahBare/baritone) - google maps for block game
 - [3arthh4ckDevelopment/3arthh4ck-Client](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client) - Utility mod and proxy server for 1.12.2 - now continued
+- [3arthh4ckDevelopment/3arthh4ck-Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) - Earthhack Plugins
 - [maxsupermanhd/meteor-villager-roller](https://github.com/maxsupermanhd/meteor-villager-roller) - Module for Meteor Client that continiously breaks and places work block of villager until it has desired trade
 - [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [Tectato/BetterCommandBlockUI](https://github.com/Tectato/BetterCommandBlockUI) - A fabric mod providing a more usable UI for Bommand Blocks
@@ -1329,7 +1330,7 @@
 - [TomPlaneta/SpamBotPlus](https://github.com/TomPlaneta/SpamBotPlus) - Improved version of spam bot for 6b6t.org using Mineflayer
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
-- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe AntiCheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
+- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
@@ -1847,7 +1848,6 @@
 - [Bugswriter/fooddish](https://github.com/Bugswriter/fooddish) - 
 - [Bugswriter/bugsnavi](https://github.com/Bugswriter/bugsnavi) - 
 - [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
-- [3arthh4ckDevelopment/3arthh4ck-Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) - Earthhack Plugins
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
