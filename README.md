@@ -547,6 +547,7 @@
 
 ## GDScript 
 
+- [charlesmaddock/fishards](https://github.com/charlesmaddock/fishards) - An action-packed multiplayer game, made in Godot, where you can battle friends as a fish wizard.
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
 - [enderprism/godot-dash-v2](https://github.com/enderprism/godot-dash-v2) - A Geometry Dash fangame and rewrite of Godot Dash V1.
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
@@ -587,6 +588,7 @@
 
 ## Go 
 
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [energye/systray](https://github.com/energye/systray) - Support for Windows, Linux, and MacOSX system trays
@@ -709,6 +711,9 @@
 
 ## Java 
 
+- [simple-last-fm-scrobbler/sls](https://github.com/simple-last-fm-scrobbler/sls) - Simple Scrobbler, for Android -- last.fm, libre.fm & ListenBrainz
+- [OctoGramApp/OctoGram](https://github.com/OctoGramApp/OctoGram) - OctoGram is an unofficial messaging app that uses Telegram's API.
+- [chronosacaria/MCDungeonsWeapons](https://github.com/chronosacaria/MCDungeonsWeapons) - Bringing the weapons and tools of Minecraft Dungeons to Minecraft
 - [TelepathicGrunt/RepurposedStructures](https://github.com/TelepathicGrunt/RepurposedStructures) - Reusing and modifying vanilla structures for extra variety!
 - [FTBTeam/FTB-Quests](https://github.com/FTBTeam/FTB-Quests) - Quests is one of the best Questing mods for Minecraft out there. It has a highly customisable questing system and an easy to use interface.
 - [SammySemicolon/Malum-Mod](https://github.com/SammySemicolon/Malum-Mod) - A minecraft mod about dark magic.
@@ -716,6 +721,7 @@
 - [team-abnormals/upgrade-aquatic](https://github.com/team-abnormals/upgrade-aquatic) - Further upgrades the Update Aquatic with more aquatic additions!
 - [Darkhax-Minecraft/BotanyPots](https://github.com/Darkhax-Minecraft/BotanyPots) - Adds some flower pots that can be used to grow various crops.
 - [Shadows-of-Fire/Placebo](https://github.com/Shadows-of-Fire/Placebo) - A library mod
+- [RohitKushvaha01/Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Advanced Text Editor for android
 - [xHookman/IGexperiments](https://github.com/xHookman/IGexperiments) - Enable dev menu & experiments for Instagram!
 - [DHD2280/Oxygen-Customizer](https://github.com/DHD2280/Oxygen-Customizer) - Customize Oxygen OS
 - [MoriyaShiine/bewitchment](https://github.com/MoriyaShiine/bewitchment) - A Minecraft mod that aims to add witchcraft.
@@ -1082,6 +1088,10 @@
 
 ## JavaScript 
 
+- [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
+- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop) - A full-featured download manager.
 - [hackclub/sprig](https://github.com/hackclub/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
@@ -1385,7 +1395,6 @@
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [oikvpqya/android-2048-compose](https://github.com/oikvpqya/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
-- [RohitKushvaha01/Xed-Editor](https://github.com/RohitKushvaha01/Xed-Editor) - Advanced Text Editor for android
 - [99keshav99/CaptureSposed](https://github.com/99keshav99/CaptureSposed) - Xposed module that effectively disables the newly introduced screenshot detection API in Android 14
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
@@ -1709,6 +1718,7 @@
 
 ## Others 
 
+- [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
 - [almightyhak/aniyomi-anime-repo](https://github.com/almightyhak/aniyomi-anime-repo) - 
@@ -1869,7 +1879,7 @@
 - [PlutoSolutions/Boze](https://github.com/PlutoSolutions/Boze) - rip bozo client (newest exit scam made by konas developers WOWWWWWWWWWWWWWWW) - https://crystalpvp.ru/boze
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
-- [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - This contains info about Minecraft Shaders
+- [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - A wiki all about glsl shaders in Minecraft.
 - [eralp232/Eralp232](https://github.com/eralp232/Eralp232) - 
 - [eralp232/AgalarClient](https://github.com/eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
 - [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
@@ -2218,7 +2228,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
-- [modrinth/theseus](https://github.com/modrinth/theseus) - AKA the Modrinth App, a launcher for Minecraft: Java Edition with a clean look, easy-to-use interface, and deep integration into Modrinth services.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2386,6 +2395,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
@@ -2554,6 +2564,7 @@
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 - [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+- [modrinth/olympus](https://github.com/modrinth/olympus) - The Modrinth monorepo containing all code which powers Modrinth!
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
