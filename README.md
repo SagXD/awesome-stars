@@ -427,6 +427,7 @@
 
 ## CSS 
 
+- [HritikVaishnav/Myanimelist-Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) - Myanimelist extension under Project Redesign
 - [RemyIsCool/AnimatedFox](https://github.com/RemyIsCool/AnimatedFox) - A minimal Firefox theme with a hidden popup URL bar and satisfying animations
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
@@ -491,6 +492,8 @@
 
 ## Dart 
 
+- [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
+- [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 - [Sinneida/glassdown](https://github.com/Sinneida/glassdown) - 
 - [XxA7med66xX/forwardious](https://github.com/XxA7med66xX/forwardious) - A Chrome extension to redirect YouTube URLs to an Invidious instance.
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
@@ -555,6 +558,7 @@
 
 ## GDScript 
 
+- [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue) - A beginner-friendly music making app.
 - [Praytic/youtd2](https://github.com/Praytic/youtd2) - Classic community-driven session-based Tower Defense game with RPG elements.
 - [BonelessWater/Parasite](https://github.com/BonelessWater/Parasite) - Rogue-like single player game w/ Godot game engine
 - [m-canton/godot-scene-manager](https://github.com/m-canton/godot-scene-manager) - Scene Manager Plugin for Godot.
@@ -603,6 +607,7 @@
 
 ## Go 
 
+- [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
@@ -658,7 +663,7 @@
 - [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
-- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for the old 
+- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy Unb
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
@@ -728,6 +733,7 @@
 
 - [DimensionalDevelopment/DimDoors](https://github.com/DimensionalDevelopment/DimDoors) - A rewrite of the classic mod: Dimensional Doors
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
+- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
 - [dulvui/sn4ke](https://github.com/dulvui/sn4ke) - Snake game with 60 levels, made with libGDX for iOS and Android
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [simple-last-fm-scrobbler/sls](https://github.com/simple-last-fm-scrobbler/sls) - Simple Scrobbler, for Android -- last.fm, libre.fm & ListenBrainz
@@ -1400,6 +1406,12 @@
 
 ## Kotlin 
 
+- [smswithoutborders/SMSWithoutBorders-App-Android](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
+- [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
+- [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
+- [lukaspieper/Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services
+- [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
+- [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
 - [mr3y-the-programmer/Podcaster](https://github.com/mr3y-the-programmer/Podcaster) - 🎧 Podcast listening app. Showcase of using Jetpack Media 3 in a real, offline-first app
 - [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
@@ -1408,7 +1420,6 @@
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e tests for your JVM back-end API with Kotlin
 - [City-Zouitel/JetNote](https://github.com/City-Zouitel/JetNote) - A simple android note app made by jetpack compose.
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+.
-- [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
 - [cashapp/paparazzi](https://github.com/cashapp/paparazzi) - Render your Android screens without a physical device or emulator
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [KevinnZou/compose-swipeBox](https://github.com/KevinnZou/compose-swipeBox) - Swipeable list item with directional swipe actions for Jetpack Compose implemented by anchoredDraggable
@@ -1908,7 +1919,7 @@
 - [jven123/BreatheClicker](https://github.com/jven123/BreatheClicker) - a minecraft clicker (Breathe some air)
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Gatohost/gatoclient](https://github.com/Gatohost/gatoclient) - Gatoclient Rewritten - What people would have wanted
-- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - Java obfuscators list
+- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - List of all the somewhat popular and non-popular Java obfuscators on the Internet.
 - [PlutoSolutions/Boze](https://github.com/PlutoSolutions/Boze) - rip bozo client (newest exit scam made by konas developers WOWWWWWWWWWWWWWWW) - https://crystalpvp.ru/boze
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
@@ -1989,6 +2000,7 @@
 
 ## Python 
 
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
@@ -2232,7 +2244,7 @@
 - [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine.
 - [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 - [valaphee/mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs.
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -2337,6 +2349,7 @@
 
 ## Shell 
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [Magisk-Modules-Repo/HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar) - 
