@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -271,6 +272,10 @@
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
+## algorithmic-trading 
+
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
 ## analytics 
 
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
@@ -280,6 +285,7 @@
 
 ## android 
 
+- [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
@@ -2378,6 +2384,7 @@
 
 ## ios 
 
+- [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 - [dulvui/pocket-broomball](https://github.com/dulvui/pocket-broomball) - The world's first broomball video game, made with Godot Engine for iOS, Android and Web
@@ -2664,6 +2671,7 @@
 
 ## kotlin 
 
+- [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
@@ -3381,7 +3389,7 @@
 - [Levi2288/Akira-Client](https://github.com/Levi2288/Akira-Client) - minecraft ghost client
 - [WurstPlus/wurst-plus-three](https://github.com/WurstPlus/wurst-plus-three) - forge mod for 1.12.2 minecraft
 - [SkinsRestorer/SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorer) - The most popular skin plugin for Minecraft
-- [ferrislovescpp/lithium.rip](https://github.com/ferrislovescpp/lithium.rip) - the official source-code leak of lithiumclient.wtf
+- [m9nd/lithium.rip](https://github.com/m9nd/lithium.rip) - the official source-code leak of lithiumclient.wtf
 - [MongusOrg/LiquidBouncePlusPlus](https://github.com/MongusOrg/LiquidBouncePlusPlus) - Minecraft hack client, required forge 1.8.9 to run, based on LiquidBounce+.
 - [Elemend/Vein-Miner-Unified](https://github.com/Elemend/Vein-Miner-Unified) - The One Vein-Miner-Datapack: Minecraft Java Versions 1.13/1.14/1.15/1.16/1.17
 - [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.4 data packs
@@ -3708,6 +3716,8 @@
 
 ## others 
 
+- [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
+- [3000IQPlay/HashChecker](https://github.com/3000IQPlay/HashChecker) - Scans hashes of files in a specific directory at once using the SHA-256 algorithm. Useful for verifying backups, checking for file corruption, and ensuring file integrity.
 - [smswithoutborders/SMSWithoutBorders-App-Android](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Make one portrait alive!
 - [HritikVaishnav/Myanimelist-Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) - Myanimelist extension under Project Redesign
@@ -3853,7 +3863,7 @@
 - [Firch/Bunco](https://github.com/Firch/Bunco) - 
 - [ethangreen-dev/lovely-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 - [ligmajohn/mw](https://github.com/ligmajohn/mw) - 
-- [Arcticons-Team/Arcticons-Miyoo](https://github.com/Arcticons-Team/Arcticons-Miyoo) - Arcticons for Miyoo Mini Plus devices
+- [Arcticons-Team/Arcticons-OnionOS](https://github.com/Arcticons-Team/Arcticons-OnionOS) - Arcticons for Miyoo Mini Plus devices
 - [KD-lab-Open-Source/Perimeter](https://github.com/KD-lab-Open-Source/Perimeter) - 
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) - XeroLinux Layan Rice
@@ -4427,7 +4437,6 @@
 - [19MisterX98/SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
 - [mrkite/minutor](https://github.com/mrkite/minutor) - Mapping for Minecraft
 - [Vitalasy/reaper-addon](https://github.com/Vitalasy/reaper-addon) - source code for the outdated addon. compiles with latest meteor dev builds
-- [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
 - [3000IQPlay/Experium](https://github.com/3000IQPlay/Experium) - Private (Now Public) project (Atrium continued???)
 - [ShinyDragon96/ShiNeaL](https://github.com/ShinyDragon96/ShiNeaL) - 
 - [leijurv/MineBot](https://github.com/leijurv/MineBot) - 
@@ -4455,7 +4464,6 @@
 - [altrisi/FastOpenLinksAndFolders](https://github.com/altrisi/FastOpenLinksAndFolders) - A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder.
 - [s7n1ax/XuluPlus](https://github.com/s7n1ax/XuluPlus) - this is version 1.0.6 not the old 1.0.5
 - [HoseanRC/ifpeek-meteor-addon](https://github.com/HoseanRC/ifpeek-meteor-addon) - item frame shulker viewer
-- [PlutoSolutions/Boze](https://github.com/PlutoSolutions/Boze) - rip bozo client (newest exit scam made by konas developers WOWWWWWWWWWWWWWWW) - https://crystalpvp.ru/boze
 - [Gentleman2292/Blueish-grey](https://github.com/Gentleman2292/Blueish-grey) - a custom theme for MultiMC/PolyMC/PrismLauncher
 - [discord/discord-rpc](https://github.com/discord/discord-rpc) - 
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
@@ -4491,7 +4499,6 @@
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
 - [AlexProgrammerDE/PistonChat](https://github.com/AlexProgrammerDE/PistonChat) - An advanced chat plugin for survival/anarchy servers.
-- [PlutoSolutions/Abyss](https://github.com/PlutoSolutions/Abyss) - abyss 1.6.0 free and open for everyone version - I1rQsNCd0LDRiNC40YU=
 - [sigmaclientwastaken/Raven-bPLUS](https://github.com/sigmaclientwastaken/Raven-bPLUS) - Raven b+ : Raven b3 but better.
 - [s7n1ax/Thunderhackplus](https://github.com/s7n1ax/Thunderhackplus) - 
 - [alimustafa53tr/3arth4ck-Configs](https://github.com/alimustafa53tr/3arth4ck-Configs) - every single 3arth4ck config i have
