@@ -411,7 +411,7 @@
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [b1scoito/clicker](https://github.com/b1scoito/clicker) - Advanced Minecraft auto-clicker made in C++
 - [nicolascarlino/Minecraft-Autoclicker](https://github.com/nicolascarlino/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
-- [ferrislovescpp/lithium.rip](https://github.com/ferrislovescpp/lithium.rip) - the official source-code leak of lithiumclient.wtf
+- [m9nd/lithium.rip](https://github.com/m9nd/lithium.rip) - the official source-code leak of lithiumclient.wtf
 - [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.4 data packs
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -731,6 +731,7 @@
 
 ## Java 
 
+- [3000IQPlay/HashChecker](https://github.com/3000IQPlay/HashChecker) - Scans hashes of files in a specific directory at once using the SHA-256 algorithm. Useful for verifying backups, checking for file corruption, and ensuring file integrity.
 - [DimensionalDevelopment/DimDoors](https://github.com/DimensionalDevelopment/DimDoors) - A rewrite of the classic mod: Dimensional Doors
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
@@ -1406,6 +1407,7 @@
 
 ## Kotlin 
 
+- [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [smswithoutborders/SMSWithoutBorders-App-Android](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
@@ -1760,6 +1762,7 @@
 
 ## Others 
 
+- [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 - [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
@@ -1913,14 +1916,12 @@
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-- [PlutoSolutions/BloodyClient](https://github.com/PlutoSolutions/BloodyClient) - 20$ coffee client paste (1.19.3)
 - [devsyedmohsin/css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - Handmade collection of css tips tricks. Give it a star if you find it useful 🌟
 - [CoolClientCollectorz/future-for-everyone](https://github.com/CoolClientCollectorz/future-for-everyone) - Providing Future to everyone, free of charge
 - [jven123/BreatheClicker](https://github.com/jven123/BreatheClicker) - a minecraft clicker (Breathe some air)
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Gatohost/gatoclient](https://github.com/Gatohost/gatoclient) - Gatoclient Rewritten - What people would have wanted
 - [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - List of all the somewhat popular and non-popular Java obfuscators on the Internet.
-- [PlutoSolutions/Boze](https://github.com/PlutoSolutions/Boze) - rip bozo client (newest exit scam made by konas developers WOWWWWWWWWWWWWWWW) - https://crystalpvp.ru/boze
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
 - [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - A wiki all about glsl shaders in Minecraft.
@@ -1932,7 +1933,6 @@
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
-- [PlutoSolutions/Abyss](https://github.com/PlutoSolutions/Abyss) - abyss 1.6.0 free and open for everyone version - I1rQsNCd0LDRiNC40YU=
 - [s7n1ax/Thunderhackplus](https://github.com/s7n1ax/Thunderhackplus) - 
 - [alimustafa53tr/3arth4ck-Configs](https://github.com/alimustafa53tr/3arth4ck-Configs) - every single 3arth4ck config i have
 - [s7n1ax/PerryPhobos](https://github.com/s7n1ax/PerryPhobos) - Another bush client leaked by me lmao
@@ -2286,6 +2286,7 @@
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -2368,7 +2369,7 @@
 - [MisconceivedSec/photoshop-22-linux](https://github.com/MisconceivedSec/photoshop-22-linux) - Adobe Photoshop CC 2021 installation script for Linux, using wine.
 - [hypnotiger/photoshop-on-linux](https://github.com/hypnotiger/photoshop-on-linux) - Updated setup for wine and winetricks to run modern Adobe Photoshop on Linux.
 - [0xf4b1/hearthstone-linux](https://github.com/0xf4b1/hearthstone-linux) - Play Hearthstone from Blizzard Entertainment natively on Linux without the Battle.net Desktop App and Wine
-- [Arcticons-Team/Arcticons-Miyoo](https://github.com/Arcticons-Team/Arcticons-Miyoo) - Arcticons for Miyoo Mini Plus devices
+- [Arcticons-Team/Arcticons-OnionOS](https://github.com/Arcticons-Team/Arcticons-OnionOS) - Arcticons for Miyoo Mini Plus devices
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [shvchk/poly-dark](https://github.com/shvchk/poly-dark) - Poly dark GRUB theme
 - [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
@@ -2527,7 +2528,6 @@
 - [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [itchio/itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [Lanred-Dev/justreddit](https://github.com/Lanred-Dev/justreddit) - A simple package for getting random posts, random images, random SubReddits, and SubReddit info.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
