@@ -1322,6 +1322,7 @@
 
 ## documentation 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -1913,6 +1914,7 @@
 
 ## git 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2012,7 +2014,7 @@
 - [m-canton/godot-scene-manager](https://github.com/m-canton/godot-scene-manager) - Scene Manager Plugin for Godot.
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
-- [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2 🚀
+- [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - 🚀 BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera) - 👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.
@@ -2536,6 +2538,7 @@
 
 ## javascript 
 
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
@@ -3106,6 +3109,8 @@
 
 ## markdown 
 
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) - 🏅 A Material You inspired markdown badge collection.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
@@ -3628,7 +3633,7 @@
 
 ## open-source 
 
-- [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2 🚀
+- [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - 🚀 BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -3736,6 +3741,7 @@
 
 ## others 
 
+- [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [tmaiadev/tetra](https://github.com/tmaiadev/tetra) - Tetra Mini Game
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
@@ -4084,7 +4090,6 @@
 - [jiesou/Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
-- [JapanYoshi/dollphone-foss](https://github.com/JapanYoshi/dollphone-foss) - Cute soft icon pack
 - [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
 - [SpartanB312/Cursa](https://github.com/SpartanB312/Cursa) - An opensource Minecraft utility mod for Anarchy and CrystalPVP
