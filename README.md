@@ -112,6 +112,8 @@
 
 ## C 
 
+- [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
+- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
 - [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
@@ -270,6 +272,7 @@
 
 ## C++ 
 
+- [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
@@ -496,7 +499,6 @@
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
-- [Sinneida/glassdown](https://github.com/Sinneida/glassdown) - 
 - [XxA7med66xX/forwardious](https://github.com/XxA7med66xX/forwardious) - A Chrome extension to redirect YouTube URLs to an Invidious instance.
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [famedly/matrix-dart-sdk](https://github.com/famedly/matrix-dart-sdk) - Matrix SDK written in pure Dart.
@@ -609,6 +611,7 @@
 
 ## Go 
 
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
@@ -665,7 +668,7 @@
 - [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
-- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy Unb
+- [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or browser. It does this securely and with additional features. This repository is for Holy
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
@@ -733,6 +736,10 @@
 
 ## Java 
 
+- [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+- [AlmostReliable/almostunified](https://github.com/AlmostReliable/almostunified) - A Minecraft mod to unify resources.
+- [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android) - Vespucci is a OpenStreetMap editor for Android
+- [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.
 - [3000IQPlay/HashChecker](https://github.com/3000IQPlay/HashChecker) - Scans hashes of files in a specific directory at once using the SHA-256 algorithm. Useful for verifying backups, checking for file corruption, and ensuring file integrity.
 - [DimensionalDevelopment/DimDoors](https://github.com/DimensionalDevelopment/DimDoors) - A rewrite of the classic mod: Dimensional Doors
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
@@ -1411,6 +1418,13 @@
 
 ## Kotlin 
 
+- [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+- [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+- [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+- [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+- [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
+- [shub39/Rush](https://github.com/shub39/Rush) - An app to get and store lyrics for your favorite songs! in the works 🛠️
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [smswithoutborders/SMSWithoutBorders-App-Android](https://github.com/smswithoutborders/SMSWithoutBorders-App-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -1766,6 +1780,7 @@
 
 ## Others 
 
+- [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 - [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
@@ -2004,6 +2019,8 @@
 
 ## Python 
 
+- [DevCraftClub/StreamTape](https://github.com/DevCraftClub/StreamTape) - Unoffical API wrapper for https://streamtape.com
+- [obfusk/reproducible-apk-tools](https://github.com/obfusk/reproducible-apk-tools) - reproducible-apk-tools - scripts to make android apks reproducible
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -2240,6 +2257,8 @@
 
 ## Rust 
 
+- [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
+- [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
@@ -2464,6 +2483,7 @@
 
 ## TypeScript 
 
+- [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
@@ -2634,6 +2654,7 @@
 
 ## Vue 
 
+- [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [deptyped/notepher-bot](https://github.com/deptyped/notepher-bot) - Note-taking Telegram Mini App
 - [4xmen/anubias](https://github.com/4xmen/anubias) - Developed mobile apps so easy and native with GUI 📱
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
