@@ -322,7 +322,6 @@
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
-- [vishal2376/scroll-block](https://github.com/vishal2376/scroll-block) - Scroll Block is an MVVM Jetpack Compose app which provides ad-free control over your scrolling habits with built-in analytics to help you understand your usage patterns and boost productivity.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -456,6 +455,7 @@
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
 - [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
@@ -2138,6 +2138,7 @@
 
 ## hacktoberfest 
 
+- [Juuxel/Adorn](https://github.com/Juuxel/Adorn) - A decoration mod for Minecraft 1.14+.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
 - [DimensionalDevelopment/DimDoors](https://github.com/DimensionalDevelopment/DimDoors) - A rewrite of the classic mod: Dimensional Doors
@@ -2727,7 +2728,6 @@
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
 - [kiwicom/navigation-compose-typed](https://github.com/kiwicom/navigation-compose-typed) - Type-safe arguments for Jetpack Navigation Compose using Kotlinx.Serialization
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
-- [vishal2376/scroll-block](https://github.com/vishal2376/scroll-block) - Scroll Block is an MVVM Jetpack Compose app which provides ad-free control over your scrolling habits with built-in analytics to help you understand your usage patterns and boost productivity.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
@@ -3211,6 +3211,7 @@
 - [Project-Based-Learning-IT/e2ee-chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) - e2ee-chat
 - [talosross/SummaryYou](https://github.com/talosross/SummaryYou) - Summarize YouTube-Videos, Articles, Images and Documents with AI
 - [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [lighttigerXIV/SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) - A simple music player with material you in mind.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
@@ -3775,7 +3776,7 @@
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
-- [shub39/Rush](https://github.com/shub39/Rush) - An app to get and store lyrics for your favorite songs! in the works 🛠️
+- [shub39/Rush](https://github.com/shub39/Rush) - Android app to search, save and share lyrics like spotify! 💫
 - [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android) - Vespucci is a OpenStreetMap editor for Android
 - [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.
 - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙
@@ -4140,7 +4141,6 @@
 - [viti95/FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
-- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
@@ -5198,6 +5198,7 @@
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
