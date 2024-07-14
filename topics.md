@@ -270,6 +270,7 @@
 
 ## algorithm 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -287,6 +288,7 @@
 
 ## android 
 
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
@@ -338,6 +340,7 @@
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
+- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter).
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
@@ -954,6 +957,7 @@
 
 ## chrome-extension 
 
+- [sharukhi/lofi-box](https://github.com/sharukhi/lofi-box) - ✨ Relaxing lo-fi tunes directly within your web browser.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [cynber/lemmy-instance-assistant](https://github.com/cynber/lemmy-instance-assistant) - Browser extension to help make Lemmy & Kbin easier to use
@@ -1191,6 +1195,7 @@
 
 ## data-structures 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -1376,6 +1381,7 @@
 
 ## education 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1535,6 +1541,7 @@
 
 ## flask 
 
+- [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [TechShreyash/AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
@@ -2055,6 +2062,7 @@
 
 ## golang 
 
+- [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -2380,6 +2388,7 @@
 
 ## html5 
 
+- [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [rivet-gg/opengb](https://github.com/rivet-gg/opengb) - Open Game Backend: Open-source modular backend for all games and tools. Works with Godot, Unity, Unreal Engine, and HTML5.
 - [dulvui/pocket-broomball](https://github.com/dulvui/pocket-broomball) - The world's first broomball video game, made with Godot Engine for iOS, Android and Web
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -2556,6 +2565,7 @@
 
 ## javascript 
 
+- [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
@@ -2704,6 +2714,7 @@
 
 ## kotlin 
 
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
@@ -3078,6 +3089,7 @@
 
 ## machine-learning 
 
+- [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
@@ -3189,6 +3201,7 @@
 
 ## material-design 
 
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
 - [JLindemann42/Atomic-Periodic-Table.Android](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - Atomic - Periodic Table
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
@@ -3489,6 +3502,10 @@
 
 ## music 
 
+- [Nickersoft/cityhop.cafe](https://github.com/Nickersoft/cityhop.cafe) - Aesthetic walks and drives from around the world to help you unwind ☀️🌃☕
+- [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
+- [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
+- [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
@@ -3664,6 +3681,7 @@
 
 ## open-source 
 
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - 🚀 BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
@@ -3772,6 +3790,11 @@
 
 ## others 
 
+- [Magisk-Modules-Alt-Repo/HideNavBar](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) - Fullscreen/Immersive Gesture Tweaks for Android 10-14
+- [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
+- [imLinguin/comet](https://github.com/imLinguin/comet) - Open Source implementation of GOG Galaxy Communication Service for SDK bundled with GOG games.
+- [KDE/plasmatube](https://github.com/KDE/plasmatube) - Kirigami YouTube video player based on QtMultimedia and youtube-dl
+- [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online LoFi music player web app
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
@@ -3837,7 +3860,6 @@
 - [satisfyu/Meadow](https://github.com/satisfyu/Meadow) - A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.
 - [Patbox/UniversalGraves](https://github.com/Patbox/UniversalGraves) - Grave mod for Fabric!
 - [MehVahdJukaar/WoodGood](https://github.com/MehVahdJukaar/WoodGood) - 
-- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [betmma/my_balatro_mods](https://github.com/betmma/my_balatro_mods) - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [McJtyMods/TheOneProbe](https://github.com/McJtyMods/TheOneProbe) - This simple mod adds a probe and an API for other mods to show information with that probe
@@ -4750,6 +4772,7 @@
 
 ## programming 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [Stevertus/mcscript](https://github.com/Stevertus/mcscript) - A programming language for Minecraft Vanilla
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -4765,6 +4788,7 @@
 
 ## pwa 
 
+- [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [svg-beauty/svgomfg](https://github.com/svg-beauty/svgomfg) - Offline Capable⚡Web GUI for easy and visual 🎛️ Vector Optimization feat. latest⚙️SVGO v3.1.0
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -4901,6 +4925,7 @@
 
 ## pytorch 
 
+- [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
@@ -5248,6 +5273,7 @@
 
 ## svelte 
 
+- [Nickersoft/cityhop.cafe](https://github.com/Nickersoft/cityhop.cafe) - Aesthetic walks and drives from around the world to help you unwind ☀️🌃☕
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
@@ -5284,6 +5310,7 @@
 
 ## telegram 
 
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
@@ -5394,6 +5421,7 @@
 
 ## typescript 
 
+- [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
