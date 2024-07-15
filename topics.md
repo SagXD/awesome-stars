@@ -1607,6 +1607,7 @@
 
 ## font 
 
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
@@ -2005,6 +2006,7 @@
 
 ## go 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [Elara6331/lemmy-reply-bot](https://github.com/Elara6331/lemmy-reply-bot) - A customizable Lemmy bot that replies to comments
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -2062,6 +2064,7 @@
 
 ## golang 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
@@ -2146,6 +2149,7 @@
 
 ## hacktoberfest 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [Juuxel/Adorn](https://github.com/Juuxel/Adorn) - A decoration mod for Minecraft 1.14+.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
@@ -2464,6 +2468,7 @@
 
 ## java 
 
+- [McVader34/Serious-Player-Animations](https://github.com/McVader34/Serious-Player-Animations) - Serious Player Animation Mod Source
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
@@ -3257,6 +3262,7 @@
 
 ## minecraft 
 
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [AlmostReliable/almostunified](https://github.com/AlmostReliable/almostunified) - A Minecraft mod to unify resources.
 - [chronosacaria/MCDungeonsWeapons](https://github.com/chronosacaria/MCDungeonsWeapons) - Bringing the weapons and tools of Minecraft Dungeons to Minecraft
 - [TelepathicGrunt/RepurposedStructures](https://github.com/TelepathicGrunt/RepurposedStructures) - Reusing and modifying vanilla structures for extra variety!
@@ -3790,6 +3796,9 @@
 
 ## others 
 
+- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
+- [morse-talk/morse-talk](https://github.com/morse-talk/morse-talk) - A Python library written for Morse Code
+- [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [Magisk-Modules-Alt-Repo/HideNavBar](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) - Fullscreen/Immersive Gesture Tweaks for Android 10-14
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [imLinguin/comet](https://github.com/imLinguin/comet) - Open Source implementation of GOG Galaxy Communication Service for SDK bundled with GOG games.
@@ -4463,7 +4472,6 @@
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [TheMosKau/LiquidBouncePlusPlusOLD](https://github.com/TheMosKau/LiquidBouncePlusPlusOLD) - 
-- [efeketket/Ketket-s-Chairs](https://github.com/efeketket/Ketket-s-Chairs) - Datapack Description
 - [LowLevelLemmy/Blind](https://github.com/LowLevelLemmy/Blind) - A game even blind people can play!
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [chrisJuresh/redditFetch](https://github.com/chrisJuresh/redditFetch) - A simple discord bot to pull various posts from reddit.
