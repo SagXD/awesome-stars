@@ -1426,6 +1426,7 @@
 
 ## Kotlin 
 
+- [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 - [beradeep/whitehole](https://github.com/beradeep/whitehole) - Android app to backup your photos using Telegram.
 - [Juuxel/Adorn](https://github.com/Juuxel/Adorn) - A decoration mod for Minecraft 1.14+.
