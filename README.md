@@ -271,6 +271,7 @@
 
 ## C++ 
 
+- [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws.
 - [KDE/plasmatube](https://github.com/KDE/plasmatube) - Kirigami YouTube video player based on QtMultimedia and youtube-dl
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
@@ -360,7 +361,7 @@
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [kefir500/apk-icon-editor](https://github.com/kefir500/apk-icon-editor) - APK editor to easily change APK icons, name and version.
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
-- [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer 🚀
+- [iamlooper/Android-Enhancer](https://github.com/iamlooper/Android-Enhancer) - A revolutionary android optimizer.
 - [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A cross-platform Geometry Dash frame-based macro bot with an internal renderer.
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
 - [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
@@ -564,6 +565,7 @@
 
 ## GDScript 
 
+- [endlessm/godot-block-coding](https://github.com/endlessm/godot-block-coding) - Block-based visual programming plugin for Godot
 - [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue) - A beginner-friendly music making app.
 - [Praytic/youtd2](https://github.com/Praytic/youtd2) - Classic community-driven session-based Tower Defense game with RPG elements.
 - [BonelessWater/Parasite](https://github.com/BonelessWater/Parasite) - Rogue-like single player game w/ Godot game engine
@@ -613,6 +615,7 @@
 
 ## Go 
 
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
@@ -739,6 +742,7 @@
 
 ## Java 
 
+- [akhilkedia/AllTrans](https://github.com/akhilkedia/AllTrans) - Completely Translate Android apps in-place aka Google translate in Chrome
 - [pxlsspace/Pxls](https://github.com/pxlsspace/Pxls) - Open-source expansion of /r/place
 - [McVader34/Serious-Player-Animations](https://github.com/McVader34/Serious-Player-Animations) - Serious Player Animation Mod Source
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
@@ -1129,6 +1133,8 @@
 
 ## JavaScript 
 
+- [ermiyaeskandary/Slither.io-bot](https://github.com/ermiyaeskandary/Slither.io-bot) - Just for fun and AI. Written in Javascript, this is a project which the aim is to make a computer play against humans inside a human-driven game, which is in this case Slither.io. The goal is simple -
+- [gf3/IRC-js](https://github.com/gf3/IRC-js) - The best IRC library for node.js
 - [pxlsspace/pxls-web](https://github.com/pxlsspace/pxls-web) - Web client for pxls.space
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [placeAtlas/atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
@@ -1210,7 +1216,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - Github Star History - A Stunning star history chart generator for Github Repositories
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [Ai2473/8b8t-kitbot](https://github.com/Ai2473/8b8t-kitbot) - 
@@ -1705,7 +1711,7 @@
 - [Weave-MC/Weave-Gradle](https://github.com/Weave-MC/Weave-Gradle) - Gradle build system plugin used to automate the setup of a modding environment.
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-- [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
+- [MolcarPUI/NightX-Client](https://github.com/MolcarPUI/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [SooStrator1136/FlightRadar4k](https://github.com/SooStrator1136/FlightRadar4k) - API for FlightRadar24 written in kotlin.
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
 - [lambda-plugins/HighwayTools](https://github.com/lambda-plugins/HighwayTools) - Advanced highway building bot
@@ -1942,7 +1948,6 @@
 - [Bugswriter/fooddish](https://github.com/Bugswriter/fooddish) - 
 - [Bugswriter/bugsnavi](https://github.com/Bugswriter/bugsnavi) - 
 - [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
-- [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
@@ -2037,6 +2042,7 @@
 
 ## Python 
 
+- [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [morse-talk/morse-talk](https://github.com/morse-talk/morse-talk) - A Python library written for Morse Code
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
@@ -2277,6 +2283,7 @@
 
 ## Rust 
 
+- [stellularorg/crangon](https://github.com/stellularorg/crangon) - Crangon (named after the "Crangon crangon") is a fork of Bundlrs focused on a better user and admin experience.
 - [imLinguin/comet](https://github.com/imLinguin/comet) - Open Source implementation of GOG Galaxy Communication Service for SDK bundled with GOG games.
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -2380,6 +2387,7 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [Bugswriter/website-1](https://github.com/Bugswriter/website-1) - hillhacks website
+- [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
@@ -2506,6 +2514,7 @@
 
 ## TypeScript 
 
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Nickersoft/cityhop.cafe](https://github.com/Nickersoft/cityhop.cafe) - Aesthetic walks and drives from around the world to help you unwind ☀️🌃☕
 - [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online LoFi music player web app
