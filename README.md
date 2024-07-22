@@ -437,6 +437,7 @@
 
 ## CSS 
 
+- [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [HritikVaishnav/Myanimelist-Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) - Myanimelist extension under Project Redesign
 - [RemyIsCool/AnimatedFox](https://github.com/RemyIsCool/AnimatedFox) - A minimal Firefox theme with a hidden popup URL bar and satisfying animations
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
@@ -502,6 +503,8 @@
 
 ## Dart 
 
+- [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
+- [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - minimalist colorful weather app
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app v2
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
@@ -750,6 +753,7 @@
 
 ## Java 
 
+- [Snownee/Jade](https://github.com/Snownee/Jade) - Minecraft mod that shows what you are looking at. (Hwyla fork)
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [peterosterlund2/droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish Android Chess App
 - [jcarolus/android-chess](https://github.com/jcarolus/android-chess) - Chess game for Android.
@@ -1146,6 +1150,8 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [ermiyaeskandary/Slither.io-bot](https://github.com/ermiyaeskandary/Slither.io-bot) - Just for fun and AI. Written in Javascript, this is a project which the aim is to make a computer play against humans inside a human-driven game, which is in this case Slither.io. The goal is simple -
 - [gf3/IRC-js](https://github.com/gf3/IRC-js) - The best IRC library for node.js
 - [pxlsspace/pxls-web](https://github.com/pxlsspace/pxls-web) - Web client for pxls.space
@@ -1450,6 +1456,8 @@
 
 ## Kotlin 
 
+- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
+- [joelkanyi/Muviz](https://github.com/joelkanyi/Muviz) - A Jetpack compose app that consumes the TMDB API to display movie and Tv shows and their details
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
@@ -2060,6 +2068,9 @@
 
 ## Python 
 
+- [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
@@ -2426,6 +2437,7 @@
 
 ## Shell 
 
+- [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [Magisk-Modules-Alt-Repo/HideNavBar](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) - Fullscreen/Immersive Gesture Tweaks for Android 10-14
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -2520,6 +2532,7 @@
 
 ## Swift 
 
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [avery-pierce/Cavy](https://github.com/avery-pierce/Cavy) - Lemmy client for iOS, written in Swift
