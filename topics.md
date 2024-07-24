@@ -293,6 +293,7 @@
 
 ## android 
 
+- [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [Boxvidra/Boxvidra-Android](https://github.com/Boxvidra/Boxvidra-Android) - Boxvidra is an Android application designed to bring Debian, XFCE4, Wine, Box86, and Box64 environments to your Android device using Proot. It allows you to run Linux applications and Windows binaries
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
@@ -414,7 +415,7 @@
 - [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
 - [PsiCodes/ktxpy](https://github.com/PsiCodes/ktxpy) - Python Compiler/ide For Android with Material3
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
 - [8cAyqpVKio/android-2048-compose-material3](https://github.com/8cAyqpVKio/android-2048-compose-material3) - 2048 implemented using Jetpack Compose, Material Design 3, MVVM, Hilt
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -478,7 +479,6 @@
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
-- [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
 - [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - An Android app to randomly select fingers on the screen
@@ -1092,7 +1092,7 @@
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -2557,6 +2557,7 @@
 
 ## java 
 
+- [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [peterosterlund2/droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish Android Chess App
 - [McVader34/Serious-Player-Animations](https://github.com/McVader34/Serious-Player-Animations) - Serious Player Animation Mod Source
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
@@ -2585,7 +2586,7 @@
 - [wmora/martianrun](https://github.com/wmora/martianrun) - An Open-Source Running Game with libGDX
 - [osudroid/osu-droid](https://github.com/osudroid/osu-droid) - 
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
@@ -2603,7 +2604,6 @@
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-- [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
 - [RaphiMC/JavaDowngrader](https://github.com/RaphiMC/JavaDowngrader) - Standalone program and library which can downgrade Java classes/programs down to Java 8
@@ -2813,6 +2813,7 @@
 
 ## kotlin 
 
+- [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [joelkanyi/Muviz](https://github.com/joelkanyi/Muviz) - A Jetpack compose app that consumes the TMDB API to display movie and Tv shows and their details
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
@@ -3311,6 +3312,7 @@
 
 ## material-design 
 
+- [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
 - [beradeep/whitehole](https://github.com/beradeep/whitehole) - A feature-packed photo manager on top of Telegram.
 - [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
@@ -3368,6 +3370,7 @@
 
 ## minecraft 
 
+- [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [AlmostReliable/almostunified](https://github.com/AlmostReliable/almostunified) - A Minecraft mod to unify resources.
