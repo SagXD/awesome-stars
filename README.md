@@ -757,6 +757,7 @@
 
 ## Java 
 
+- [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [pufmat/skillsmod](https://github.com/pufmat/skillsmod) - A Minecraft mod that adds a fully configurable skill system to the game.
 - [Boxvidra/Boxvidra-Android](https://github.com/Boxvidra/Boxvidra-Android) - Boxvidra is an Android application designed to bring Debian, XFCE4, Wine, Box86, and Box64 environments to your Android device using Proot. It allows you to run Linux applications and Windows binaries
@@ -870,7 +871,7 @@
 - [miao1007/AnimeWallpaper](https://github.com/miao1007/AnimeWallpaper) - [Android] Konachan wallpaper downloader
 - [saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) - [Deprecated] An application about movies with material design
 - [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keymapper for Android
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [MrSparsh/2048](https://github.com/MrSparsh/2048) - Implementation of popular 2048 game on Android using Android Studio
 - [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 - [bulenkov/2048](https://github.com/bulenkov/2048) - Java implementation of 2048
@@ -933,7 +934,6 @@
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
-- [itsvks19/LayoutEditor](https://github.com/itsvks19/LayoutEditor) - Create Awesome UI!
 - [Chisel-Team/Chisel](https://github.com/Chisel-Team/Chisel) - A builder's best friend
 - [gsantner/memetastic](https://github.com/gsantner/memetastic) - Meme Creator for Android - Simple & Ad-Free
 - [KosmX/minecraftPlayerAnimator](https://github.com/KosmX/minecraftPlayerAnimator) - Minecraft 1.16+ player animation library
@@ -1467,6 +1467,7 @@
 
 ## Kotlin 
 
+- [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [joelkanyi/Muviz](https://github.com/joelkanyi/Muviz) - A Jetpack compose app that consumes the TMDB API to display movie and Tv shows and their details
