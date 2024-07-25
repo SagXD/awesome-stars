@@ -659,7 +659,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1221,6 +1221,7 @@
 - [Infinite-Null/NekoFlix](https://github.com/Infinite-Null/NekoFlix) - Introducing Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Nekoflix, users can seamlessly stream their favorite anime and dive into captivating manga series, all without i
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [EFHIII/balatro-calculator](https://github.com/EFHIII/balatro-calculator) - A tool for calculating the score of a hand in Balatro
 - [blaze33/way-of-life](https://github.com/blaze33/way-of-life) - Conway's game of life implemented in JavaScript & WebAssembly, rendered to canvas.
 - [cynber/lemmy-instance-assistant](https://github.com/cynber/lemmy-instance-assistant) - Browser extension to help make Lemmy & Kbin easier to use
@@ -1467,6 +1468,9 @@
 
 ## Kotlin 
 
+- [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
+- [alorma/Compose-Settings](https://github.com/alorma/Compose-Settings) - Compose Multiplatform #Compose Settings library
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
@@ -1840,6 +1844,7 @@
 
 ## Others 
 
+- [ericytsang/app.android.screenfilter](https://github.com/ericytsang/app.android.screenfilter) - Official Screen Dimmer app website
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
@@ -1891,7 +1896,6 @@
 - [Xubuntu/xubuntu-seed](https://github.com/Xubuntu/xubuntu-seed) - Read-only mirror of lp:~xubuntu-dev/ubuntu-seeds/+git/xubuntu
 - [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games) - Source 1 based games such as TF2 and Counter-Strike: Source
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-- [WalmartSolutions/Francium-1.20.4](https://github.com/WalmartSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [Goodwy/Discussion](https://github.com/Goodwy/Discussion) - A place for discussing all apps in general + anything else you want to say
 - [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
@@ -1922,7 +1926,6 @@
 - [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
-- [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
@@ -1986,7 +1989,6 @@
 - [Bugswriter/fooddish](https://github.com/Bugswriter/fooddish) - 
 - [Bugswriter/bugsnavi](https://github.com/Bugswriter/bugsnavi) - 
 - [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
-- [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
@@ -2373,7 +2375,6 @@
 - [jonasrmichel/rudiments](https://github.com/jonasrmichel/rudiments) - A drum machine written in Rust
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
