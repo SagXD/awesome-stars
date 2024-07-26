@@ -293,6 +293,8 @@
 
 ## android 
 
+- [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
+- [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [alorma/Compose-Settings](https://github.com/alorma/Compose-Settings) - Compose Multiplatform #Compose Settings library
@@ -1286,6 +1288,7 @@
 
 ## discord 
 
+- [kordlib/kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
@@ -2225,6 +2228,7 @@
 
 ## hacktoberfest 
 
+- [kordlib/kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [mister-ben/videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui) - Mobile UI for Video.js
 - [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
@@ -2817,6 +2821,9 @@
 
 ## kotlin 
 
+- [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
+- [kordlib/kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
+- [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
@@ -3318,6 +3325,7 @@
 
 ## material-design 
 
+- [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
 - [beradeep/whitehole](https://github.com/beradeep/whitehole) - A feature-packed photo manager on top of Telegram.
@@ -3521,7 +3529,7 @@
 - [Hypnotic-Development/Hypnotic-Client](https://github.com/Hypnotic-Development/Hypnotic-Client) - gamer client pvp
 - [horionclient/Horion](https://github.com/horionclient/Horion) - Horion - A Minecraft: Bedrock Edition Utility Mod.
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
-- [ItziSpyder/ClickCrystals](https://github.com/ItziSpyder/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
+- [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
 - [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
 - [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
@@ -3916,6 +3924,7 @@
 
 ## others 
 
+- [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [ericytsang/app.android.screenfilter](https://github.com/ericytsang/app.android.screenfilter) - Official Screen Dimmer app website
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
 - [pufmat/skillsmod](https://github.com/pufmat/skillsmod) - A Minecraft mod that adds a fully configurable skill system to the game.
@@ -4404,7 +4413,6 @@
 - [Goodwy/Contacts](https://github.com/Goodwy/Contacts) - 
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
-- [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
@@ -5631,6 +5639,7 @@
 
 ## ubuntu 
 
+- [gabutakut/gabutdm](https://github.com/gabutakut/gabutdm) - Gabut Download Manager
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [brandleesee/ePSXe64Ubuntu](https://github.com/brandleesee/ePSXe64Ubuntu) - OBSOLETE - ePSXe64Ubuntu is an interactive script that installs ePSXe Linux (x64) & shaders using BIOS HLE and Core Plugins on x86-64 Debian, Ubuntu, Linux Mint, and their derivatives.
