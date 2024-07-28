@@ -3909,6 +3909,7 @@
 
 ## operating-system 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [byteduck/duckOS](https://github.com/byteduck/duckOS) - An x86 monolithic kernel and operating system written in modern C++. Comes with in-house graphical applications and command line utilities, plus ports of existing software. And yes, it runs DOOM!
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
