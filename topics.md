@@ -293,6 +293,8 @@
 
 ## android 
 
+- [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
+- [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [skydoves/twitch-clone-compose](https://github.com/skydoves/twitch-clone-compose) - 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.
 - [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
 - [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
@@ -1556,6 +1558,7 @@
 
 ## firebase 
 
+- [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [Project-Based-Learning-IT/e2ee-chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) - e2ee-chat
@@ -2520,6 +2523,7 @@
 
 ## ios 
 
+- [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -2822,6 +2826,8 @@
 
 ## kotlin 
 
+- [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
+- [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [skydoves/twitch-clone-compose](https://github.com/skydoves/twitch-clone-compose) - 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.
 - [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
 - [kordlib/kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
@@ -3928,6 +3934,8 @@
 
 ## others 
 
+- [DanganMachin/Fem-Jokers-v.1.1.0](https://github.com/DanganMachin/Fem-Jokers-v.1.1.0) - 
+- [SubZeroPL/cs-rin-ru-enhanced-mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhance your experience at CS.RIN.RU
 - [DevCortez/KaTas](https://github.com/DevCortez/KaTas) - Katana zero TAS scripts
 - [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
