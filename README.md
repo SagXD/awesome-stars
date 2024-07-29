@@ -1157,6 +1157,7 @@
 
 ## JavaScript 
 
+- [SubZeroPL/cs-rin-ru-enhanced-mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhance your experience at CS.RIN.RU
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mister-ben/videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui) - Mobile UI for Video.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -1469,6 +1470,8 @@
 
 ## Kotlin 
 
+- [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
+- [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [skydoves/twitch-clone-compose](https://github.com/skydoves/twitch-clone-compose) - 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.
 - [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
 - [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
@@ -1850,6 +1853,7 @@
 
 ## Others 
 
+- [DanganMachin/Fem-Jokers-v.1.1.0](https://github.com/DanganMachin/Fem-Jokers-v.1.1.0) - 
 - [ericytsang/app.android.screenfilter](https://github.com/ericytsang/app.android.screenfilter) - Official Screen Dimmer app website
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
