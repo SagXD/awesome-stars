@@ -1402,7 +1402,7 @@
 
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
-- [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - I believe in Nobara supremacy
+- [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - i believe in nobara supremacy
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -4495,7 +4495,7 @@
 - [absolllute/Mega-Hack-Pro-Future](https://github.com/absolllute/Mega-Hack-Pro-Future) - Mega Hack Pro Suggestion & Issue Tracker
 - [absoIute/Mega-Hack-v5](https://github.com/absoIute/Mega-Hack-v5) - 
 - [maxnut/GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay) - Free geometry dash mod menu with useful features such as: startpos switcher, show hitboxes, internal recorder, macro bot, clickbot and much more
-- [TobyAdd/GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
+- [TobyAdd/GDH](https://github.com/TobyAdd/GDH) - Mod menu for Geometry Dash
 - [vsjoqvist/AspMcmeta](https://github.com/vsjoqvist/AspMcmeta) - An asprite script to help with creating animated textures
 - [conversejs/converse-desktop](https://github.com/conversejs/converse-desktop) - Electron-based Desktop client for Converse.js
 - [r266s/Jump-game](https://github.com/r266s/Jump-game) - 
