@@ -189,6 +189,7 @@
 
 ## C# # 
 
+- [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -276,6 +277,12 @@
 
 ## C++ 
 
+- [kiwix/libkiwix](https://github.com/kiwix/libkiwix) - Common code base for all Kiwix ports
+- [cutechess/cutechess](https://github.com/cutechess/cutechess) - Cute Chess is a graphical user interface, command-line interface and a library for playing chess.
+- [fairy-stockfish/Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish) - chess variant engine supporting Xiangqi, Shogi, Janggi, Makruk, S-Chess, Crazyhouse, Bughouse, and many more
+- [lichess-org/stockfish.js](https://github.com/lichess-org/stockfish.js) - The strong open source chess engine Stockfish compiled to JavaScript and WebAssembly using Emscripten
+- [lichess-org/stockfish.wasm](https://github.com/lichess-org/stockfish.wasm) - WebAssembly port of the strong chess engine Stockfish
+- [hi-ogawa/Stockfish](https://github.com/hi-ogawa/Stockfish) - stockfish-nnue.wasm
 - [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [luciusDXL/TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws.
@@ -506,6 +513,8 @@
 
 ## Dart 
 
+- [smokelaboratory/fludo](https://github.com/smokelaboratory/fludo) - A ludo board game developed in Flutter using canvas.
+- [nizwar/ludo_flutter](https://github.com/nizwar/ludo_flutter) - Ludo game with Flutter
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - 
 - [mirarr-app/qBitRemote](https://github.com/mirarr-app/qBitRemote) - A remote app for qBitTorrent webUI
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
@@ -629,6 +638,7 @@
 
 ## Go 
 
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -683,6 +693,7 @@
 
 ## HTML 
 
+- [TheRealMonte/therealmonte.github.io](https://github.com/TheRealMonte/therealmonte.github.io) - 
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
@@ -759,6 +770,7 @@
 
 ## Java 
 
+- [lichess-org/compression](https://github.com/lichess-org/compression) - Chess clock and move compression algorithms for lichess.org
 - [pelya/screen-dimmer-pixel-filter](https://github.com/pelya/screen-dimmer-pixel-filter) - Android screen dimmer, which disables individual pixels, for AMOLED screens
 - [code-crusher/Dimmer](https://github.com/code-crusher/Dimmer) - Android app to provide Blue-Light filter to reduce strain on eyes.
 - [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
@@ -1161,6 +1173,8 @@
 
 ## JavaScript 
 
+- [clairedotpng/ULTRAKILL-Text-Generator](https://github.com/clairedotpng/ULTRAKILL-Text-Generator) - Generate and export a .webm video of any given set of text as if it was an ULTRAKILL level
+- [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [SubZeroPL/cs-rin-ru-enhanced-mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhance your experience at CS.RIN.RU
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mister-ben/videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui) - Mobile UI for Video.js
@@ -1474,6 +1488,8 @@
 
 ## Kotlin 
 
+- [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
+- [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 - [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [skydoves/twitch-clone-compose](https://github.com/skydoves/twitch-clone-compose) - 🎮 Twitch clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat/Video SDK for Compose.
@@ -1679,7 +1695,6 @@
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-- [diegoberaldin/RaccoonForLemmy](https://github.com/diegoberaldin/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
 - [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
@@ -1828,6 +1843,7 @@
 
 ## Makefile 
 
+- [Apoorv-cloud/Flutter_Ludo](https://github.com/Apoorv-cloud/Flutter_Ludo) - Basic Ludo Game with Flutter which will run on both iOS and Android without any UI glitches.
 - [bahmanm/lemmy-synapse](https://github.com/bahmanm/lemmy-synapse) - A humble bundle of observability and monitoring for your Lemmy cluster.
 
 ## Markdown 
@@ -2097,6 +2113,10 @@
 
 ## Python 
 
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - a chess client for Linux/Windows
+- [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
+- [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
+- [hugolabe/Wike](https://github.com/hugolabe/Wike) - Wikipedia Reader for the GNOME Desktop
 - [Moo-Ack-Productions/MCprep](https://github.com/Moo-Ack-Productions/MCprep) - Blender python addon to increase workflow for creating minecraft renders and animations
 - [DevCortez/KaTas](https://github.com/DevCortez/KaTas) - Katana zero TAS scripts
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
@@ -2122,7 +2142,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
@@ -2345,6 +2365,7 @@
 
 ## Rust 
 
+- [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
 - [19MisterX98/Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -2462,6 +2483,8 @@
 
 ## Scala 
 
+- [veloce/scalachessjs](https://github.com/veloce/scalachessjs) - JavaScript chess library running in a webworker, asynchronous and stateless, with multi variants support
+- [lichess-org/scalachess](https://github.com/lichess-org/scalachess) - Chess API written in scala. Immutable and free of side effects.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
@@ -2582,6 +2605,11 @@
 
 ## TypeScript 
 
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - Opinionated Fediverse App | Put the Fun Back in Fediverse
+- [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
+- [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
+- [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
+- [niklasf/chessops](https://github.com/niklasf/chessops) - Chess and chess variant rules and operations in TypeScript
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
