@@ -1020,7 +1020,7 @@
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube. With Effects and Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI/TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1419,7 +1419,7 @@
 
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube. With Effects and Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI/TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
@@ -3074,7 +3074,7 @@
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube. With Effects and Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI/TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
@@ -3339,7 +3339,7 @@
 
 ## mastodon 
 
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - Opinionated Fediverse App | Put the Fun Back in Fediverse
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A Microblogging App | Put the Fun Back in Fediverse
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
@@ -3677,7 +3677,7 @@
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+.
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube. With Effects and Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI/TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [tmhglnd/total-serialism](https://github.com/tmhglnd/total-serialism) - Toolbox full of Algorithmic Composition methods
 - [StarsWarrior/BlackHole](https://github.com/StarsWarrior/BlackHole) - A Music Player App made with Flutter
@@ -5216,7 +5216,7 @@
 
 ## react-native 
 
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - Opinionated Fediverse App | Put the Fun Back in Fediverse
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A Microblogging App | Put the Fun Back in Fediverse
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [Infinite-Null/NekoFlix](https://github.com/Infinite-Null/NekoFlix) - Introducing Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Nekoflix, users can seamlessly stream their favorite anime and dive into captivating manga series, all without i
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
@@ -5867,7 +5867,7 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube. With Effects and Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI/TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
