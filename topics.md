@@ -294,6 +294,9 @@
 
 ## android 
 
+- [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+- [davidtakac/bura](https://github.com/davidtakac/bura) - Modern weather app with graphs and thoughtful data visualization
 - [theolm/WhatsAppNoContact](https://github.com/theolm/WhatsAppNoContact) - Start WhatsApp chats without adding numbers to contacts.
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -433,7 +436,6 @@
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
 - [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
 - [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
-- [8cAyqpVKio/android-2048-compose-material3](https://github.com/8cAyqpVKio/android-2048-compose-material3) - 2048 implemented using Jetpack Compose, Material Design 3, MVVM, Hilt
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -1494,7 +1496,7 @@
 
 ## emacs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [catppuccin/emacs](https://github.com/catppuccin/emacs) - 🍄 Soothing pastel theme for Emacs
 
@@ -2852,6 +2854,7 @@
 
 ## kotlin 
 
+- [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
@@ -3365,6 +3368,7 @@
 
 ## material-design 
 
+- [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
@@ -3379,7 +3383,6 @@
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-- [8cAyqpVKio/android-2048-compose-material3](https://github.com/8cAyqpVKio/android-2048-compose-material3) - 2048 implemented using Jetpack Compose, Material Design 3, MVVM, Hilt
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -3967,6 +3970,7 @@
 
 ## others 
 
+- [jerichoi224/Nothing-Gallery](https://github.com/jerichoi224/Nothing-Gallery) - Gallery for Nothing Phone with effort to follow the Nothing Design Language
 - [elbywan/spotify-zeroconf](https://github.com/elbywan/spotify-zeroconf) - Spotify Web API authentication, the easy way.
 - [itkach/aard2-android](https://github.com/itkach/aard2-android) - Aard2 for Android, a simple dictionary app
 - [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
@@ -5832,7 +5836,7 @@
 
 ## webapp 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
 - [heysagnik/screenREC](https://github.com/heysagnik/screenREC) - A really simple , ad-free & minimal web based screen recorder 📹
