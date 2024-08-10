@@ -246,7 +246,7 @@
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with own Track Editor. The main repository with Stunt Rally 3 sources and data. Continuation of Stunt Rally 2.x using Ogre-Next 3.0.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [3dreamengine/3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - 3DreamEngine is an *awesome* 3d engine for LÖVE.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -1147,7 +1147,7 @@
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
@@ -1426,7 +1426,7 @@
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -1744,7 +1744,7 @@
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [daniele-rapagnani/alephone-android](https://github.com/daniele-rapagnani/alephone-android) - Port of the AlephOne engine on Android
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
@@ -3483,7 +3483,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
 - [Gakuto1112/SenkoSan](https://github.com/Gakuto1112/SenkoSan) - "Senko-san (仙狐さん)" the avatar for Figura, the skin mod for Minecraft.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [bs-community/skinview3d](https://github.com/bs-community/skinview3d) - Three.js powered Minecraft skin viewer.
 - [therealrealguy/6b6twiki](https://github.com/therealrealguy/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
@@ -3937,7 +3937,7 @@
 - [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor for Windows by NotYoojun.!
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
@@ -3970,6 +3970,7 @@
 
 ## others 
 
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [njtan142/Checkers-Flutter-](https://github.com/njtan142/Checkers-Flutter-) - A flutter casual board game "Checkers"
 - [r266s/GuessTheNumber](https://github.com/r266s/GuessTheNumber) - C++ coding
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
@@ -4270,7 +4271,7 @@
 - [Zwork101/xfce4-notifyd-themes](https://github.com/Zwork101/xfce4-notifyd-themes) - 🔔 Soothing pastel theme for xfce4-notifyd
 - [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality) - This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
-- [Tenpi/Moebooru.moe](https://github.com/Tenpi/Moebooru.moe) - Moebooru is an image board for anime art.
+- [Moebits/Moebooru.moe](https://github.com/Moebits/Moebooru.moe) - Moebooru is an image board for anime art.
 - [couleur-tweak-tips/Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Smoothie is python is abandonned, please see couleur-tweak-tips/smoothie-rs
 - [mirror/pcsxr](https://github.com/mirror/pcsxr) - https://pcsxr.svn.codeplex.com/svn/pcsxr
 - [yquake2/yquake2](https://github.com/yquake2/yquake2) - The Yamagi Quake II client
