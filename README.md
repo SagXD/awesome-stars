@@ -113,6 +113,8 @@
 
 ## C 
 
+- [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
+- [yzzyx/dwb](https://github.com/yzzyx/dwb) - git repo for dwb browser
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -280,6 +282,10 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
+- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+- [openblox/libopenblox](https://github.com/openblox/libopenblox) - mirrored from https://git.openblox.org/openblox/libopenblox.git
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [njtan142/Checkers-Flutter-](https://github.com/njtan142/Checkers-Flutter-) - A flutter casual board game "Checkers"
 - [r266s/GuessTheNumber](https://github.com/r266s/GuessTheNumber) - C++ coding
@@ -392,7 +398,7 @@
 - [absoIute/Mega-Hack-v5](https://github.com/absoIute/Mega-Hack-v5) - 
 - [maxnut/GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay) - Free geometry dash mod menu with useful features such as: startpos switcher, show hitboxes, internal recorder, macro bot, clickbot and much more
 - [TobyAdd/GDH](https://github.com/TobyAdd/GDH) - Mod menu for Geometry Dash
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -454,6 +460,8 @@
 
 ## CSS 
 
+- [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
+- [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 - [HritikVaishnav/Myanimelist-Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) - Myanimelist extension under Project Redesign
 - [RemyIsCool/AnimatedFox](https://github.com/RemyIsCool/AnimatedFox) - A minimal Firefox theme with a hidden popup URL bar and satisfying animations
@@ -703,8 +711,8 @@
 
 ## HTML 
 
+- [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
-- [TheRealMonte/therealmonte.github.io](https://github.com/TheRealMonte/therealmonte.github.io) - 
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
@@ -870,6 +878,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [RedCarlos26/WiderTab](https://github.com/RedCarlos26/WiderTab) - A mod that extends the tablist to fit more players.
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
+- [j-hc/FlagSecurePatcher](https://github.com/j-hc/FlagSecurePatcher) - Magisk module to patch service.jar on device to disable secure lock and screenshot listeners
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [GlowstoneMC/Glowstone](https://github.com/GlowstoneMC/Glowstone) - A fast, customizable and compatible open source server for Minecraft: Java Edition
 - [FiguraMC/Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
@@ -1186,6 +1195,20 @@
 
 ## JavaScript 
 
+- [Andrews54757/Anti-Anti-Debug](https://github.com/Andrews54757/Anti-Anti-Debug) - Be able to use developer tools again on user-hostile websites
+- [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
+- [RichKMLS/Old-Reddit-Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+- [ThomazPom/Moz-Ext-UltimaDark](https://github.com/ThomazPom/Moz-Ext-UltimaDark) - Web Extension that uses agressive technique to get dark mode everywhere
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [micha4w/kde-alt-f4-desktop](https://github.com/micha4w/kde-alt-f4-desktop) - KWin Script to show Logout screen when Pressing Alt-F4 on the desktop
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [is-not-tech/register](https://github.com/is-not-tech/register) - 
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [elbywan/spotify-zeroconf](https://github.com/elbywan/spotify-zeroconf) - Spotify Web API authentication, the easy way.
@@ -1339,7 +1362,7 @@
 - [Sharkgrammer/clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
 - [lgbt-sh/lgbt-sh](https://github.com/lgbt-sh/lgbt-sh) - Free lgbt.sh sub-domain registration service
 - [proj-at/subdomains](https://github.com/proj-at/subdomains) - 🌎 Get your own proj.sbs subdomains, free for open-source developers. (by Proj.at)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
 - [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener) - Your own free URL shortener with Netlify
 - [N0-0NE-Dev/NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - A streaming app with no ADs.
@@ -1502,11 +1525,13 @@
 
 ## Just 
 
+- [catppuccin/gitui](https://github.com/catppuccin/gitui) - 🍴 Soothing pastel theme for GitUI
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
 
 ## Kotlin 
 
+- [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
 - [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Friendica
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -1723,7 +1748,6 @@
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
-- [WSTxda/Compass-QS-Tile](https://github.com/WSTxda/Compass-QS-Tile) - Compass quick settings tile for Android QS painel
 - [WSTxda/Lineage-Icons](https://github.com/WSTxda/Lineage-Icons) - LineageOS Icon Pack
 - [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Raival-e/File-Explorer](https://github.com/Raival-e/File-Explorer) - An Android file explorer
@@ -1906,6 +1930,8 @@
 
 ## Others 
 
+- [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock) - To reveal Grammarly Premium Suggestions and Tone Detector
+- [NabokD/pockettube](https://github.com/NabokD/pockettube) - The best way to manage your YouTube subscriptions
 - [DanganMachin/Fem-Jokers-v.1.1.0](https://github.com/DanganMachin/Fem-Jokers-v.1.1.0) - 
 - [ericytsang/app.android.screenfilter](https://github.com/ericytsang/app.android.screenfilter) - Official Screen Dimmer app website
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
@@ -2100,6 +2126,7 @@
 
 ## PHP 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
@@ -2145,6 +2172,9 @@
 
 ## Python 
 
+- [Lemon4ksan/SimpleAutoClicker](https://github.com/Lemon4ksan/SimpleAutoClicker) - A nice and modern auto clicker with everything you need, written on Python
+- [LPBeaulieu/Handwriting-OCR-ScriptReader](https://github.com/LPBeaulieu/Handwriting-OCR-ScriptReader) - ScriptReader allows you to perform Optical Character Recognition (OCR) on your handwritten notes!
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [mak448a/QTCord](https://github.com/mak448a/QTCord) - QTCord is a Discord client built with QT aiming to bring a lightweight, native experience.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
@@ -2400,6 +2430,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
 - [19MisterX98/Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
@@ -2499,6 +2530,7 @@
 
 ## SCSS 
 
+- [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [heysagnik/screenREC](https://github.com/heysagnik/screenREC) - A really simple , ad-free & minimal web based screen recorder 📹
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
@@ -2547,7 +2579,6 @@
 - [christopherkobayashi/xfce4-hotcorner-plugin](https://github.com/christopherkobayashi/xfce4-hotcorner-plugin) - Xfce4 HotCorner Panel Plugin
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [j-hc/FlagSecurePatcher](https://github.com/j-hc/FlagSecurePatcher) - Magisk module to patch service.jar on device to disable secure lock and screenshot listeners
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
@@ -2645,10 +2676,20 @@
 
 ## TypeScript 
 
+- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
+- [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
+- [matrix-org/mjolnir](https://github.com/matrix-org/mjolnir) - A moderation tool for Matrix
+- [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
+- [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A Microblogging App | Put the Fun Back in Fediverse
+- [TheRealMonte/therealmonte.github.io](https://github.com/TheRealMonte/therealmonte.github.io) - 
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 - [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
@@ -2831,6 +2872,7 @@
 
 ## Vue 
 
+- [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [deptyped/notepher-bot](https://github.com/deptyped/notepher-bot) - Note-taking Telegram Mini App
 - [4xmen/anubias](https://github.com/4xmen/anubias) - Developed mobile apps so easy and native with GUI 📱
