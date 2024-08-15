@@ -113,6 +113,7 @@
 
 ## C 
 
+- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
 - [yzzyx/dwb](https://github.com/yzzyx/dwb) - git repo for dwb browser
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -194,6 +195,7 @@
 
 ## C# # 
 
+- [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
@@ -529,6 +531,7 @@
 
 ## Dart 
 
+- [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [jerichoi224/Nothing-Gallery](https://github.com/jerichoi224/Nothing-Gallery) - Gallery for Nothing Phone with effort to follow the Nothing Design Language
 - [smokelaboratory/fludo](https://github.com/smokelaboratory/fludo) - A ludo board game developed in Flutter using canvas.
 - [nizwar/ludo_flutter](https://github.com/nizwar/ludo_flutter) - Ludo game with Flutter
@@ -789,6 +792,13 @@
 
 ## Java 
 
+- [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock
+- [RattlesHyper/lyra-addon](https://github.com/RattlesHyper/lyra-addon) - Lyra Addon is a Meteor Client add-on specifically designed for Creative Mode and Creative servers.
+- [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
+- [LonamiWebs/Klooni1010](https://github.com/LonamiWebs/Klooni1010) - libGDX game based on the original 1010!
+- [AndreiNekrasOn/keyboard_heatmap](https://github.com/AndreiNekrasOn/keyboard_heatmap) - keylogger and an app to visualize its results
+- [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [itkach/aard2-android](https://github.com/itkach/aard2-android) - Aard2 for Android, a simple dictionary app
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 - [lichess-org/compression](https://github.com/lichess-org/compression) - Chess clock and move compression algorithms for lichess.org
@@ -1196,6 +1206,7 @@
 
 ## JavaScript 
 
+- [bartificer/xkpasswd-js](https://github.com/bartificer/xkpasswd-js) - The official JavaScript port of the Crypt::HSXKPasswd Perl module.
 - [Andrews54757/Anti-Anti-Debug](https://github.com/Andrews54757/Anti-Anti-Debug) - Be able to use developer tools again on user-hostile websites
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [RichKMLS/Old-Reddit-Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
@@ -1533,6 +1544,8 @@
 
 ## Kotlin 
 
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo) - Share pastes privately, with end to end encryption.
 - [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
 - [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Friendica
@@ -2177,7 +2190,7 @@
 - [Lemon4ksan/SimpleAutoClicker](https://github.com/Lemon4ksan/SimpleAutoClicker) - A nice and modern auto clicker with everything you need, written on Python
 - [LPBeaulieu/Handwriting-OCR-ScriptReader](https://github.com/LPBeaulieu/Handwriting-OCR-ScriptReader) - ScriptReader allows you to perform Optical Character Recognition (OCR) on your handwritten notes!
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [mak448a/QTCord](https://github.com/mak448a/QTCord) - QTCord is a Discord client built with QT aiming to bring a lightweight, native experience.
+- [mak448a/Qtcord](https://github.com/mak448a/Qtcord) - Qtcord is a Discord client built with QT aiming to bring a lightweight, native experience.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
