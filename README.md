@@ -490,6 +490,7 @@
 - [TechShreyash/AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
 - [slashedzer0/nobara-dotfiles](https://github.com/slashedzer0/nobara-dotfiles) - I believe in Nobara supremacy
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [thehatclub/anime-archive](https://github.com/thehatclub/anime-archive) - A place where you can store your progress offline
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
@@ -1688,7 +1689,7 @@
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
-- [UnifiedPush/fcm-distributor](https://github.com/UnifiedPush/fcm-distributor) - UP Distributor using FCM
+- [UnifiedPush/fcm-distributor](https://github.com/UnifiedPush/fcm-distributor) - Mirror of https://codeberg.org/UnifiedPush/fcm-distributor
 - [hexated/cloudstream-extensions-hexated](https://github.com/hexated/cloudstream-extensions-hexated) - Julidfisabilillah for Palestine :palestinian_territories:
 - [msasikanth/ColorSheet](https://github.com/msasikanth/ColorSheet) - A color picker bottom sheet 🌈
 - [simpledotorg/simple-android](https://github.com/simpledotorg/simple-android) - An Android app for recording hypertension-related data.
@@ -2163,6 +2164,7 @@
 
 ## Pascal 
 
+- [AKotov-dev/warpgui](https://github.com/AKotov-dev/warpgui) - GUI for Cloudflare ™ WARP
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 
@@ -2286,7 +2288,7 @@
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [couleur-tweak-tips/Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Smoothie is python is abandonned, please see couleur-tweak-tips/smoothie-rs
-- [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
+- [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [vetleledaal/game-engine-finder](https://github.com/vetleledaal/game-engine-finder) - Find the engine used within a game by it's .exe file (or surrounding files). For use on PCGamingWiki.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [dishapatel010/SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Snapchat Bot to get Public Stories 👻 on Telegram
@@ -2600,7 +2602,7 @@
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors
-- [MisconceivedSec/photoshop-22-linux](https://github.com/MisconceivedSec/photoshop-22-linux) - Adobe Photoshop CC 2021 installation script for Linux, using wine.
+- [albakhtari/photoshop-22-linux](https://github.com/albakhtari/photoshop-22-linux) - Adobe Photoshop CC 2021 installation script for Linux, using wine.
 - [isatsam/photoshop-on-linux](https://github.com/isatsam/photoshop-on-linux) - Updated setup for wine and winetricks to run modern Adobe Photoshop on Linux.
 - [0xf4b1/hearthstone-linux](https://github.com/0xf4b1/hearthstone-linux) - Play Hearthstone from Blizzard Entertainment natively on Linux without the Battle.net Desktop App and Wine
 - [Arcticons-Team/Arcticons-OnionOS](https://github.com/Arcticons-Team/Arcticons-OnionOS) - Arcticons for Miyoo Mini Plus devices
@@ -2828,7 +2830,6 @@
 - [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [thehatclub/anime-archive](https://github.com/thehatclub/anime-archive) - A place where you can store your progress offline
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [kurozenzen/r34-react](https://github.com/kurozenzen/r34-react) - A modern tag-based rule 34 browsing site focused on simplicity and user experience.
