@@ -110,6 +110,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -2551,7 +2552,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [jonschlinkert/gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -2595,6 +2596,13 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+## https 
+
+- [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 ## icon-font 
 
@@ -2909,7 +2917,7 @@
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
 - [gita/gita](https://github.com/gita/gita) - Bhagavad Gita in JSON
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -2918,6 +2926,7 @@
 
 ## kotlin 
 
+- [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Friendica
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
@@ -4076,7 +4085,6 @@
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [rhalbersma/scan](https://github.com/rhalbersma/scan) - Mirror of Fabien Letouzey's international draughts engine Scan
 - [RoepStoep/lidraughts](https://github.com/RoepStoep/lidraughts) - lidraughts.org: the forever free, adless and open source draughts server
-- [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Friendica
 - [jerichoi224/Nothing-Gallery](https://github.com/jerichoi224/Nothing-Gallery) - Gallery for Nothing Phone with effort to follow the Nothing Design Language
 - [elbywan/spotify-zeroconf](https://github.com/elbywan/spotify-zeroconf) - Spotify Web API authentication, the easy way.
 - [itkach/aard2-android](https://github.com/itkach/aard2-android) - Aard2 for Android, a simple dictionary app
@@ -5434,12 +5442,13 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [gettalong/kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
-- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) with a few CSS selectors.
+- [html2rss/html2rss](https://github.com/html2rss/html2rss) - 📰 Build RSS 2.0 feeds from websites (and JSON APIs) automatically or with a few CSS selectors.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## rust 
 
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo) - Share pastes privately, with end to end encryption.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -6008,6 +6017,7 @@
 
 ## windows 
 
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [Lemon4ksan/SimpleAutoClicker](https://github.com/Lemon4ksan/SimpleAutoClicker) - A nice and modern auto clicker with everything you need, written on Python
