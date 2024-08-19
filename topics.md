@@ -41,6 +41,7 @@
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
@@ -133,6 +134,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -214,6 +216,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -296,6 +299,7 @@
 
 ## android 
 
+- [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
@@ -702,6 +706,7 @@
 
 ## artificial-intelligence 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1115,6 +1120,10 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
+## computer-vision 
+
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
+
 ## config 
 
 - [FireFox-CSS/FireFox-CSS](https://github.com/FireFox-CSS/FireFox-CSS) - My Config
@@ -1304,6 +1313,7 @@
 
 ## deep-learning 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) - Reinforcement Learning environments based on the 1993 game Doom :godmode:
 - [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [zzh8829/yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
@@ -1412,6 +1422,7 @@
 
 ## docker 
 
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
@@ -1493,6 +1504,7 @@
 
 ## electron 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
@@ -1658,6 +1670,7 @@
 
 ## flask 
 
+- [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1665,6 +1678,7 @@
 
 ## flutter 
 
+- [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [nizwar/ludo_flutter](https://github.com/nizwar/ludo_flutter) - Ludo game with Flutter
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - minimalist colorful weather app
@@ -2044,6 +2058,7 @@
 
 ## gamemaker 
 
+- [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
 ## games 
@@ -2305,6 +2320,7 @@
 
 ## hacktoberfest 
 
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
 - [LonamiWebs/Klooni1010](https://github.com/LonamiWebs/Klooni1010) - libGDX game based on the original 1010!
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2570,6 +2586,7 @@
 
 ## html5 
 
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [alexrintt/lofi-player](https://github.com/alexrintt/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
@@ -2610,6 +2627,7 @@
 
 ## image-processing 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [NotNeelPatel/WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) - Change the colour schemes of wallpapers
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
@@ -2767,6 +2785,8 @@
 
 ## javascript 
 
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [RichKMLS/Old-Reddit-Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
@@ -3093,6 +3113,7 @@
 
 ## kubernetes 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -3292,6 +3313,10 @@
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [dannygaray60/localization-editor-g3](https://github.com/dannygaray60/localization-editor-g3) - A tool for adding/editing/deleting translations in .csv files made with Godot Engine
 
+## login 
+
+- [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
+
 ## low-code 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -3331,6 +3356,7 @@
 
 ## machine-learning 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [jacbz/Lofi](https://github.com/jacbz/Lofi) - ML-supported lo-fi music generator
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
@@ -4051,6 +4077,10 @@
 
 ## others 
 
+- [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
+- [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [117HD/RLHD](https://github.com/117HD/RLHD) - Old School RuneScape GPU renderer with a suite of graphical enhancements.
 - [Adamcake/Bolt](https://github.com/Adamcake/Bolt) - An alternative launcher for your favourite MMO
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
@@ -4646,7 +4676,7 @@
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
-- [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A cross-platform Geometry Dash frame-based macro bot with an internal renderer.
+- [CattoDev/GatoBot](https://github.com/CattoDev/GatoBot) - A cross-platform Geometry Dash step-based macro bot with an internal renderer.
 - [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
 - [GDColon/GD-Randomizer](https://github.com/GDColon/GD-Randomizer) - a dumb program that randomizes all the geometry dash textures
 - [matcool/ReplayBot](https://github.com/matcool/ReplayBot) - a replay bot for gd
@@ -5000,6 +5030,7 @@
 
 ## p2p 
 
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -5152,6 +5183,8 @@
 
 ## python 
 
+- [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [Lemon4ksan/SimpleAutoClicker](https://github.com/Lemon4ksan/SimpleAutoClicker) - A nice and modern auto clicker with everything you need, written on Python
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [mak448a/Qtcord](https://github.com/mak448a/Qtcord) - Qtcord is a Discord client built with QT aiming to bring a lightweight, native experience.
@@ -5314,6 +5347,7 @@
 
 ## rails 
 
+- [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 
 ## raspberry-pi 
@@ -5438,6 +5472,7 @@
 
 ## ruby 
 
+- [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -5531,6 +5566,7 @@
 
 ## security 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [City-Zouitel/JetNote](https://github.com/City-Zouitel/JetNote) - A simple android note app made by jetpack compose.
 - [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
@@ -5694,6 +5730,10 @@
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
 - [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
 
+## tailwindcss 
+
+- [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
+
 ## telegram 
 
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
@@ -5813,6 +5853,7 @@
 
 ## typescript 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [niklasf/chessops](https://github.com/niklasf/chessops) - Chess and chess variant rules and operations in TypeScript
@@ -6017,6 +6058,7 @@
 
 ## windows 
 
+- [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
