@@ -722,6 +722,7 @@
 
 ## HTML 
 
+- [open-emojify/emojify](https://github.com/open-emojify/emojify) - Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
@@ -1888,7 +1889,7 @@
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 - [nh6574/JokerDisplay](https://github.com/nh6574/JokerDisplay) - Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.
 - [Firch/Bunco](https://github.com/Firch/Bunco) - 
-- [Kooluve/Better-Mouse-And-Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - A Balatro functional mod. Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button.
+- [Kooluve/Better-Mouse-And-Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)
 - [balamod/aseprite-balamod-extension](https://github.com/balamod/aseprite-balamod-extension) - An extension for the spriting software Asesprite to help make Balatro assets
 - [CelestialCartographers/Loenn](https://github.com/CelestialCartographers/Loenn) - A Visual Map Maker and Level Editor for the game Celeste but better than the other one
 - [3dreamengine/3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - 3DreamEngine is an *awesome* 3d engine for LÖVE.
@@ -2482,7 +2483,7 @@
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine.
@@ -2608,7 +2609,6 @@
 - [Magisk-Modules-Alt-Repo/HideNavBar](https://github.com/Magisk-Modules-Alt-Repo/HideNavBar) - Fullscreen/Immersive Gesture Tweaks for Android 10-14
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [Magisk-Modules-Repo/HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar) - 
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
@@ -2715,6 +2715,7 @@
 
 ## TypeScript 
 
+- [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
@@ -2747,6 +2748,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [hiaaryan/wora](https://github.com/hiaaryan/wora) - 🎧 A beautiful player for audiophiles.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
+- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] An open-source, self-hosted cloud gaming platform that allows you to play games in your web browser, with friends.
 - [rivet-gg/opengb](https://github.com/rivet-gg/opengb) - Open Game Backend: Open-source modular backend for all games and tools. Works with Godot, Unity, Unreal Engine, and HTML5.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
