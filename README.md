@@ -113,6 +113,8 @@
 
 ## C 
 
+- [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [Adamcake/Bolt](https://github.com/Adamcake/Bolt) - An alternative launcher for your favourite MMO
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -287,6 +289,8 @@
 
 ## C++ 
 
+- [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -467,6 +471,7 @@
 
 ## CSS 
 
+- [catppuccin/youtubemusic](https://github.com/catppuccin/youtubemusic) - 🎧 Soothing pastel theme for YouTube Music
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
@@ -1610,7 +1615,7 @@
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 - [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
 - [mr3y-the-programmer/Podcaster](https://github.com/mr3y-the-programmer/Podcaster) - 🎧 Podcast listening app. Showcase of using Jetpack Media 3 in a real, offline-first app
-- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
+- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo is an Android app tailored for Google Android users
@@ -1960,6 +1965,7 @@
 
 ## Others 
 
+- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [blueagler/Grammarly-Unlock](https://github.com/blueagler/Grammarly-Unlock) - To reveal Grammarly Premium Suggestions and Tone Detector
 - [NabokD/pockettube](https://github.com/NabokD/pockettube) - The best way to manage your YouTube subscriptions
