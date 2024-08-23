@@ -355,7 +355,7 @@
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 - [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
-- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
+- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo is an Android app tailored for Google Android users
@@ -967,6 +967,7 @@
 
 ## c 
 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -989,6 +990,8 @@
 
 ## c-plus-plus 
 
+- [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [cutechess/cutechess](https://github.com/cutechess/cutechess) - Cute Chess is a graphical user interface, command-line interface and a library for playing chess.
 - [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
 - [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with own Track Editor. The main repository with Stunt Rally 3 sources and data. Continuation of Stunt Rally 2.x using Ogre-Next 3.0.
@@ -1164,6 +1167,7 @@
 
 ## cpp 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -1255,7 +1259,6 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [danielkrupinski/VAC](https://github.com/danielkrupinski/VAC) - Source code of Valve Anti-Cheat obtained from disassembly of compiled modules
-- [NotNeelPatel/WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) - Change the colour schemes of wallpapers
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1604,6 +1607,9 @@
 
 ## emulator 
 
+- [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
+- [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Boxvidra/Boxvidra-Android](https://github.com/Boxvidra/Boxvidra-Android) - Boxvidra is an Android application designed to bring Debian, XFCE4, Wine, Box86, and Box64 environments to your Android device using Proot. It allows you to run Linux applications and Windows binaries
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
@@ -2355,6 +2361,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/youtubemusic](https://github.com/catppuccin/youtubemusic) - 🎧 Soothing pastel theme for YouTube Music
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
@@ -2866,7 +2873,6 @@
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
 - [blaze33/way-of-life](https://github.com/blaze33/way-of-life) - Conway's game of life implemented in JavaScript & WebAssembly, rendered to canvas.
-- [NotNeelPatel/WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) - Change the colour schemes of wallpapers
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this secure
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
@@ -3013,7 +3019,7 @@
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 - [phansier/Coffeegram](https://github.com/phansier/Coffeegram) - Android, Desktop, iOS apps using Jetpack & Multiplatform Compose
 - [mr3y-the-programmer/Podcaster](https://github.com/mr3y-the-programmer/Podcaster) - 🎧 Podcast listening app. Showcase of using Jetpack Media 3 in a real, offline-first app
-- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
+- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo is an Android app tailored for Google Android users
@@ -3187,6 +3193,7 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - :iphone: [Android Library] Get device information in a super easy way.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [BloCamLimb/ModernUI-MC](https://github.com/BloCamLimb/ModernUI-MC) - Minecraft mod that embeds Modern UI into Minecraft, providing modding API, text layout engine and some widgets.
@@ -3198,6 +3205,7 @@
 
 ## linux 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients
@@ -3364,6 +3372,7 @@
 
 ## lua 
 
+- [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
 - [Gakuto1112/SenkoSan](https://github.com/Gakuto1112/SenkoSan) - "Senko-san (仙狐さん)" the avatar for Figura, the skin mod for Minecraft.
@@ -3409,6 +3418,7 @@
 
 ## macos 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -3522,7 +3532,7 @@
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
 - [beradeep/whitehole](https://github.com/beradeep/whitehole) - A feature-packed photo manager on top of Telegram.
-- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 Streamline your Android Jetpack Compose projects with a versatile step-by-step UI library.
+- [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [JLindemann42/Atomic-Periodic-Table.Android](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - Atomic - Periodic Table
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android
 - [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
@@ -4120,6 +4130,7 @@
 
 ## others 
 
+- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
 - [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
@@ -6109,6 +6120,7 @@
 
 ## windows 
 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
