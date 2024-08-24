@@ -543,6 +543,7 @@
 
 ## Dart 
 
+- [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [jerichoi224/Nothing-Gallery](https://github.com/jerichoi224/Nothing-Gallery) - Gallery for Nothing Phone with effort to follow the Nothing Design Language
@@ -565,7 +566,7 @@
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [postbloomly/muffed](https://github.com/postbloomly/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
+- [freshfieldreds/muffed](https://github.com/freshfieldreds/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
 - [StarsWarrior/BlackHole](https://github.com/StarsWarrior/BlackHole) - A Music Player App made with Flutter
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
@@ -807,6 +808,7 @@
 
 ## Java 
 
+- [cylonid/NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) - 
 - [117HD/RLHD](https://github.com/117HD/RLHD) - Old School RuneScape GPU renderer with a suite of graphical enhancements.
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
