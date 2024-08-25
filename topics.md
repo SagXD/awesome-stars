@@ -1363,6 +1363,7 @@
 
 ## deno 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rivet-gg/opengb](https://github.com/rivet-gg/opengb) - Open Game Backend: Open-source modular backend for all games and tools. Works with Godot, Unity, Unreal Engine, and HTML5.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
@@ -2204,6 +2205,7 @@
 
 ## go 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -2362,6 +2364,7 @@
 
 ## hacktoberfest 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [catppuccin/youtubemusic](https://github.com/catppuccin/youtubemusic) - 🎧 Soothing pastel theme for YouTube Music
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -4428,7 +4431,7 @@
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [agrastiOs/Ultimate-TF2-Visual-Fix-Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack) - A pack of visual fixes for TF2, to be sent to Valve.
-- [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, TF2 protobufs.
+- [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, Deadlock, TF2 protobufs.
 - [JarateKing/CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) - Clean TF2's sequel
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
@@ -5059,7 +5062,6 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [isuewo/OverimaginedShaders](https://github.com/isuewo/OverimaginedShaders) - A Complementary Reimagined edit
-- [weynn/Exelon](https://github.com/weynn/Exelon) - 
 - [TheAlienDoctor/minecraft-resource-pack-converter](https://github.com/TheAlienDoctor/minecraft-resource-pack-converter) - Converts Minecraft resource packs between versions (Bedrock and Java)
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [myNameIsArdens/Pulse-Project](https://github.com/myNameIsArdens/Pulse-Project) - I used a combination of tools to build a website that displays my heart rate in real time
@@ -6050,6 +6052,7 @@
 
 ## web 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
