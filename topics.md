@@ -1691,6 +1691,8 @@
 
 ## firefox 
 
+- [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -2532,7 +2534,6 @@
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [wvffle/mineflayer-dashboard](https://github.com/wvffle/mineflayer-dashboard) - 
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [frknkrc44/superboard](https://github.com/frknkrc44/superboard) - A mirror of https://gitlab.com/frknkrc44/superboard. Please do everything on my GitLab repository.
@@ -3621,6 +3622,7 @@
 
 ## minecraft 
 
+- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 - [isXander/Debugify](https://github.com/isXander/Debugify) - A mod aimed at fixing bugs found on the Mojang Bug Tracker
 - [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
@@ -4173,6 +4175,8 @@
 
 ## others 
 
+- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
+- [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [littlerobots/ytch-android](https://github.com/littlerobots/ytch-android) - ytch.xyz on your Android TV
 - [team-abnormals/atmospheric](https://github.com/team-abnormals/atmospheric) - Fills the world with fleshed out & diverse landscapes
 - [satisfyu/Bakery](https://github.com/satisfyu/Bakery) - 
@@ -4622,7 +4626,7 @@
 - [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
 - [BrotatoMods/Darkly77-TranslationsDemo](https://github.com/BrotatoMods/Darkly77-TranslationsDemo) - Demo for making a custom translations mod
 - [bene-labs/Brotato-WeaponDpsDisplay](https://github.com/bene-labs/Brotato-WeaponDpsDisplay) - A mod for Brotato that displays the DPS of all weapons.
-- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - 
+- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - Custom Character mod for Brotato
 - [Pritish-git/new-dark-theme-implementation](https://github.com/Pritish-git/new-dark-theme-implementation) - New dark theme implementation features which were added in android 10 and later
 - [KhunHtetzNaing/ADB-OTG](https://github.com/KhunHtetzNaing/ADB-OTG) - Android Debug Bridge On The Go.
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
@@ -5442,6 +5446,7 @@
 
 ## qt 
 
+- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [mak448a/Qtcord](https://github.com/mak448a/Qtcord) - Qtcord is a Discord client built with QT aiming to bring a lightweight, native experience.
 - [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
@@ -5702,6 +5707,7 @@
 
 ## self-hosted 
 
+- [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [mdshack/shotshare](https://github.com/mdshack/shotshare) - Open source image sharing application
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
