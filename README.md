@@ -289,6 +289,7 @@
 
 ## C++ 
 
+- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 - [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Brendan-Kirtlan/Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
@@ -471,6 +472,8 @@
 
 ## CSS 
 
+- [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [catppuccin/youtubemusic](https://github.com/catppuccin/youtubemusic) - 🎧 Soothing pastel theme for YouTube Music
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
@@ -652,7 +655,7 @@
 - [Nailim/brotato-mod-secondchance](https://github.com/Nailim/brotato-mod-secondchance) - A Brotato mod that gives the player a second chance on death by returning him one wave back instead of ending the run.
 - [otDan/Brotato-RollsLeft](https://github.com/otDan/Brotato-RollsLeft) - Adds roll counter in the shop menu
 - [bene-labs/Brotato-WeaponDpsDisplay](https://github.com/bene-labs/Brotato-WeaponDpsDisplay) - A mod for Brotato that displays the DPS of all weapons.
-- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - 
+- [bene-labs/Brotato-FullyArmed](https://github.com/bene-labs/Brotato-FullyArmed) - Custom Character mod for Brotato
 - [SteveSmith16384/TinyTrainsToy](https://github.com/SteveSmith16384/TinyTrainsToy) - A simple version of Mini Metro.  Build trains and tracks to connect stations
 - [Sajeg/falling-blocks](https://github.com/Sajeg/falling-blocks) - A mobile Game, where you need to collect the blocks matching your colour
 - [popcar2/GodotOS](https://github.com/popcar2/GodotOS) - A Fake Operating System Interface made in Godot!
@@ -1902,6 +1905,7 @@
 
 ## Lua 
 
+- [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
 - [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [rxi/lite-plugins](https://github.com/rxi/lite-plugins) - Plugins for the lite text editor
@@ -1984,6 +1988,7 @@
 
 ## Others 
 
+- [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
@@ -2235,6 +2240,7 @@
 
 ## Python 
 
+- [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
