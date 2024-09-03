@@ -4228,6 +4228,8 @@
 
 ## others 
 
+- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds 10 Jokers to your game that aim to look and feel Vanilla, but add NEW ways to play!
+- [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
 - [badlogic/skyview](https://github.com/badlogic/skyview) - Thread reader for Bluesky
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - Telegram for watch
