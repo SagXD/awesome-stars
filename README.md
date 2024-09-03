@@ -1928,6 +1928,7 @@
 
 ## Lua 
 
+- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds 10 Jokers to your game that aim to look and feel Vanilla, but add NEW ways to play!
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
@@ -2218,6 +2219,7 @@
 
 ## PHP 
 
+- [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
