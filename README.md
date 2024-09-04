@@ -291,6 +291,7 @@
 
 ## C++ 
 
+- [reburndev/reburn3](https://github.com/reburndev/reburn3) - An open source reimplementation of Burnout 3: Takedown
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Lyall/WukongTweak](https://github.com/Lyall/WukongTweak) - An ASI plugin for Black Myth: Wukong that features expanded ultrawide support and graphical tweaks.
@@ -396,6 +397,7 @@
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [SwiftAndroid/swift](https://github.com/SwiftAndroid/swift) - Port of Apple's reference Swift toolchain to Android; doesn't quite work yet
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [alexdantas/yetris](https://github.com/alexdantas/yetris) - Customizable Tetris(tm) for the terminal.
@@ -1392,7 +1394,6 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [atom-community/atom](https://github.com/atom-community/atom) - :atom: Community build of the hackable text editor
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
@@ -1988,6 +1989,7 @@
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Meson 
 
@@ -2195,7 +2197,6 @@
 - [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
 - [s7n1ax/Thunderhackplus](https://github.com/s7n1ax/Thunderhackplus) - 
 - [alimustafa53tr/3arth4ck-Configs](https://github.com/alimustafa53tr/3arth4ck-Configs) - every single 3arth4ck config i have
@@ -2893,7 +2894,7 @@
 - [fmhy/snowbin](https://github.com/fmhy/snowbin) - ❄️ Delightfully crafted markdown pastebin with &lt;3
 - [VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter Strike implementation with Javascript/Typescript
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
