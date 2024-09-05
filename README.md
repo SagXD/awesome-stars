@@ -96,6 +96,7 @@
 
 ## AutoIt 
 
+- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [Pahiro/AutoIT-Scripts](https://github.com/Pahiro/AutoIT-Scripts) - All of my AutoIT Scripts
 - [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
 - [TheAlienDoctor/minecraft-resource-pack-converter](https://github.com/TheAlienDoctor/minecraft-resource-pack-converter) - Converts Minecraft resource packs between versions (Bedrock and Java)
@@ -480,6 +481,7 @@
 
 ## CSS 
 
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [FQQD/MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
@@ -690,6 +692,7 @@
 
 ## Go 
 
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
@@ -1592,6 +1595,7 @@
 
 ## Just 
 
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [catppuccin/gitui](https://github.com/catppuccin/gitui) - 🍴 Soothing pastel theme for GitUI
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
@@ -1600,6 +1604,11 @@
 
 ## Kotlin 
 
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+- [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
+- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -1780,7 +1789,7 @@
 - [wingio/Logra](https://github.com/wingio/Logra) - Material You logcat viewer for Android
 - [blocoio/android-template](https://github.com/blocoio/android-template) - Android app starter template
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - 
-- [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [SuhasDissa/MemerizeApp](https://github.com/SuhasDissa/MemerizeApp) - Android app to view Memes
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [FossifyOrg/Commons](https://github.com/FossifyOrg/Commons) - Some helper functions and shared resources used by the Fossify apps.
@@ -2047,7 +2056,6 @@
 - [Rustnot/Trekfetch](https://github.com/Rustnot/Trekfetch) - A gorgeous neofetch custom config for your Linux terminal
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Enchanted-Games/fix-horizontal-camera-lag](https://github.com/Enchanted-Games/fix-horizontal-camera-lag) - A minecraft mod that fixes the horizontal camera lag when riding an entity
 - [Adrenix/Nostalgic-Tweaks](https://github.com/Adrenix/Nostalgic-Tweaks) - This mod brings back a plethora of Minecraft Alpha/Beta gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft by tweaking the mod to their pr
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
@@ -2273,6 +2281,8 @@
 
 ## Python 
 
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
@@ -2298,7 +2308,7 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
@@ -2531,6 +2541,7 @@
 
 ## Ruby 
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -2542,6 +2553,7 @@
 
 ## Rust 
 
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
@@ -2832,7 +2844,7 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] An open-source, self-hosted cloud gaming platform that allows you to play games in your web browser, with friends.
 - [rivet-gg/opengb](https://github.com/rivet-gg/opengb) - Open Game Backend: Open-source modular backend for all games and tools. Works with Godot, Unity, Unreal Engine, and HTML5.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
@@ -2996,6 +3008,7 @@
 
 ## Vue 
 
+- [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [deptyped/notepher-bot](https://github.com/deptyped/notepher-bot) - Note-taking Telegram Mini App
