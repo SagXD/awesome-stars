@@ -1919,7 +1919,7 @@
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.5.2 / Gravity Bending Puzzle Platformer Game
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
@@ -2522,7 +2522,7 @@
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
@@ -2914,7 +2914,7 @@
 - [open-emojify/emojify](https://github.com/open-emojify/emojify) - Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [RichKMLS/Old-Reddit-Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
+- [GithubUserAccountAmazing/Old-Reddit-Redirect](https://github.com/GithubUserAccountAmazing/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -2953,7 +2953,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [blaze33/way-of-life](https://github.com/blaze33/way-of-life) - Conway's game of life implemented in JavaScript & WebAssembly, rendered to canvas.
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this secure
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
@@ -4079,7 +4079,7 @@
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [dilaouid/FandomScraper](https://github.com/dilaouid/FandomScraper) - 📓 [TS] A NodeJS package to scrap fandoms wikis characters page. Only scraps the characters info section and the list of all repertoried characters.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this secure
 - [carlelieser/flixerr](https://github.com/carlelieser/flixerr) - The best free movie torrent streaming app.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -4245,6 +4245,8 @@
 
 ## others 
 
+- [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
+- [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [SN-Koarashi/ig-helper](https://github.com/SN-Koarashi/ig-helper) - In Instagram, downloading is possible for both photos and videos from posts, as well as for stories, reels or profile picture.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
@@ -6122,7 +6124,7 @@
 - [dilaouid/FandomScraper](https://github.com/dilaouid/FandomScraper) - 📓 [TS] A NodeJS package to scrap fandoms wikis characters page. Only scraps the characters info section and the list of all repertoried characters.
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
 - [SleeplessOne1917/lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) - A bot library for Lemmy, the fediverse link aggregator.
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
