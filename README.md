@@ -498,6 +498,7 @@
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus) - CSS tweaks for Firefox
 - [castdrian/mw-native](https://github.com/castdrian/mw-native) - The native app version of movie-web
+- [katorlys/rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 - [Rejdesu/AMOLEDdit](https://github.com/Rejdesu/AMOLEDdit) - Save your eyes with this dark theme for Old Reddit. Compatible with RES.
 - [catppuccin/whoogle](https://github.com/catppuccin/whoogle) - 🔍 Soothing pastel theme for Whoogle
@@ -1255,6 +1256,7 @@
 
 ## JavaScript 
 
+- [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [SN-Koarashi/ig-helper](https://github.com/SN-Koarashi/ig-helper) - In Instagram, downloading is possible for both photos and videos from posts, as well as for stories, reels or profile picture.
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [nutbread/t2m](https://github.com/nutbread/t2m) - Torrent to magnet converter
@@ -1271,7 +1273,7 @@
 - [bartificer/xkpasswd-js](https://github.com/bartificer/xkpasswd-js) - The official JavaScript port of the Crypt::HSXKPasswd Perl module.
 - [Andrews54757/Anti-Anti-Debug](https://github.com/Andrews54757/Anti-Anti-Debug) - Be able to use developer tools again on user-hostile websites
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
-- [RichKMLS/Old-Reddit-Redirect](https://github.com/RichKMLS/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
+- [GithubUserAccountAmazing/Old-Reddit-Redirect](https://github.com/GithubUserAccountAmazing/Old-Reddit-Redirect) - Tampermonkey script to automatically redirect you to old.reddit.com
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [ThomazPom/Moz-Ext-UltimaDark](https://github.com/ThomazPom/Moz-Ext-UltimaDark) - Web Extension that uses agressive technique to get dark mode everywhere
@@ -2065,7 +2067,6 @@
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
 - [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) - 🌐 Grab your own subdomain for free  Follow the steps listed below to get your own subdomain!
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
-- [katorlys/rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet
@@ -2689,6 +2690,7 @@
 
 ## Shell 
 
+- [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
@@ -2894,7 +2896,7 @@
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - Turn Based Strategy Game. Master your beasts! 🐺
+- [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast) - The Turn Based Strategy Game/eSport. Master your beasts! 🐺
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
 - [SleeplessOne1917/lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) - A bot library for Lemmy, the fediverse link aggregator.
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
