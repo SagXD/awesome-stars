@@ -115,6 +115,7 @@
 
 ## C 
 
+- [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -563,6 +564,7 @@
 
 ## Dart 
 
+- [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - 
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -997,7 +999,6 @@
 - [RealzPrestige/health-indicators](https://github.com/RealzPrestige/health-indicators) - Simple health indicators for fabric 1.19.2
 - [AnOpenSauceDev/Methane-mod](https://github.com/AnOpenSauceDev/Methane-mod) - A 1.19+ performance mod for the Fabric and Quilt modloaders.
 - [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [fengdai/AlertDialogPro](https://github.com/fengdai/AlertDialogPro) - [Deprecated] This project can make it easy to theme and custom Android's dialog. Also provides Holo and Material themes for old devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [magicsih/AndroidScreenCaster](https://github.com/magicsih/AndroidScreenCaster) - Efficient, low-latency Android screen casting with H.264 and WebM encoding via TCP and UDP.
@@ -1564,7 +1565,6 @@
 - [Faruk-Tutkus/macroaimtrainer](https://github.com/Faruk-Tutkus/macroaimtrainer) - Aim Trainer - Challenge and Tracking
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-- [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [Carlox1/SpamBot](https://github.com/Carlox1/SpamBot) - Spam bot for 6b6t.org using Mineflayer
 - [TomPlaneta/SpamBotPlus](https://github.com/TomPlaneta/SpamBotPlus) - Improved version of spam bot for 6b6t.org using Mineflayer
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
@@ -1616,6 +1616,7 @@
 
 ## Kotlin 
 
+- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
@@ -2297,6 +2298,7 @@
 
 ## Python 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
@@ -2850,7 +2852,7 @@
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun microblogging app for the decentralized social web
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [TheRealMonte/therealmonte.github.io](https://github.com/TheRealMonte/therealmonte.github.io) - 
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 - [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
@@ -3006,7 +3008,7 @@
 - [ojoanalogo/issuetron-3000](https://github.com/ojoanalogo/issuetron-3000) - 🚨 Trigger a MQTT alert when someone opens an issue in one of your repositories
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
 - [FireFox-CSS/lanyard-profile-readme](https://github.com/FireFox-CSS/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [ATypescriptEnjoyer/Docker-Radio](https://github.com/ATypescriptEnjoyer/Docker-Radio) - Radio station built in NodeJS & React, all contained within a nice docker package!
@@ -3035,6 +3037,7 @@
 
 ## Vue 
 
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
