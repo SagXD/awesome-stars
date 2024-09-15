@@ -309,12 +309,15 @@
 
 ## android 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -338,7 +341,7 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun microblogging app for the decentralized social web
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
@@ -482,7 +485,6 @@
 - [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
 - [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
 - [WirelessAlien/BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - A Simple Open-source Android App for Bhagavad Gita
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [fengdai/AlertDialogPro](https://github.com/fengdai/AlertDialogPro) - [Deprecated] This project can make it easy to theme and custom Android's dialog. Also provides Holo and Material themes for old devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2781,7 +2783,7 @@
 ## ios 
 
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun microblogging app for the decentralized social web
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
@@ -3104,9 +3106,11 @@
 
 ## kotlin 
 
+- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -3329,6 +3333,7 @@
 
 ## linux 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
@@ -3410,7 +3415,6 @@
 - [tyroruyk/ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust
 - [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - a script that lets you change the colors of folders in Papirus icon theme
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -3644,7 +3648,7 @@
 
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun microblogging app for the decentralized social web
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
@@ -3660,6 +3664,7 @@
 ## material-design 
 
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
@@ -3867,7 +3872,6 @@
 - [horionclient/Horion](https://github.com/horionclient/Horion) - Horion - A Minecraft: Bedrock Edition Utility Mod.
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
-- [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
 - [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best minecraft bedrock anticheat designed for realms, worlds and servers
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
@@ -4284,6 +4288,9 @@
 
 ## others 
 
+- [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
+- [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why's it called Puzzles you ask? That's the puzzle!
@@ -4302,7 +4309,6 @@
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-- [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
 - [reburndev/reburn3](https://github.com/reburndev/reburn3) - An open source reimplementation of Burnout 3: Takedown
 - [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds several Jokers to your game that aim to look and feel Vanilla, but add NEW ways to play!
@@ -5271,7 +5277,7 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [alfaaarex/Fluent-Media-Player-Dev](https://github.com/alfaaarex/Fluent-Media-Player-Dev) - The modern replacement for Windows Media Player
-- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
+- [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
 - [FireFox-CSS/lanyard-profile-readme](https://github.com/FireFox-CSS/lanyard-profile-readme) - 🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -5386,6 +5392,7 @@
 - [Andrews54757/Anti-Anti-Debug](https://github.com/Andrews54757/Anti-Anti-Debug) - Be able to use developer tools again on user-hostile websites
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
@@ -5678,7 +5685,7 @@
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun microblogging app for the decentralized social web
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [Infinite-Null/NekoFlix](https://github.com/Infinite-Null/NekoFlix) - Introducing Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Nekoflix, users can seamlessly stream their favorite anime and dive into captivating manga series, all without i
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
@@ -6100,7 +6107,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [sachaos/go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life. Implemented in Go.
 - [FWDekker/mommy](https://github.com/FWDekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
@@ -6126,7 +6132,6 @@
 - [xoureldeen-dev/Winux-VM](https://github.com/xoureldeen-dev/Winux-VM) - Boxvidra is an Android application designed to bring Debian, XFCE4, Wine, Box86, and Box64 environments to your Android device using Proot. It allows you to run Linux applications and Windows binaries
 - [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
