@@ -293,6 +293,8 @@
 
 ## C++ 
 
+- [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
 - [Bali10050/Lightly](https://github.com/Bali10050/Lightly) - A modern style for qt applications.
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
@@ -666,6 +668,7 @@
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6 / Gravity Bending Puzzle Platformer Game
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [popcar2/CleanDoom](https://github.com/popcar2/CleanDoom) - The Clean and Modern Doom Mod Launcher
+- [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) - A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
 - [Blobfish-Games/godot-workshop-utility](https://github.com/Blobfish-Games/godot-workshop-utility) - Small utility used to upload content to Steam Workshop with Godot
 - [GodotModding/godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) - A general purpose mod loader for GDScript based Godot Games [3.x/4.x]
 - [BrotatoMods/Darkly77-ShowModSource](https://github.com/BrotatoMods/Darkly77-ShowModSource) - Shows where modded content comes from. Works with characters, items, and weapons
@@ -695,7 +698,6 @@
 
 - [nebuIr/Default-Dark-Mode](https://github.com/nebuIr/Default-Dark-Mode) - 🌙 The Dark Mode Resource Pack for Minecraft: Java Edition
 - [PoeticRainbow/golden-days](https://github.com/PoeticRainbow/golden-days) - Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.
-- [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) - A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
 - [ComplementaryDevelopment/ComplementaryReimagined](https://github.com/ComplementaryDevelopment/ComplementaryReimagined) - Complementary is a graphical rework pack for Minecraft with exceptional quality, detail, and performance.
 - [BalintCsala/VanillaPuddingTart](https://github.com/BalintCsala/VanillaPuddingTart) - Path tracing shaders for vanilla minecraft 1.17+
 
@@ -792,6 +794,7 @@
 - [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) - Naruto Anime Characters
 - [SchoolIzBoring/Unblocked-Websites](https://github.com/SchoolIzBoring/Unblocked-Websites) - Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
 - [Flexiston/homepage](https://github.com/Flexiston/homepage) - Flexistonの个人主页
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -1264,6 +1267,7 @@
 
 ## JavaScript 
 
+- [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [devXprite/gitglance](https://github.com/devXprite/gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [SN-Koarashi/ig-helper](https://github.com/SN-Koarashi/ig-helper) - In Instagram, downloading is possible for both photos and videos from posts, as well as for stories, reels or profile picture.
@@ -1954,7 +1958,7 @@
 
 ## Lua 
 
-- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds several Jokers to your game that aim to look and feel Vanilla, but add NEW ways to play!
+- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds several Jokers to your game that aim to look and feel Vanilla.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
@@ -2041,6 +2045,7 @@
 
 ## Others 
 
+- [An-anonymous-coder/Open-Source-Everything](https://github.com/An-anonymous-coder/Open-Source-Everything) - Open Source Everything: A curated list of the best open source software
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [WebShieldApp/WebShield](https://github.com/WebShieldApp/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
 - [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
@@ -2098,7 +2103,6 @@
 - [agrastiOs/Ultimate-TF2-Visual-Fix-Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack) - A pack of visual fixes for TF2, to be sent to Valve.
 - [Amin-Tgz/awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2) - 👉 Tensorflow 2.x resources such as tutorial, blog, code and videos
 - [jie65535/awesome-balatro](https://github.com/jie65535/awesome-balatro) - A list of Balatro Mods and Tools
-- [c-pirataria/megathread](https://github.com/c-pirataria/megathread) - Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [ezerear/gog-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog-games.to games backup
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
@@ -2137,7 +2141,6 @@
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
-- [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -2827,6 +2830,7 @@
 
 ## TypeScript 
 
+- [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movie/Series/Anime streaming and downloading android app
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
@@ -2923,7 +2927,7 @@
 - [sunaurus/lemmy-ui-next](https://github.com/sunaurus/lemmy-ui-next) - Alternative frontend for Lemmy. Built with Next.js.
 - [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) - Moepictures is an image board for anime art.
 - [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
-- [revenge-mod/Revenge](https://github.com/revenge-mod/Revenge) - A modification for Discord mobile apps.
+- [revenge-mod/revenge](https://github.com/revenge-mod/revenge) - ✊ A client mod for Discord
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
 - [MadeWithLoveInIndia/MadeWithLoveInIndia](https://github.com/MadeWithLoveInIndia/MadeWithLoveInIndia) - ♥️ A movement to celebrate, promote, and build a brand — India
 - [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
