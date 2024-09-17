@@ -250,7 +250,7 @@
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a pixel art editor made with .NET 7
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a pixel art editor made with .NET 8
 - [DaxEleven/Rule34.xxx-Downloader](https://github.com/DaxEleven/Rule34.xxx-Downloader) - The program for downloading content from the rule34.xxx
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
@@ -843,7 +843,6 @@
 
 ## Java 
 
-- [umutcamliyurt/OneTimePad](https://github.com/umutcamliyurt/OneTimePad) - A tool for one-time pad encryption on Android
 - [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why's it called Puzzles you ask? That's the puzzle!
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - Telegram for watch
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
@@ -1692,7 +1691,7 @@
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
 - [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo is an Android app tailored for Google Android users
-- [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e tests for your JVM back-end API with Kotlin
+- [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end API with Kotlin
 - [City-Zouitel/JetNote](https://github.com/City-Zouitel/JetNote) - A simple android note app made by jetpack compose.
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto.
 - [cashapp/paparazzi](https://github.com/cashapp/paparazzi) - Render your Android screens without a physical device or emulator
@@ -2301,6 +2300,7 @@
 
 ## Python 
 
+- [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
