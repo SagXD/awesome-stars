@@ -168,6 +168,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -257,7 +258,7 @@
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with own Track Editor. The main repository with Stunt Rally 3 sources and data. Continuation of Stunt Rally 2.x using Ogre-Next 3.0.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [3dreamengine/3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - 3DreamEngine is an *awesome* 3d engine for LÖVE.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -702,7 +703,6 @@
 - [City-Zouitel/JetNote](https://github.com/City-Zouitel/JetNote) - A simple android note app made by jetpack compose.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
@@ -1278,7 +1278,7 @@
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
@@ -1579,7 +1579,7 @@
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -1789,6 +1789,7 @@
 
 ## flutter 
 
+- [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [kra-mo/sly](https://github.com/kra-mo/sly) - Friendly image editor
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -1920,7 +1921,7 @@
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [daniele-rapagnani/alephone-android](https://github.com/daniele-rapagnani/alephone-android) - Port of the AlephOne engine on Android
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
@@ -3668,6 +3669,7 @@
 
 ## material-design 
 
+- [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
@@ -3787,7 +3789,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
 - [Gakuto1112/SenkoSan](https://github.com/Gakuto1112/SenkoSan) - "Senko-san (仙狐さん)" the avatar for Figura, the skin mod for Minecraft.
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [bs-community/skinview3d](https://github.com/bs-community/skinview3d) - Three.js powered Minecraft skin viewer.
 - [therealrealguy/6b6twiki](https://github.com/therealrealguy/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
@@ -4251,6 +4253,18 @@
 - [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS) - Raven b+ : Raven b3 but better.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
+## openai 
+
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+
 ## opencv 
 
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -4263,7 +4277,7 @@
 - [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - A modern Minecraft 3D skin manager/editor by Yoojun Zhou
+- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
@@ -4933,7 +4947,6 @@
 - [rebane2001/cr3stal](https://github.com/rebane2001/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
 - [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
-- [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [alilotfi/VirusTotalClient](https://github.com/alilotfi/VirusTotalClient) - VirusTotal for Android checks the applications installed in your Android phone against VirusTotal (http://www.virustotal.com)
 - [xmake-io/xmake-repo](https://github.com/xmake-io/xmake-repo) - 📦 An official xmake package repository
 - [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
@@ -5397,7 +5410,7 @@
 
 ## privacy 
 
-- [ashley0143/poke](https://github.com/ashley0143/poke) - Poke! (fka poketube) is a free and libre software anonymous and Private Search engine & Youtube, Google Translate And OSM Frontend With Actual gooda UI  :3 🔎▶️ | Like us? Gib stars :3 (mirror from htt
+- [ashley0143/poke](https://github.com/ashley0143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashley/poke)
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -6192,7 +6205,7 @@
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) - Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all whi
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
