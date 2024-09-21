@@ -475,7 +475,7 @@
 - [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
 - [PsiCodes/ktxpy](https://github.com/PsiCodes/ktxpy) - Python Compiler/ide For Android with Material3
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [kafri8889/Compose-2048](https://github.com/kafri8889/Compose-2048) - 2048 game made with Jetpack Compose
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
@@ -1239,7 +1239,7 @@
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [tomlooman/ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine C++ Course & Stanford University
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Cross-platform game hack for Counter-Strike 2 with Panorama-based GUI.
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -1278,7 +1278,6 @@
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [ycarowr/UiCard](https://github.com/ycarowr/UiCard) - Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
@@ -1520,6 +1519,7 @@
 
 ## docker 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
@@ -1579,7 +1579,6 @@
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight TUI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -2350,6 +2349,7 @@
 
 ## golang 
 
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -2869,7 +2869,7 @@
 - [wmora/martianrun](https://github.com/wmora/martianrun) - An Open-Source Running Game with libGDX
 - [osudroid/osu-droid](https://github.com/osudroid/osu-droid) - 
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Nonononoki/Hendroid](https://github.com/Nonononoki/Hendroid) - Doujinshi Android App
@@ -3357,7 +3357,7 @@
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [hiaaryan/wora](https://github.com/hiaaryan/wora) - 🎧 A beautiful player for audiophiles.
@@ -3557,6 +3557,7 @@
 
 ## macos 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
@@ -3993,7 +3994,7 @@
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
-- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
@@ -4277,7 +4278,6 @@
 - [mrgaturus/npainter](https://github.com/mrgaturus/npainter) - fast and simple digital painting software
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-- [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [dxx-redux/dxx-redux](https://github.com/dxx-redux/dxx-redux) - Descent 1&2 source port based on DXX-Retro
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [etlegacy/etlegacy](https://github.com/etlegacy/etlegacy) - ET: Legacy is an open source project based on the code of Wolfenstein: Enemy Territory which was released in 2010 under the terms of the GPLv3 license.
@@ -4312,6 +4312,8 @@
 
 ## others 
 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+- [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds) - 
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -6127,7 +6129,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
