@@ -131,7 +131,7 @@
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
-- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
 - [ialex32x/GodotJS](https://github.com/ialex32x/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
 - [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
@@ -704,6 +704,7 @@
 
 ## Go 
 
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
@@ -844,6 +845,7 @@
 
 ## Java 
 
+- [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds) - 
 - [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why's it called Puzzles you ask? That's the puzzle!
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - Telegram for watch
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
@@ -984,7 +986,7 @@
 - [miao1007/AnimeWallpaper](https://github.com/miao1007/AnimeWallpaper) - [Android] Konachan wallpaper downloader
 - [saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) - [Deprecated] An application about movies with material design
 - [qwq233/Nullgram](https://github.com/qwq233/Nullgram) - 3rd party client of Telegram
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [MrSparsh/2048](https://github.com/MrSparsh/2048) - Implementation of popular 2048 game on Android using Android Studio
 - [GamEditor/2048-Android](https://github.com/GamEditor/2048-Android) - This game has published in google play store and cafe bazaar (an iranian app store). now we publish the full source code of this game with any permission. just have fun and enjoy &lt;3
 - [bulenkov/2048](https://github.com/bulenkov/2048) - Java implementation of 2048
@@ -1128,7 +1130,6 @@
 - [owenlongbo/android2048](https://github.com/owenlongbo/android2048) - Android 2048
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - [ARCHIVED - See README] Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 
 - [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
@@ -1925,6 +1926,7 @@
 - [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [SimpleMobileTools/Simple-Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) - Easy and quick contact management with no ads, handles groups and favorites too.
 - [manuel-martos/compose-2048](https://github.com/manuel-martos/compose-2048) - Porting 2048 game to Android using Jetpack Compose
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 - [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native android app for Lemmy
@@ -2303,6 +2305,7 @@
 
 ## Python 
 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2714,6 +2717,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
