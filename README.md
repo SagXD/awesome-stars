@@ -48,6 +48,7 @@
 - [Markdown](#markdown)
 - [Meson](#meson)
 - [MoonScript](#moonscript)
+- [NSIS](#nsis)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -292,6 +293,7 @@
 
 ## C++ 
 
+- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
@@ -1347,7 +1349,7 @@
 - [Skai256/mapart](https://github.com/Skai256/mapart) - Mineflayer flat carpet automation
 - [filecoffee/filehost](https://github.com/filecoffee/filehost) - An open source file host that you can easily selfhost.
 - [soundjester/lemmy_monkey](https://github.com/soundjester/lemmy_monkey) - *monkey scripts for Lemmy
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [Ategon/Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) - A lemmy bot that auto posts threads in communities at given times
 - [PangoraWeb/remindme-bot](https://github.com/PangoraWeb/remindme-bot) - A pangora/lemmy/kbin bot that reminds you after an amount of time
@@ -2030,6 +2032,10 @@
 ## MoonScript 
 
 - [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies.
+
+## NSIS 
+
+- [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for viewing one-time passwords generated from Aegis Authenticator backups.
 
 ## Nim 
 
