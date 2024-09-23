@@ -925,7 +925,7 @@
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [FWDekker/mommy](https://github.com/FWDekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -1153,7 +1153,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
@@ -2840,6 +2840,7 @@
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [jbunke/stipple-effect](https://github.com/jbunke/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [peterosterlund2/droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish Android Chess App
@@ -2979,7 +2980,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [keerthivasansa/animos](https://github.com/keerthivasansa/animos) - Animos - Clean and minimal Anime-streaming desktop application without any ads.
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Ategon/Lemmy-Frank-Bot](https://github.com/Ategon/Lemmy-Frank-Bot) - A lemmy bot that auto posts threads in communities at given times
@@ -3123,6 +3124,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Friendica
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
@@ -4131,7 +4133,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [dilaouid/FandomScraper](https://github.com/dilaouid/FandomScraper) - 📓 [TS] A NodeJS package to scrap fandoms wikis characters page. Only scraps the characters info section and the list of all repertoried characters.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
@@ -4315,7 +4317,8 @@
 
 ## others 
 
-- [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for viewing one-time passwords generated from Aegis Authenticator backups.
+- [simtrami/posy-improved-cursor-linux](https://github.com/simtrami/posy-improved-cursor-linux) - Posy's improved cursors by Michiel de Boer, available as cursor themes.
+- [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds) - 
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
@@ -4387,7 +4390,6 @@
 - [AKotov-dev/warpgui](https://github.com/AKotov-dev/warpgui) - GUI for Cloudflare ™ WARP
 - [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
 - [RattlesHyper/lyra-addon](https://github.com/RattlesHyper/lyra-addon) - Lyra Addon is a Meteor Client add-on specifically designed for Creative Mode and Creative servers.
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [bartificer/xkpasswd-js](https://github.com/bartificer/xkpasswd-js) - The official JavaScript port of the Crypt::HSXKPasswd Perl module.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [AndreiNekrasOn/keyboard_heatmap](https://github.com/AndreiNekrasOn/keyboard_heatmap) - keylogger and an app to visualize its results
@@ -5778,6 +5780,7 @@
 ## reverse-engineering 
 
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -5970,7 +5973,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [FWDekker/mommy](https://github.com/FWDekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
@@ -6397,7 +6400,7 @@
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [is-cool-me/register](https://github.com/is-cool-me/register) - Free subdomains for personal sites, open-source projects, and more.
-- [proj-at/subdomains](https://github.com/proj-at/subdomains) - 🌎 Get your own proj.sbs subdomains, free for open-source developers. (by Proj.at)
+- [proj-at/subdomains](https://github.com/proj-at/subdomains) - 🌎 Get your own proj.sbs subdomains, free for open-source developers. *TEMPORARILY STOP SIGNING UP*
 - [TechShreyash/AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
 - [Flexiston/homepage](https://github.com/Flexiston/homepage) - Flexistonの个人主页
 - [Kully/pixel-paint](https://github.com/Kully/pixel-paint) - An art tool for making 32x32 Sprites
