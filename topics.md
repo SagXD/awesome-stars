@@ -4785,7 +4785,7 @@
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
 - [Lanred-Dev/justreddit](https://github.com/Lanred-Dev/justreddit) - A simple package for getting random posts, random images, random SubReddits, and SubReddit info.
-- [quickdesh/Animiru](https://github.com/quickdesh/Animiru) - Android app for anime
+- [quickdesh/Animiru](https://github.com/quickdesh/Animiru) - Android video player
 - [Ai2473/8b8t-kitbot](https://github.com/Ai2473/8b8t-kitbot) - 
 - [gazlaws-dev/codeboard](https://github.com/gazlaws-dev/codeboard) - Codeboard App
 - [UnifiedPush/fcm-distributor](https://github.com/UnifiedPush/fcm-distributor) - Mirror of https://codeberg.org/UnifiedPush/fcm-distributor
