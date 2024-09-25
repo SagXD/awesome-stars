@@ -310,6 +310,7 @@
 
 ## android 
 
+- [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) - An IRC client for Android
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
@@ -2837,6 +2838,7 @@
 
 ## java 
 
+- [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) - An IRC client for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -4317,6 +4319,8 @@
 
 ## others 
 
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
+- [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) - A rusty Youtube client.
 - [simtrami/posy-improved-cursor-linux](https://github.com/simtrami/posy-improved-cursor-linux) - Posy's improved cursors by Michiel de Boer, available as cursor themes.
 - [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups.
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
@@ -5418,6 +5422,7 @@
 
 ## privacy 
 
+- [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) - An IRC client for Android
 - [ashley0143/poke](https://github.com/ashley0143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashley/poke)
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
