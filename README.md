@@ -332,7 +332,7 @@
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
-- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
+- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For the Windows, Linux, and Mac platforms.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -518,7 +518,7 @@
 - [vinceliuice/Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) - Matcha is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell
 - [Zwork101/xfce4-notifyd-themes](https://github.com/Zwork101/xfce4-notifyd-themes) - 🔔 Soothing pastel theme for xfce4-notifyd
 - [carlelieser/flixerr](https://github.com/carlelieser/flixerr) - The best free movie torrent streaming app.
-- [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
+- [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 or april fools day
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [roanuz/cricket-html-template](https://github.com/roanuz/cricket-html-template) - HTML template for Cricket Score and Stats
@@ -706,6 +706,7 @@
 
 ## Go 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
 - [Malwarize/retro](https://github.com/Malwarize/retro) - 📼 play musics with command line on linux
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -1272,6 +1273,7 @@
 
 ## JavaScript 
 
+- [zJohnWick/CLEANFOX-CONFIG](https://github.com/zJohnWick/CLEANFOX-CONFIG) - Firefox config for better privacy and security with better user experience.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [devXprite/gitglance](https://github.com/devXprite/gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
@@ -1626,6 +1628,15 @@
 
 ## Kotlin 
 
+- [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+- [YenalyLiew/Han1meViewer](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
+- [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+- [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
+- [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
+- [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
+- [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
@@ -2262,6 +2273,7 @@
 
 ## PHP 
 
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
 - [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
@@ -2582,6 +2594,7 @@
 
 ## Ruby 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -2594,6 +2607,11 @@
 
 ## Rust 
 
+- [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [opensourcecheemsburgers/RustyTube](https://github.com/opensourcecheemsburgers/RustyTube) - A rusty Youtube client.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
@@ -2849,6 +2867,7 @@
 
 ## TypeScript 
 
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movie/Series/Anime streaming and downloading android app
