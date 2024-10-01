@@ -1157,6 +1157,7 @@
 - [RedstoneTools/redstonetools-mod](https://github.com/RedstoneTools/redstonetools-mod) - A Redstone Quality of Life mod.
 - [ZeonDevelopment/Zeon](https://github.com/ZeonDevelopment/Zeon) - An addon for Meteor Client
 - [HouseHouseHause1/DomainWhitelist](https://github.com/HouseHouseHause1/DomainWhitelist) - Qbasty's shit OpenAnarchy Domain Whitelist (Old as shit)
+- [PK2-Stimpy/HOT___TOPIC-](https://github.com/PK2-Stimpy/HOT___TOPIC-) - 
 - [VVriter/Firework-client-public](https://github.com/VVriter/Firework-client-public) - 
 - [TheMosKau/LiquidBouncePlusPlusOLD](https://github.com/TheMosKau/LiquidBouncePlusPlusOLD) - 
 - [Hypnotic-Development/Hypnotic-Client](https://github.com/Hypnotic-Development/Hypnotic-Client) - gamer client pvp
