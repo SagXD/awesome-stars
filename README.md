@@ -1454,7 +1454,7 @@
 - [parampatel3/url-shortner](https://github.com/parampatel3/url-shortner) - 
 - [Sharkgrammer/clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
 - [lgbt-sh/lgbt-sh](https://github.com/lgbt-sh/lgbt-sh) - Free lgbt.sh sub-domain registration service
-- [proj-at/subdomains](https://github.com/proj-at/subdomains) - 🌎 Get your own proj.sbs subdomains, free for open-source developers. *TEMPORARILY STOP SIGNING UP*
+- [proj-at/subdomains](https://github.com/proj-at/subdomains) - 🌎 Get your own proj.sbs subdomains, free for open-source developers. *ENDS ON OCT 20, 2024*
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
 - [kentcdodds/netlify-shortener](https://github.com/kentcdodds/netlify-shortener) - Your own free URL shortener with Netlify
@@ -1984,7 +1984,7 @@
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
-- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
 - [rxi/lite-plugins](https://github.com/rxi/lite-plugins) - Plugins for the lite text editor
 - [MathIsFun0/Cryptid](https://github.com/MathIsFun0/Cryptid) - An unbalanced Balatro mod
 - [betmma/my_balatro_mods](https://github.com/betmma/my_balatro_mods) - some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.
@@ -2768,7 +2768,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [Magisk-Modules-Repo/HideNavBar](https://github.com/Magisk-Modules-Repo/HideNavBar) - 
-- [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
+- [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - Ad Blocking Module for Android (Magisk - KernelSU - APatch)
 - [gloeyisk/universal-gms-doze](https://github.com/gloeyisk/universal-gms-doze) - Patches Google Play services app and certain processes/services to be able to use battery optimization
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [christopherkobayashi/xfce4-hotcorner-plugin](https://github.com/christopherkobayashi/xfce4-hotcorner-plugin) - Xfce4 HotCorner Panel Plugin
