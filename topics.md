@@ -331,7 +331,7 @@
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
@@ -3148,7 +3148,7 @@
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
@@ -3713,7 +3713,7 @@
 ## material-design 
 
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
-- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
+- [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
