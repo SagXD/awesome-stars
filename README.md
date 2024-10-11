@@ -1736,7 +1736,7 @@
 - [99keshav99/CaptureSposed](https://github.com/99keshav99/CaptureSposed) - Xposed module that effectively disables the newly introduced screenshot detection API in Android 14
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
-- [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android with awesome UI written completely in Jetpack Compose.
+- [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Simple wallpaper manager app for Android with awesome UI, tags and multiple folder support and a native live wallpaper picker.
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 - [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) - An app that allows you to switch Android's Wireless Debugging feature on and off quickly. It provides several widgets and a quick settings tile to do this.
 - [aryanA101a/2048](https://github.com/aryanA101a/2048) - 2048 in Kotlin Android.
@@ -2089,7 +2089,7 @@
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
