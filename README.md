@@ -1085,7 +1085,7 @@
 - [ZsoltMolnarrr/Archers](https://github.com/ZsoltMolnarrr/Archers) - 🏹 Draw, Release, Conquer - Master the art of Archery!
 - [comp500/Indium](https://github.com/comp500/Indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
-- [sxmurxy2005/CustomHitboxes](https://github.com/sxmurxy2005/CustomHitboxes) - The mod for Minecraft to customize entities hitboxes with simple GUI.
+- [sxmurxy0/CustomHitboxes](https://github.com/sxmurxy0/CustomHitboxes) - The mod for Minecraft to customize entities hitboxes with simple GUI.
 - [frknkrc44/superboard](https://github.com/frknkrc44/superboard) - A mirror of https://gitlab.com/frknkrc44/superboard. Please do everything on my GitLab repository.
 - [mim1q/MineCells](https://github.com/mim1q/MineCells) - Minecraft mod which adds content from the game Dead Cells.
 - [Dark-Developments/Zewo2-MeteorAddon](https://github.com/Dark-Developments/Zewo2-MeteorAddon) - Addon for meteor client
@@ -1982,7 +1982,7 @@
 
 ## Lua 
 
-- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds several Jokers to your game that aim to look and feel Vanilla.
+- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Adds Vanilla-esque Jokers and Crossover Jokers from other Game Series
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
@@ -2090,7 +2090,6 @@
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
-- [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
