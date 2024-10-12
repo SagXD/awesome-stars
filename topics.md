@@ -4409,7 +4409,7 @@
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
 - [reburndev/reburn3](https://github.com/reburndev/reburn3) - An open source reimplementation of Burnout 3: Takedown
-- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Balatro Jokers Plus adds several Jokers to your game that aim to look and feel Vanilla.
+- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Adds Vanilla-esque Jokers and Crossover Jokers from other Game Series
 - [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
 - [badlogic/skyview](https://github.com/badlogic/skyview) - Thread reader for Bluesky
@@ -4971,7 +4971,7 @@
 - [comp500/Indium](https://github.com/comp500/Indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 - [Sharkgrammer/clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
 - [monkeycz/python.js](https://github.com/monkeycz/python.js) - Call python code from node.js
-- [sxmurxy2005/CustomHitboxes](https://github.com/sxmurxy2005/CustomHitboxes) - The mod for Minecraft to customize entities hitboxes with simple GUI.
+- [sxmurxy0/CustomHitboxes](https://github.com/sxmurxy0/CustomHitboxes) - The mod for Minecraft to customize entities hitboxes with simple GUI.
 - [lgbt-sh/lgbt-sh](https://github.com/lgbt-sh/lgbt-sh) - Free lgbt.sh sub-domain registration service
 - [is-amazing/register](https://github.com/is-amazing/register) - Register your is-amaz.ing project domain here!
 - [RikudouSage/LemmyAutoTldrBot](https://github.com/RikudouSage/LemmyAutoTldrBot) - 
@@ -5964,7 +5964,6 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [City-Zouitel/JetNote](https://github.com/City-Zouitel/JetNote) - A simple android note app made by jetpack compose.
-- [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
