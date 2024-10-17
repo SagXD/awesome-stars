@@ -564,6 +564,12 @@
 
 ## Dart 
 
+- [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [kra-mo/sly](https://github.com/kra-mo/sly) - Friendly image editor
 - [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
@@ -1627,6 +1633,7 @@
 
 ## Kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
 - [AkaneFoundation/Omni](https://github.com/AkaneFoundation/Omni) - A useful and handy android minimalist toolbox.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -2865,7 +2872,7 @@
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [theblixguy/DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - A collection of utilities that provides functionality around the Dynamic Island on the iPhone 14 Pro/Max.
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [Mijick/PopupView](https://github.com/Mijick/PopupView) - Popups presentation made simple (SwiftUI)
+- [Mijick/Popups](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
@@ -2873,6 +2880,8 @@
 
 ## TypeScript 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
+- [RezaRafia/Speedy](https://github.com/RezaRafia/Speedy) - Combine multiple internet connections to maximize your speed
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
