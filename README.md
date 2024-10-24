@@ -1437,7 +1437,7 @@
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [wvffle/mineflayer-dashboard](https://github.com/wvffle/mineflayer-dashboard) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [inbasic/turbo-download-manager](https://github.com/inbasic/turbo-download-manager) - a multi-browser download manager with multi-threading support
@@ -1633,7 +1633,7 @@
 ## Kotlin 
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker.
+- [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly is a modern and slick Movies and TV Shows manager.
 - [FoedusProgramme/Omni](https://github.com/FoedusProgramme/Omni) - A useful and handy android minimalist toolbox.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [RikkaApps/WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
@@ -2981,7 +2981,7 @@
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
 - [sunaurus/lemmy-ui-next](https://github.com/sunaurus/lemmy-ui-next) - Alternative frontend for Lemmy. Built with Next.js.
 - [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) - Moepictures is an anime image board.
-- [pyoncord/Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
 - [MadeWithLoveInIndia/MadeWithLoveInIndia](https://github.com/MadeWithLoveInIndia/MadeWithLoveInIndia) - ♥️ A movement to celebrate, promote, and build a brand — India
