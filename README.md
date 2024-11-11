@@ -114,6 +114,7 @@
 
 ## C 
 
+- [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -131,7 +132,7 @@
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
-- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - GodotJS - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
 - [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
@@ -189,6 +190,7 @@
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -294,6 +296,7 @@
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
+- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
 - [Bali10050/Lightly](https://github.com/Bali10050/Lightly) - A modern style for qt applications.
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
@@ -335,7 +338,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [hhyyrylainen/GodotPckTool](https://github.com/hhyyrylainen/GodotPckTool) - Standalone tool for extracting and creating Godot .pck files
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with own Track Editor. The main repository with Stunt Rally 3 sources and data. Continuation of Stunt Rally 2.x using Ogre-Next 3.0.
+- [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with Sci-Fi elements and own Track Editor. The main repository with sources and data. Using Ogre-Next 3.0 and VDrift.
 - [RedTopper/Super-Haxagon](https://github.com/RedTopper/Super-Haxagon) - A Super Hexagon Clone
 - [TheBakaRem/TouhouRPC](https://github.com/TheBakaRem/TouhouRPC) - TouhouRPC is a program that creates a Discord Rich Presence status for Touhou games.
 - [ProjectBorealis/PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement) - HL2-style, classic FPS movement for Unreal Engine implemented in C++
@@ -443,7 +446,6 @@
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -492,7 +494,6 @@
 - [FQQD/MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [catppuccin/youtubemusic](https://github.com/catppuccin/youtubemusic) - 🎧 Soothing pastel theme for YouTube Music
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
@@ -565,6 +566,7 @@
 
 ## Dart 
 
+- [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -668,7 +670,7 @@
 - [Ranger-NF/BlastOff](https://github.com/Ranger-NF/BlastOff) - 🚀 BlastOff is a casual endless runner game featuring vector graphics. Built using Godot v4.2.2
 - [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera) - 👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.
 - [dulvui/pocket-broomball](https://github.com/dulvui/pocket-broomball) - The world's first broomball video game, made with Godot Engine for iOS, Android and Web
-- [dulvui/futsal-manager](https://github.com/dulvui/futsal-manager) - Futsal Manager game made with Godot Engine 4
+- [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - 99 Managers™ Futsal Edition, is a futsal manager game made with Godot Engine 4
 - [charlesmaddock/fishards](https://github.com/charlesmaddock/fishards) - An action-packed multiplayer game, made in Godot, where you can battle friends as a fish wizard.
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
 - [enderprism/godot-dash-v2](https://github.com/enderprism/godot-dash-v2) - A Geometry Dash fangame and rewrite of Godot Dash V1.
@@ -710,7 +712,7 @@
 
 ## Go 
 
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [Malwarize/retro](https://github.com/Malwarize/retro) - 📼 play musics with command line on linux
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -859,7 +861,7 @@
 - [umutcamliyurt/IrisChat](https://github.com/umutcamliyurt/IrisChat) - An IRC client for Android
 - [CreativeMD/AmbientSounds](https://github.com/CreativeMD/AmbientSounds) - 
 - [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why's it called Puzzles you ask? That's the puzzle!
-- [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - Telegram for watch
+- [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - ‎Telegram for Android watch & wearos
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [iron431/irons-spells-n-spellbooks](https://github.com/iron431/irons-spells-n-spellbooks) - 
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
@@ -1290,6 +1292,7 @@
 - [nutbread/t2m](https://github.com/nutbread/t2m) - Torrent to magnet converter
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [collidingScopes/shimmer](https://github.com/collidingScopes/shimmer) - Turn photos into oscillating wave animations, using javascript / HTML5 canvas
 - [thedev-me/register](https://github.com/thedev-me/register) - Get your free '{name}.thedev.me' domain
@@ -1410,7 +1413,7 @@
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lucabubi/star-history](https://github.com/lucabubi/star-history) - Github Star History - A Stunning star history chart generator for Github Repositories
-- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
+- [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
 - [Ai2473/8b8t-kitbot](https://github.com/Ai2473/8b8t-kitbot) - 
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
@@ -1634,8 +1637,10 @@
 
 ## Kotlin 
 
+- [bolteu/screenshotty](https://github.com/bolteu/screenshotty) - A library for programatically capturing screenshots on Android
+- [Raival-e/File-Explorer-Compose](https://github.com/Raival-e/File-Explorer-Compose) - An Android file explorer written in Kotlin and Jetpack Compose
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [michaldrabik/showly-2.0](https://github.com/michaldrabik/showly-2.0) - Showly is a modern and slick Movies and TV Shows manager.
+- [michaldrabik/showly](https://github.com/michaldrabik/showly) - Showly is a modern and slick Movies and TV Shows manager.
 - [FoedusProgramme/Omni](https://github.com/FoedusProgramme/Omni) - A useful and handy android minimalist toolbox.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [RikkaApps/WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
@@ -1702,7 +1707,7 @@
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
-- [beradeep/whitehole](https://github.com/beradeep/whitehole) - A feature-packed photo manager on top of Telegram.
+- [beradeep/whitehole](https://github.com/beradeep/whitehole) - Simple photo manager on top of Telegram.
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
@@ -2078,12 +2083,12 @@
 
 ## Others 
 
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.12.1][Functional] Chromium Embedded Framework Webview for Godot 3 and 4
+- [marksard/Keyboards](https://github.com/marksard/Keyboards) - This repository is warehouse of my keyboard architecture.
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.13.0][Functional] Chromium Embedded Framework Webview for Godot 3 and 4
 - [simtrami/posy-improved-cursor-linux](https://github.com/simtrami/posy-improved-cursor-linux) - Posy's improved cursors by Michiel de Boer, available as cursor themes.
 - [An-anonymous-coder/Open-Source-Everything](https://github.com/An-anonymous-coder/Open-Source-Everything) - Open Source Everything: A curated list of the best open source software
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [WebShieldApp/WebShield](https://github.com/WebShieldApp/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
-- [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [Enchanted-Games/block-place-particles](https://github.com/Enchanted-Games/block-place-particles) - A NeoForge and Fabric mod that adds particles to various interactions in the game, such as placing a block or tilling dirt.
 - [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
@@ -2155,7 +2160,7 @@
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
-- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
+- [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList) - Block list for PI hole
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
@@ -2254,8 +2259,6 @@
 - [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - A wiki all about glsl shaders in Minecraft.
 - [eralp232/Eralp232](https://github.com/eralp232/Eralp232) - 
 - [eralp232/AgalarClient](https://github.com/eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
-- [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
-- [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
@@ -2337,6 +2340,7 @@
 
 ## Python 
 
+- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [Yagisan/The-Bustling-Valley](https://github.com/Yagisan/The-Bustling-Valley) - The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. It is expected that players will not ad
 - [redditraffler/redditraffler](https://github.com/redditraffler/redditraffler) - The raffle system for Reddit submissions.
 - [RickdeJager/cupshax](https://github.com/RickdeJager/cupshax) - 
@@ -2344,7 +2348,6 @@
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
@@ -2428,7 +2431,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [BigBoiCJ/SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - An open-source script that automatically Cracks (removes DRM from) Steam games
 - [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
 - [jrouleau/bluetooth-autoconnect](https://github.com/jrouleau/bluetooth-autoconnect) - A linux command line tool to automatically connect to all paired and trusted bluetooth devices.
@@ -2531,6 +2534,7 @@
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
@@ -2766,7 +2770,7 @@
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
+- [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装脚本
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
@@ -2834,7 +2838,6 @@
 - [Alex313031/ThoriumOS](https://github.com/Alex313031/ThoriumOS) - ChromiumOS fork with Thorium Browser, x264/x265 codecs, Widevine, Kernel 5.15, Linux firmware/modules support, Nouveau, Intel microcode, and extra packages.
 - [cancng/fonts](https://github.com/cancng/fonts) - 
 - [ronilan/crumbicon](https://github.com/ronilan/crumbicon) - An SVG favicon editor for your terminal (written in Crumb)
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Bugswriter/wal-telegram](https://github.com/Bugswriter/wal-telegram) - :paintbrush: A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
 - [Bugswriter/pirokit](https://github.com/Bugswriter/pirokit) - 
@@ -2902,7 +2905,7 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
-- [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI UI Generator
+- [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
@@ -2983,7 +2986,7 @@
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
 - [sunaurus/lemmy-ui-next](https://github.com/sunaurus/lemmy-ui-next) - Alternative frontend for Lemmy. Built with Next.js.
 - [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) - Moepictures is an anime image board.
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A client mod for Discord mobile, fork of Vendetta
+- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
 - [MadeWithLoveInIndia/MadeWithLoveInIndia](https://github.com/MadeWithLoveInIndia/MadeWithLoveInIndia) - ♥️ A movement to celebrate, promote, and build a brand — India
@@ -3087,6 +3090,7 @@
 
 ## Vim Script 
 
+- [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [kristijanhusak/vim-carbon-now-sh](https://github.com/kristijanhusak/vim-carbon-now-sh) - Open selected text in https://carbon.now.sh
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
@@ -3099,6 +3103,7 @@
 
 ## Vue 
 
+- [MattKevan/minimal-reader](https://github.com/MattKevan/minimal-reader) - Simple browser-based ebook reader.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
