@@ -276,7 +276,7 @@
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -306,13 +306,14 @@
 ## analytics 
 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
 ## android 
 
+- [christiandeange/ozone](https://github.com/christiandeange/ozone) - Kotlin Multiplatform bindings for Bluesky
 - [bolteu/screenshotty](https://github.com/bolteu/screenshotty) - A library for programatically capturing screenshots on Android
 - [Raival-e/File-Explorer-Compose](https://github.com/Raival-e/File-Explorer-Compose) - An Android file explorer written in Kotlin and Jetpack Compose
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
@@ -606,7 +607,7 @@
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [SKRInternationals/TouchDroid](https://github.com/SKRInternationals/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [saitamasahil/APK-Compare-Tool](https://github.com/saitamasahil/APK-Compare-Tool) - Discover APK Differences Effortlessly!!
@@ -973,7 +974,7 @@
 
 ## blockchain 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 
 ## bootstrap 
 
@@ -1177,6 +1178,7 @@
 
 ## cli 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1369,7 +1371,7 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [mgastonportillo/gale-for-ff](https://github.com/mgastonportillo/gale-for-ff) - CSS files to theme Firefox with Sidebery
 - [devsyedmohsin/css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - Handmade collection of css tips tricks. Give it a star if you find it useful 🌟
@@ -2493,17 +2495,14 @@
 - [doenerium69/doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer:  We are not responsible for any damages this software may cause after being acquired. This softwa
 - [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## hacking-tool 
 
 - [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 
 ## hacktoberfest 
 
-- [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
@@ -2605,7 +2604,6 @@
 - [bttv-android/bttv](https://github.com/bttv-android/bttv) - A mod of the Twitch Android Mobile App adding BetterTTV, FrankerFaceZ and 7TV emotes
 - [heysagnik/screenREC](https://github.com/heysagnik/screenREC) - A really simple , ad-free & minimal web based screen recorder 📹
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2783,7 +2781,7 @@
 - [HasangerGames/suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io. Work in progress.
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 
 ## html5 
 
@@ -3559,7 +3557,6 @@
 - [anhsirk0/fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Simple Dilbert themed system info-fetching tool
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [eHonnef/afk-clicker](https://github.com/eHonnef/afk-clicker) - An AFK clicker that allow to simulate keystrokes (mouse or keyboard) even if the window isn't focused.
 - [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
@@ -3884,7 +3881,7 @@
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [bs-community/skinview3d](https://github.com/bs-community/skinview3d) - Three.js powered Minecraft skin viewer.
-- [therealrealguy/6b6twiki](https://github.com/therealrealguy/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
+- [Advik555wastaken/6b6twiki](https://github.com/Advik555wastaken/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
 - [Lyzev/Schizoid](https://github.com/Lyzev/Schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
 - [LuminaDevelopment/LuminaClient](https://github.com/LuminaDevelopment/LuminaClient) - Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, cry
 - [BloCamLimb/ModernUI-MC](https://github.com/BloCamLimb/ModernUI-MC) - Minecraft mod that embeds Modern UI into Minecraft, providing modding API, text layout engine and some widgets.
@@ -3952,7 +3949,7 @@
 - [Technoguyfication/Minecraft-Unity3D](https://github.com/Technoguyfication/Minecraft-Unity3D) - Vanilla-compatible Minecraft multiplayer client written from scratch in C#
 - [atxi/Polymer](https://github.com/atxi/Polymer) - In-development Minecraft client using C++ and Vulkan.
 - [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - [ARCHIVED - See README] Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 
-- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
+- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - ServerSeeker has been bought by the fifth column.
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.21 Fishing bot for Minecraft
 - [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
@@ -3980,7 +3977,6 @@
 - [PoopenfartenDevelopment/BedrockMinerAddon](https://github.com/PoopenfartenDevelopment/BedrockMinerAddon) - 
 - [DaMatrix/SaveSearcher](https://github.com/DaMatrix/SaveSearcher) - scan a minecraft world for various things
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [RedCarlos26/HIGTools](https://github.com/RedCarlos26/HIGTools) - Highway Tools for Meteor Client.
 - [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
@@ -4131,7 +4127,7 @@
 ## mysql 
 
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -4412,6 +4408,11 @@
 
 ## others 
 
+- [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
+- [khaled-0/TubeSync](https://github.com/khaled-0/TubeSync) - Sync YouTube playlists offline. Because YT Music is too costly
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+- [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
+- [irdc/lmmy.to](https://github.com/irdc/lmmy.to) - Source code for https://lmmy.to
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [marksard/Keyboards](https://github.com/marksard/Keyboards) - This repository is warehouse of my keyboard architecture.
@@ -4465,6 +4466,7 @@
 - [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
 - [badlogic/skyview](https://github.com/badlogic/skyview) - Thread reader for Bluesky
+- [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -5162,7 +5164,7 @@
 - [Sanqui/2048-gb](https://github.com/Sanqui/2048-gb) - a gameboy (and SMS) port of 2048
 - [xwjdsh/2048-ai](https://github.com/xwjdsh/2048-ai) - An simple AI for the 2048 game.
 - [gd4Ark/2048](https://github.com/gd4Ark/2048) - 🎮 2048 game developed using javascript
-- [DarkZek/RustCraft](https://github.com/DarkZek/RustCraft) - Rustcraft is a Minecraft Client, positioning itself as the performant Minecraft Java Edition client, with support with higher quality graphical options than that of the Mojang Minecraft Client.
+- [DarkZek/RustCraft](https://github.com/DarkZek/RustCraft) - Rustcraft is a Voxel game similar to Minecraft, made as a personal hobby project
 - [Fallen-Breath/PCRC](https://github.com/Fallen-Breath/PCRC) - PyCraft based Replay Client
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
 - [sheodox/alexandrite](https://github.com/sheodox/alexandrite) - A beautiful and convenient desktop-first alternate web UI for Lemmy.
@@ -5174,7 +5176,7 @@
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [radian628/lispsmos](https://github.com/radian628/lispsmos) - A LISP-y language that compiles to Desmos expressions.
-- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A female gender mod created for Minecraft. No longer actively supporting Forge!
+- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A Fabric Minecraft Mod - Minecraft's Most Popular Female Gender Mod!
 - [fthx/no-overview](https://github.com/fthx/no-overview) - 
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -5307,7 +5309,7 @@
 - [Hackerokuz/meteor-litematica-printer](https://github.com/Hackerokuz/meteor-litematica-printer) - 
 - [kkllffaa/meteor-litematica-printer](https://github.com/kkllffaa/meteor-litematica-printer) - 
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-- [Tetchnoblade/NightX-Client](https://github.com/Tetchnoblade/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
+- [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Pan4ur/ThunderHackPlus](https://github.com/Pan4ur/ThunderHackPlus) - 1.12.2 Minecraft hacked client for sword / crystal hvh
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Add-on for Meteor that adds useful utilities for non-vanilla anarchy servers ☄️
@@ -5343,6 +5345,8 @@
 - [eralp232/AbyssClient-Web](https://github.com/eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
 - [eralp232/PyroClient-Web](https://github.com/eralp232/PyroClient-Web) - @pyroclient.com website source & other files.
 - [stuffbydavid/Mine-imator](https://github.com/stuffbydavid/Mine-imator) - 3D movie maker based on the sandbox game Minecraft
+- [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
+- [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
 - [doctor-swag/moneymod-rewrite](https://github.com/doctor-swag/moneymod-rewrite) - block game client made by ruskis
 - [dillongoostudios/goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
 - [YongSheng109/PingBypassInstaller](https://github.com/YongSheng109/PingBypassInstaller) - ping player.exe
@@ -5431,7 +5435,6 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -5451,7 +5454,6 @@
 ## pentesting 
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 
 ## perl 
@@ -5508,7 +5510,7 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [rivet-gg/modules](https://github.com/rivet-gg/modules) - 🧩 Official registry of Rivet Modules.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## powershell 
@@ -5584,6 +5586,7 @@
 
 ## pwa 
 
+- [xlmnxp/extractify.zip](https://github.com/xlmnxp/extractify.zip) - Extract and Explore compressed files online and securely
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [svg-beauty/svgomfg](https://github.com/svg-beauty/svgomfg) - Offline Capable⚡Web GUI for easy and visual 🎛️ Vector Optimization feat. latest⚙️SVGO v3.1.0
@@ -5594,10 +5597,11 @@
 - [foumart/JS.13kGames](https://github.com/foumart/JS.13kGames) - Progressive Web App starter pack for JS13k games
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
-- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 
 ## python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
@@ -5673,7 +5677,7 @@
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [nwutils/Web2Executable](https://github.com/nwutils/Web2Executable) - Uses NW.js to generate "native" apps for already existing web apps.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
+- [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing for GIMP 2.8/2.10
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -5825,6 +5829,7 @@
 
 ## react-native 
 
+- [mozzius/graysky](https://github.com/mozzius/graysky) - a bluesky client for ios and android
 - [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movie/Series/Anime streaming and downloading android app
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
@@ -5944,7 +5949,7 @@
 - [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine.
 - [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 - [valaphee/mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs.
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -6049,7 +6054,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 
 ## server 
 
@@ -6063,12 +6068,12 @@
 - [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [TheRemote/MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
-- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
+- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - ServerSeeker has been bought by the fifth column.
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 
 ## serverless 
 
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -6077,6 +6082,7 @@
 
 ## shell 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -6124,7 +6130,7 @@
 
 ## sql 
 
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
 
@@ -6583,7 +6589,7 @@
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
-- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
+- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11(23H2) using open-source wallpaper engine
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
@@ -6621,7 +6627,6 @@
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [eppic/ytBATCH](https://github.com/eppic/ytBATCH) - An easy to use Batch Script for downloading Audio and Video using yt-dlp.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
