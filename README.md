@@ -98,7 +98,7 @@
 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [Pahiro/AutoIT-Scripts](https://github.com/Pahiro/AutoIT-Scripts) - All of my AutoIT Scripts
-- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
+- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11(23H2) using open-source wallpaper engine
 - [TheAlienDoctor/minecraft-resource-pack-converter](https://github.com/TheAlienDoctor/minecraft-resource-pack-converter) - Converts Minecraft resource packs between versions (Bedrock and Java)
 
 ## Batchfile 
@@ -357,7 +357,6 @@
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [TeamHypersomnia/Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [daniele-rapagnani/alephone-android](https://github.com/daniele-rapagnani/alephone-android) - Port of the AlephOne engine on Android
 - [TASEmulators/fceux](https://github.com/TASEmulators/fceux) - FCEUX, a NES Emulator
 - [dxx-rebirth/dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Descent-Rebirth and Descent II-Rebirth
@@ -527,7 +526,6 @@
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [thehatclub/anime-archive](https://github.com/thehatclub/anime-archive) - A place where you can store your progress offline
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [Spelis123/MC-NewTab-for-Firefox](https://github.com/Spelis123/MC-NewTab-for-Firefox) - a custom UserContent.css file for Mozilla Firefox
 - [Astromations/FlyingFox](https://github.com/Astromations/FlyingFox) - FlyingFox Revamped
 - [seylorx1/slide](https://github.com/seylorx1/slide) - A TreeStyleTab and userChrome.css configuration to make your Firefox better. :)
@@ -566,6 +564,7 @@
 
 ## Dart 
 
+- [khaled-0/TubeSync](https://github.com/khaled-0/TubeSync) - Sync YouTube playlists offline. Because YT Music is too costly
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
@@ -714,7 +713,6 @@
 
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [Malwarize/retro](https://github.com/Malwarize/retro) - 📼 play musics with command line on linux
-- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
@@ -730,6 +728,7 @@
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [energye/systray](https://github.com/energye/systray) - Support for Windows, Linux, and MacOSX system trays
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Elara6331/lemmy-reply-bot](https://github.com/Elara6331/lemmy-reply-bot) - A customizable Lemmy bot that replies to comments
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -809,11 +808,13 @@
 - [SchoolIzBoring/Unblocked-Websites](https://github.com/SchoolIzBoring/Unblocked-Websites) - Website That Hosts Loads Of Websites Including Proxies, Games, Exploits, And Tools For School
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Flexiston/homepage](https://github.com/Flexiston/homepage) - Flexistonの个人主页
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [Bugswriter/simple-base64-upload](https://github.com/Bugswriter/simple-base64-upload) - 
 - [Bugswriter/iiser-poc](https://github.com/Bugswriter/iiser-poc) - 
 - [Bugswriter/ecomsite](https://github.com/Bugswriter/ecomsite) - 
@@ -1108,7 +1109,7 @@
 - [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) - Java Driver for Apache Cassandra®
 - [Everyday-Programmer/Android-Stopwatch](https://github.com/Everyday-Programmer/Android-Stopwatch) - This repository contains code of android stopwatch made using java.
 - [sinkillerj/ProjectE](https://github.com/sinkillerj/ProjectE) - ProjectE. A complete rewrite of EE2 for modern Minecraft versions.
-- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [SKRInternationals/TouchDroid](https://github.com/SKRInternationals/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
@@ -1146,12 +1147,12 @@
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Defective4/Another-Minecraft-Chat-Client](https://github.com/Defective4/Another-Minecraft-Chat-Client) - [ARCHIVED - See README] Another Minecraft Chat Client written from scratch in Java. It has inventory handling, movement, automatic messages and many more little things. It supports Minecraft versions 
-- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Basically copenheimer, but publicly available and better. This is the official ServerSeeker addon for Meteor. Allows you to find servers with lots of search parameters, or find the exact server where 
+- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - ServerSeeker has been bought by the fifth column.
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.21 Fishing bot for Minecraft
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
-- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A female gender mod created for Minecraft. No longer actively supporting Forge!
+- [WildfireRomeo/WildfireFemaleGenderMod](https://github.com/WildfireRomeo/WildfireFemaleGenderMod) - A Fabric Minecraft Mod - Minecraft's Most Popular Female Gender Mod!
 - [pycatmc/TotemChanger](https://github.com/pycatmc/TotemChanger) - Changes totem pop animation and particles.
 - [pycatmc/TotemParticlesChanger](https://github.com/pycatmc/TotemParticlesChanger) - Changes size, velocity multiplier, gravity, lifetime and color of totem particles.
 - [mioclient/hitbox-desync](https://github.com/mioclient/hitbox-desync) - private russian exploit that uses 1.19 swimming mechanics to phase
@@ -1637,6 +1638,7 @@
 
 ## Kotlin 
 
+- [christiandeange/ozone](https://github.com/christiandeange/ozone) - Kotlin Multiplatform bindings for Bluesky
 - [bolteu/screenshotty](https://github.com/bolteu/screenshotty) - A library for programatically capturing screenshots on Android
 - [Raival-e/File-Explorer-Compose](https://github.com/Raival-e/File-Explorer-Compose) - An Android file explorer written in Kotlin and Jetpack Compose
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1977,7 +1979,7 @@
 - [Weave-MC/Weave-Gradle](https://github.com/Weave-MC/Weave-Gradle) - Gradle build system plugin used to automate the setup of a modding environment.
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-- [Tetchnoblade/NightX-Client](https://github.com/Tetchnoblade/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
+- [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [SooStrator1136/FlightRadar4k](https://github.com/SooStrator1136/FlightRadar4k) - API for FlightRadar24 written in kotlin.
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
 - [lambda-plugins/HighwayTools](https://github.com/lambda-plugins/HighwayTools) - Advanced highway building bot
@@ -2089,6 +2091,7 @@
 - [An-anonymous-coder/Open-Source-Everything](https://github.com/An-anonymous-coder/Open-Source-Everything) - Open Source Everything: A curated list of the best open source software
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [WebShieldApp/WebShield](https://github.com/WebShieldApp/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
+- [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [Enchanted-Games/block-place-particles](https://github.com/Enchanted-Games/block-place-particles) - A NeoForge and Fabric mod that adds particles to various interactions in the game, such as placing a block or tilling dirt.
 - [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
@@ -2183,7 +2186,6 @@
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nw-cn/awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit)
@@ -2259,6 +2261,8 @@
 - [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - A wiki all about glsl shaders in Minecraft.
 - [eralp232/Eralp232](https://github.com/eralp232/Eralp232) - 
 - [eralp232/AgalarClient](https://github.com/eralp232/AgalarClient) - AgalarClient, utility mod for Oldfag.
+- [kickTROLL/qca9377](https://github.com/kickTROLL/qca9377) - 
+- [kickTROLL/a21s-boot-vbmeta-recovery](https://github.com/kickTROLL/a21s-boot-vbmeta-recovery) - 
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [3arthx/Leux-Backdoor](https://github.com/3arthx/Leux-Backdoor) - Leux-Backdoor 0.3 0.9 version
@@ -2340,6 +2344,8 @@
 
 ## Python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [irdc/lmmy.to](https://github.com/irdc/lmmy.to) - Source code for https://lmmy.to
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [Yagisan/The-Bustling-Valley](https://github.com/Yagisan/The-Bustling-Valley) - The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. It is expected that players will not ad
 - [redditraffler/redditraffler](https://github.com/redditraffler/redditraffler) - The raffle system for Reddit submissions.
@@ -2523,7 +2529,7 @@
 - [GDColon/VVVVVV-Pygame](https://github.com/GDColon/VVVVVV-Pygame) - A recreation of VVVVVV, made from scratch in Pygame!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
+- [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing for GIMP 2.8/2.10
 - [r266s/Jump-game](https://github.com/r266s/Jump-game) - 
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2575,7 +2581,6 @@
 - [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [Levi2288/Anti-Discord-Token-Grab](https://github.com/Levi2288/Anti-Discord-Token-Grab) - Protect your discord against shit pasted token loggers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [wrrulos/mcptool](https://github.com/wrrulos/mcptool) - Pentesting tool for Minecraft
 - [DavidRomanovizc/DatingBot](https://github.com/DavidRomanovizc/DatingBot) - ✨A Telegram Bot with open source code, which implemented django and a dating system
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
@@ -2611,6 +2616,7 @@
 
 ## Ruby 
 
+- [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
@@ -2658,7 +2664,7 @@
 - [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 - [valaphee/mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -2723,7 +2729,7 @@
 - [adrienball/2048-rs](https://github.com/adrienball/2048-rs) - A rust implementation of the famous 2048 game
 - [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom) - A Doom Renderer written in Rust.
 - [veloren/veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
-- [DarkZek/RustCraft](https://github.com/DarkZek/RustCraft) - Rustcraft is a Minecraft Client, positioning itself as the performant Minecraft Java Edition client, with support with higher quality graphical options than that of the Mojang Minecraft Client.
+- [DarkZek/RustCraft](https://github.com/DarkZek/RustCraft) - Rustcraft is a Voxel game similar to Minecraft, made as a personal hobby project
 - [IronOxidizer/lemmy-lite](https://github.com/IronOxidizer/lemmy-lite) - A static, JSless, touch-friendly Lemmy frontend built for legacy web clients and maximum performance
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy
@@ -2887,11 +2893,15 @@
 
 ## TypeScript 
 
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+- [mozzius/graysky](https://github.com/mozzius/graysky) - a bluesky client for ios and android
+- [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [communitycenter/stardew.me](https://github.com/communitycenter/stardew.me) - 👕 Generate Stardew Valley player sprites from save files
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [RezaRafia/Speedy](https://github.com/RezaRafia/Speedy) - Combine multiple internet connections to maximize your speed
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movie/Series/Anime streaming and downloading android app
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
@@ -2917,7 +2927,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - A fun 🥳 and cozy ☕ microblogging app for the decentralized social web
 - [TheRealMonte/therealmonte.github.io](https://github.com/TheRealMonte/therealmonte.github.io) - 
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
@@ -2956,7 +2966,7 @@
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [bs-community/skinview3d](https://github.com/bs-community/skinview3d) - Three.js powered Minecraft skin viewer.
-- [therealrealguy/6b6twiki](https://github.com/therealrealguy/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
+- [Advik555wastaken/6b6twiki](https://github.com/Advik555wastaken/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
 - [raikasdev/mastopoet](https://github.com/raikasdev/mastopoet) - The Toot screenshot tool for Mastodon.
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
@@ -3061,7 +3071,7 @@
 - [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
-- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
@@ -3103,6 +3113,7 @@
 
 ## Vue 
 
+- [xlmnxp/extractify.zip](https://github.com/xlmnxp/extractify.zip) - Extract and Explore compressed files online and securely
 - [MattKevan/minimal-reader](https://github.com/MattKevan/minimal-reader) - Simple browser-based ebook reader.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [kaangiray26/geddit-app](https://github.com/kaangiray26/geddit-app) - An open-source, Reddit client for Android without using the public JSON feed
