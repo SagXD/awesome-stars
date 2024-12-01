@@ -313,7 +313,6 @@
 
 ## android 
 
-- [christiandeange/ozone](https://github.com/christiandeange/ozone) - Kotlin Multiplatform bindings for Bluesky
 - [bolteu/screenshotty](https://github.com/bolteu/screenshotty) - A library for programatically capturing screenshots on Android
 - [Raival-e/File-Explorer-Compose](https://github.com/Raival-e/File-Explorer-Compose) - An Android file explorer written in Kotlin and Jetpack Compose
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
@@ -340,6 +339,7 @@
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for watching anime, reading mangas and novels
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
@@ -780,6 +780,7 @@
 
 ## automation 
 
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
@@ -1309,7 +1310,7 @@
 
 ## crystal 
 
-- [LuminaDevelopment/LuminaClient](https://github.com/LuminaDevelopment/LuminaClient) - Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, cry
+- [stormcoph/LuminaClient](https://github.com/stormcoph/LuminaClient) - Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, cry
 
 ## csharp 
 
@@ -1378,7 +1379,7 @@
 - [RikisuT/Youtube-Fluent-Theme](https://github.com/RikisuT/Youtube-Fluent-Theme) - Youtube Css with Windows Fluent Theme
 - [LawOff/YouTubeFluent](https://github.com/LawOff/YouTubeFluent) - A Fluent Theme for YouTube, using css and js code.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 
 ## cybersecurity 
 
@@ -1536,7 +1537,6 @@
 - [gitlimes/discord-md-badge](https://github.com/gitlimes/discord-md-badge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge) - Show whatever you're working on through your GitHub readme!
 - [SwitchbladeBot/invidget](https://github.com/SwitchbladeBot/invidget) - SVG invite widgets that look just like the ones on the Discord client!
-- [eric48906/Discord-Token-Generator](https://github.com/eric48906/Discord-Token-Generator) - Discord Token Generator (hCaptcha AI Solver / hCaptcha Bypass), 1,000 Tokens Per Minute!
 - [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot) - 🎉 Hold giveaways quickly and easily on your Discord server!
 - [YABOIpy/GoDm](https://github.com/YABOIpy/GoDm) - The Fast And Advanced Discord Multi-Tool
 - [Levi2288/Anti-Discord-Token-Grab](https://github.com/Levi2288/Anti-Discord-Token-Grab) - Protect your discord against shit pasted token loggers
@@ -1563,6 +1563,7 @@
 
 ## docker 
 
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
@@ -1819,7 +1820,7 @@
 - [catppuccin/firefox](https://github.com/catppuccin/firefox) - 🦊 Soothing pastel theme for Firefox
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 
 ## flask 
@@ -1842,6 +1843,7 @@
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [kra-mo/sly](https://github.com/kra-mo/sly) - Friendly image editor
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for watching anime, reading mangas and novels
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [nizwar/ludo_flutter](https://github.com/nizwar/ludo_flutter) - Ludo game with Flutter
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
@@ -1912,7 +1914,7 @@
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - The font mainly used by Arcticons
+- [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - A semi-condenced monolinear typeface.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2233,6 +2235,7 @@
 
 ## games 
 
+- [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
@@ -2841,7 +2844,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api) - 🤳 Instagram Private Web API client for Node
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
@@ -3085,6 +3087,7 @@
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Pierce01/MinecraftLauncher-core](https://github.com/Pierce01/MinecraftLauncher-core) - Lightweight module that downloads and runs Minecraft using javascript / NodeJS
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RyanFehr/HackerRank](https://github.com/RyanFehr/HackerRank) - HackerRank solutions in Java/JS/Python/C++/C#
@@ -3414,6 +3417,7 @@
 
 ## linux 
 
+- [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -3422,6 +3426,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for watching anime, reading mangas and novels
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
@@ -3881,9 +3886,9 @@
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
 - [bs-community/skinview3d](https://github.com/bs-community/skinview3d) - Three.js powered Minecraft skin viewer.
-- [Advik555wastaken/6b6twiki](https://github.com/Advik555wastaken/6b6twiki) - a wiki for the 6builders6tools anarchy serevr
+- [Advik555wastaken/6b6twiki](https://github.com/Advik555wastaken/6b6twiki) - The main source of 6b6t related information!
 - [Lyzev/Schizoid](https://github.com/Lyzev/Schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
-- [LuminaDevelopment/LuminaClient](https://github.com/LuminaDevelopment/LuminaClient) - Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, cry
+- [stormcoph/LuminaClient](https://github.com/stormcoph/LuminaClient) - Introducing Lumina Client - the best 1.19 open-source Minecraft ghost client / hacked client designed to boost your gameplay experience. With Lumina Client, access powerful features like KillAura, cry
 - [BloCamLimb/ModernUI-MC](https://github.com/BloCamLimb/ModernUI-MC) - Minecraft mod that embeds Modern UI into Minecraft, providing modding API, text layout engine and some widgets.
 - [PrismLauncher/Themes](https://github.com/PrismLauncher/Themes) - Community themes for Prism Launcher
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle.
@@ -3993,7 +3998,6 @@
 - [KassuK1/BlackOut](https://github.com/KassuK1/BlackOut) - Plugin for meteor client adding more features mostly focusing on CPVP
 - [AntiCope/orion](https://github.com/AntiCope/orion) - Continuation of GhostTypes' Orion
 - [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) - fabric-carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible. Feel free to add as many fixes as you want!   Currently 220+ Fixes!
-- [vined-underscore/VAddon](https://github.com/vined-underscore/VAddon) - Meteor Addon for the Meteor Client in the Minecraft game
 - [evelyn-gosselin/haarper.github.io](https://github.com/evelyn-gosselin/haarper.github.io) - If you know, you know.
 - [eralp232/ChipsHack-Rewrite](https://github.com/eralp232/ChipsHack-Rewrite) - ChipsHack is an Anarchy crystal pvp utility mod client for 2b2t.org , previous private but now open source & free.
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
@@ -4411,6 +4415,7 @@
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [khaled-0/TubeSync](https://github.com/khaled-0/TubeSync) - Sync YouTube playlists offline. Because YT Music is too costly
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+- [christiandeange/ozone](https://github.com/christiandeange/ozone) - Kotlin Multiplatform bindings for Bluesky
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [irdc/lmmy.to](https://github.com/irdc/lmmy.to) - Source code for https://lmmy.to
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
@@ -4456,7 +4461,6 @@
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
-- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
@@ -4485,7 +4489,7 @@
 - [team-abnormals/atmospheric](https://github.com/team-abnormals/atmospheric) - Fills the world with fleshed out & diverse landscapes
 - [satisfyu/Bakery](https://github.com/satisfyu/Bakery) - 
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
-- [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+- [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
@@ -5250,7 +5254,6 @@
 - [Sumandora/tarasande](https://github.com/Sumandora/tarasande) - As the golden standard in cheating for Minecraft Competitive Multiplayer, tarasande provides the effective client-side solution to cheating.
 - [PacketDeveloper/Packet-Source](https://github.com/PacketDeveloper/Packet-Source) - All of Packet Client's source code (check the branches)
 - [BlockhostOfficial/CrashTheServer](https://github.com/BlockhostOfficial/CrashTheServer) - Core plugin for CrashTheServer.net
-- [killerkong24/Syracuse-4.0](https://github.com/killerkong24/Syracuse-4.0) - 
 - [femhack/CwHack](https://github.com/femhack/CwHack) - 
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
 - [Jaysmito101/dynamic-badges](https://github.com/Jaysmito101/dynamic-badges) - A bunch of dynamic cool badges for your GitHub profile and Readmes!
@@ -5310,7 +5313,6 @@
 - [kkllffaa/meteor-litematica-printer](https://github.com/kkllffaa/meteor-litematica-printer) - 
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-- [Pan4ur/ThunderHackPlus](https://github.com/Pan4ur/ThunderHackPlus) - 1.12.2 Minecraft hacked client for sword / crystal hvh
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Add-on for Meteor that adds useful utilities for non-vanilla anarchy servers ☄️
 - [Carlox1/Toro-Dupe](https://github.com/Carlox1/Toro-Dupe) - Dupe for 6b6t.org created by Carlox and Colonizadores
@@ -5715,6 +5717,7 @@
 
 ## python3 
 
+- [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -6159,8 +6162,8 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [KANAjetzt/BrotatoTwitchExtension](https://github.com/KANAjetzt/BrotatoTwitchExtension) - Twitch Overlay for Brotato 🥔 - Get all the information about items, weapons, and stats currently used in a run.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
-- [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
 
 ## swift 
 
@@ -6357,6 +6360,7 @@
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -6447,6 +6451,7 @@
 - [Rule-34/App](https://github.com/Rule-34/App) - Browse the most popular Boorus with the Rule 34 App.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
 - [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue 2.0.
 
 ## vuejs 
@@ -6457,6 +6462,7 @@
 - [4xmen/anubias](https://github.com/4xmen/anubias) - Developed mobile apps so easy and native with GUI 📱
 - [Tomotoes/scrcpy-gui](https://github.com/Tomotoes/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Project.
 
 ## web 
 
@@ -6547,6 +6553,7 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for watching anime, reading mangas and novels
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
