@@ -292,6 +292,8 @@
 
 ## C++ 
 
+- [KDE/elisa](https://github.com/KDE/elisa) - Simple music player aiming to provide a nice experience for its users
+- [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover) - A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.
 - [spacecamper/miny](https://github.com/spacecamper/miny) - A minesweeper clone for Linux.
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
@@ -778,6 +780,7 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [open-emojify/emojify](https://github.com/open-emojify/emojify) - Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
@@ -793,6 +796,7 @@
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [semanticdata/firefox-discord-in-sidebar](https://github.com/semanticdata/firefox-discord-in-sidebar) - Firefox extension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle withi
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub-profile views tracker: displaying monthly view statistics
+- [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [du82/privacyspreadsheet.com](https://github.com/du82/privacyspreadsheet.com) - The Privacy Spreadsheet HTML and raw CSV data
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1043,7 +1047,7 @@
 - [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.3 Lightweight Minecraft server
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [RakambdaOrg/FallingTree](https://github.com/RakambdaOrg/FallingTree) - Minecraft mod to make the trees fall in one cut
@@ -1279,6 +1283,9 @@
 
 ## JavaScript 
 
+- [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - my personal website
+- [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform MediaHarbor
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [kyuucr/insert-template-to-editables](https://github.com/kyuucr/insert-template-to-editables) - Firefox add-on for quickly inserting predefined template into editables (e.g., input box, text area).
 - [zJohnWick/CLEANFOX-CONFIG](https://github.com/zJohnWick/CLEANFOX-CONFIG) - Firefox config for better privacy and security with better user experience.
@@ -1630,6 +1637,7 @@
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [catppuccin/gitui](https://github.com/catppuccin/gitui) - 🍴 Soothing pastel theme for GitUI
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
+- [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader
@@ -1668,7 +1676,7 @@
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [littlerobots/ytch-android](https://github.com/littlerobots/ytch-android) - ytch.xyz on your Android TV
-- [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Get Google apps features shortcuts in your launcher app drawer
+- [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
 - [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
@@ -1694,7 +1702,7 @@
 - [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android
 - [aritra-tech/ComposeCards](https://github.com/aritra-tech/ComposeCards) - 💳 ComposeCards is a beautifully designed payment view library for Credit and Debit Card. Made using Jetpack Compose 🎉
 - [kordlib/kord](https://github.com/kordlib/kord) - Idiomatic Kotlin Wrapper for The Discord API
-- [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - ▶ Simple and lightweight, yet polished and powerful Android Audio/Video player based on ExoPlayer, Media3 and Jetpack Compose
+- [iZakirSheikh/Audiofy](https://github.com/iZakirSheikh/Audiofy) - Audiofy is a next-generation Android Media player that delivers a simple, lightweight, and high-performance experience. Powered by ExoPlayer, Media3, and Jetpack Compose.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [alorma/Compose-Settings](https://github.com/alorma/Compose-Settings) - Compose Multiplatform #Compose Settings library
@@ -1714,7 +1722,7 @@
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
 - [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-- [shub39/Rush](https://github.com/shub39/Rush) - Android app to search, save and share lyrics like spotify! 💫
+- [shub39/Rush](https://github.com/shub39/Rush) - Android app to search, save and share lyrics like spotify!
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [smswithoutborders/RelaySMS-Android](https://github.com/smswithoutborders/RelaySMS-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -1798,7 +1806,7 @@
 - [alexjlockwood/compose-multiplatform-2048](https://github.com/alexjlockwood/compose-multiplatform-2048) - 2048 implemented using Jetpack Compose Multiplatform
 - [avluis/Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - Check updates for Android apps, Magisk modules and more!
-- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
+- [IacobIonut01/Gallery](https://github.com/IacobIonut01/Gallery) - Media Gallery app for Android made with Jetpack Compose
 - [WirelessAlien/BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - A Simple Open-source Android App for Bhagavad Gita
 - [waseefakhtar/dose-android](https://github.com/waseefakhtar/dose-android) - 💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Architecture
 - [dokar3/upnext-gpt](https://github.com/dokar3/upnext-gpt) - GPT powered playlist App for Android. Supports Apple Music, Spotify, and Youtube Music.
@@ -2124,7 +2132,6 @@
 - [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) - 🌐 Grab your own subdomain for free  Follow the steps listed below to get your own subdomain!
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
-- [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet
 - [iNKORE-NET/MCSkinn](https://github.com/iNKORE-NET/MCSkinn) - Skin and texture editor for cube-based game models (like Minecraft)
 - [SagXD/awesome-stars](https://github.com/SagXD/awesome-stars) - My Awesome List
@@ -2152,7 +2159,6 @@
 - [WalmartSolutions/Francium-1.20.4](https://github.com/WalmartSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [Goodwy/Discussion](https://github.com/Goodwy/Discussion) - A place for discussing all apps in general + anything else you want to say
-- [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [BrotatoMods/Brotato-Translations](https://github.com/BrotatoMods/Brotato-Translations) - [Blobfish] Official translation CSV files 🧾
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
@@ -2341,6 +2347,7 @@
 
 ## Python 
 
+- [CTalvio/lemmytrixposter](https://github.com/CTalvio/lemmytrixposter) - Matrix/Lemmy bot to aid sharing art in posts and automating posting.
 - [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [irdc/lmmy.to](https://github.com/irdc/lmmy.to) - Source code for https://lmmy.to
@@ -2429,6 +2436,7 @@
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -2640,7 +2648,6 @@
 - [luxtorpeda-dev/luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) - Steam Play compatibility tool to run games using native Linux engines
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
@@ -2797,7 +2804,6 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [spxak1/weywot](https://github.com/spxak1/weywot) - My notes on using Linux
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
-- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [albakhtari/photoshop-22-linux](https://github.com/albakhtari/photoshop-22-linux) - Adobe Photoshop CC 2021 installation script for Linux, using wine.
 - [isatsam/photoshop-on-linux](https://github.com/isatsam/photoshop-on-linux) - Updated setup for wine and winetricks to run modern Adobe Photoshop on Linux.
 - [0xf4b1/hearthstone-linux](https://github.com/0xf4b1/hearthstone-linux) - Play Hearthstone from Blizzard Entertainment natively on Linux without the Battle.net Desktop App and Wine
