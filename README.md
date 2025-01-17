@@ -874,6 +874,7 @@
 
 ## Java 
 
+- [PrivacyDragon/Bookwyrm_Android](https://github.com/PrivacyDragon/Bookwyrm_Android) - An Android application for Bookwyrm. Basically, it is just bookwyrm put into a 'webview' element.
 - [patzly/tack-android](https://github.com/patzly/tack-android) - A beautiful metronome for Android with a powerful Wear OS integration
 - [DynamicTreesTeam/DynamicTrees](https://github.com/DynamicTreesTeam/DynamicTrees) - Minecraft Forge mod providing dynamic trees that progressively grow from seed to maturity.
 - [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera) - Android Camera that uses Enhanced image processing
@@ -1301,7 +1302,7 @@
 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [miru-project/repo](https://github.com/miru-project/repo) - Miru Repository
-- [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - my personal website
+- [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒'𝓈 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform MediaHarbor
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -2081,7 +2082,6 @@
 
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
-- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 
 ## Makefile 
 
@@ -3073,6 +3073,7 @@
 - [face-hh/bussin](https://github.com/face-hh/bussin) - An esolang in TypeScript, for heaven's sake.
 - [illust-bio/illust.bio](https://github.com/illust-bio/illust.bio) - Free domains for illustrators (or anyone related to illustrations).
 - [willin/domain](https://github.com/willin/domain) - Free Domains 免费域名申请：js.cool/sh.gg/憨憨.我爱你/kaiyuan.fund/css.fund/log.lu/v0.chat etc. The only free one supports Vercel (js.cool).
+- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
