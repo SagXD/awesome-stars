@@ -116,7 +116,7 @@
 
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [eanema/graph89](https://github.com/eanema/graph89) - A fork of Graph89 with UI and UX tweaks and fixes for modern Android versions. Graph89 is an emulator targeting the Android platform for TI89, TI89T, TI92, TI92+, V200, TI84+, TI84+SE, TI83, TI83+ and
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
 - [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -343,7 +343,7 @@
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
-- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For the Windows, Linux, and Mac platforms.
+- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -651,7 +651,7 @@
 ## EJS 
 
 - [ashley0143/poke](https://github.com/ashley0143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashley/poke)
-- [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
+- [d3ward/toolz](https://github.com/d3ward/toolz) - Project Archived - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
 
 ## Elixir 
 
@@ -1573,7 +1573,6 @@
 - [liuhong1happy/react-native-2048](https://github.com/liuhong1happy/react-native-2048) - React Native 2048 Game
 - [gd4Ark/2048](https://github.com/gd4Ark/2048) - 🎮 2048 game developed using javascript
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
-- [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
@@ -1662,6 +1661,7 @@
 
 ## Kotlin 
 
+- [umer0586/DroidPad](https://github.com/umer0586/DroidPad) - Android app for creating customizable control interfaces for Bluetooth Low energy,WebSocket, MQTT, TCP, and UDP protocols.
 - [AChep/PocketMode](https://github.com/AChep/PocketMode) - Prevent accidential touches on your Android smartphone
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
@@ -1805,7 +1805,7 @@
 - [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [storeforminecraft/SkinViewAndroid](https://github.com/storeforminecraft/SkinViewAndroid) - Shows Minecraft skins in 2D and 3D on Android
-- [Lyzev/Schizoid](https://github.com/Lyzev/Schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
+- [SchizoidDevelopment/schizoid](https://github.com/SchizoidDevelopment/schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
 - [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk, KernelSU and APatch
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 - [0xf4b1/motionmate](https://github.com/0xf4b1/motionmate) - Simple and lightweight step counter app for Android
@@ -2943,7 +2943,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [tulir/gomuks](https://github.com/tulir/gomuks) - A Matrix client written in Go.
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
-- [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movie/Series/Anime streaming and downloading android app
+- [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - App for streaming media.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
@@ -2986,7 +2986,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [hiaaryan/wora](https://github.com/hiaaryan/wora) - 🎧 A beautiful player for audiophiles.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source, self-hosted Geforce Now alternative
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source Geforce Now alternative
 - [OpenGameBackend/OpenGameBackend](https://github.com/OpenGameBackend/OpenGameBackend) - 🧩 The only backend your game needs. Powered by Rivet.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
@@ -3045,7 +3045,7 @@
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [revoltchat/revolt.js](https://github.com/revoltchat/revolt.js) - Modern Typescript library for interacting with Revolt.
 - [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
-- [revoltchat/rvmob](https://github.com/revoltchat/rvmob) - React Native Revolt client. Community-led project.
+- [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Revolt. Community-led project.
 - [taskyland/snowbin](https://github.com/taskyland/snowbin) - ❄️ Delightfully crafted markdown pastebin with &lt;3
 - [VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter Strike implementation with Javascript/Typescript
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -3112,6 +3112,7 @@
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [avin/2048-game](https://github.com/avin/2048-game) - 2048 Game implementation based on Preact+Redux
+- [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
