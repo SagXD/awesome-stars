@@ -116,6 +116,7 @@
 
 ## C 
 
+- [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [xiph/flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -240,7 +241,7 @@
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) - Packing tool for Steam games.
 - [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
-- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the tiny C# ECS that loves you back!
+- [outfox/fennecs](https://github.com/outfox/fennecs) - ... the little C# ECS that loves you back!
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
 - [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
@@ -836,7 +837,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
 - [Malwarize/retro](https://github.com/Malwarize/retro) - 📼 play musics with command line on linux
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -846,6 +847,7 @@
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
@@ -987,6 +989,9 @@
 
 ## Java 
 
+- [TangyKiwi/KiwiClient](https://github.com/TangyKiwi/KiwiClient) - Minecraft Utility Mod
+- [Glitchfiend/TerraBlender](https://github.com/Glitchfiend/TerraBlender) - TerraBlender is a library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system.
+- [hufrea/keysh](https://github.com/hufrea/keysh) - Handle volume buttons on Android
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
@@ -997,7 +1002,6 @@
 - [tronprotocol/java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
 - [qualterz/lookaround](https://github.com/qualterz/lookaround) - Minecraft mod that allows you to look around using headlock
 - [Killetx/TridentDupe](https://github.com/Killetx/TridentDupe) - Meteor Client Addon - Developed by Killet, Laztec, and Ionar. This works on all servers currently, for all versions with tridents.  (Also works for arrows!)
-- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
@@ -1103,7 +1107,7 @@
 - [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
 - [BuildCraft/BuildCraft](https://github.com/BuildCraft/BuildCraft) - BuildCraft
 - [nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - :iphone: [Android Library] Get device information in a super easy way.
-- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
+- [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [Luohuayu/CatServer](https://github.com/Luohuayu/CatServer) - 高性能和高兼容性的1.12.2/1.16.5/1.18.2版本Forge+Bukkit+Spigot服务端 (A high performance and high compatibility 1.12.2/1.16.5/1.18.2 version Forge+Bukkit+Spigot server)
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
@@ -1454,6 +1458,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -1523,7 +1528,6 @@
 - [pxlsspace/pxls-web](https://github.com/pxlsspace/pxls-web) - Web client for pxls.space
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [placeAtlas/atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [alexcmgit/lofi-player](https://github.com/alexcmgit/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [sharukhi/lofi-box](https://github.com/sharukhi/lofi-box) - ✨ Relaxing lo-fi tunes directly within your web browser.
@@ -1839,7 +1843,7 @@
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [mshdabiola/Naijaludo](https://github.com/mshdabiola/Naijaludo) - Naija Ludo is a captivating mobile game that brings the classic board game of Ludo into the modern age. Developed by Mshdabiola, this Android game offers stunning graphics, smooth gameplay, and exciti
-- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard® and AmneziaWG
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard and AmneziaWG
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
@@ -2194,7 +2198,7 @@
 - [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app built with MD3
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
-- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [SimpleMobileTools/Simple-Launcher](https://github.com/SimpleMobileTools/Simple-Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [SimpleMobileTools/Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads
@@ -2275,7 +2279,7 @@
 - [MisterDA/love-release](https://github.com/MisterDA/love-release) - :love_letter: Lua script that makes LÖVE game release easier
 - [semyon422/soundsphere](https://github.com/semyon422/soundsphere) - VSRG written in Lua https://discord.gg/ubKMtTk
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) - Home of MineOS and it's software for OpenComputers mod
-- [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro ModLoader
+- [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [tylerneylon/termtris](https://github.com/tylerneylon/termtris) - A text-based game inspired by tetris.
 - [dan200/ComputerCraft](https://github.com/dan200/ComputerCraft) - Programmable Computers for Minecraft
@@ -2348,7 +2352,7 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
@@ -3006,7 +3010,7 @@
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
 - [19MisterX98/Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
@@ -3259,7 +3263,7 @@
 ## TypeScript 
 
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -3267,7 +3271,7 @@
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
@@ -3390,7 +3394,7 @@
 - [SleeplessOne1917/lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) - A bot library for Lemmy, the fediverse link aggregator.
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
 - [sunaurus/lemmy-ui-next](https://github.com/sunaurus/lemmy-ui-next) - Alternative frontend for Lemmy. Built with Next.js.
-- [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) - Moepictures is an anime image board.
+- [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) - Moepictures is an anime image board organized by tags.
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [caiiiycuk/js-dos](https://github.com/caiiiycuk/js-dos) - The best API for running dos programs in browser
