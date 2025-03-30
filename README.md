@@ -282,7 +282,7 @@
 - [marmust/internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a pixel art editor made with .NET 8
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [DaxEleven/Rule34.xxx-Downloader](https://github.com/DaxEleven/Rule34.xxx-Downloader) - The program for downloading content from the rule34.xxx
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
@@ -978,7 +978,6 @@
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
 - [eralp232/BozeClient-Web](https://github.com/eralp232/BozeClient-Web) - @boze.dev website source & other files.
-- [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
 - [eralp232/InertiaClient-Web](https://github.com/eralp232/InertiaClient-Web) - @inertiaclient.com website source & other files.
 - [eralp232/ImpactClient-Web](https://github.com/eralp232/ImpactClient-Web) - @impactclient.net website source & other files.
 - [eralp232/AbyssClient-Web](https://github.com/eralp232/AbyssClient-Web) - @abyssclient.com website source & other files.
@@ -1866,7 +1865,7 @@
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [catppuccin/gitui](https://github.com/catppuccin/gitui) - 🍴 Soothing pastel theme for GitUI
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
-- [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct
+- [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct & qt6ct
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader
@@ -1951,7 +1950,7 @@
 - [jherkenhoff/qalculate-android](https://github.com/jherkenhoff/qalculate-android) - Powerful and versatile multi-purpose calculator for the Android platform
 - [slavabarkov/tidy](https://github.com/slavabarkov/tidy) - Offline semantic Text-to-Image and Image-to-Image search on Android powered by quantized state-of-the-art vision-language pretrained CLIP model and ONNX Runtime inference engine
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
-- [YenalyLiew/Han1meViewer](https://github.com/YenalyLiew/Han1meViewer) - Updates may happen sporadically, or not at all.
+- [YenalyLiew/Han1meViewer](https://github.com/YenalyLiew/Han1meViewer) - [Deprecated]
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
@@ -2316,7 +2315,6 @@
 - [Gakuto1112/CatMaid](https://github.com/Gakuto1112/CatMaid) - "Cat Maid (猫メイド)" the avatar for Figura, the skin mod for Minecraft.
 - [Gakuto1112/SenkoSan](https://github.com/Gakuto1112/SenkoSan) - "Senko-san (仙狐さん)" the avatar for Figura, the skin mod for Minecraft.
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
-- [DanielPower/balacord](https://github.com/DanielPower/balacord) - Discord bot for displaying information about Balatro Jokers
 - [nh6574/JokerDisplay](https://github.com/nh6574/JokerDisplay) - Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.
 - [Firch/Bunco](https://github.com/Firch/Bunco) - Bunco is a vanilla-style Balatro content mod
 - [Kooluve/Better-Mouse-And-Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) - A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)
@@ -2505,7 +2503,6 @@
 - [WalmartSolutions/GoldGrinder-3.0](https://github.com/WalmartSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - A semi-condenced monolinear typeface.
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
-- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nw-cn/awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit)
@@ -2675,7 +2672,7 @@
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -2684,7 +2681,7 @@
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -3461,6 +3458,7 @@
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
 - [TeamPiped/lemmy-piped-link-bot](https://github.com/TeamPiped/lemmy-piped-link-bot) - 
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [DanielPower/balacord](https://github.com/DanielPower/balacord) - Discord bot for displaying information about Balatro Jokers
 - [watchlonelil/extension](https://github.com/watchlonelil/extension) - 
 - [kleinfreund/balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
