@@ -228,6 +228,8 @@
 
 ## C# # 
 
+- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites.
+- [NickvisionApps/Tagger](https://github.com/NickvisionApps/Tagger) - Tag your music
 - [calico-crusade/cardboardbox-anime](https://github.com/calico-crusade/cardboardbox-anime) - CardboardBox.Anime - Search feature for VRV and more
 - [ic3w0lf22/Roblox-Account-Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts
 - [dotnet/ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies.
@@ -255,7 +257,6 @@
 - [insomniachi/Totoro](https://github.com/insomniachi/Totoro) - A Windows 10/11 only application that is a go to for all things anime.
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [cspotcode/brc-animate-on-twos](https://github.com/cspotcode/brc-animate-on-twos) - Mod that makes players and pedestrians animate on twos, as popularized by the SpiderVerse movies.
-- [sim0n00ps/OF-DL](https://github.com/sim0n00ps/OF-DL) - C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
 - [jekyllgrim/Beautiful-Doom](https://github.com/jekyllgrim/Beautiful-Doom) - Beautiful Doom mod for GZDoom
 - [Beamographic/rush](https://github.com/Beamographic/rush) - Rush! custom ruleset for osu!lazer
 - [LumpBloom7/sentakki](https://github.com/LumpBloom7/sentakki) - An attempt to recreate maimai gameplay within osu!lazer
@@ -588,6 +589,7 @@
 
 ## CSS 
 
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [st1020/kita](https://github.com/st1020/kita) - Kita is a clean, elegant and simple blog theme for Zola.
@@ -733,7 +735,7 @@
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter).
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [saltymaccas/muffed](https://github.com/saltymaccas/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
@@ -1503,6 +1505,7 @@
 
 ## JavaScript 
 
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [irokaru/pixel-scaler](https://github.com/irokaru/pixel-scaler) - A pixel art upscaling tool
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [chandler-stimson/live-stream-downloader](https://github.com/chandler-stimson/live-stream-downloader) - Download M3U8 live streams to the local disk
@@ -1533,7 +1536,7 @@
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform MediaHarbor
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [kyuucr/insert-template-to-editables](https://github.com/kyuucr/insert-template-to-editables) - Firefox add-on for quickly inserting predefined template into editables (e.g., input box, text area).
-- [zJohnWick/CLEANFOX-CONFIG](https://github.com/zJohnWick/CLEANFOX-CONFIG) - Firefox config for better privacy and security with better user experience.
+- [zJohnWick/cleanfix-config](https://github.com/zJohnWick/cleanfix-config) - Firefox config for better privacy and security with better user experience.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
@@ -1891,6 +1894,8 @@
 
 ## Kotlin 
 
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
 - [nanihadesuka/NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) - Android web novel reader
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
@@ -1944,7 +1949,7 @@
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - FOSS Player, which made of jetpack compose.  Android 8.0 and above supported.
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
 - [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [PhilKes/NotallyX](https://github.com/PhilKes/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
@@ -2061,7 +2066,7 @@
 - [binayshaw7777/KotStep](https://github.com/binayshaw7777/KotStep) - 💜 An easy to use Stepper UI library for Jetpack Compose
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 The new Wire client for Android
 - [vipulyaara/Kafka](https://github.com/vipulyaara/Kafka) - Read, play, and download millions of books; served by archive.org.
-- [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo is an Android app tailored for Google Android users
+- [cliuff/boundo](https://github.com/cliuff/boundo) - Boundo Meta-app: Info & Manager, all about your apps and beyond.
 - [Trendyol/stove](https://github.com/Trendyol/stove) - Stove: The easiest way of writing e2e/component tests for your JVM back-end API with Kotlin
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - (Migrated to https://codeberg.org/antoinepirlot/Satunes) Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto made in 🇪🇺.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
@@ -2330,6 +2335,7 @@
 
 ## Lua 
 
+- [groverburger/g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 - [aNyoomie/ISAT-Balatro](https://github.com/aNyoomie/ISAT-Balatro) - In Stars and Time themed Balatro Content Mod
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [rollerozxa/boxsmasher](https://github.com/rollerozxa/boxsmasher) - A fun physics-based puzzle game where you throw balls at boxes to smash them out of the screen.
@@ -2429,7 +2435,7 @@
 
 - [ProviceUnify/DotClick](https://github.com/ProviceUnify/DotClick) - Dot-typed cursors based on Capitaine Cursors
 - [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
-- [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated weekly!
+- [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [milahu/awesome-transpilers](https://github.com/milahu/awesome-transpilers) - A curated list of awesome transpilers. aka source-to-source compilers
@@ -2464,7 +2470,7 @@
 - [mistrk7/vanillaxbr](https://github.com/mistrk7/vanillaxbr) - Repository for managing updates to my Minecraft resource pack.
 - [breezy-weather/breezy-weather-icon-packs](https://github.com/breezy-weather/breezy-weather-icon-packs) - A document about icon provider for Breezy Weather
 - [XForYouX/Suyu-Android-9](https://github.com/XForYouX/Suyu-Android-9) - ForYou😘
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【tg10000.com】
+- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
@@ -2702,6 +2708,7 @@
 
 ## Python 
 
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [AlecM33/balatro-joker-bot](https://github.com/AlecM33/balatro-joker-bot) - A bot that monitors reddit comments and replies with Balatro info when summoned. Inspired by u/balatro-bot.
@@ -2720,7 +2727,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -2738,7 +2745,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, Qwen3, TTS, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
@@ -2818,7 +2825,7 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
 - [googlefonts/science-gothic](https://github.com/googlefonts/science-gothic) - Science Gothic, a libre variable font
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
@@ -3047,6 +3054,7 @@
 
 ## Ruby 
 
+- [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
@@ -3063,6 +3071,7 @@
 
 ## Rust 
 
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -3105,8 +3114,8 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
-- [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps - routing prompts to the right agents or specific tools, clarifying vague inputs, unifying access 
+- [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps like calling specific tools, routing prompts to the right agents, clarifying vague inputs, unifyin
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -3265,6 +3274,7 @@
 
 ## Shell 
 
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [eworm-de/xcur2png](https://github.com/eworm-de/xcur2png) - fork of original xcur2png
 - [Katze-942/xcursor-massive-resize](https://github.com/Katze-942/xcursor-massive-resize) - 
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
@@ -3389,6 +3399,7 @@
 
 ## TypeScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
@@ -3400,7 +3411,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
