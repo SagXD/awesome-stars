@@ -987,7 +987,7 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
-- [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) - A free subdomain for developers.
+- [voidsnam/jsid.dev](https://github.com/voidsnam/jsid.dev) - A free subdomain for developers.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - NetherSX2 based on AetherSX2 3668
 - [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
@@ -1219,7 +1219,7 @@
 - [MohistMC/Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
 - [BlouFlin/Photography](https://github.com/BlouFlin/Photography) - Yet another Minecraft camera mod to take photos of your world on maps!
 - [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
-- [AdamCalculator/DynamicPack](https://github.com/AdamCalculator/DynamicPack) - This minecraft mod will automatically update your resource packs!
+- [CalculatorsTeam/DynamicPack_orig](https://github.com/CalculatorsTeam/DynamicPack_orig) - This minecraft mod will automatically update your resource packs!
 - [TudbuT/ttc](https://github.com/TudbuT/ttc) - TTC Client
 - [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
 - [PreviousAlone/Nnngram](https://github.com/PreviousAlone/Nnngram) - Another gram by NextAlone
@@ -1953,6 +1953,8 @@
 
 ## Kotlin 
 
+- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
+- [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [gmathi/NovelLibrary-Extensions](https://github.com/gmathi/NovelLibrary-Extensions) - Extensions for NovelLibrary
@@ -2477,6 +2479,7 @@
 
 ## MDX 
 
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [inkonchain/docs](https://github.com/inkonchain/docs) - Ink Documentation
@@ -2532,7 +2535,6 @@
 - [ProviceUnify/DotClick](https://github.com/ProviceUnify/DotClick) - Dot-typed cursors based on Capitaine Cursors
 - [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
 - [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [milahu/awesome-transpilers](https://github.com/milahu/awesome-transpilers) - A curated list of awesome transpilers. aka source-to-source compilers
 - [EdgeIY/infiniteyield](https://github.com/EdgeIY/infiniteyield) - Infinite Yield admin commands
@@ -2833,7 +2835,7 @@
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。 WebUI。
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、微信、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -2867,7 +2869,7 @@
 - [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 - [google/meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
@@ -3338,7 +3340,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
-- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) - Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much bloat and legacy as possible while being usable in most usecases
 - [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -3523,6 +3525,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [Suwayomi/Suwayomi-WebUI](https://github.com/Suwayomi/Suwayomi-WebUI) - 
@@ -3568,7 +3571,7 @@
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [burhancodes/dreddit](https://github.com/burhancodes/dreddit) - React Native Client for Reddit
 - [bugsdev2/bookaccio](https://github.com/bugsdev2/bookaccio) - Book Tracker App
