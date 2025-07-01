@@ -311,7 +311,7 @@
 - [Technoguyfication/Minecraft-Unity3D](https://github.com/Technoguyfication/Minecraft-Unity3D) - Vanilla-compatible Minecraft multiplayer client written from scratch in C#
 - [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
+- [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [Founderroni/Kaffee](https://github.com/Founderroni/Kaffee) - Kaffee Utility - An open-source MCBE injector and multi-tool.
 - [LowLevelLemmy/Blind](https://github.com/LowLevelLemmy/Blind) - A game even blind people can play!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -2099,7 +2099,7 @@
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
-- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from your Android device
+- [qBitController/qBitController](https://github.com/qBitController/qBitController) - Control qBittorrent from any device
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
@@ -2631,7 +2631,7 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
@@ -2662,7 +2662,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nw-cn/awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit)
 - [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
-- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [absolllute/Mega-Hack-Pro-Future](https://github.com/absolllute/Mega-Hack-Pro-Future) - Mega Hack Pro Suggestion & Issue Tracker
 - [catppuccin/aseprite](https://github.com/catppuccin/aseprite) - 🖍 Soothing pastel theme for Aseprite
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -2703,7 +2703,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [DAMcraft/MeteorServerSeeker](https://github.com/DAMcraft/MeteorServerSeeker) - Dead project
+- [lina-x64/MeteorServerSeeker](https://github.com/lina-x64/MeteorServerSeeker) - Dead project
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
@@ -3210,7 +3210,7 @@
 
 ## Rust 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -3473,7 +3473,7 @@
 - [spawnmason/randar-explanation](https://github.com/spawnmason/randar-explanation) - "Randar" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to l
 - [d99kris/namp-lite](https://github.com/d99kris/namp-lite) - Console-based audio player for Linux
 - [Akbar30Bill/DOOM_wads](https://github.com/Akbar30Bill/DOOM_wads) - I collect ClassicDoom WAD files here
-- [FWDekker/mommy](https://github.com/FWDekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
+- [fwdekker/mommy](https://github.com/fwdekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
 - [brandleesee/ePSXe64Ubuntu](https://github.com/brandleesee/ePSXe64Ubuntu) - OBSOLETE - ePSXe64Ubuntu is an interactive script that installs ePSXe Linux (x64) & shaders using BIOS HLE and Core Plugins on x86-64 Debian, Ubuntu, Linux Mint, and their derivatives.
 - [0xf4b1/unify](https://github.com/0xf4b1/unify) - Automatically port Unity games for macOS or Windows to Linux
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
