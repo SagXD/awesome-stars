@@ -120,6 +120,7 @@
 
 ## C 
 
+- [fandahao17/Raspberry-Pi-DMA-Tutorial](https://github.com/fandahao17/Raspberry-Pi-DMA-Tutorial) - A step-by-step guide on using DMA to achieve high-speed sampling on Raspberry Pi
 - [LWSS/Fuzion](https://github.com/LWSS/Fuzion) - Fuzion is a free-as-in-freedom CSGO cheat for linux
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Visualize embedded device data.
 - [TomasBorquez/ps1-renderer](https://github.com/TomasBorquez/ps1-renderer) - Simple OpenGL PS1 like renderer
@@ -241,6 +242,7 @@
 
 ## C# # 
 
+- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
@@ -697,6 +699,8 @@
 
 ## Dart 
 
+- [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
+- [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium) - Android app for discovering open source Android apps
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Mazahir26/koduko](https://github.com/Mazahir26/koduko) - A habit tracker made using flutter.
 - [vicolo-dev/chrono](https://github.com/vicolo-dev/chrono) - A modern and powerful clock, alarms, timer and stopwatch app for Android!
@@ -707,7 +711,7 @@
 - [KarimElghamry/chillify](https://github.com/KarimElghamry/chillify) - Music App made with flutter
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - The fastest Gym Tracking App 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Flex on people with this swanky, lightning-quick gym tracker! 💪
 - [mimoguz/tripeaks_neue](https://github.com/mimoguz/tripeaks_neue) - A simple Tri Peaks game, take two.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -908,6 +912,10 @@
 
 ## Go 
 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd's NIS. MIT Licensed.
@@ -979,6 +987,7 @@
 
 ## HTML 
 
+- [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [cthboss001/PixelDrain-Direct-Video-Streamer](https://github.com/cthboss001/PixelDrain-Direct-Video-Streamer) - # PixelDrain Direct Video Streamer  A simple web tool to stream any video hosted on PixelDrain directly in your browser — without needing to download it first.
 - [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -1033,10 +1042,10 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
-- [Bugswriter/simple-base64-upload](https://github.com/Bugswriter/simple-base64-upload) - 
-- [Bugswriter/iiser-poc](https://github.com/Bugswriter/iiser-poc) - 
-- [Bugswriter/ecomsite](https://github.com/Bugswriter/ecomsite) - 
-- [Bugswriter/zola-journal-template](https://github.com/Bugswriter/zola-journal-template) - 
+- [bugswriter/simple-base64-upload](https://github.com/bugswriter/simple-base64-upload) - 
+- [bugswriter/iiser-poc](https://github.com/bugswriter/iiser-poc) - 
+- [bugswriter/ecomsite](https://github.com/bugswriter/ecomsite) - 
+- [bugswriter/zola-journal-template](https://github.com/bugswriter/zola-journal-template) - 
 - [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
@@ -1049,7 +1058,6 @@
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [davidrazmadzeExtra/Linktree_HTML_CSS](https://github.com/davidrazmadzeExtra/Linktree_HTML_CSS) - 
 - [hitthemoney/krunker-logo-maker](https://github.com/hitthemoney/krunker-logo-maker) - 
-- [LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives) - A list of recommended OptiFine alternatives.
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 
@@ -1076,6 +1084,16 @@
 
 ## Java 
 
+- [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
+- [InflationX/Calligraphy](https://github.com/InflationX/Calligraphy) - Custom fonts in Android the easy way...
+- [chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way...
+- [Dawncraft/Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) - Some Android app widgets and live wallpapers. 包括新冠肺炎和一言桌面微件, 勿扰模式锁屏快捷开关, live2d动态壁纸(WIP)
+- [TelepathicGrunt/StructureTutorialMod](https://github.com/TelepathicGrunt/StructureTutorialMod) - A short example showing how to register a structure and get it to generate in all biomes in NeoForge, Forge, and Fabric! (check the branches)
+- [Ninjabrain1/Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
+- [Potion-Studios/BYG](https://github.com/Potion-Studios/BYG) - Download it here: https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
+- [adoptium/jdk](https://github.com/adoptium/jdk) - This repo is an unmodified mirror of source code obtained from OpenJDK. It has been and may still be used to create builds that are untested and incompatible with the Java SE specification. You should
+- [dmitrijkotov634/dmenu-android](https://github.com/dmitrijkotov634/dmenu-android) - dmenu is a fast and lightweight menu for Android that works on accessibility service shortcuts
+- [cygnusx-1-org/Slide](https://github.com/cygnusx-1-org/Slide) - Slide is an open-source, ad-free Reddit browser for Android.
 - [Turnip-Labs/ModMenu](https://github.com/Turnip-Labs/ModMenu) - A menu for, you guessed it, mods!
 - [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
@@ -1233,7 +1251,7 @@
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
-- [MohistMC/Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
+- [Rz-C/Mohist](https://github.com/Rz-C/Mohist) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
 - [BlouFlin/Photography](https://github.com/BlouFlin/Photography) - Yet another Minecraft camera mod to take photos of your world on maps!
 - [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
 - [CalculatorsTeam/DynamicPack_orig](https://github.com/CalculatorsTeam/DynamicPack_orig) - This minecraft mod will automatically update your resource packs!
@@ -1520,7 +1538,6 @@
 - [eralp232/KonasClient](https://github.com/eralp232/KonasClient) - Unofficial Konas Client Archive: A complete collection of all versions along with a working source code.
 - [AntiCope/meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
-- [BebraHack/BebraHackAddon](https://github.com/BebraHack/BebraHackAddon) - Meteor addon dedicated to Bebra
 - [XatzClient/PenisESP](https://github.com/XatzClient/PenisESP) - Not made by us, but since we use, we may aswell give its src
 - [AlexProgrammerDE/PistonChat](https://github.com/AlexProgrammerDE/PistonChat) - 💬 Advanced chat plugin for survival/anarchy servers.
 - [BleachDev/BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
@@ -1565,6 +1582,7 @@
 
 ## JavaScript 
 
+- [gauravxdev/Orbit](https://github.com/gauravxdev/Orbit) - Music Streaming App For Android
 - [Kielx/terminal-portfolio](https://github.com/Kielx/terminal-portfolio) - Terminal-portfolio - ideal for showcasing software developer projects. Based on Gatsby and Markdown files with separate terminal windows powered by winbox.js.
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
@@ -1580,7 +1598,6 @@
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [rebelonion/Blessed-Bean-Kill-Counter-Bot](https://github.com/rebelonion/Blessed-Bean-Kill-Counter-Bot) - A bot that checks a user's kills for the last 30 days in Eve Online
-- [XengShi/materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 - [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -1687,7 +1704,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [yne/dzr](https://github.com/yne/dzr) - Accountless deezer.com Player (CLI & VSCode)
+- [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
 - [Skai256/mapart](https://github.com/Skai256/mapart) - Mineflayer flat carpet automation
 - [filecoffee/filehost](https://github.com/filecoffee/filehost) - An open source file host that you can easily selfhost.
 - [soundjester/lemmy_monkey](https://github.com/soundjester/lemmy_monkey) - *monkey scripts for Lemmy
@@ -1888,8 +1905,8 @@
 - [fthx/no-overview](https://github.com/fthx/no-overview) - 
 - [MakkusuOtaku/minegpt](https://github.com/MakkusuOtaku/minegpt) - Minecraft bot controlled with an LLM.
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
-- [Bugswriter/zest-website](https://github.com/Bugswriter/zest-website) - 
-- [Bugswriter/gcontacts-alternative](https://github.com/Bugswriter/gcontacts-alternative) - 
+- [bugswriter/zest-website](https://github.com/bugswriter/zest-website) - 
+- [bugswriter/gcontacts-alternative](https://github.com/bugswriter/gcontacts-alternative) - 
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -1942,6 +1959,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -1964,11 +1982,16 @@
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
 - [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct & qt6ct
 - [catppuccin/mpv](https://github.com/catppuccin/mpv) - 📼 Soothing pastel theme for mpv
+- [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader
 
 ## Kotlin 
 
+- [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
+- [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
+- [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
+- [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
 - [dn0ne/lotus](https://github.com/dn0ne/lotus) - Music player for Android
 - [NoWakeLock/NoWakeLock](https://github.com/NoWakeLock/NoWakeLock) - An application that controls Android wakelocks can run on Android N and later.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
@@ -2062,7 +2085,7 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
-- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune
+- [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
@@ -2426,7 +2449,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Sumandora/tarasande](https://github.com/Sumandora/tarasande) - As the golden standard in cheating for Minecraft Competitive Multiplayer, tarasande provides the effective client-side solution to cheating.
 - [Chaitanya-Pratap-Singh/Meme-Share](https://github.com/Chaitanya-Pratap-Singh/Meme-Share) - 
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [SpritzLanguage/Spritz](https://github.com/SpritzLanguage/Spritz) - The main repository for the Spritz language
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
@@ -2487,7 +2510,7 @@
 - [dan200/ComputerCraft](https://github.com/dan200/ComputerCraft) - Programmable Computers for Minecraft
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [vsjoqvist/AspMcmeta](https://github.com/vsjoqvist/AspMcmeta) - An asprite script to help with creating animated textures
-- [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
+- [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A Lite XL plugin manager.
 - [lite-xl/lite-xl-lsp](https://github.com/lite-xl/lite-xl-lsp) - LSP Plugin for Lite XL editor
 - [leomick/litexl-catppuccin](https://github.com/leomick/litexl-catppuccin) - 🖥️ Soothing pastel theme for Lite XL
@@ -2553,6 +2576,9 @@
 
 ## Others 
 
+- [capsolver/capsolver-browser-extension](https://github.com/capsolver/capsolver-browser-extension) - This browser extension supports recognition of the most popular CAPTCHAs, including reCAPTCHA v2, v3, reCAPTCHA v2 invisible, enterprise, Geetest, AWS Waf Captcha, Amazon Captcha, Cloudflare v3(Turnst
+- [teamspeak/teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for test
+- [Subtitle-Archival-Initiative/anime-subtitle-archival](https://github.com/Subtitle-Archival-Initiative/anime-subtitle-archival) - A repository containing anime subtitles for archival purposes.
 - [idunnololz/summit-for-lemmy](https://github.com/idunnololz/summit-for-lemmy) - A mobile client for Lemmy
 - [Turnip-Labs/bta-fabric-instance-repo](https://github.com/Turnip-Labs/bta-fabric-instance-repo) - 
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
@@ -2719,12 +2745,12 @@
 - [lina-x64/MeteorServerSeeker](https://github.com/lina-x64/MeteorServerSeeker) - Dead project
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [Bugswriter/useful-sed](https://github.com/Bugswriter/useful-sed) - Useful sed scripts & patterns.
-- [Bugswriter/amptest](https://github.com/Bugswriter/amptest) - 
-- [Bugswriter/metawood](https://github.com/Bugswriter/metawood) - 
-- [Bugswriter/fooddish](https://github.com/Bugswriter/fooddish) - 
-- [Bugswriter/bugsnavi](https://github.com/Bugswriter/bugsnavi) - 
-- [Bugswriter/Bugswriter](https://github.com/Bugswriter/Bugswriter) - 
+- [bugswriter/useful-sed](https://github.com/bugswriter/useful-sed) - Useful sed scripts & patterns.
+- [bugswriter/amptest](https://github.com/bugswriter/amptest) - 
+- [bugswriter/metawood](https://github.com/bugswriter/metawood) - 
+- [bugswriter/fooddish](https://github.com/bugswriter/fooddish) - 
+- [bugswriter/bugsnavi](https://github.com/bugswriter/bugsnavi) - 
+- [bugswriter/Bugswriter](https://github.com/bugswriter/Bugswriter) - 
 - [WalmartSolutions/RavenB-Old](https://github.com/WalmartSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
@@ -2771,6 +2797,7 @@
 
 ## PHP 
 
+- [andyocnz/Bonopoly](https://github.com/andyocnz/Bonopoly) - Business simulation game
 - [Part-DB/Part-DB-server](https://github.com/Part-DB/Part-DB-server) - Part-DB is an Open source inventory management system for your electronic components
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service
@@ -2834,6 +2861,11 @@
 
 ## Python 
 
+- [wishtag/speech-to-text-to-teto](https://github.com/wishtag/speech-to-text-to-teto) - A program to convert your speech to text and then play it through teto's voice
+- [wishtag/speech-to-text-to-speech](https://github.com/wishtag/speech-to-text-to-speech) - A program to convert your speech to text and then play it through text to speech
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [BassHous3/taggarr](https://github.com/BassHous3/taggarr) - Dub analysis & tagging.
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
@@ -2868,7 +2900,7 @@
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、微信、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -2902,9 +2934,10 @@
 - [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-- [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [google/meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [deepseek-ai/ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
@@ -3134,10 +3167,10 @@
 - [maltfield/awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [AntiCope/anticope.ml](https://github.com/AntiCope/anticope.ml) - Welcome to the AntiCope Website! Here you can find a list of free and open-source Meteor Client addons as well as other client-side Fabric Minecraft mods.
-- [Bugswriter/bipolar-assignment](https://github.com/Bugswriter/bipolar-assignment) - 
-- [Bugswriter/corona-death-update](https://github.com/Bugswriter/corona-death-update) - Sasti Siri is a voice program. She tell you how many people died due to corona.
-- [Bugswriter/offerclub](https://github.com/Bugswriter/offerclub) - 
-- [Bugswriter/ffmagic](https://github.com/Bugswriter/ffmagic) - 
+- [bugswriter/bipolar-assignment](https://github.com/bugswriter/bipolar-assignment) - 
+- [bugswriter/corona-death-update](https://github.com/bugswriter/corona-death-update) - Sasti Siri is a voice program. She tell you how many people died due to corona.
+- [bugswriter/offerclub](https://github.com/bugswriter/offerclub) - 
+- [bugswriter/ffmagic](https://github.com/bugswriter/ffmagic) - 
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
@@ -3185,7 +3218,6 @@
 - [Agundur-KDE/KCast](https://github.com/Agundur-KDE/KCast) - KCast is a KDE Plasma 6 widget that lets you cast video files or youtube URLs to a Chromecast devices in your local network. It supports device discovery, local media playback via an embedded HTTP ser
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) - XeroLinux Layan Rice
-- [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [KDE/tok](https://github.com/KDE/tok) - Telegram client built using Kirigami
 
 ## Reason 
@@ -3202,13 +3234,14 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [wordnik/wordnik-ruby](https://github.com/wordnik/wordnik-ruby) - The official wordnik gem.
 - [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -3272,7 +3305,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The intelligent edge and AI gateway for agents. Arch is an out-of-process proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, 
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -3409,7 +3442,7 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rose-pine/gtk](https://github.com/rose-pine/gtk) - Soho vibes for GTK
-- [Bugswriter/website-1](https://github.com/Bugswriter/website-1) - hillhacks website
+- [bugswriter/website-1](https://github.com/bugswriter/website-1) - hillhacks website
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
@@ -3431,6 +3464,7 @@
 
 ## Shell 
 
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [babric/prism-instance](https://github.com/babric/prism-instance) - 
 - [plexguide/Unraid_Intel-ARC_Deployment](https://github.com/plexguide/Unraid_Intel-ARC_Deployment) - Unraid - Comprehensive Guide to Enabling AV1 Encoding, Plex Deployment & GPU Management with Tdarr on Unraid 7.0+
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
@@ -3440,7 +3474,6 @@
 - [Katze-942/xcursor-massive-resize](https://github.com/Katze-942/xcursor-massive-resize) - 
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) - A shell script for searching for links on torrent sites
-- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
@@ -3512,12 +3545,12 @@
 - [ronilan/crumbicon](https://github.com/ronilan/crumbicon) - An SVG favicon editor for your terminal (written in Crumb)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [Bugswriter/wal-telegram](https://github.com/Bugswriter/wal-telegram) - :paintbrush: A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
-- [Bugswriter/pirokit](https://github.com/Bugswriter/pirokit) - 
-- [Bugswriter/redyt](https://github.com/Bugswriter/redyt) - Search reddit with CLI
-- [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic) - 
-- [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
-- [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
+- [bugswriter/wal-telegram](https://github.com/bugswriter/wal-telegram) - :paintbrush: A theme for Telegram that, thanks to pywal, adapts its colors according to your computer's wallpaper.
+- [bugswriter/pirokit](https://github.com/bugswriter/pirokit) - 
+- [bugswriter/redyt](https://github.com/bugswriter/redyt) - Search reddit with CLI
+- [bugswriter/arch-linux-magic](https://github.com/bugswriter/arch-linux-magic) - 
+- [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+- [bugswriter/tuxi](https://github.com/bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [lambda-client-unofficial/plugin-repo](https://github.com/lambda-client-unofficial/plugin-repo) - Plugins that does not belong to the official organization
 - [YongSheng109/PingBypassInstaller](https://github.com/YongSheng109/PingBypassInstaller) - ping player.exe
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
@@ -3565,6 +3598,12 @@
 
 ## TypeScript 
 
+- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 - [GabrielPedroza/Secret_Terminal](https://github.com/GabrielPedroza/Secret_Terminal) - Terminal Website
@@ -3648,7 +3687,7 @@
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
-- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -3679,8 +3718,8 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] An open-source Geforce Now alternative
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Rivet is a library for long-lived processes with durable state, realtime, and scalability. Easily self-hostable and works with your infrastructure.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Easily self-hostable and works with your infrastructure.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
@@ -3820,6 +3859,7 @@
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [ojoanalogo/issuetron-3000](https://github.com/ojoanalogo/issuetron-3000) - 🚨 Trigger a MQTT alert when someone opens an issue in one of your repositories
+- [LambdAurora/optifine_alternatives](https://github.com/LambdAurora/optifine_alternatives) - A list of recommended OptiFine alternatives.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme) - 🏷️ Discord Presence in your GitHub Profile
@@ -3871,8 +3911,8 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Rule-34/App](https://github.com/Rule-34/App) - Browse the most popular Boorus with the Rule 34 App.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [Bugswriter/contact-app](https://github.com/Bugswriter/contact-app) - 
-- [Bugswriter/vuelocker](https://github.com/Bugswriter/vuelocker) - 
+- [bugswriter/contact-app](https://github.com/bugswriter/contact-app) - 
+- [bugswriter/vuelocker](https://github.com/bugswriter/vuelocker) - 
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Resource Packs.
 - [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue 2.0.
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
