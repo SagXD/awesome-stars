@@ -230,6 +230,7 @@
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -577,7 +578,6 @@
 - [urho3d/urho3d](https://github.com/urho3d/urho3d) - Game engine
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -593,7 +593,6 @@
 - [horionclient/Horion](https://github.com/horionclient/Horion) - Horion - A Minecraft: Bedrock Edition Utility Mod.
 - [PacketDeveloper/Packet-Source](https://github.com/PacketDeveloper/Packet-Source) - All of Packet Client's source code (check the branches)
 - [supsm/MCPPPP](https://github.com/supsm/MCPPPP) - A resource pack converter from Optifine/MCPatcher formats to other formats
-- [git-eternal/osu-cheat](https://github.com/git-eternal/osu-cheat) - osu cheat with some decent features
 - [NotTolon/Vega.wtf](https://github.com/NotTolon/Vega.wtf) - old autoclicker worked on by RuneGaming and sometimes me he quit tho so src
 - [mapcrafter/mapcrafter](https://github.com/mapcrafter/mapcrafter) - High Performance Minecraft Map Renderer.
 - [SkidwareMC/Skidware-Client](https://github.com/SkidwareMC/Skidware-Client) - Minecraft Injection Client
