@@ -243,6 +243,7 @@
 
 ## C# # 
 
+- [scp222thj/MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 - [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
@@ -1987,6 +1988,7 @@
 
 ## Kotlin 
 
+- [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
@@ -2512,7 +2514,7 @@
 - [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
 - [lite-xl/lite-xl-plugin-manager](https://github.com/lite-xl/lite-xl-plugin-manager) - A Lite XL plugin manager.
 - [lite-xl/lite-xl-lsp](https://github.com/lite-xl/lite-xl-lsp) - LSP Plugin for Lite XL editor
-- [leomick/litexl-catppuccin](https://github.com/leomick/litexl-catppuccin) - 🖥️ Soothing pastel theme for Lite XL
+- [leofleeo/litexl-catppuccin](https://github.com/leofleeo/litexl-catppuccin) - 🖥️ Soothing pastel theme for Lite XL
 - [lite-xl/lite-xl-colors](https://github.com/lite-xl/lite-xl-colors) - Themes for the Lite XL editor
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
