@@ -924,6 +924,7 @@
 
 ## Go 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [mrusme/bookmarkdown](https://github.com/mrusme/bookmarkdown) - A super lightweight tool for accessing links from a markdown file
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -1104,6 +1105,7 @@
 
 ## Java 
 
+- [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments) - 
 - [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [miamionthetrack/remnant](https://github.com/miamionthetrack/remnant) - 
 - [JamiesWhiteShirt/reach-entity-attributes](https://github.com/JamiesWhiteShirt/reach-entity-attributes) - Library of entity attributes for armor, tools, potions, etc. to increase or decrease reach distance and attack range
@@ -1974,7 +1976,7 @@
 - [TomPlaneta/SpamBotPlus](https://github.com/TomPlaneta/SpamBotPlus) - Improved version of spam bot for 6b6t.org using Mineflayer
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
-- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best Minecraft Bedrock anticheat designed for realms, worlds and servers
+- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best Minecraft Bedrock anticheat designed for realms, worlds and, servers
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
@@ -2213,7 +2215,7 @@
 - [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android and Jetpack Compose.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [littlerobots/ytch-android](https://github.com/littlerobots/ytch-android) - ytch.xyz on your Android TV
@@ -2284,7 +2286,7 @@
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [KevinnZou/compose-swipeBox](https://github.com/KevinnZou/compose-swipeBox) - Swipeable list item with directional swipe actions for Jetpack Compose implemented by anchoredDraggable
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
-- [sergio-sastre/ComposablePreviewScanner](https://github.com/sergio-sastre/ComposablePreviewScanner) - A library to help auto-generate screenshot tests from Composable Previews (e.g. Android & Compose Multiplatform) with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as I
+- [sergio-sastre/ComposablePreviewScanner](https://github.com/sergio-sastre/ComposablePreviewScanner) - A library to help auto-generate screenshot tests from Composable Previews (e.g. Android, Glance & Compose Multiplatform) with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as w
 - [getsentry/sentry-java](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
 - [JLindemann42/Atomic-Periodic-Table.Android](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - 'Atomic - Periodic Table' for Android
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
@@ -3684,6 +3686,7 @@
 
 ## TypeScript 
 
+- [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 - [nepsyn/minaplay](https://github.com/nepsyn/minaplay) - MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
