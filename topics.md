@@ -198,6 +198,7 @@
 - [perl](#perl)
 - [phaser](#phaser)
 - [php](#php)
+- [physics](#physics)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
@@ -1067,7 +1068,7 @@
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [willin/domain](https://github.com/willin/domain) - Free Domains 免费域名申请：js.cool/sh.gg/憨憨.我爱你/kaiyuan.fund/css.fund/log.lu/v0.chat etc. The only free one supports Vercel (js.cool).
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
@@ -1137,7 +1138,7 @@
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
@@ -2573,6 +2574,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [puzzlerush/mangastack](https://github.com/puzzlerush/mangastack) - Front-end web client for MangaDex. Previously hosted at https://mangastack.cf/
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -5359,6 +5361,7 @@
 
 ## node 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -5652,6 +5655,10 @@
 
 ## others 
 
+- [tterrag1098/Registrate](https://github.com/tterrag1098/Registrate) - Your mod's best friend - keep your registry objects simple and organized
+- [StoneEggs/AlienPlus](https://github.com/StoneEggs/AlienPlus) - A powerful 2b2t client, modified from Alien. 一个强大的 2b2t 客户端，魔改自 Alien。
+- [hammertater/treechop](https://github.com/hammertater/treechop) - 
+- [xanasoft/MajorPrivacy](https://github.com/xanasoft/MajorPrivacy) - Advanced Privacy Tool for Windows
 - [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments) - 
 - [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [miamionthetrack/remnant](https://github.com/miamionthetrack/remnant) - 
@@ -6046,7 +6053,6 @@
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
 - [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
-- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 - [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why it's called Puzzles, you ask? That's the puzzle!
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
@@ -7070,6 +7076,15 @@
 - [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 
+## physics 
+
+- [rollerozxa/boxsmasher](https://github.com/rollerozxa/boxsmasher) - A fun physics-based puzzle game where you throw balls at boxes to smash them out of the screen.
+- [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with Sci-Fi elements and own Track Editor. The main repository with sources and data. Using Ogre-Next 3.0 and VDrift.
+- [JLindemann42/Atomic-Periodic-Table.Android](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) - 'Atomic - Periodic Table' for Android
+- [SuhasDissa/RunePad](https://github.com/SuhasDissa/RunePad) - Character input pad with almost all the useful Unicode symbols for science students
+- [DynamXInc/DynamX](https://github.com/DynamXInc/DynamX) - A Minecraft mod that aims to add realistic physics to Minecraft
+- [KilledByAPixel/SpaceHuggers](https://github.com/KilledByAPixel/SpaceHuggers) - A roguelike platformer with destructible environments in 13KB of JavaScript
+
 ## pico-8 
 
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -7124,7 +7139,7 @@
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
@@ -7911,6 +7926,7 @@
 
 ## server 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [teamspeak/teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for test
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
