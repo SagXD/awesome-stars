@@ -229,7 +229,7 @@
 - [lucianoforks/falling-block-puzzle-game-os](https://github.com/lucianoforks/falling-block-puzzle-game-os) - An operating system, but it only plays Tetris.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [Aetopia/AppLifecycleOptOut](https://github.com/Aetopia/AppLifecycleOptOut) - A tool to prevent UWP apps from being suspended.
@@ -281,7 +281,7 @@
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ... the little C# ECS that loves you back!
 - [bbradson/Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - .NET public suffix domain parser
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud & Youtube built-in. Effects, Themes, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [TorniX0/OpenTimerResolution](https://github.com/TorniX0/OpenTimerResolution) - OpenTimerResolution is a lightweight open-source application that changes the timer resolution of the Windows system Timer to a specified value.
 - [insomniachi/Totoro](https://github.com/insomniachi/Totoro) - A Windows 10/11 only application that is a go to for all things anime.
@@ -739,7 +739,7 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer) - An alternative Deezer music streaming & downloading client, based on Freezer.
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-- [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [nubank/nuvigator](https://github.com/nubank/nuvigator) - A powerful routing abstraction over Flutter Navigator, with nested Navigator and Deeplinks
 - [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins) - Flutter Community Plus Plugins
@@ -2718,6 +2718,7 @@
 - [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
 - [Enchanted-Games/fix-horizontal-camera-lag](https://github.com/Enchanted-Games/fix-horizontal-camera-lag) - A minecraft mod that fixes the horizontal camera lag when riding an entity
 - [Nostalgica-Reverie/Nostalgic-Tweaks](https://github.com/Nostalgica-Reverie/Nostalgic-Tweaks) - This mod brings back a plethora of Minecraft Alpha/Beta gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft by tweaking the mod to their pr
+- [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
 - [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) - 🌐 Grab your own subdomain for free  Follow the steps listed below to get your own subdomain!
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
@@ -3040,7 +3041,7 @@
 - [deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
 - [deepseek-ai/DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 - [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
-- [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
+- [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -3369,7 +3370,7 @@
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, online serving, and data management.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
@@ -3788,7 +3789,7 @@
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - 2^x Image Super-Resolution
+- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
