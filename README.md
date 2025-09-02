@@ -1117,6 +1117,7 @@
 
 ## Java 
 
+- [starfish-studios/Naturalist](https://github.com/starfish-studios/Naturalist) - 🦌 Enhances the overworld by adding new wildlife with unique behavior!
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
 - [fantahund/cr3stal](https://github.com/fantahund/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
@@ -1409,7 +1410,7 @@
 - [gazlaws-dev/codeboard](https://github.com/gazlaws-dev/codeboard) - Codeboard App
 - [AbdElAziz333/Canary](https://github.com/AbdElAziz333/Canary) - A performance mod designed to optimize Minecraft's general performance and unofficial fork of Lithium mod for Minecraft Forge.
 - [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
-- [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2
+- [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2 ❗ Want to help out? Pull requests are more than welcome! 🤝
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
@@ -2481,7 +2482,6 @@
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [FossifyOrg/Flashlight](https://github.com/FossifyOrg/Flashlight) - A simple modern flashlight with SOS, stroboscope & bright display, has no ads.
 - [FossifyOrg/Thank-You](https://github.com/FossifyOrg/Thank-You) - A warm Thank You for supporting our modern & easy Fossify apps!
-- [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - App Launcher will not be released as a Fossify app.
 - [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [FossifyOrg/Camera](https://github.com/FossifyOrg/Camera) - Quick photo and video camera with a flash, customizable aspect ratio.
 - [FossifyOrg/Keyboard](https://github.com/FossifyOrg/Keyboard) - Easy keyboard for inserting all kinds of texts, special characters and numbers.
@@ -3373,6 +3373,7 @@
 
 ## Rust 
 
+- [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Adolar0042/warden](https://github.com/Adolar0042/warden) - A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
 - [Blocktopograph/core](https://github.com/Blocktopograph/core) - A world editor for Minecraft Bedrock, 1.21+ worlds compatibility, cross-platform.
@@ -3690,6 +3691,7 @@
 
 ## Svelte 
 
+- [MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp) - A website to generate Minecraft profile pictures
 - [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups.
 - [hayase-app/ui](https://github.com/hayase-app/ui) - Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [Xyphyn/photon](https://github.com/Xyphyn/photon) - A sleek & opinionated but powerful Svelte based fediverse client.
@@ -3723,6 +3725,7 @@
 
 ## TypeScript 
 
+- [towsifkafi/mcpfp](https://github.com/towsifkafi/mcpfp) - A modified version of MauritsWilke/mcpfp just to use it as an API with some custom features.
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
