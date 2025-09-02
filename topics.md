@@ -4954,6 +4954,8 @@
 
 ## minecraft 
 
+- [MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp) - A website to generate Minecraft profile pictures
+- [towsifkafi/mcpfp](https://github.com/towsifkafi/mcpfp) - A modified version of MauritsWilke/mcpfp just to use it as an API with some custom features.
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
@@ -5055,7 +5057,7 @@
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [PaperMC/Velocity](https://github.com/PaperMC/Velocity) - The modern, next-generation Minecraft server proxy.
 - [AbdElAziz333/Canary](https://github.com/AbdElAziz333/Canary) - A performance mod designed to optimize Minecraft's general performance and unofficial fork of Lithium mod for Minecraft Forge.
-- [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2
+- [ACGaming/UniversalTweaks](https://github.com/ACGaming/UniversalTweaks) - Consolidates various bugfixes and tweaks into a single solution for Minecraft 1.12.2 ❗ Want to help out? Pull requests are more than welcome! 🤝
 - [Myuui/Free-Minecraft-Hosts](https://github.com/Myuui/Free-Minecraft-Hosts) - Free Minecraft Hosting List aka. FMHL
 - [CacahueteSansSel/mcLaunch](https://github.com/CacahueteSansSel/mcLaunch) - A Minecraft launcher that puts your Minecraft in a box 📦
 - [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
@@ -5719,6 +5721,8 @@
 
 ## others 
 
+- [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
+- [starfish-studios/Naturalist](https://github.com/starfish-studios/Naturalist) - 🦌 Enhances the overworld by adding new wildlife with unique behavior!
 - [basstimam/terabox-cli](https://github.com/basstimam/terabox-cli) - Trauso - A Full Speed terabox downloader!
 - [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - This is an Android application for the website backloggd.com. Essentially, it's a wrapper for the website using a WebView.
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
@@ -6738,7 +6742,6 @@
 - [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [ivansaul/terabox_downloader](https://github.com/ivansaul/terabox_downloader) - Terabox Downloader
-- [FossifyOrg/App-Launcher](https://github.com/FossifyOrg/App-Launcher) - App Launcher will not be released as a Fossify app.
 - [LukeNeedham/Vibrator](https://github.com/LukeNeedham/Vibrator) - Simple Android app for starting and stopping the system vibrator
 - [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
 - [ghmxr/apkextractor](https://github.com/ghmxr/apkextractor) - an android application using to extract app packages installed on the device
@@ -7741,6 +7744,7 @@
 
 ## rest-api 
 
+- [towsifkafi/mcpfp](https://github.com/towsifkafi/mcpfp) - A modified version of MauritsWilke/mcpfp just to use it as an API with some custom features.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
