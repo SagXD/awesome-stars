@@ -1209,7 +1209,7 @@
 - [Killetx/TridentDupe](https://github.com/Killetx/TridentDupe) - Meteor Client Addon - Developed by Killet, Laztec, and Ionar. This works on all servers currently, for all versions with tridents.  (Also works for arrows!)
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes impleme
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [synthetichealth/synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
@@ -3034,7 +3034,7 @@
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -3590,7 +3590,7 @@
 - [veloce/scalachessjs](https://github.com/veloce/scalachessjs) - JavaScript chess library running in a webworker, asynchronous and stateless, with multi variants support
 - [lichess-org/compression](https://github.com/lichess-org/compression) - Chess clock and move compression algorithms for lichess.org
 - [lichess-org/scalachess](https://github.com/lichess-org/scalachess) - Chess API written in scala. Immutable and free of side effects.
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
 ## Shell 
