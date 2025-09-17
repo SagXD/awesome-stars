@@ -32,6 +32,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
@@ -346,7 +347,6 @@
 - [Pickleft/Animator](https://github.com/Pickleft/Animator) - C# Form Display Animation.
 - [Pickleft/Imgur-Downloader](https://github.com/Pickleft/Imgur-Downloader) - Downloads Pics & Gifs & Videos From Imgur With Specific Keywords.
 - [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
-- [Lufzys/MinecraftAutoClicker](https://github.com/Lufzys/MinecraftAutoClicker) - Minecraft - Auto Clicker (Source & Release)
 - [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
 - [Pickleft/Swift](https://github.com/Pickleft/Swift) - A Semi Advanced Minecraft AutoClicker || http://getswift.tk/
 - [thoma5s/Web-Executable-Loader](https://github.com/thoma5s/Web-Executable-Loader) - This is a basic "loader", which simply decodes Base64 encoded strings that are the download links for executables, that are then placed into a file path as .scr (screen saver file) extension and then 
@@ -443,7 +443,7 @@
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+- [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - A modern style for qt applications.
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
@@ -727,7 +727,7 @@
 - [KarimElghamry/chillify](https://github.com/KarimElghamry/chillify) - Music App made with flutter
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Flex on people with this swanky, lightning-quick gym tracker! 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
 - [mimoguz/tripeaks_neue](https://github.com/mimoguz/tripeaks_neue) - A simple Tri Peaks game, take two.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -891,7 +891,7 @@
 - [dulvui/99managers-futsal-edition](https://github.com/dulvui/99managers-futsal-edition) - Archived and moved to https://codeberg.org/dulvui/99managers-futsal-edition. 99 Managers Futsal Edition, is a Futsal Manager game made with Godot Engine 4
 - [charlesmaddock/fishards](https://github.com/charlesmaddock/fishards) - An action-packed multiplayer game, made in Godot, where you can battle friends as a fish wizard.
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
-- [enderprism/godot-dash-v2](https://github.com/enderprism/godot-dash-v2) - A Geometry Dash fangame and rewrite of Godot Dash V1.
+- [enderprism/godot-dash-v2](https://github.com/enderprism/godot-dash-v2) - [Moved to Codeberg, check README] A Geometry Dash fangame and rewrite of Godot Dash V1.
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [popcar2/CleanDoom](https://github.com/popcar2/CleanDoom) - The Clean and Modern Doom Mod Launcher
@@ -1015,6 +1015,10 @@
 
 - [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
 
+## HLSL 
+
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
+
 ## HTML 
 
 - [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - This is an Android application for the website backloggd.com. Essentially, it's a wrapper for the website using a WebView.
@@ -1022,11 +1026,10 @@
 - [uBlockOrigin/uAssetsCDN](https://github.com/uBlockOrigin/uAssetsCDN) - CDN content mirroring uAssets
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [cthboss001/PixelDrain-Direct-Video-Streamer](https://github.com/cthboss001/PixelDrain-Direct-Video-Streamer) - # PixelDrain Direct Video Streamer  A simple web tool to stream any video hosted on PixelDrain directly in your browser — without needing to download it first.
-- [erynith/movie-web-instances](https://github.com/erynith/movie-web-instances) - 
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [hachyderm/community](https://github.com/hachyderm/community) - Hachyderm Community Resources
 - [ConorCorp/corp-website](https://github.com/ConorCorp/corp-website) - 
-- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
+- [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
@@ -1079,7 +1082,6 @@
 - [bugswriter/iiser-poc](https://github.com/bugswriter/iiser-poc) - 
 - [bugswriter/ecomsite](https://github.com/bugswriter/ecomsite) - 
 - [bugswriter/zola-journal-template](https://github.com/bugswriter/zola-journal-template) - 
-- [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [Amitabha37377/HomePage](https://github.com/Amitabha37377/HomePage) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
@@ -1900,7 +1902,6 @@
 - [GDColon/GD-Randomizer](https://github.com/GDColon/GD-Randomizer) - a dumb program that randomizes all the geometry dash textures
 - [nwutils/nw-sample-apps](https://github.com/nwutils/nw-sample-apps) - Sample Apps
 - [nwutils/nw-builder](https://github.com/nwutils/nw-builder) - Build NW.js applications for Linux, MacOS and Windows
-- [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -2469,7 +2470,6 @@
 - [Goodwy/Contacts](https://github.com/Goodwy/Contacts) - 
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
-- [stantanasi/streamflix](https://github.com/stantanasi/streamflix) - An Android TV and mobile app to stream movies and TV shows for free
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [sosauce/CuteCalc](https://github.com/sosauce/CuteCalc) - CuteCalc is a cute and elegant calculator app for Android!
@@ -2549,7 +2549,7 @@
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [mesmere/RedditLemmyImporter](https://github.com/mesmere/RedditLemmyImporter) - 🔥 Anti-Reddit Aktion 🔥
-- [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native android app for Lemmy
+- [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native Android app for Lemmy
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [andstatus/game2048](https://github.com/andstatus/game2048) - 2048 Open Fun Game - multiplatform implementation in Kotlin and KorGe game engine
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -2635,7 +2635,6 @@
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [inkonchain/docs](https://github.com/inkonchain/docs) - Ink Documentation
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
@@ -2854,7 +2853,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [lina-x64/MeteorServerSeeker](https://github.com/lina-x64/MeteorServerSeeker) - Dead project
 - [amirzaidi/lemmy](https://github.com/amirzaidi/lemmy) - Lemmy - Beginner's Guide for Redditors
@@ -3382,7 +3381,7 @@
 - [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Adolar0042/warden](https://github.com/Adolar0042/warden) - A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
-- [Blocktopograph/core](https://github.com/Blocktopograph/core) - A world editor for Minecraft Bedrock, 1.21+ worlds compatibility, cross-platform.
+- [Blocktopograph/Blocktopograph](https://github.com/Blocktopograph/Blocktopograph) - A world editor for Minecraft Bedrock, 1.21+ worlds compatibility, cross-platform.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
@@ -3412,7 +3411,7 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Streaming CDC, stream processing, low-latency serving, and Iceberg management.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) - Threat-hunting tool for Linux
 - [cot-rs/cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
@@ -3432,6 +3431,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [chainbase-labs/manuscript-core](https://github.com/chainbase-labs/manuscript-core) - Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and anal
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -3598,7 +3598,7 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [Kartrexofficial/Blurnie](https://github.com/Kartrexofficial/Blurnie) - A Next Generation Realify Which Enhances Your Realme Ui Experience Better with Blur & Animations.
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [babric/prism-instance](https://github.com/babric/prism-instance) - 
 - [plexguide/Unraid_Intel-ARC_Deployment](https://github.com/plexguide/Unraid_Intel-ARC_Deployment) - Unraid - Comprehensive Guide to Enabling AV1 Encoding, Plex Deployment & GPU Management with Tdarr on Unraid 7.0+
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
@@ -3809,7 +3809,7 @@
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet. ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [burhancodes/dreddit](https://github.com/burhancodes/dreddit) - React Native Client for Reddit
 - [bugsdev2/bookaccio](https://github.com/bugsdev2/bookaccio) - Book Tracker App
@@ -3869,12 +3869,12 @@
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
+- [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - A library for building stateful workloads anywhere
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  一键安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -3964,6 +3964,7 @@
 - [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [dubisdev/quickgpt](https://github.com/dubisdev/quickgpt) - A chatGPT tool for Windows
 - [ruralad/notedown](https://github.com/ruralad/notedown) - Note taking with react + rust. For windows, mac and linux.
 - [marcincodes/taurine](https://github.com/marcincodes/taurine) - Tauri + Node.js stater - electron alternative packed with some goodies
