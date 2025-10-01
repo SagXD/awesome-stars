@@ -285,6 +285,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
@@ -5999,7 +6000,7 @@
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [MincraftEinstein/SubtleEffects](https://github.com/MincraftEinstein/SubtleEffects) - Adding many new subtle details through particles and a few sounds
 - [irokaru/pixel-scaler](https://github.com/irokaru/pixel-scaler) - A pixel art upscaling tool
-- [Potion-Studios/Oh-The-Biomes-Weve-Gone](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone) - Sequel to Oh The Biomes You'll Go, this mod adds a variety of new biomes to minecraft
+- [Potion-Studios/Oh-The-Biomes-Weve-Gone](https://github.com/Potion-Studios/Oh-The-Biomes-Weve-Gone) - Sequel to Oh The Biomes You'll Go, this mod adds a variety of new overworld biomes to minecraft
 - [neithern/g4music](https://github.com/neithern/g4music) - A light weight music player written in GTK4, with a fluent adaptive user interface.
 - [CrimsonCrips/AlexsMobsInteraction](https://github.com/CrimsonCrips/AlexsMobsInteraction) - 
 - [Povstalec/StargateJourney](https://github.com/Povstalec/StargateJourney) - A repository for the Stargate Journey Minecraft Mod
@@ -6118,7 +6119,7 @@
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [openai/openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
@@ -8827,6 +8828,10 @@
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Resource Packs.
 - [evelyn-gosselin/haarper.github.io](https://github.com/evelyn-gosselin/haarper.github.io) - If you know, you know.
 - [rebane2001/mapartcraft](https://github.com/rebane2001/mapartcraft) - A Minecraft custom mapart schematica generator, designed to be feasible in survival in servers like 2b2t
+
+## whatsapp-bot 
+
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
