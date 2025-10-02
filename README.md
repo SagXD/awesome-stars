@@ -2758,7 +2758,7 @@
 - [GeForceLegend/Minecraft-3D-Default](https://github.com/GeForceLegend/Minecraft-3D-Default) - A Minecraft default-look resourcepack with 3D models.
 - [Rustnot/Trekfetch](https://github.com/Rustnot/Trekfetch) - A gorgeous neofetch custom config for your Linux terminal
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
-- [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds bedrock-like chunk fade-in animation
+- [kerudion/chunksfadein](https://github.com/kerudion/chunksfadein) - A simple mod that adds chunk fade-in animations for Minecraft. Supports Sodium and Iris!
 - [Enchanted-Games/fix-horizontal-camera-lag](https://github.com/Enchanted-Games/fix-horizontal-camera-lag) - A minecraft mod that fixes the horizontal camera lag when riding an entity
 - [Nostalgica-Reverie/Nostalgic-Tweaks](https://github.com/Nostalgica-Reverie/Nostalgic-Tweaks) - This mod brings back a plethora of Minecraft Alpha/Beta gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft by tweaking the mod to their pr
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
