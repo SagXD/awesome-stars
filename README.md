@@ -126,6 +126,7 @@
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [eppic/ytBATCH](https://github.com/eppic/ytBATCH) - An easy to use Batch Script for downloading Audio and Video using yt-dlp.
 - [exrodev/voidclicker](https://github.com/exrodev/voidclicker) - Void Clicker is an autoclicker in a batch file that uses some trickery to run Powershell code in the same file which then runs C# code making it able to simulate a click.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -638,6 +639,7 @@
 
 ## CSS 
 
+- [gerbil/kubegui](https://github.com/gerbil/kubegui) - 
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
@@ -717,6 +719,7 @@
 
 ## Dart 
 
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Browse privately, search locally. Organize tabs, block tracking, and use Tor.
 - [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - Privacy respecting, fritter fork with feeds
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
@@ -1025,6 +1028,7 @@
 
 ## HTML 
 
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - This is an Android application for the website backloggd.com. Essentially, it's a wrapper for the website using a WebView.
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
@@ -1521,11 +1525,10 @@
 - [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)
 - [mycodedoesnotcompile2/jdownloader_mirror](https://github.com/mycodedoesnotcompile2/jdownloader_mirror) - JDownloader open-source code mirror
 - [mirror/jdownloader](https://github.com/mirror/jdownloader) - JDownloader mirror
-- [RacoonDog/Tokyo-Client](https://github.com/RacoonDog/Tokyo-Client) - Anarchy tool of the future.
+- [crosby-moe/Tokyo-Client](https://github.com/crosby-moe/Tokyo-Client) - Anarchy tool of the future.
 - [MrStahlfelge/lightblocks](https://github.com/MrStahlfelge/lightblocks) - Falling Lightblocks. Falling block game for Android (Mobile and TV), iOS, Web browsers. Works on desktops, too.
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [owenlongbo/android2048](https://github.com/owenlongbo/android2048) - Android 2048
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
@@ -1655,6 +1658,7 @@
 
 ## JavaScript 
 
+- [is-not-cool/registration](https://github.com/is-not-cool/registration) - Get your own 'is-not.cool' subdomain!
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
@@ -2018,7 +2022,7 @@
 - [Beaness/mineflayer-tps](https://github.com/Beaness/mineflayer-tps) - Small mineflayer additional package to get tps
 - [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best Minecraft Bedrock anticheat designed for realms, worlds and, servers
 - [xMdb/simple-discord-minecraft-bot](https://github.com/xMdb/simple-discord-minecraft-bot) - This bot is a simple bot that takes vanilla Minecraft messages and outputs them to a Discord channel, as well as vice versa. For this you need a Discord bot account and a Minecraft account, as well as
-- [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - A custom minecraft bot created using mineflayer which you can control using a discord bot
+- [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - Control your mineflayer bot using Discord slash commands and in-game commands.
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [TrafficerMC-Development/TrafficerMC](https://github.com/TrafficerMC-Development/TrafficerMC) - A Minecraft botting tool with Anti-AFK, Chat spammer, Inventory/Chest manager features.
@@ -2070,6 +2074,7 @@
 
 ## Kotlin 
 
+- [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [Ethran/notable](https://github.com/Ethran/notable) - An alternative note-taking app designed specifically for BOOX e-ink devices
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
@@ -2702,7 +2707,7 @@
 - [sniffercraft34/Vanilla-Glowing-Ore-Borders](https://github.com/sniffercraft34/Vanilla-Glowing-Ore-Borders) - 
 - [githubXiaowangzi/NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，
 - [WaifuPX-DG/VLC-Monet](https://github.com/WaifuPX-DG/VLC-Monet) - VLC Player Mod with Adaptive Color Support (Monet)
-- [nexpid/ThemesPlus](https://github.com/nexpid/ThemesPlus) - A Bunny plugin that adds more customizability to themes
+- [nexpid/ThemesPlus](https://github.com/nexpid/ThemesPlus) - A Revenge plugin that adds more customizability to themes
 - [antijingoist/opendyslexic](https://github.com/antijingoist/opendyslexic) - OpenDyslexic, a typeface that uses typeface shapes & features to help offset some visual symptoms of Dyslexia. Now in SIL-OFL.
 - [itsmechinmoy/echo-extensions](https://github.com/itsmechinmoy/echo-extensions) - All Echo Extensions Available
 - [capsolver/capsolver-browser-extension](https://github.com/capsolver/capsolver-browser-extension) - This browser extension supports recognition of the most popular CAPTCHAs, including reCAPTCHA v2, v3, reCAPTCHA v2 invisible, enterprise, Geetest, AWS Waf Captcha, Amazon Captcha, Cloudflare v3(Turnst
@@ -2776,7 +2781,7 @@
 - [FydeOS/openFyde](https://github.com/FydeOS/openFyde) - Chromium OS with or without Google
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [GOG-Games-com/Donation-Instructions](https://github.com/GOG-Games-com/Donation-Instructions) - 
+- [GOG-Games-com/How-to-Donate](https://github.com/GOG-Games-com/How-to-Donate) - Instructions on how to donate.
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [supremegamers/awin-installer-dev](https://github.com/supremegamers/awin-installer-dev) - Easily install multiple android-x86 operating systems on Windows in a few clicks.
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
@@ -2858,6 +2863,7 @@
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -2987,10 +2993,10 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Python 
 
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [devnoname120/google-play-book-downloader](https://github.com/devnoname120/google-play-book-downloader) - Download and decrypt books purchased on Google Play Books without text reflowing
 - [athrowaway2021/comix](https://github.com/athrowaway2021/comix) - Seamlessly download and de-drm comics and manga from Kindle in highest possible quality
@@ -3076,7 +3082,7 @@
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -3779,6 +3785,7 @@
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
 - [ronitkrshah/waifu-walls](https://github.com/ronitkrshah/waifu-walls) - Waifu Wallpaper Android App for Weebs
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -4086,7 +4093,6 @@
 
 ## Vue 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [CodeF53/PackXBR](https://github.com/CodeF53/PackXBR) - A utility for automatic application of the XBR scaling algorithm to game textures, specifically designed for Minecraft resource packs.
 - [dest4590/CollapseLoader](https://github.com/dest4590/CollapseLoader) - GUI utility for launching minecraft clients
 - [xlmnxp/extractify.zip](https://github.com/xlmnxp/extractify.zip) - A client-side Progressive Web App (PWA) for secure online compressed file extraction and preview. Works entirely in your browser - no data leaves your device.
