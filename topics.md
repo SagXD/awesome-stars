@@ -425,6 +425,9 @@
 
 ## android 
 
+- [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
+- [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [JackEblan/EblanLauncher](https://github.com/JackEblan/EblanLauncher) - Lightweight, fast, customizable, and secure Android launcher
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
@@ -466,7 +469,7 @@
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
-- [Moustachauve/WLED-Native-Android](https://github.com/Moustachauve/WLED-Native-Android) - Native Android application for WLED
+- [Moustachauve/WLED-Android](https://github.com/Moustachauve/WLED-Android) - Native Android application for WLED
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [HarshAndroid/MusicPlayer-Android-Kotlin](https://github.com/HarshAndroid/MusicPlayer-Android-Kotlin) - Simple and Feature Rich Music Player Application.
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
@@ -738,7 +741,7 @@
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
 - [osudroid/osu-droid](https://github.com/osudroid/osu-droid) - 
 - [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculator. Converter. Superior. Always.
 - [bttv-android/bttv](https://github.com/bttv-android/bttv) - A mod of the Twitch Android Mobile App adding BetterTTV, FrankerFaceZ and 7TV emotes
 - [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
@@ -776,7 +779,7 @@
 - [WirelessAlien/BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - A Simple Open-source Android App for Bhagavad Gita
 - [fengdai/AlertDialogPro](https://github.com/fengdai/AlertDialogPro) - [Deprecated] This project can make it easy to theme and custom Android's dialog. Also provides Holo and Material themes for old devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [magicsih/AndroidScreenCaster](https://github.com/magicsih/AndroidScreenCaster) - Efficient, low-latency Android screen casting with H.264 and WebM encoding via TCP and UDP.
@@ -861,7 +864,7 @@
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [abadawe-dev/NoFasel](https://github.com/abadawe-dev/NoFasel) - A streaming app with no ADs.
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [woheller69/Level](https://github.com/woheller69/Level) - Android spirit level & ruler
 - [woheller69/huggingassist](https://github.com/woheller69/huggingassist) - Simple WebView Wrapper for huggingChat
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
@@ -1072,6 +1075,7 @@
 
 ## automation 
 
+- [DokiTeam/build-apps](https://github.com/DokiTeam/build-apps) - Automation for Doki, powered by GitHub
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1253,7 +1257,7 @@
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [V3L0C1T13S/reflectcord](https://github.com/V3L0C1T13S/reflectcord) - REST and Websocket compatibility layer for Discord-&gt;Revolt
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1501,6 +1505,7 @@
 
 ## chrome 
 
+- [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
@@ -1525,6 +1530,8 @@
 
 ## chrome-extension 
 
+- [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
+- [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
@@ -1918,7 +1925,7 @@
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [yubo725/flutter-tetris](https://github.com/yubo725/flutter-tetris) - 基于Flutter的俄罗斯方块小游戏
 - [boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris) - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2212,7 +2219,7 @@
 - [openzim/zimit](https://github.com/openzim/zimit) - Make a ZIM file from any Web site and surf offline!
 - [hfreire/get-me-a-date](https://github.com/hfreire/get-me-a-date) - :heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:
 - [QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this secur
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
@@ -2460,7 +2467,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [Project-Based-Learning-IT/e2ee-chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) - e2ee-chat
 - [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
 
@@ -2527,6 +2534,7 @@
 
 ## flutter 
 
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [SendPatches/Quacker](https://github.com/SendPatches/Quacker) - Privacy respecting, fritter fork with feeds
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
@@ -2590,7 +2598,7 @@
 - [saltymaccas/muffed](https://github.com/saltymaccas/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps.
@@ -2606,7 +2614,7 @@
 - [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [interstellar-app/interstellar](https://github.com/interstellar-app/interstellar) - An app for Mbin/Lemmy/PieFed, connecting you to the fediverse.
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
@@ -3012,6 +3020,7 @@
 
 ## games 
 
+- [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
 - [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [QodotPlugin/qodot-plugin](https://github.com/QodotPlugin/qodot-plugin) - (LEGACY) Quake .map support for Godot 3.x
@@ -3036,6 +3045,7 @@
 
 ## gaming 
 
+- [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [teamspeak/teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for test
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
@@ -3075,6 +3085,7 @@
 
 ## github 
 
+- [DokiTeam/build-apps](https://github.com/DokiTeam/build-apps) - Automation for Doki, powered by GitHub
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -3780,6 +3791,7 @@
 
 ## ios 
 
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
@@ -3826,7 +3838,7 @@
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [theblixguy/DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - A collection of utilities that provides functionality around the Dynamic Island on the iPhone 14 Pro/Max.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -3858,6 +3870,7 @@
 
 ## java 
 
+- [DokiTeam/doki-exts](https://github.com/DokiTeam/doki-exts) - A library for Kotlin/JVM and Android
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [rfresh2/XaeroPlus](https://github.com/rfresh2/XaeroPlus) - Xaero WorldMap / Minimap Extra Features
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
@@ -3998,6 +4011,7 @@
 
 ## javascript 
 
+- [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
@@ -4093,7 +4107,7 @@
 - [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
@@ -4182,6 +4196,7 @@
 
 ## js 
 
+- [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [Walkoud/raidbotdiscord](https://github.com/Walkoud/raidbotdiscord) - create your bot discord raid in discord.js node.js
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [zoo-js/zoo](https://github.com/zoo-js/zoo) - 🌈 Cute pet zoo. Come and adopt a cute you like. 萌萌乐园，全自动领养自己喜欢的萌物。
@@ -4221,6 +4236,7 @@
 
 ## kotlin 
 
+- [DokiTeam/doki-exts](https://github.com/DokiTeam/doki-exts) - A library for Kotlin/JVM and Android
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [JackEblan/EblanLauncher](https://github.com/JackEblan/EblanLauncher) - Lightweight, fast, customizable, and secure Android launcher
@@ -4351,7 +4367,7 @@
 - [libktx/ktx](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculator. Converter. Superior. Always.
 - [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
 - [cyb3rko/flashdim](https://github.com/cyb3rko/flashdim) - Modern flashlight app with dim functionality on Android 13+
 - [hegocre/ScoreCounter](https://github.com/hegocre/ScoreCounter) - Simple app to keep track of two scores.
@@ -4501,6 +4517,7 @@
 
 ## library 
 
+- [DokiTeam/doki-exts](https://github.com/DokiTeam/doki-exts) - A library for Kotlin/JVM and Android
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
 - [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - Modern desktop framework from low-level 3D graphics API to high-level view model, for development of 2D/3D rendering software or game engine, with internationalization support and many new technologie
 - [Ladysnake/Satin](https://github.com/Ladysnake/Satin) - A Fabric library to help with shader usage
@@ -4524,6 +4541,7 @@
 
 ## linux 
 
+- [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
@@ -5434,7 +5452,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
@@ -5528,7 +5546,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 
 ## nim 
@@ -5868,6 +5886,10 @@
 
 ## others 
 
+- [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+- [dborth/snes9xgx](https://github.com/dborth/snes9xgx) - Snes9x GX - Port of Snes9x for Wii
+- [mannu691/TachiyomiAT](https://github.com/mannu691/TachiyomiAT) - Free and open source manga reader for Android
+- [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 - [Kotatsu-Redo/Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga reader for Android
 - [DokiTeam/Doki](https://github.com/DokiTeam/Doki) - Doki, a manga reader app for Android. Continuing the success of Kotatsu
 - [KotatsuApp/kotatsu-parsers](https://github.com/KotatsuApp/kotatsu-parsers) - Manga parsers library for Kotlin/JVM and Android
@@ -6324,7 +6346,7 @@
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - A modern style for qt applications.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
-- [diodebyte/WebShield](https://github.com/diodebyte/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
+- [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -6466,7 +6488,7 @@
 - [tmaiadev/tetra](https://github.com/tmaiadev/tetra) - Tetra Mini Game
 - [3000IQPlay/HashChecker](https://github.com/3000IQPlay/HashChecker) - Scans hashes of files in a specific directory at once using the SHA-256 algorithm. Useful for verifying backups, checking for file corruption, and ensuring file integrity.
 - [smswithoutborders/RelaySMS-Android](https://github.com/smswithoutborders/RelaySMS-Android) - SWOB relies heavily on the security of the messages it transmits. We accomplish this by using tools like Android Apps which posses well tested tools for security
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 - [HritikVaishnav/Myanimelist-Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) - Myanimelist extension under Project Redesign
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
@@ -7820,7 +7842,7 @@
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [carlelieser/flixerr](https://github.com/carlelieser/flixerr) - The best free movie torrent streaming app.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
@@ -7874,7 +7896,7 @@
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
 - [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Revolt. Community-led project.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [abadawe-dev/NoFasel](https://github.com/abadawe-dev/NoFasel) - A streaming app with no ADs.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -8193,7 +8215,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -8234,7 +8256,7 @@
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 
@@ -8374,7 +8396,7 @@
 - [hoangsonww/2048-Game](https://github.com/hoangsonww/2048-Game) - 🎮 New iOS, Android, and web versions of 2048 game! Engage in the addictive puzzle challenge of combining like numbers to reach 2048, crafted for enjoyable, short gameplay sessions on any device!
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [avery-pierce/Cavy](https://github.com/avery-pierce/Cavy) - Lemmy client for iOS, written in Swift
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
 - [Mijick/Popups](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
@@ -8869,7 +8891,7 @@
 - [katorlys/rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [aternosorg/mclogs](https://github.com/aternosorg/mclogs) - Paste, share and analyse Minecraft logs
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
@@ -8944,6 +8966,7 @@
 
 ## windows 
 
+- [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -9037,7 +9060,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -9146,7 +9169,7 @@
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [user234683/youtube-local](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance
