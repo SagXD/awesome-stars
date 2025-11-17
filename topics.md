@@ -335,7 +335,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -504,7 +504,7 @@
 - [ofalvai/HabitBuilder](https://github.com/ofalvai/HabitBuilder) - A simple and clean app with the right tools to keep track of habits and understand progress.
 - [mobilenetworkltd/openapk](https://github.com/mobilenetworkltd/openapk) - List of awesome open source apps for Android. Updated daily!
 - [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3 downloader, cookies supported, HTTP proxy supporte
 - [LSafer/edgeseek](https://github.com/LSafer/edgeseek) - The Source Code of Edge Seek
@@ -1444,7 +1444,7 @@
 
 ## chatbot 
 
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
@@ -1467,7 +1467,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -1770,6 +1770,7 @@
 
 ## crawler 
 
+- [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1897,7 +1898,7 @@
 - [KarimElghamry/chillify](https://github.com/KarimElghamry/chillify) - Music App made with flutter
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [rignaneseleo/SlimSocial-for-Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Light version of Facebook. Light both in the weight and in the use.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -1969,7 +1970,7 @@
 
 ## data-visualization 
 
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -2189,7 +2190,7 @@
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [NyaaPantsu/nyaa](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -2545,7 +2546,7 @@
 - [KarimElghamry/chillify](https://github.com/KarimElghamry/chillify) - Music App made with flutter
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [mimoguz/tripeaks_neue](https://github.com/mimoguz/tripeaks_neue) - A simple Tri Peaks game, take two.
 - [rignaneseleo/SlimSocial-for-Facebook](https://github.com/rignaneseleo/SlimSocial-for-Facebook) - Light version of Facebook. Light both in the weight and in the use.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
@@ -3438,7 +3439,7 @@
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [quotient-im/libQuotient](https://github.com/quotient-im/libQuotient) - A Qt library to write cross-platform clients for Matrix
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -3799,7 +3800,7 @@
 - [aayush2622/Dartotsu](https://github.com/aayush2622/Dartotsu) - A multiplatform tracking client based on Dantotsu
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -4752,7 +4753,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
@@ -5798,7 +5799,7 @@
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -5886,6 +5887,13 @@
 
 ## others 
 
+- [khanshoaib3/nerd-steam](https://github.com/khanshoaib3/nerd-steam) - Discover trending games, player and price statistics, and detailed insights from Steam in a clean and responsive app
+- [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
+- [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+- [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 阅读 3.0 的 Pixiv 书源
+- [Mapaler/PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载。
+- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
+- [Crunchy-DL/Crunchy-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) - A simple crunchyroll downloader that allows you to download your favorite series and episodes directly from Crunchyroll
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 - [dborth/snes9xgx](https://github.com/dborth/snes9xgx) - Snes9x GX - Port of Snes9x for Wii
@@ -7562,7 +7570,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -7807,6 +7815,7 @@
 
 ## react 
 
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
@@ -7932,6 +7941,7 @@
 
 ## redux 
 
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 - [ovidiuch/flatris](https://github.com/ovidiuch/flatris) - Fast-paced two-player web game
@@ -8201,7 +8211,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
@@ -8447,7 +8457,7 @@
 
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -8613,6 +8623,7 @@
 
 ## twitter 
 
+- [MapoMagpie/comic-looms](https://github.com/MapoMagpie/comic-looms) - Manga reader and downloader, Focus on experience and low load on the site. support site like e-hentai.org | x.com | pixiv.net.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
@@ -8627,6 +8638,7 @@
 
 ## typescript 
 
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [ronitkrshah/waifu-walls](https://github.com/ronitkrshah/waifu-walls) - Waifu Wallpaper Android App for Weebs
@@ -8918,6 +8930,7 @@
 
 ## webapp 
 
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
 - [MattKevan/minimal-reader](https://github.com/MattKevan/minimal-reader) - Simple browser-based ebook reader.
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
@@ -8939,6 +8952,7 @@
 
 ## website 
 
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [FQQD/MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
