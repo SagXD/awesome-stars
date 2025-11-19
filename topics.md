@@ -466,7 +466,7 @@
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
@@ -1345,7 +1345,7 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.21.10 Fishing bot for Minecraft
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - 🧙 Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 - [SealedSaucer/Online-Forever](https://github.com/SealedSaucer/Online-Forever) - Make Your Discord Account 24/7 Online!
 - [PeralStudio/DiscordJS-V14-Bot-V2](https://github.com/PeralStudio/DiscordJS-V14-Bot-V2) - A Discord bot project made with Discord.js v14 and it handles Prefix, Slash, User, Message commands, and Modals
@@ -1465,7 +1465,7 @@
 - [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -3127,7 +3127,7 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [Sabyasachi-Seal/Sabyasachi-Seal](https://github.com/Sabyasachi-Seal/Sabyasachi-Seal) - This is where my profile is located.
 - [GameboyVlol/Rat](https://github.com/GameboyVlol/Rat) - A Tool To Get Another Computer’s Information And Send It Via A Webhook To Your Discord Server
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
@@ -3139,7 +3139,7 @@
 ## github-api 
 
 - [jonan/ForkHub](https://github.com/jonan/ForkHub) - GitHub client for Android based on the abandoned official app
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 
 ## github-config 
 
@@ -3788,7 +3788,7 @@
 - [MobileFirstLLC/social-media-hacker-list](https://github.com/MobileFirstLLC/social-media-hacker-list) - Growing list of apps and tools for enhancing social media experiences.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [SaharshPandey/Messenger](https://github.com/SaharshPandey/Messenger) - Messenger(Chat app) is a real time one to one chat application with Push Notifications made using Firebase...
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
 ## ios 
@@ -5008,7 +5008,7 @@
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 
 ## mastodon 
@@ -5887,6 +5887,8 @@
 
 ## others 
 
+- [wordnik/wordnik-python](https://github.com/wordnik/wordnik-python) - Wordnik Python public library
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [khanshoaib3/nerd-steam](https://github.com/khanshoaib3/nerd-steam) - Discover trending games, player and price statistics, and detailed insights from Steam in a clean and responsive app
 - [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
@@ -7689,7 +7691,7 @@
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet collider that brute forces random wallet addresses
 - [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python!
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -8494,7 +8496,7 @@
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [DavidRomanovizc/DatingBot](https://github.com/DavidRomanovizc/DatingBot) - ✨A Telegram Bot with open source code, which implemented django and a dating system
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 
@@ -8520,7 +8522,7 @@
 - [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
 - [etaxi341/FreeSteamGames-TelegramBot](https://github.com/etaxi341/FreeSteamGames-TelegramBot) - A Telegram Bot that sends you a message when a game on steam is free
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 
 ## tensorflow 
 
