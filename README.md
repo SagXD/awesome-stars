@@ -130,6 +130,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 - [Fazecast/jSerialComm](https://github.com/Fazecast/jSerialComm) - Platform-independent serial port access for Java
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
@@ -255,6 +256,8 @@
 
 ## C# # 
 
+- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
+- [Crunchy-DL/Crunchy-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) - A simple crunchyroll downloader that allows you to download your favorite series and episodes directly from Crunchyroll
 - [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
@@ -364,6 +367,8 @@
 
 ## C++ 
 
+- [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
+- [dborth/snes9xgx](https://github.com/dborth/snes9xgx) - Snes9x GX - Port of Snes9x for Wii
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [mpc-qt/mpc-qt](https://github.com/mpc-qt/mpc-qt) - Media Player Classic Qute Theater
@@ -400,7 +405,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
-- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+- [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
@@ -651,7 +656,6 @@
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [st1020/kita](https://github.com/st1020/kita) - Kita is a clean, elegant and simple blog theme for Zola.
-- [ibra-kdbra/Paginis](https://github.com/ibra-kdbra/Paginis) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [FQQD/MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
@@ -680,7 +684,6 @@
 - [Zwork101/xfce4-notifyd-themes](https://github.com/Zwork101/xfce4-notifyd-themes) - 🔔 Soothing pastel theme for xfce4-notifyd
 - [carlelieser/flixerr](https://github.com/carlelieser/flixerr) - The best free movie torrent streaming app.
 - [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 or april fools day
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [roanuz/cricket-html-template](https://github.com/roanuz/cricket-html-template) - HTML template for Cricket Score and Stats
@@ -726,6 +729,7 @@
 
 ## Dart 
 
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Browse privately, search locally. Organize tabs, block tracking, and use Tor.
 - [SendPatches/Quacker](https://github.com/SendPatches/Quacker) - Privacy respecting, fritter fork with feeds
@@ -741,7 +745,7 @@
 - [KarimElghamry/chillify](https://github.com/KarimElghamry/chillify) - Music App made with flutter
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - Track your gym progress and flex on people 💪
+- [brandonp2412/Flexify](https://github.com/brandonp2412/Flexify) - 💪 Track your gym progress and flex on people
 - [mimoguz/tripeaks_neue](https://github.com/mimoguz/tripeaks_neue) - A simple Tri Peaks game, take two.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player) - Simple, easy to use Podcast player app written in Flutter and Dart.
@@ -798,7 +802,7 @@
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 - [XxA7med66xX/forwardious](https://github.com/XxA7med66xX/forwardious) - A Chrome extension to redirect YouTube URLs to an Invidious instance.
@@ -827,7 +831,7 @@
 - [tommy351/eh-redux](https://github.com/tommy351/eh-redux) - A E-Hentai reader written in Flutter.
 - [lotusprey/otraku](https://github.com/lotusprey/otraku) - An unofficial AniList client for Android and iOS
 - [interstellar-app/interstellar](https://github.com/interstellar-app/interstellar) - An app for Mbin/Lemmy/PieFed, connecting you to the fediverse.
-- [jhelumcorp/gyawun](https://github.com/jhelumcorp/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
+- [sheikhhaziq/gyawun](https://github.com/sheikhhaziq/gyawun) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
 - [boredcodebyk/mintcalc](https://github.com/boredcodebyk/mintcalc) - A simple calculator and unit converter app with Material Design 3 inspired by Windows Calculator
 - [BeamlakAschalew/flixquest](https://github.com/BeamlakAschalew/flixquest) - Open-source Android app made with Flutter with functionality of watching movies and tv series for free.
 - [JideGuru/FileX](https://github.com/JideGuru/FileX) - Simple File Explorer made with Flutter(WIP)
@@ -1137,6 +1141,8 @@
 
 ## Java 
 
+- [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
+- [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [tbvns/Kihon](https://github.com/tbvns/Kihon) - Simple PDF exporter for Mihon
 - [DLindustries/System](https://github.com/DLindustries/System) - 1.21.1 and below CPVP client focussed on preforming better against anticheat solutions
@@ -1280,7 +1286,6 @@
 - [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
 - [RattlesHyper/lyra-addon](https://github.com/RattlesHyper/lyra-addon) - Lyra Addon is a Meteor Client add-on specifically designed for Creative Mode and Creative servers.
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
 - [LonamiWebs/Klooni1010](https://github.com/LonamiWebs/Klooni1010) - libGDX game based on the original 1010!
 - [AndreiNekrasOn/keyboard_heatmap](https://github.com/AndreiNekrasOn/keyboard_heatmap) - keylogger and an app to visualize its results
@@ -1669,6 +1674,11 @@
 
 ## JavaScript 
 
+- [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
+- [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 阅读 3.0 的 Pixiv 书源
+- [Mapaler/PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载。
+- [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
+- [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [hohMiyazawa/Automail](https://github.com/hohMiyazawa/Automail) - An enhancement collection for anilist.co
 - [mysticflute/ani-list-unlimited](https://github.com/mysticflute/ani-list-unlimited) - A collection of user scripts for https://anilist.co.
@@ -1729,12 +1739,13 @@
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform MediaHarbor
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
+- [ibra-kdbra/Paginis](https://github.com/ibra-kdbra/Paginis) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [kyuucr/insert-template-to-editables](https://github.com/kyuucr/insert-template-to-editables) - Firefox add-on for quickly inserting predefined template into editables (e.g., input box, text area).
 - [zJohnWick/cleanfix-config](https://github.com/zJohnWick/cleanfix-config) - Firefox config for better privacy and security with better user experience.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
-- [diodebyte/WebShield](https://github.com/diodebyte/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
+- [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [SN-Koarashi/ig-helper](https://github.com/SN-Koarashi/ig-helper) - Simple download of photos, videos, stories, reels, or profile pictures from Instagram.
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
@@ -2088,6 +2099,13 @@
 
 ## Kotlin 
 
+- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
+- [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery) - CloudGallery is an Android app that lets you instantly back up all your images to Telegram using Bot API — simple, Secure, and infinite.
+- [khanshoaib3/nerd-steam](https://github.com/khanshoaib3/nerd-steam) - Discover trending games, player and price statistics, and detailed insights from Steam in a clean and responsive app
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
+- [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
+- [mannu691/TachiyomiAT](https://github.com/mannu691/TachiyomiAT) - Free and open source manga reader for Android
+- [DokiTeam/doki-exts](https://github.com/DokiTeam/doki-exts) - A library for Kotlin/JVM and Android
 - [Kotatsu-Redo/Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga reader for Android
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [DokiTeam/Doki](https://github.com/DokiTeam/Doki) - Doki, a manga reader app for Android. Continuing the success of Kotatsu
@@ -2139,12 +2157,12 @@
 - [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
 - [dn0ne/lotus](https://github.com/dn0ne/lotus) - Music player for Android
 - [NoWakeLock/NoWakeLock](https://github.com/NoWakeLock/NoWakeLock) - An application that controls Android wakelocks can run on Android N and later.
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [preethamkmr3/WidgetsPro](https://github.com/preethamkmr3/WidgetsPro) - 
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
-- [Moustachauve/WLED-Native-Android](https://github.com/Moustachauve/WLED-Native-Android) - Native Android application for WLED
+- [Moustachauve/WLED-Android](https://github.com/Moustachauve/WLED-Android) - Native Android application for WLED
 - [HarshAndroid/MusicPlayer-Android-Kotlin](https://github.com/HarshAndroid/MusicPlayer-Android-Kotlin) - Simple and Feature Rich Music Player Application.
 - [char/noverify-hackery](https://github.com/char/noverify-hackery) - Force-disabling the JVM bytecode verifier
 - [AmanoTeam/Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
@@ -2293,6 +2311,7 @@
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo) - Share pastes privately, with end to end encryption.
 - [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
@@ -2399,7 +2418,7 @@
 - [libktx/ktx](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculator. Converter. Superior. Always.
 - [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
 - [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
@@ -2719,6 +2738,8 @@
 
 ## Others 
 
+- [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+- [DokiTeam/build-apps](https://github.com/DokiTeam/build-apps) - Automation for Doki, powered by GitHub
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 - [spocky/miproja1](https://github.com/spocky/miproja1) - 
 - [DieselTech/CBL-ReadingLists](https://github.com/DieselTech/CBL-ReadingLists) - Comic Book Reading Orders - Reading Lists for Marvel / DC / Image / Others
@@ -2848,7 +2869,6 @@
 - [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
-- [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - A semi-condensed monolinear typeface.
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
@@ -2908,7 +2928,7 @@
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [auraside/Hone](https://github.com/auraside/Hone) - 
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
@@ -3017,6 +3037,7 @@
 
 ## Python 
 
+- [wordnik/wordnik-python](https://github.com/wordnik/wordnik-python) - Wordnik Python public library
 - [wotakumoe/kaguya](https://github.com/wotakumoe/kaguya) - JSON generator for Cubari.moe
 - [WorldObservationLog/AppleMusicDecrypt](https://github.com/WorldObservationLog/AppleMusicDecrypt) - Apple Music decryption tool, inspired by zhaarey/apple-music-alac-atmos-downloader
 - [comictagger/comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics
@@ -3081,7 +3102,7 @@
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -3192,7 +3213,7 @@
 - [obfusk/reproducible-apk-tools](https://github.com/obfusk/reproducible-apk-tools) - reproducible-apk-tools - scripts to make android apks reproducible
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
@@ -3312,6 +3333,7 @@
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [DiscordGSM/GameServerMonitor](https://github.com/DiscordGSM/GameServerMonitor) - 📺 A discord bot that monitors your game server and tracks the live data of your game servers. Supports over 260 game servers.
+- [Arcticons-Team/Arcticons-Font](https://github.com/Arcticons-Team/Arcticons-Font) - A semi-condensed monolinear typeface.
 - [Arcticons-Team/Arcticons-Linux](https://github.com/Arcticons-Team/Arcticons-Linux) - New repo https://codeberg.org/Arcticons/Arcticons-Linux
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
 - [ivansaul/terabox_downloader](https://github.com/ivansaul/terabox_downloader) - Terabox Downloader
@@ -3356,7 +3378,7 @@
 - [bugswriter/ffmagic](https://github.com/bugswriter/ffmagic) - 
 - [AppImageCrafters/appimage-builder](https://github.com/AppImageCrafters/appimage-builder) - GNU/Linux packaging solution using the AppImage format
 - [AppImageCrafters/appimage-builder-docs](https://github.com/AppImageCrafters/appimage-builder-docs) - appimage-builder project documetnation
-- [RezShakeri/Instagram-Assistant](https://github.com/RezShakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
+- [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [Blank-c/Blank-Grabber](https://github.com/Blank-c/Blank-Grabber) - The most powerful stealer written in Python 3 and packed with a lot of features.
 - [Isaacdelly/Plutus](https://github.com/Isaacdelly/Plutus) - An automated bitcoin wallet collider that brute forces random wallet addresses
 - [weapon1337/Discord-Invite-Resolver](https://github.com/weapon1337/Discord-Invite-Resolver) - 
@@ -3428,7 +3450,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-- [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -3629,6 +3651,7 @@
 
 ## SCSS 
 
+- [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
@@ -3691,7 +3714,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-- [DanGLES3/Hide-Navbar](https://github.com/DanGLES3/Hide-Navbar) - Hide Navbar
+- [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
@@ -3804,6 +3827,9 @@
 
 ## TypeScript 
 
+- [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+- [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
+- [MapoMagpie/comic-looms](https://github.com/MapoMagpie/comic-looms) - Manga reader and downloader, Focus on experience and low load on the site. support site like e-hentai.org | x.com | pixiv.net.
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
 - [bbeesley/trakt-to-letterboxd](https://github.com/bbeesley/trakt-to-letterboxd) - CLI tool for publishing your trakt watched history to your letterboxd account
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -3884,7 +3910,7 @@
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [burhancodes/dreddit](https://github.com/burhancodes/dreddit) - React Native Client for Reddit
 - [bugsdev2/bookaccio](https://github.com/bugsdev2/bookaccio) - Book Tracker App
@@ -3899,7 +3925,6 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
-- [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [Zenda-Cross/vega-app](https://github.com/Zenda-Cross/vega-app) - Movies and Series streaming app.
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
@@ -4017,6 +4042,7 @@
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
