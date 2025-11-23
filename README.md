@@ -142,7 +142,7 @@
 - [ikskuh/SDL.zig](https://github.com/ikskuh/SDL.zig) - A shallow wrapper around SDL that provides object API and error handling
 - [rebelonion/FaderBoard](https://github.com/rebelonion/FaderBoard) - An 8 channel (1 main, 7 programmable) motorized volume controller for a pc. Each of the 7 channels can be set to any process that outputs volume.
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
-- [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
+- [uint23/sxwm](https://github.com/uint23/sxwm) - a simple feature-rich dynamic tiling window manager
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [DaMatrix/OpenGL-Registry](https://github.com/DaMatrix/OpenGL-Registry) - OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
 - [ad044/lain-bootleg-bootleg](https://github.com/ad044/lain-bootleg-bootleg) - Reverse engineering and remaking Lain Bootleg
