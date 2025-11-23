@@ -425,6 +425,8 @@
 
 ## android 
 
+- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
+- [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery) - CloudGallery is an Android app that lets you instantly back up all your images to Telegram using Bot API — simple, Secure, and infinite.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
@@ -662,7 +664,7 @@
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [obfusk/reproducible-apk-tools](https://github.com/obfusk/reproducible-apk-tools) - reproducible-apk-tools - scripts to make android apks reproducible
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
@@ -1004,7 +1006,7 @@
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
@@ -1039,7 +1041,6 @@
 - [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [fwdekker/mommy](https://github.com/fwdekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Gictorbit/illustratorCClinux](https://github.com/Gictorbit/illustratorCClinux) - Illustrator CC v17 installer for Gnu/Linux
 
@@ -1085,7 +1086,7 @@
 - [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -2588,7 +2589,7 @@
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
@@ -3428,7 +3429,7 @@
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
@@ -4238,6 +4239,7 @@
 
 ## kotlin 
 
+- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
 - [DokiTeam/doki-exts](https://github.com/DokiTeam/doki-exts) - A library for Kotlin/JVM and Android
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
@@ -4611,7 +4613,7 @@
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -4911,7 +4913,7 @@
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -5031,6 +5033,8 @@
 
 ## material-design 
 
+- [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) - A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
+- [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery) - CloudGallery is an Android app that lets you instantly back up all your images to Telegram using Bot API — simple, Secure, and infinite.
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material 3 Expressive design, enhanced features, and improvements
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -5434,7 +5438,7 @@
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue) - A beginner-friendly music making app.
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - (Migrated to https://codeberg.org/antoinepirlot/Satunes) Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto made in 🇪🇺.
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
@@ -5572,7 +5576,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -6102,7 +6106,7 @@
 - [hachyderm/community](https://github.com/hachyderm/community) - Hachyderm Community Resources
 - [ConorCorp/corp-website](https://github.com/ConorCorp/corp-website) - 
 - [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix) - FastFlix is a free GUI for H.264, HEVC and AV1 hardware and software encoding!
-- [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
+- [uint23/sxwm](https://github.com/uint23/sxwm) - a simple feature-rich dynamic tiling window manager
 - [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
 - [Suwayomi/tachiyomi-extension](https://github.com/Suwayomi/tachiyomi-extension) - Suwayomi Extension for Tachiyomi and variants
 - [manga-download/haruneko](https://github.com/manga-download/haruneko) - Prototype of HakuNeko based on TypeScript + Electron / NW.js
@@ -6485,7 +6489,7 @@
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 - [morse-talk/morse-talk](https://github.com/morse-talk/morse-talk) - A Python library written for Morse Code
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-- [DanGLES3/Hide-Navbar](https://github.com/DanGLES3/Hide-Navbar) - Hide Navbar
+- [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [Heroic-Games-Launcher/heroic-gogdl](https://github.com/Heroic-Games-Launcher/heroic-gogdl) - GOG Downloading module for Heroic Games Launcher
 - [KDE/plasmatube](https://github.com/KDE/plasmatube) - Kirigami YouTube video player based on QtMultimedia and youtube-dl
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
@@ -8212,7 +8216,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean, contextualized data pipelines for your workflows
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
@@ -8457,6 +8461,7 @@
 
 ## telegram 
 
+- [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery) - CloudGallery is an Android app that lets you instantly back up all your images to Telegram using Bot API — simple, Secure, and infinite.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
@@ -9033,7 +9038,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
