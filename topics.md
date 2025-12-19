@@ -274,6 +274,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -460,6 +461,7 @@
 
 ## android 
 
+- [D4vidDf/HyperBridge](https://github.com/D4vidDf/HyperBridge) - Bring the native Dynamic Island experience to HyperOS. Bridges android notifications into HyperIslands.
 - [darriousliu/PiPixiv](https://github.com/darriousliu/PiPixiv) - 一个使用Jetpack Compose开发的第三方Pixiv客户端，支持国内直连
 - [fexed/Pinball-on-Android](https://github.com/fexed/Pinball-on-Android) - Android port of 3D Pinball Space Cadet
 - [biplobsd/running_services_monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently.
@@ -607,7 +609,7 @@
 - [forzzzzz/Calculator-You](https://github.com/forzzzzz/Calculator-You) - Calculator You is a beautiful calculator for solving simple tasks
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [UmerCodez/DroidPad](https://github.com/UmerCodez/DroidPad) - Build Android control interfaces for Bluetooth Low Energy, Bluetooth, WebSocket, MQTT, TCP, and UDP protocols for your project
 - [patzly/tack-android](https://github.com/patzly/tack-android) - Beautiful metronome for Android with a powerful Wear OS experience
@@ -1583,6 +1585,7 @@
 
 ## chrome-extension 
 
+- [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 - [Metacor/nyaa-linker](https://github.com/Metacor/nyaa-linker) - Adds a button to Anime and Manga database websites that opens a relevant Nyaa search
 - [eight04/image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.
 - [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
@@ -1756,6 +1759,7 @@
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
@@ -2181,6 +2185,11 @@
 
 ## discord 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
+- [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
 - [kenhendricks00/FixEmbed](https://github.com/kenhendricks00/FixEmbed) - A Discord bot that fixes the lack of embed of support in Discord.
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) - A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
@@ -2382,6 +2391,7 @@
 
 ## electron 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [Suwayomi/Suwayomi-WebUI](https://github.com/Suwayomi/Suwayomi-WebUI) - 
@@ -3165,7 +3175,7 @@
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -3908,6 +3918,8 @@
 
 ## instagram 
 
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds
+- [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [kenhendricks00/FixEmbed](https://github.com/kenhendricks00/FixEmbed) - A Discord bot that fixes the lack of embed of support in Discord.
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [megadose/ignorant](https://github.com/megadose/ignorant) - ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
@@ -4148,6 +4160,7 @@
 
 ## javascript 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [kokseen1/Mashiro](https://github.com/kokseen1/Mashiro) - A Chrome extension to sort by popularity for free on Pixiv.
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
@@ -4213,7 +4226,7 @@
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Jiiks/BetterDiscordApp](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
@@ -4374,6 +4387,7 @@
 
 ## kotlin 
 
+- [D4vidDf/HyperBridge](https://github.com/D4vidDf/HyperBridge) - Bring the native Dynamic Island experience to HyperOS. Bridges android notifications into HyperIslands.
 - [ultranity/Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) - 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 | A third-party Pixiv Android client with modern design and many other enhancements
 - [magic-cucumber/Pixiv-MultiPlatform](https://github.com/magic-cucumber/Pixiv-MultiPlatform) - 跨平台第三方客户端，专注于预览。
 - [uragiristereo/Mikansei](https://github.com/uragiristereo/Mikansei) - Danbooru client for Android
@@ -4432,7 +4446,7 @@
 - [forzzzzz/Calculator-You](https://github.com/forzzzzz/Calculator-You) - Calculator You is a beautiful calculator for solving simple tasks
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [ghostbyte-dev/pixelix](https://github.com/ghostbyte-dev/pixelix) - Pixelfed client for Android and iOS
 - [AChep/PocketMode](https://github.com/AChep/PocketMode) - Prevent accidential touches on your Android smartphone
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
@@ -5752,6 +5766,7 @@
 
 ## nodejs 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [nepsyn/minaplay](https://github.com/nepsyn/minaplay) - MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
@@ -6041,6 +6056,11 @@
 
 ## others 
 
+- [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
+- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [dylanpdx/vxtiktok](https://github.com/dylanpdx/vxtiktok) - Web service that fixes TikTok links embedding on Discord
+- [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
+- [thelaao/phixiv](https://github.com/thelaao/phixiv) - pixiv embed fixer.
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) - CircleToSearch with multi search engine support for all android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -7732,6 +7752,7 @@
 
 ## python 
 
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [devnoname120/google-play-book-downloader](https://github.com/devnoname120/google-play-book-downloader) - Download and decrypt books purchased on Google Play Books without text reflowing
@@ -8115,6 +8136,7 @@
 
 ## reactjs 
 
+- [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -8657,6 +8679,8 @@
 
 ## telegram 
 
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [AKS-Labs/CloudGallery](https://github.com/AKS-Labs/CloudGallery) - CloudGallery is an Android app that lets you instantly back up all your images to Telegram using Bot API — simple, Secure, and infinite.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
@@ -8824,8 +8848,32 @@
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [TF2Autobot/tf2autobot](https://github.com/TF2Autobot/tf2autobot) - tf2autobot: an Improved version from tf2-automatic
 
+## tui 
+
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [XORbit01/retro](https://github.com/XORbit01/retro) - 📼 play musics with command line on linux
+- [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [cxreiff/bevy_ratatui](https://github.com/cxreiff/bevy_ratatui) - A rust crate for using Ratatui in a Bevy application.
+- [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
+- [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal
+- [d99kris/namp-lite](https://github.com/d99kris/namp-lite) - Console-based audio player for Linux
+- [d99kris/namp](https://github.com/d99kris/namp) - Terminal-based audio player for Linux and macOS
+- [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
+- [samtay/tetris](https://github.com/samtay/tetris) - A terminal interface for Tetris
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
+- [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+
 ## twitter 
 
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds
 - [kenhendricks00/FixEmbed](https://github.com/kenhendricks00/FixEmbed) - A Discord bot that fixes the lack of embed of support in Discord.
 - [MapoMagpie/comic-looms](https://github.com/MapoMagpie/comic-looms) - Manga reader and downloader, Focus on experience and low load on the site. support site like e-hentai.org | x.com | pixiv.net.
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -8842,6 +8890,8 @@
 
 ## typescript 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
+- [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
 - [asadahimeka/yandere-masonry](https://github.com/asadahimeka/yandere-masonry) - Yande.re/Konachan Masonry(Waterfall) Layout. Yande.re/Konachan 中文标签 & 缩略图放大 & 双击翻页 & 瀑布流浏览
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -9092,6 +9142,7 @@
 
 ## web 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -9144,6 +9195,7 @@
 
 ## webapp 
 
+- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [funmaker/Hybooru](https://github.com/funmaker/Hybooru) - Hydrus-based booru-styled imageboard in React
 - [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
@@ -9360,6 +9412,7 @@
 
 ## youtube 
 
+- [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material 3 Expressive design, enhanced features, and improvements
