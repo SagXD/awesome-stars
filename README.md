@@ -1174,7 +1174,7 @@
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [tbvns/Kihon](https://github.com/tbvns/Kihon) - Simple PDF exporter for Mihon
 - [DLindustries/System](https://github.com/DLindustries/System) - 1.21.1 and below CPVP client focussed on preforming better against anticheat solutions
-- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features.
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
 - [3arthqu4ke/pingbypass](https://github.com/3arthqu4ke/pingbypass) - A powerful Minecraft proxy
@@ -1198,7 +1198,6 @@
 - [hammertater/treechop](https://github.com/hammertater/treechop) - 
 - [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments) - 
 - [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
-- [miamionthetrack/remnant](https://github.com/miamionthetrack/remnant) - 
 - [JamiesWhiteShirt/reach-entity-attributes](https://github.com/JamiesWhiteShirt/reach-entity-attributes) - Library of entity attributes for armor, tools, potions, etc. to increase or decrease reach distance and attack range
 - [joshuawolfsohn/Private-DNS-Quick-Tile](https://github.com/joshuawolfsohn/Private-DNS-Quick-Tile) - A simple app that adds a quick tile to toggle the Private DNS settings on Android 9.0+
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
@@ -2138,7 +2137,7 @@
 - [sadellie/sukko](https://github.com/sadellie/sukko) - Open source KWGT alternative
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [D4vidDf/HyperBridge](https://github.com/D4vidDf/HyperBridge) - Bring the native Dynamic Island experience to HyperOS. Bridges android notifications into HyperIslands.
-- [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - An open source app for removing noise and compression from photos
+- [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - note: this is a mirror of https://codeberg.org/dryerlint/dejpeg - all future releases will be published there
 - [AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) - CircleToSearch with multi search engine support for all android
 - [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) - 使用 Material Design 3 全新设计的阅读 3.0
 - [phisher98/CXXX](https://github.com/phisher98/CXXX) - CXXX
@@ -2176,7 +2175,7 @@
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) - A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
 - [aka-munan/keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
@@ -2392,7 +2391,7 @@
 - [alorma/Compose-Settings](https://github.com/alorma/Compose-Settings) - Pre-built Material 3 Settings UI components for Compose Multiplatform. Supports Android, iOS, Desktop, JavaScript, and WebAssembly.
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
-- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
+- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [joelkanyi/Muviz](https://github.com/joelkanyi/Muviz) - A Jetpack compose app that consumes the TMDB API to display movie and Tv shows and their details
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
@@ -3595,7 +3594,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - The AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -3930,6 +3929,7 @@
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
 - [ronitkrshah/waifu-walls](https://github.com/ronitkrshah/waifu-walls) - Waifu Wallpaper Android App for Weebs
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -4239,7 +4239,6 @@
 - [avoonix/material-e621](https://github.com/avoonix/material-e621) - Material e621 is a modern, open source web client for e621.net. It is customizable, comes with a bunch of additional features that are not available on e621.net, and makes browsing posts a delightful 
 - [asadahimeka/yandere-masonry](https://github.com/asadahimeka/yandere-masonry) - Yande.re/Konachan Masonry(Waterfall) Layout. Yande.re/Konachan 中文标签 & 缩略图放大 & 双击翻页 & 瀑布流浏览
 - [HolodexNet/Holodex](https://github.com/HolodexNet/Holodex) - Holodex frontend source code
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [CodeF53/PackXBR](https://github.com/CodeF53/PackXBR) - A utility for automatic application of the XBR scaling algorithm to game textures, specifically designed for Minecraft resource packs.
 - [dest4590/CollapseLoader](https://github.com/dest4590/CollapseLoader) - GUI utility for launching minecraft clients
 - [xlmnxp/extractify.zip](https://github.com/xlmnxp/extractify.zip) - A client-side Progressive Web App (PWA) for secure online compressed file extraction and preview. Works entirely in your browser - no data leaves your device.
