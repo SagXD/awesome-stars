@@ -684,7 +684,6 @@
 - [Rejdesu/AMOLEDdit](https://github.com/Rejdesu/AMOLEDdit) - Save your eyes with this dark theme for Old Reddit. Compatible with RES.
 - [catppuccin/whoogle](https://github.com/catppuccin/whoogle) - 🔍 Soothing pastel theme for Whoogle
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
-- [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme) - A Breeze theme for Firefox🔥
 - [PrismLauncher/Themes](https://github.com/PrismLauncher/Themes) - Community themes for Prism Launcher
 - [catppuccin/prismlauncher](https://github.com/catppuccin/prismlauncher) - 🧱 Soothing pastel theme for Prism Launcher
 - [lassekongo83/zuki-themes](https://github.com/lassekongo83/zuki-themes) - Themes for GTK, gnome-shell and more.
@@ -1174,7 +1173,7 @@
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [tbvns/Kihon](https://github.com/tbvns/Kihon) - Simple PDF exporter for Mihon
 - [DLindustries/System](https://github.com/DLindustries/System) - 1.21.1 and below CPVP client focussed on preforming better against anticheat solutions
-- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps with Material 3 Expressive design and enhanced features
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
 - [3arthqu4ke/pingbypass](https://github.com/3arthqu4ke/pingbypass) - A powerful Minecraft proxy
@@ -1227,7 +1226,7 @@
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [pietro-lopes/AllTheLeaks](https://github.com/pietro-lopes/AllTheLeaks) - This is a Minecraft Mod that patches various memory leaks.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
-- [HydeYYHH/litube](https://github.com/HydeYYHH/litube) - A lightweight Android app for YouTube with additional features like video downloading, ad-blocking and background playing.
+- [HydeYYHH/litube](https://github.com/HydeYYHH/litube) - Litube is an advanced webview wrapper for YouTube.
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 - [seleuco/MAME4droid-Current](https://github.com/seleuco/MAME4droid-Current) - MAME4droid (Current) is developed by David Valdeita (Seleuco) as a port of the latest MAME emulator by MAMEDev and contributors. It emulates arcade games and systems like ZX Spectrum, Amstrad CPC, MSX
 - [CorgiTaco-MC/Enhanced-Celestials](https://github.com/CorgiTaco-MC/Enhanced-Celestials) - A Minecraft mod adding new Lunar Events such as Blood Moons!
@@ -1310,7 +1309,7 @@
 - [117HD/RLHD](https://github.com/117HD/RLHD) - Old School RuneScape GPU renderer with a suite of graphical enhancements.
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
 - [araafroyall/Cleaner-Royall](https://github.com/araafroyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
-- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 - [RattlesHyper/lyra-addon](https://github.com/RattlesHyper/lyra-addon) - Lyra Addon is a Meteor Client add-on specifically designed for Creative Mode and Creative servers.
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
 - [LonamiWebs/Klooni1010](https://github.com/LonamiWebs/Klooni1010) - libGDX game based on the original 1010!
@@ -3097,6 +3096,7 @@
 
 ## Python 
 
+- [ColdLunaris/poipiku-dl](https://github.com/ColdLunaris/poipiku-dl) - A tool written in Python to download images from poipiku
 - [RicterZ/nhentai](https://github.com/RicterZ/nhentai) - nhentai doujinshi downloader
 - [FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) - 支持更多游戏规则，让SSTap成为真正的“网游加速器”
 - [trickerer01/Ruxx](https://github.com/trickerer01/Ruxx) - Advanced downloader for rule34.xxx, rule34.us, bbooru.com, xbooru.com, rule34.paheal.net, rule34hentai.net and e621.net
@@ -3594,7 +3594,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - The AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: the AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -4192,7 +4192,7 @@
 - [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
-- [aidendotgg/aiden.gg](https://github.com/aidendotgg/aiden.gg) - Personal site
+- [aidendotgg/aiden.gg](https://github.com/aidendotgg/aiden.gg) - Personal Portfolio Website
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
