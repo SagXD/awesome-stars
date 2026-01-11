@@ -1167,7 +1167,7 @@
 
 ## Java 
 
-- [sandyymandy/PleasureCraft](https://github.com/sandyymandy/PleasureCraft) - PleasureCraft is an adult-themed mod for Minecraft 1.21+ and above made using the Fabric. It’s a full remake and modern reimagining of the old 1.12.2 FapCraft mod made by Schnurri_tv
+- [sandyymandy/PleasureCraft](https://github.com/sandyymandy/PleasureCraft) - PleasureCraft is an adult-themed mod for Minecraft 1.21+ and above made using Fabric. It’s a full remake and modern reimagining of the old 1.12.2 FapCraft mod made by Schnurri_tv
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [AbdurazaaqMohammed/APKExtractor](https://github.com/AbdurazaaqMohammed/APKExtractor) - Simple APK extractor app for Android, supports split APKs and saving them as single APK
@@ -3611,7 +3611,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy & dataplane that offloads plumbing work, so you stay focused on your agent's core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications: an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
