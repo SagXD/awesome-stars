@@ -74,6 +74,7 @@
 - [Scala](#scala)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -130,6 +131,10 @@
 
 ## C 
 
+- [torvalds/pesconvert](https://github.com/torvalds/pesconvert) - Brother PES file converter
+- [torvalds/uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
+- [torvalds/HunspellColorize](https://github.com/torvalds/HunspellColorize) - Wrapper around 'less' to colorize spelling mistakes using Hunspell
+- [BruceDevices/firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -257,6 +262,7 @@
 
 ## C# # 
 
+- [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [damienhaynes/TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [JavLuv/JavLuv](https://github.com/JavLuv/JavLuv) - Your JAV Movie Organizer
 - [CosmicPredator/AniMoe](https://github.com/CosmicPredator/AniMoe) - An Unofficial Windows 10 & 11 app for AniList.co
@@ -371,6 +377,7 @@
 
 ## C++ 
 
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 - [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)
 - [Sinflower/BookLiveRipper](https://github.com/Sinflower/BookLiveRipper) - Qt-Based tool to download full novels from Booklive.jp
@@ -472,7 +479,7 @@
 - [KDE/elisa](https://github.com/KDE/elisa) - Simple music player aiming to provide a nice experience for its users
 - [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover) - A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.
 - [spacecamper/miny](https://github.com/spacecamper/miny) - A minesweeper clone for Linux.
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.17.0][Functional] Chromium Embedded Framework Webview for Godot 4
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.18.0][Functional] Chromium Embedded Framework Webview for Godot 4
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -808,7 +815,6 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [kra-mo/Sly](https://github.com/kra-mo/Sly) - Mirrored from https://codeberg.org/kramo/Sly
 - [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
@@ -976,6 +982,9 @@
 
 ## Go 
 
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
@@ -1047,7 +1056,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1601,7 +1610,7 @@
 - [3arthh4ckDevelopment/3arthh4ck-Client](https://github.com/3arthh4ckDevelopment/3arthh4ck-Client) - Utility mod and proxy server for 1.12.2 - now continued
 - [3arthh4ckDevelopment/3arthh4ck-Plugins](https://github.com/3arthh4ckDevelopment/3arthh4ck-Plugins) - Earthhack Plugins
 - [maxsupermanhd/meteor-villager-roller](https://github.com/maxsupermanhd/meteor-villager-roller) - Module for Meteor Client that continiously breaks and places work block of villager until it has desired trade
-- [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - 🧙 Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
+- [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
 - [Tectato/BetterCommandBlockUI](https://github.com/Tectato/BetterCommandBlockUI) - A fabric mod providing a more usable UI for Command Blocks
 - [TechAle/minecraft-irc](https://github.com/TechAle/minecraft-irc) - A ""serverless"" minecraft irc
 - [RedstoneTools/redstonetools-mod](https://github.com/RedstoneTools/redstonetools-mod) - A Redstone Quality of Life mod.
@@ -1712,6 +1721,9 @@
 
 ## JavaScript 
 
+- [Jakiboy/ReVens](https://github.com/Jakiboy/ReVens) - Windows-based AI-powered Reverse Engineering Toolkit "AIO", Built for Security (Malware analysis, Pentesting) & Educational purposes.
+- [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
+- [vsatyamesc/Bilibili-comic-Downloader](https://github.com/vsatyamesc/Bilibili-comic-Downloader) - download Bilibili manga / manhua / comic images. from https://manga.bilibili.com
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [AsakiYuki/3d-totem-generator](https://github.com/AsakiYuki/3d-totem-generator) - The easiest method to custom Totem Skin resource packs using player skins! And can also upload to MCPEDL
 - [Chirmaya/BooruSlideshow](https://github.com/Chirmaya/BooruSlideshow) - A Google Chrome extension for a slideshow of boorus.
@@ -2146,6 +2158,9 @@
 
 ## Kotlin 
 
+- [JVMInspect/toolbox](https://github.com/JVMInspect/toolbox) - 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
+- [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
@@ -3126,6 +3141,13 @@
 
 ## Python 
 
+- [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+- [ElijaxApps-org/android-xmrig-miner](https://github.com/ElijaxApps-org/android-xmrig-miner) - XMRig miner built inside an android app
+- [ethereum/pm](https://github.com/ethereum/pm) - Project Management: Meeting notes and agenda items
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [BioHapHazard/Freedify](https://github.com/BioHapHazard/Freedify) - Stream music and podcasts from anywhere. Search songs, albums, artists, podcasts, or paste URLs from Spotify, Bandcamp, Archive.org, Phish.in, and more. Inspired by and built off of Spotiflac by afkar
 - [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) - ORV-Reader: A website for reading the webnovel Omniscient Reader's Viewpoint and its Side Stories.
 - [Akatmks/Akatsumekusa-Encoding-Scripts](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts) - Progression Boost and other encoding and filtering scripts
@@ -3233,7 +3255,7 @@
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -3570,6 +3592,8 @@
 
 ## Rust 
 
+- [lanyeeee/bilibili-manga-watermark-remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) - bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe
+- [lanyeeee/bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader) - 哔哩哔哩漫画 bilibili漫画 B漫 的多线程下载器，带图形界面 支持导出cbz，已打包exe
 - [libjxl/jxl-rs](https://github.com/libjxl/jxl-rs) - 
 - [PhantomShift/nekotatsu](https://github.com/PhantomShift/nekotatsu) - Simple tool for converting Neko backups into Kotatsu backups
 - [catouberos/aoi](https://github.com/catouberos/aoi) - real-time ListenBrainz "now playing" widget for embedding on various forums and sites
@@ -3691,7 +3715,7 @@
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) - Chat over Telegram on a modern and elegant client
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
-- [cxreiff/bevy_ratatui](https://github.com/cxreiff/bevy_ratatui) - A rust crate for using Ratatui in a Bevy application.
+- [ratatui/bevy_ratatui](https://github.com/ratatui/bevy_ratatui) - A rust crate for using Ratatui in a Bevy application.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [stellularorg/guppy](https://github.com/stellularorg/guppy) - Guppy is a simple user management system + social platform!
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
@@ -3797,6 +3821,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [uiriansan/LainGrubTheme](https://github.com/uiriansan/LainGrubTheme) - A Serial Experiments Lain theme for GRUB.
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3899,6 +3924,10 @@
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 
+## Solidity 
+
+- [ethereum/ERCs](https://github.com/ethereum/ERCs) - The Ethereum Request for Comment repository
+
 ## SourcePawn 
 
 - [AMXX-pl/BasePack](https://github.com/AMXX-pl/BasePack) - Base pack for Counter-Strike 1.6 servers.
@@ -3940,6 +3969,13 @@
 
 ## TypeScript 
 
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [flanker/bilibili-dark-mode](https://github.com/flanker/bilibili-dark-mode) - A Chrome/Edge/Firefox extension to turn your bilibili.com into dark mode
 - [e18lab/NHAppAndroid](https://github.com/e18lab/NHAppAndroid) - nhentai app is a modern and lightweight android client for nhentai
 - [rRoler/bookmarklets](https://github.com/rRoler/bookmarklets) - Various simple bookmarklets
@@ -4027,7 +4063,7 @@
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
@@ -4053,6 +4089,7 @@
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more.
 - [communitycenter/stardew.me](https://github.com/communitycenter/stardew.me) - 👕 Generate Stardew Valley player sprites from save files
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [RezaRafia/Speedy](https://github.com/RezaRafia/Speedy) - Combine multiple internet connections to maximize your speed
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
