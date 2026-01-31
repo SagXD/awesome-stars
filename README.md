@@ -987,7 +987,6 @@
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix) - Fix Instagram embeds in Discord (and Telegram!)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [syncyomi/syncyomi](https://github.com/syncyomi/syncyomi) - SyncYomi is an open-source project crafted to provide a seamless synchronization experience for your TachiyomiSY/Mihon (Mihon client is not implemented but it works the same probably will never be imp
@@ -1662,7 +1661,7 @@
 - [unnamedlife/bbcware](https://github.com/unnamedlife/bbcware) - Strongest Minecraft PVP Utility for 1.19.2
 - [Hackerokuz/meteor-litematica-printer](https://github.com/Hackerokuz/meteor-litematica-printer) - 
 - [kkllffaa/meteor-litematica-printer](https://github.com/kkllffaa/meteor-litematica-printer) - 
-- [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Add-on for Meteor that adds useful utilities for non-vanilla anarchy servers ☄️
+- [Zgoly/Meteorist](https://github.com/Zgoly/Meteorist) - ☄️ Meteorist is a handy multi-tool add-on for Meteor Client, packed with utilities for everyday gameplay. ☄️
 - [KassuK1/BlackOut](https://github.com/KassuK1/BlackOut) - Plugin for meteor client adding more features mostly focusing on CPVP
 - [Carlox1/Toro-Dupe](https://github.com/Carlox1/Toro-Dupe) - Dupe for 6b6t.org created by Carlox and Colonizadores
 - [AntiCope/orion](https://github.com/AntiCope/orion) - Continuation of GhostTypes' Orion
@@ -3534,7 +3533,7 @@
 - [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [Levi2288/Anti-Discord-Token-Grab](https://github.com/Levi2288/Anti-Discord-Token-Grab) - Protect your discord against shit pasted token loggers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [DavidRomanovizc/DatingBot](https://github.com/DavidRomanovizc/DatingBot) - ✨A Telegram Bot with open source code, which implemented django and a dating system
+- [dzhalaevd/DatingBot](https://github.com/dzhalaevd/DatingBot) - ✨A Telegram Bot with open source code, which implemented django and a dating system
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
@@ -4039,7 +4038,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [Suwayomi/Suwayomi-WebUI](https://github.com/Suwayomi/Suwayomi-WebUI) - 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -4238,7 +4237,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt) - MyChatGPT is a ChatGPT UI clone with some extra features.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
