@@ -300,6 +300,7 @@
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [Masquerade64/SuperSteamPacker](https://github.com/Masquerade64/SuperSteamPacker) - Packing tool for Steam games.
 - [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
@@ -480,7 +481,7 @@
 - [KDE/elisa](https://github.com/KDE/elisa) - Simple music player aiming to provide a nice experience for its users
 - [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover) - A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.
 - [spacecamper/miny](https://github.com/spacecamper/miny) - A minesweeper clone for Linux.
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.18.0][Functional] Chromium Embedded Framework Webview for Godot 4
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.19.1][Functional] Chromium Embedded Framework Webview for Godot 4
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -1058,7 +1059,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1788,7 +1789,7 @@
 - [chandler-stimson/live-stream-downloader](https://github.com/chandler-stimson/live-stream-downloader) - Download M3U8 live streams to the local disk
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+- [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -2903,7 +2904,6 @@
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
 - [KLimPALE/KLimPALE](https://github.com/KLimPALE/KLimPALE) - 
 - [Keksuccino/FancyMenu](https://github.com/Keksuccino/FancyMenu) - Source code for FancyMenu.
