@@ -2349,7 +2349,7 @@
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-- [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
 - [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
@@ -2848,6 +2848,7 @@
 
 ## Others 
 
+- [MinecraftOldschoolEdition/downloads](https://github.com/MinecraftOldschoolEdition/downloads) - Downloads for the mod
 - [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 - [The-LainOS-Project/LainOS-wallpapers](https://github.com/The-LainOS-Project/LainOS-wallpapers) - A repo with Lain wallpapers from Fauux, OmniDisplay, and Wallhaven. We got the artist's permission.
 - [bdvajstudio/javdb](https://github.com/bdvajstudio/javdb) - javdb official app
@@ -3993,6 +3994,7 @@
 
 ## TypeScript 
 
+- [BankkRoll/clipy](https://github.com/BankkRoll/clipy) - Clipy is a fully open-source, bloat-free Electron desktop application for downloading and editing YouTube videos in their original quality without compression or re-encoding. It provides a clean, adva
 - [Producdevity/EmuReady](https://github.com/Producdevity/EmuReady) - A community-driven platform for tracking emulation compatibility across different devices and emulators.
 - [jsmnbom/ao3-enhancements](https://github.com/jsmnbom/ao3-enhancements) - Enhancements for ArchiveOfOurOwn.org
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
