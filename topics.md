@@ -194,6 +194,7 @@
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
@@ -362,7 +363,7 @@
 - [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -1334,7 +1335,7 @@
 ## azure 
 
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1555,7 +1556,7 @@
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -1680,7 +1681,7 @@
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) - CLI tool for downloading videos from Twitch.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1741,7 +1742,7 @@
 - [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of cloud storage providers for individuals and family sorted by minimal plan price
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
-- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - Share files with decentralized cloud storage.
+- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - A client of Pixeldrain Storage and Data Transfer services
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -2146,7 +2147,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [pomf/pomf](https://github.com/pomf/pomf) - Pomf is a simple lightweight file host with support for drop, paste, click and API uploading.
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
@@ -2352,7 +2353,7 @@
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -2693,7 +2694,7 @@
 ## flask 
 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover) - A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
@@ -3251,7 +3252,7 @@
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -3354,7 +3355,7 @@
 - [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Handcrafted Go bindings for libVLC and high-level media player interface
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [sachaos/go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life. Implemented in Go.
-- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - Share files with decentralized cloud storage.
+- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - A client of Pixeldrain Storage and Data Transfer services
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -3435,7 +3436,6 @@
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go
@@ -3450,7 +3450,7 @@
 - [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Handcrafted Go bindings for libVLC and high-level media player interface
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [sachaos/go-life](https://github.com/sachaos/go-life) - Terminal based Conway's Game of Life. Implemented in Go.
-- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - Share files with decentralized cloud storage.
+- [jkawamoto/go-pixeldrain](https://github.com/jkawamoto/go-pixeldrain) - A client of Pixeldrain Storage and Data Transfer services
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -3666,7 +3666,6 @@
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [quotient-im/libQuotient](https://github.com/quotient-im/libQuotient) - A Qt library to write cross-platform clients for Matrix
@@ -4110,7 +4109,7 @@
 
 ## ipfs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 
 ## java 
 
@@ -4299,7 +4298,7 @@
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -4550,6 +4549,7 @@
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
 - [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - :blue_book: A diary application optimized for user experience.
 - [sosauce/CuteMusic](https://github.com/sosauce/CuteMusic) - CuteMusic is a cute and powerful offline music player for Android!
@@ -5010,7 +5010,7 @@
 ## llm 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
@@ -5397,7 +5397,7 @@
 
 ## mcp 
 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -5848,7 +5848,6 @@
 
 - [nepsyn/minaplay](https://github.com/nepsyn/minaplay) - MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## neural-network 
@@ -5876,7 +5875,6 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
@@ -5953,7 +5951,7 @@
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -6006,6 +6004,10 @@
 - [idkr-client/idkr](https://github.com/idkr-client/idkr) - :video_game: idk, just a Krunker client
 - [zhravan/github-readme-quotes](https://github.com/zhravan/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [ATypescriptEnjoyer/Docker-Radio](https://github.com/ATypescriptEnjoyer/Docker-Radio) - Radio station built in NodeJS & React, all contained within a nice docker package!
+
+## nosql 
+
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 
 ## npm 
 
@@ -6142,7 +6144,7 @@
 ## openai 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -6240,6 +6242,7 @@
 
 ## others 
 
+- [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
@@ -6298,7 +6301,7 @@
 - [CosmicPredator/AniMoe](https://github.com/CosmicPredator/AniMoe) - An Unofficial Windows 10 & 11 app for AniList.co
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [blastrock/kakugo](https://github.com/blastrock/kakugo) - Learn Japanese with Kakugo
-- [sandyymandy/PleasureCraft](https://github.com/sandyymandy/PleasureCraft) - PleasureCraft is an adult-themed mod for Minecraft 1.21+ and above made using Fabric. It’s a full remake and modern reimagining of the old 1.12.2 FapCraft mod made by Schnurri_tv
+- [sandyymandy/Pleasure-Horizons](https://github.com/sandyymandy/Pleasure-Horizons) - Pleasure Horizons is an adult-themed mod for Minecraft 1.21+ and above made using Fabric. It’s a full remake and modern reimagining of the old 1.12.2 FapCraft mod made by Schnurri_tv
 - [VideoPlayerCode/mpv-tools](https://github.com/VideoPlayerCode/mpv-tools) - &lt;3
 - [Nudin/mpv-script-directory](https://github.com/Nudin/mpv-script-directory) - A machine-readable directory of scripts and other tools for mpv.
 - [Dudemanguy/mpv-manga-reader](https://github.com/Dudemanguy/mpv-manga-reader) - Manga reading script for mpv
@@ -6791,7 +6794,7 @@
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - A modern style for qt applications.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
-- [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
+- [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari.
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -7129,7 +7132,7 @@
 - [Zwork101/xfce4-notifyd-themes](https://github.com/Zwork101/xfce4-notifyd-themes) - 🔔 Soothing pastel theme for xfce4-notifyd
 - [pa1nki113r/Project_Brutality](https://github.com/pa1nki113r/Project_Brutality) - This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
-- [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) - Moepictures is a cute anime art image board organized with tags.
+- [Moebytes/Moepictures](https://github.com/Moebytes/Moepictures) - Cute anime image board organized with tags.
 - [mirror/pcsxr](https://github.com/mirror/pcsxr) - https://pcsxr.svn.codeplex.com/svn/pcsxr
 - [yquake2/yquake2](https://github.com/yquake2/yquake2) - The Yamagi Quake II client
 - [vetleledaal/game-engine-finder](https://github.com/vetleledaal/game-engine-finder) - Find the engine used within a game by it's .exe file (or surrounding files). For use on PCGamingWiki.
@@ -7966,7 +7969,7 @@
 ## project-management 
 
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## prompt-engineering 
@@ -8257,7 +8260,7 @@
 ## rag 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -8318,7 +8321,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -8706,10 +8709,11 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
@@ -9282,7 +9286,7 @@
 
 ## ui 
 
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
