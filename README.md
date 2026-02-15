@@ -814,7 +814,6 @@
 - [flutter/packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
-- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin) - A 100% Open Source app that tries to make personal finances easier. Fast, simple, without ads, without the need for an Internet connection and with a groundbreaking design, that's Monekin.
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [FuturisticGoo/emotic](https://github.com/FuturisticGoo/emotic) - Reignite the love for emoticons
@@ -1320,7 +1319,7 @@
 - [3arthh4ckDevelopment/3arthh4ck-Fabric](https://github.com/3arthh4ckDevelopment/3arthh4ck-Fabric) - 3arthh4ck is a 1.12.2 Utility Mod, now ported to Fabric 1.20.4!
 - [MyCoRe-Org/mycore](https://github.com/MyCoRe-Org/mycore) - MyCoRe (acronym for My Content Repository) is an open source repository software framework for building disciplinary or institutional repositories, digital archives, digital libraries, and scientific 
 - [ThatJadenXgamer/Jadens-Nether-Expansion](https://github.com/ThatJadenXgamer/Jadens-Nether-Expansion) - 
-- [Exopandora/ShoulderSurfing](https://github.com/Exopandora/ShoulderSurfing) - Shoulder Surfing Reloaded is a highly configurable third person camera mod for minecraft.
+- [Exopandora/ShoulderSurfing](https://github.com/Exopandora/ShoulderSurfing) - Shoulder Surfing Reloaded is a highly configurable third person camera mod for Minecraft.
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
 - [juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) - Improve performance when Minecraft is in the background
 - [SuperMonster003/AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
@@ -1357,7 +1356,7 @@
 - [AndreiNekrasOn/keyboard_heatmap](https://github.com/AndreiNekrasOn/keyboard_heatmap) - keylogger and an app to visualize its results
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [itkach/aard2-android](https://github.com/itkach/aard2-android) - Aard2 for Android, a simple dictionary app
-- [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 - [pelya/screen-dimmer-pixel-filter](https://github.com/pelya/screen-dimmer-pixel-filter) - Android screen dimmer, which disables individual pixels, for AMOLED screens
 - [code-crusher/Dimmer](https://github.com/code-crusher/Dimmer) - Android app to provide Blue-Light filter to reduce strain on eyes.
@@ -3646,7 +3645,6 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - 
@@ -4094,6 +4092,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [rebelonion/audio-share](https://github.com/rebelonion/audio-share) - public audio sharing frontend
 - [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox) - Dynamic theming of Firefox (and Thunderbird) using your Pywal colors
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
 - [Suwayomi/Suwayomi-VUI](https://github.com/Suwayomi/Suwayomi-VUI) - my attempt at a webui made in Svelte and skeleton
 - [manga-download/haruneko](https://github.com/manga-download/haruneko) - Prototype of HakuNeko based on TypeScript + Electron / NW.js
@@ -4109,6 +4108,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
