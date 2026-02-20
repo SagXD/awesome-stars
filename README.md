@@ -1094,6 +1094,7 @@
 
 ## HTML 
 
+- [bigratmonster/bigrat.monster](https://github.com/bigratmonster/bigrat.monster) - a picture of big rat
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 - [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
 - [shoui520/shoui520.github.io](https://github.com/shoui520/shoui520.github.io) - 
@@ -1649,7 +1650,7 @@
 - [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot) - 🎉 Hold giveaways quickly and easily on your Discord server!
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [TheKisDevs/LavaHack-Public](https://github.com/TheKisDevs/LavaHack-Public) - #ZaПобеду
-- [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A simple Meteor addon focused on giving users more customization options. Made in honor of Number81.
+- [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A Meteor addon focused on adding utility modules and giving users more customization options. Made in honor of Number81.
 - [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - A fabric client mod to mine bedrock!
 - [thebest9178/Unminable-Meteor](https://github.com/thebest9178/Unminable-Meteor) - A port of LXYan2333's Fabric-Bedrock-Miner to Meteor addon.
 - [PoopenfartenDevelopment/BedrockMinerAddon](https://github.com/PoopenfartenDevelopment/BedrockMinerAddon) - 
@@ -1741,7 +1742,6 @@
 
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free
-- [amiayweb/Hytale-F2P](https://github.com/amiayweb/Hytale-F2P) - Hytale Launcher | Multiplayer Support | Mods Manager and more..
 - [duncanlang/Letterboxd-Extras](https://github.com/duncanlang/Letterboxd-Extras) - Firefox and Chrome Add-on for Letterboxd.com
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [Jakiboy/ReVens](https://github.com/Jakiboy/ReVens) - Windows-based AI-powered Reverse Engineering Toolkit "AIO", Built for Security (Malware analysis, Pentesting) & Educational purposes.
@@ -2272,7 +2272,7 @@
 - [HarshAndroid/MusicPlayer-Android-Kotlin](https://github.com/HarshAndroid/MusicPlayer-Android-Kotlin) - Simple and Feature Rich Music Player Application.
 - [char/noverify-hackery](https://github.com/char/noverify-hackery) - Force-disabling the JVM bytecode verifier
 - [AmanoTeam/Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
-- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source, and deprecated.
+- [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source.
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
 - [NineWorlds/serenity-android](https://github.com/NineWorlds/serenity-android) - An Android client for the Emby Media Servers optimized for Television displays.
@@ -2294,7 +2294,7 @@
 - [rebelonion/Echo](https://github.com/rebelonion/Echo) - An extension based Android Music Player.
 - [rebelonion/echo-asmr-one](https://github.com/rebelonion/echo-asmr-one) - asmr.one extension for echo
 - [rebelonion/echo-lyrics-translator](https://github.com/rebelonion/echo-lyrics-translator) - Lyric translator and concatenator plugin for Echo.
-- [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - A modern music player for Android powered by Media3, offering advanced features and a smooth listening experience, and which is indeed developed by an organic intelligence.
+- [ProjectOrbital/BoomingMusic](https://github.com/ProjectOrbital/BoomingMusic) - A modern music player for Android powered by Media3, offering advanced features and a smooth listening experience, and which is indeed developed by an organic intelligence.
 - [Arijit-05/Fomodoro](https://github.com/Arijit-05/Fomodoro) - Fomodoro is a beautifully simple and distraction-free Pomodoro timer built with Android (Kotlin). Designed with a cute and minimal UI, it’s perfect for anyone who wants to stay focused without the clu
 - [urnetwork/android](https://github.com/urnetwork/android) - 
 - [terrakok/WikWok](https://github.com/terrakok/WikWok) - WikWok is a beautiful and functional app that transforms your Wikipedia reading experience into an engaging, TikTok-style article feed. Learn something new with every scroll!
@@ -3167,6 +3167,7 @@
 
 ## Python 
 
+- [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator) - UI and Automation to cut, filter and join high quality webms, mp4s or gifs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -3264,7 +3265,7 @@
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent) - This tool has been deprecated. Use Agentic Document Extraction instead.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -3273,7 +3274,7 @@
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -4201,7 +4202,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -4218,7 +4219,6 @@
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [akuse-app/akuse](https://github.com/akuse-app/akuse) - 🌸 Simple and easy to use anime streaming desktop app without ads.
 - [keerthivasansa/animos](https://github.com/keerthivasansa/animos) - Animos - Clean and minimal Anime-streaming desktop application without any ads.
-- [FackJox/lemmy-link](https://github.com/FackJox/lemmy-link) - Chrome and Firefox extension for opening lemmy style links in your instance for ease of interactions
 - [dilaouid/FandomScraper](https://github.com/dilaouid/FandomScraper) - 📓 [TS] A NodeJS package to scrap fandoms wikis characters page. Only scraps the characters info section and the list of all repertoried characters.
 - [cr4yfish/nemmy](https://github.com/cr4yfish/nemmy) - Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.
 - [TeamPiped/lemmy-piped-link-bot](https://github.com/TeamPiped/lemmy-piped-link-bot) - 
