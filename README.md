@@ -243,6 +243,7 @@
 - [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
 - [lucianoforks/falling-block-puzzle-game-os](https://github.com/lucianoforks/falling-block-puzzle-game-os) - An operating system, but it only plays Tetris.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+- [geode-sdk/geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding framework
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
@@ -618,7 +619,6 @@
 - [qimiko/gdrpc](https://github.com/qimiko/gdrpc) - geometry dash 2.1 rich presence
 - [maxnut/gdrender](https://github.com/maxnut/gdrender) - rendering gd levels
 - [matcool/ReplayBot](https://github.com/matcool/ReplayBot) - a replay bot for gd
-- [geode-sdk/geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding framework
 - [Open-GD/OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of Geometry Dash powered by a fork of cocos2dx 4.0.
 - [absoIute/Mega-Hack-v5](https://github.com/absoIute/Mega-Hack-v5) - 
 - [maxnut/GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay) - Free geometry dash mod menu with useful features such as: startpos switcher, show hitboxes, internal recorder, macro bot, clickbot and much more
