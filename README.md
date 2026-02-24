@@ -2584,7 +2584,7 @@
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
-- [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
+- [yash-garg/qBittorrent-Manager](https://github.com/yash-garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
 - [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A tool that can share DeviceOwner permissions to other application.
 - [you-apps/CalcYou](https://github.com/you-apps/CalcYou) - Privacy focused calculator app built with MD3
 - [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android
@@ -2899,7 +2899,7 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [marksard/Keyboards](https://github.com/marksard/Keyboards) - This repository is warehouse of my keyboard architecture.
@@ -3236,7 +3236,6 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [BassHous3/taggarr](https://github.com/BassHous3/taggarr) - Dub analysis & tagging.
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4200 Windows x64
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
@@ -3874,7 +3873,6 @@
 - [Kartrexofficial/Blurnie](https://github.com/Kartrexofficial/Blurnie) - A Next Generation Realify Which Enhances Your Realme Ui Experience Better with Blur & Animations.
 - [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [babric/prism-instance](https://github.com/babric/prism-instance) - 
-- [plexguide/Unraid_Intel-ARC_Deployment](https://github.com/plexguide/Unraid_Intel-ARC_Deployment) - Unraid - Comprehensive Guide to Enabling AV1 Encoding, Plex Deployment & GPU Management with Tdarr on Unraid 7.0+
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [rebelonion/traveler](https://github.com/rebelonion/traveler) - a bash rpg for a school project
 - [Anduin2017/AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux.
@@ -4121,7 +4119,7 @@
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
-- [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
