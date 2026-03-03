@@ -2219,7 +2219,7 @@
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [KotatsuApp/kotatsu-parsers](https://github.com/KotatsuApp/kotatsu-parsers) - Manga parsers library for Kotlin/JVM and Android
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
-- [JackEblan/YagniLauncher](https://github.com/JackEblan/YagniLauncher) - Android Launcher From Scratch
+- [JackEblan/YagniLauncher](https://github.com/JackEblan/YagniLauncher) - You Aren't Gonna Need It Android Launcher From Scratch
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [Ethran/notable](https://github.com/Ethran/notable) - An alternative note-taking app designed specifically for BOOX e-ink devices
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
@@ -3395,7 +3395,6 @@
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
-- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [Cynthion21x/Calcuslugs](https://github.com/Cynthion21x/Calcuslugs) - An artillery game about slugs killing each other using maths
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mcbeet/beet](https://github.com/mcbeet/beet) - The Minecraft pack development kit.
@@ -3698,7 +3697,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps - centralizing orchestration, safety, observability, and smart LLM routing so you can ship agents faster.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -3732,7 +3731,7 @@
 - [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
 - [19MisterX98/Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
 - [stellularorg/crangon](https://github.com/stellularorg/crangon) - Crangon (named after the "Crangon crangon") is a fork of Bundlrs focused on a better user and admin experience.
 - [imLinguin/comet](https://github.com/imLinguin/comet) - Open Source implementation of GOG Galaxy Communication Service for SDK bundled with GOG games.
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
@@ -4198,6 +4197,7 @@
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
