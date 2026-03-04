@@ -1646,7 +1646,6 @@
 - [KgDW/MadCat-deobf-decomp-buildable](https://github.com/KgDW/MadCat-deobf-decomp-buildable) - M3dC3t
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
 - [Catuquei/cascade](https://github.com/Catuquei/cascade) - I love vape v4 crack
-- [Volcan4436/Syracuse-3.0-source-leak](https://github.com/Volcan4436/Syracuse-3.0-source-leak) - Thanks Pathos For Giving Source and thanks to exit scamming I have posted this
 - [PianoPenguin471/RavenWeave](https://github.com/PianoPenguin471/RavenWeave) - 
 - [Neptunium-Development/neptunium-client](https://github.com/Neptunium-Development/neptunium-client) - 
 - [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot) - 🎉 Hold giveaways quickly and easily on your Discord server!
@@ -3173,7 +3172,7 @@
 - [ajslater/comicbox](https://github.com/ajslater/comicbox) - Comic metadata reading & writing library
 - [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator) - UI and Automation to cut, filter and join high quality webms, mp4s or gifs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天、一键NSFW、号池并发与自动负载均衡一体化。
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [v-pun215/Argon](https://github.com/v-pun215/Argon) - A feature-rich Minecraft Launcher built in Python.
