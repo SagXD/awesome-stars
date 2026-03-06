@@ -386,6 +386,7 @@
 
 ## C++ 
 
+- [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
@@ -470,7 +471,7 @@
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -1198,6 +1199,8 @@
 
 ## Java 
 
+- [byronka/minum](https://github.com/byronka/minum) - The smallest fully-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
+- [yosefario-dev/NClientV3](https://github.com/yosefario-dev/NClientV3) - A modernized, unofficial NHentai Android client. Fork of NClientV2 by Dar9586.
 - [koutsie/MinecraftClock_Nuo](https://github.com/koutsie/MinecraftClock_Nuo) - Updated Minecraft Clock Widget (API 21+, Targetting 34).
 - [Xlythe/MinecraftClock](https://github.com/Xlythe/MinecraftClock) - 
 - [AngelAuraMC/Amethyst-Android](https://github.com/AngelAuraMC/Amethyst-Android) - A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for Android platform.
@@ -1205,7 +1208,7 @@
 - [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
 - [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
 - [WangTingZheng/mcp940](https://github.com/WangTingZheng/mcp940) - Source code of minecraft 1.12
-- [NamiDevelopment/nami](https://github.com/NamiDevelopment/nami) - Free and Open-Source client for anarchy servers such as 2b2t.org
+- [NamiDevelopment/nami-public](https://github.com/NamiDevelopment/nami-public) - Free and Open-Source client for anarchy servers such as 2b2t.org
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [AbdurazaaqMohammed/APKExtractor](https://github.com/AbdurazaaqMohammed/APKExtractor) - Simple APK extractor app for Android, supports split APKs and saving them as single APK
@@ -1741,6 +1744,7 @@
 
 ## JavaScript 
 
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [ccloli/E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free
@@ -1821,7 +1825,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [miru-project/repo](https://github.com/miru-project/repo) - Miru Repository
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒 𝚍𝚘𝚝 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
@@ -1897,7 +1901,6 @@
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
-- [aayushdutt/ncert-downloader](https://github.com/aayushdutt/ncert-downloader) - Quickly scrape NCERT books to PDFs, organized by classes and subjects
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -2181,6 +2184,8 @@
 
 ## Kotlin 
 
+- [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
+- [android/nav3-recipes](https://github.com/android/nav3-recipes) - Implement common use cases with Jetpack Navigation 3
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
 - [Tommy-Geenexus/exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Permissionless image metadata erasing application for Android
 - [JVMInspect/toolbox](https://github.com/JVMInspect/toolbox) - 
@@ -2201,7 +2206,7 @@
 - [phisher98/CXXX](https://github.com/phisher98/CXXX) - CXXX
 - [ultranity/Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) - 一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端 | A third-party Pixiv Android client with modern design and many other enhancements
 - [magic-cucumber/Pixiv-MultiPlatform](https://github.com/magic-cucumber/Pixiv-MultiPlatform) - 跨平台第三方客户端，专注于预览。
-- [darriousliu/PiPixiv](https://github.com/darriousliu/PiPixiv) - 一个使用Jetpack Compose开发的第三方Pixiv客户端，支持国内直连
+- [darriousliu/PiPixiv](https://github.com/darriousliu/PiPixiv) - 一个使用Compose Multiplatform开发的第三方Pixiv客户端，支持国内直连
 - [lambda-client/lambda](https://github.com/lambda-client/lambda) - The ultimate open-source Fabric utility mod written in Kotlin
 - [fahrez182/AxManager](https://github.com/fahrez182/AxManager) - AxManager is an Android application designed to provide deeper control over apps and the system.
 - [uragiristereo/Mikansei](https://github.com/uragiristereo/Mikansei) - Danbooru client for Android
@@ -3169,6 +3174,8 @@
 
 ## Python 
 
+- [milenakos/cat-bot](https://github.com/milenakos/cat-bot) - Discord Cat Bot Source Code
+- [minerva-archive/worker](https://github.com/minerva-archive/worker) - Distributed Minerva Worker
 - [ajslater/comicbox](https://github.com/ajslater/comicbox) - Comic metadata reading & writing library
 - [dfaker/WebmGenerator](https://github.com/dfaker/WebmGenerator) - UI and Automation to cut, filter and join high quality webms, mp4s or gifs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3299,7 +3306,7 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
@@ -3407,6 +3414,7 @@
 - [tehskai/godot-unpacker](https://github.com/tehskai/godot-unpacker) - godot .pck unpacker
 - [YashGoti/crtsh](https://github.com/YashGoti/crtsh) - A Python Script to Get Subdomain using https://crt.sh
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+- [aayushdutt/ncert-downloader](https://github.com/aayushdutt/ncert-downloader) - Quickly scrape NCERT books to PDFs, organized by classes and subjects
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
 - [mrmoein/warp-cloudflare-gui](https://github.com/mrmoein/warp-cloudflare-gui) - A GUI application based on warp-cli for Linux
 - [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
@@ -4009,6 +4017,7 @@
 
 ## TypeScript 
 
+- [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
