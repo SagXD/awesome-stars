@@ -1033,6 +1033,7 @@
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -1094,6 +1095,7 @@
 
 ## HTML 
 
+- [kawaii-not-kawaii/myrient-archieve](https://github.com/kawaii-not-kawaii/myrient-archieve) - A repo with progress reports on my archieval of myrient.
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 - [bigratmonster/bigrat.monster](https://github.com/bigratmonster/bigrat.monster) - a picture of big rat
 - [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
@@ -1755,7 +1757,6 @@
 - [Jakiboy/ReVens](https://github.com/Jakiboy/ReVens) - Windows-based AI-powered Reverse Engineering Toolkit "AIO", Built for Security (Malware analysis, Pentesting) & Educational purposes.
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
 - [vsatyamesc/Bilibili-comic-Downloader](https://github.com/vsatyamesc/Bilibili-comic-Downloader) - download Bilibili manga / manhua / comic images. from https://manga.bilibili.com
-- [BioHapHazard/Freedify](https://github.com/BioHapHazard/Freedify) - Stream music and podcasts from anywhere. Search songs, albums, artists, podcasts, or paste URLs from Spotify, Bandcamp, Archive.org, Phish.in, and more. Inspired by and built off of Spotiflac by afkar
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [AsakiYuki/3d-totem-generator](https://github.com/AsakiYuki/3d-totem-generator) - The easiest method to custom Totem Skin resource packs using player skins! And can also upload to MCPEDL
 - [Chirmaya/BooruSlideshow](https://github.com/Chirmaya/BooruSlideshow) - A Google Chrome extension for a slideshow of boorus.
@@ -1874,7 +1875,6 @@
 - [elbywan/spotify-zeroconf](https://github.com/elbywan/spotify-zeroconf) - Spotify Web API authentication, the easy way.
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [SubZeroPL/cs-rin-ru-enhanced-mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhance your experience at CS.RIN.RU
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [mister-ben/videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui) - Mobile UI for Video.js
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [Haroenv/holmes](https://github.com/Haroenv/holmes) - Fast and easy searching inside a page
@@ -2785,7 +2785,7 @@
 - [CelestialCartographers/Loenn](https://github.com/CelestialCartographers/Loenn) - A Visual Map Maker and Level Editor for the game Celeste but better than the other one
 - [3dreamengine/3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - 3DreamEngine is an *awesome* 3d engine for LÖVE.
 - [MisterDA/love-release](https://github.com/MisterDA/love-release) - :love_letter: Lua script that makes LÖVE game release easier
-- [semyon422/soundsphere](https://github.com/semyon422/soundsphere) - VSRG written in Lua https://discord.gg/ubKMtTk
+- [semyon422/rizu](https://github.com/semyon422/rizu) - The Final Rhythm Game https://discord.gg/ubKMtTk
 - [IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS) - Home of MineOS and it's software for OpenComputers mod
 - [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -3203,6 +3203,7 @@
 - [ElijaxApps-org/android-xmrig-miner](https://github.com/ElijaxApps-org/android-xmrig-miner) - XMRig miner built inside an android app
 - [ethereum/pm](https://github.com/ethereum/pm) - Project Management: Meeting notes and agenda items
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+- [BioHapHazard/Freedify](https://github.com/BioHapHazard/Freedify) - Stream music and podcasts from anywhere. Search songs, albums, artists, podcasts, or paste URLs from Spotify, Bandcamp, Archive.org, Phish.in, and more. Inspired by and built off of Spotiflac by afkar
 - [Bittu5134/ORV-Reader](https://github.com/Bittu5134/ORV-Reader) - ORV-Reader: A website for reading the webnovel Omniscient Reader's Viewpoint and its Side Stories.
 - [Akatmks/Akatsumekusa-Encoding-Scripts](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts) - Progression Boost and other encoding and filtering scripts
 - [GVCoder09/NoDPI4Android](https://github.com/GVCoder09/NoDPI4Android) - NoDPI4Android is an Android app for bypassing the DPI (Deep Packet Inspection)
@@ -4226,7 +4227,7 @@
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - Are you weeb developer looking for free webspace to host your project? Get free subdomain merahputih.moe UwU
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
