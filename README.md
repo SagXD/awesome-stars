@@ -1841,7 +1841,7 @@
 - [miru-project/repo](https://github.com/miru-project/repo) - Miru Repository
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒 𝚍𝚘𝚝 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
-- [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform MediaHarbor
+- [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform Media Ripping and Browsing GUI
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [kyuucr/insert-template-to-editables](https://github.com/kyuucr/insert-template-to-editables) - Firefox add-on for quickly inserting predefined template into editables (e.g., input box, text area).
 - [zJohnWick/cleanfix-config](https://github.com/zJohnWick/cleanfix-config) - Firefox config for better privacy and security with better user experience.
@@ -2772,7 +2772,7 @@
 - [larswijn/CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [PKGaspi/AsepriteScripts](https://github.com/PKGaspi/AsepriteScripts) - My collection of Aseprite Scripts. Useful to make repetitive export patterns quicker.
-- [KaviD-115/Balatro-Jokers-Plus](https://github.com/KaviD-115/Balatro-Jokers-Plus) - Adds Vanilla-esque Jokers and Crossover Jokers from other Game Series
+- [KaviD-115/Worlds-Collide](https://github.com/KaviD-115/Worlds-Collide) - A Vanilla Balanced mix of original and crossover content from iconic videogames.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) - Main game repository for Beyond All Reason.
 - [Aurelius7309/BlackHole](https://github.com/Aurelius7309/BlackHole) - Accessibility/Screenreader mod for Balatro
@@ -3366,7 +3366,7 @@
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
@@ -3754,7 +3754,7 @@
 - [lichess-org/leroyjenkins](https://github.com/lichess-org/leroyjenkins) - Follow ban logs to manage ipsets
 - [19MisterX98/Nether_Bedrock_Cracker](https://github.com/19MisterX98/Nether_Bedrock_Cracker) - Cracks nether seeds from bedrock. JAVA EDITION ONLY
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [stellularorg/crangon](https://github.com/stellularorg/crangon) - Crangon (named after the "Crangon crangon") is a fork of Bundlrs focused on a better user and admin experience.
 - [imLinguin/comet](https://github.com/imLinguin/comet) - Open Source implementation of GOG Galaxy Communication Service for SDK bundled with GOG games.
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
