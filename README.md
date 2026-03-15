@@ -806,7 +806,6 @@
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.
 - [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) - Rich text editor for Flutter
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer) - An alternative Deezer music streaming & downloading client, based on Freezer.
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
@@ -2347,6 +2346,7 @@
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [mshdabiola/Naijaludo](https://github.com/mshdabiola/Naijaludo) - Naija Ludo is a captivating mobile game that brings the classic board game of Ludo into the modern age. Developed by Mshdabiola, this Android game offers stunning graphics, smooth gameplay, and exciti
 - [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
@@ -2579,7 +2579,7 @@
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
 - [quickdesh/Animiru](https://github.com/quickdesh/Animiru) - video player and library manager
-- [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
+- [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [UnifiedPush/fcm-distributor](https://github.com/UnifiedPush/fcm-distributor) - Mirror of https://codeberg.org/UnifiedPush/fcm-distributor
@@ -4253,7 +4253,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [DanielPower/balacord](https://github.com/DanielPower/balacord) - Discord bot for displaying information about Balatro Jokers
 - [watchlonelil/extension](https://github.com/watchlonelil/extension) - 
-- [kleinfreund/balatrolator](https://github.com/kleinfreund/balatrolator) - Score calculator for Balatro
+- [kleinfreund/balatrolator](https://github.com/kleinfreund/balatrolator) - Balatro calculator
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [ligmajohn/mw](https://github.com/ligmajohn/mw) - 
@@ -4358,7 +4358,7 @@
 - [radian628/desmoscript](https://github.com/radian628/desmoscript) - Desmos scripting language and successor to LISPsmos.
 - [aidendotgg/aiden.gg](https://github.com/aidendotgg/aiden.gg) - Personal Portfolio Website
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
-- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server. FUCK AI!
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
