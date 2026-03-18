@@ -347,7 +347,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -400,7 +400,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -420,7 +420,7 @@
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - An open-source library for long-lived processes with realtime, persistence, and hibernation
@@ -945,7 +945,7 @@
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3, Jetpack Compose and more
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [inbasic/turbo-download-manager](https://github.com/inbasic/turbo-download-manager) - a multi-browser download manager with multi-threading support
 - [TachibanaGeneralLaboratories/download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Free and  Open Source software download manager
 - [majidgolshadi/Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - Android/Java download manager library help you to download files in parallel mechanism in some chunks.
@@ -1254,7 +1254,7 @@
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -1325,7 +1325,7 @@
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
@@ -1595,7 +1595,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -2828,7 +2828,7 @@
 - [gumbarros/DevWidgets](https://github.com/gumbarros/DevWidgets) - DevWidgets is a Flutter application with several tools such as generators, formatters and converters for developers. It's directly inspired by DevToys.
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [yubo725/flutter-tetris](https://github.com/yubo725/flutter-tetris) - 基于Flutter的俄罗斯方块小游戏
 - [boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris) - a tetris game powered by flutter. 使用flutter开发俄罗斯方块。
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
@@ -3354,7 +3354,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
@@ -3510,7 +3510,7 @@
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -3856,7 +3856,6 @@
 - [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 - [claytonjhamilton/stackoverflow-badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this unique StackOverflow Badge
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [akanshSirohi/ShareX](https://github.com/akanshSirohi/ShareX) - 🚀 Send and receive files in hassle-free way with fast speed!
@@ -4030,7 +4029,7 @@
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 ## https 
@@ -4039,7 +4038,7 @@
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 
 ## icon-font 
 
@@ -4143,7 +4142,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [theblixguy/DynamicIslandUtilities](https://github.com/theblixguy/DynamicIslandUtilities) - A collection of utilities that provides functionality around the Dynamic Island on the iPhone 14 Pro/Max.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [yubo725/flutter-tetris](https://github.com/yubo725/flutter-tetris) - 基于Flutter的俄罗斯方块小游戏
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
 - [Mijick/Popups](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
@@ -5117,9 +5116,9 @@
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -5297,7 +5296,7 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -5491,7 +5490,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -5700,7 +5699,7 @@
 - [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals) - Your ultimate crystal PvP assistance, ClickCrystals at your service.
 - [tmquan2508/Q-bot-console](https://github.com/tmquan2508/Q-bot-console) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [tr7zw/FirstPersonModel](https://github.com/tr7zw/FirstPersonModel) - Enables the third person Model in firstperson
-- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best Minecraft Bedrock anticheat designed for realms, worlds and, servers
+- [Scythe-Anticheat/Scythe-Anticheat](https://github.com/Scythe-Anticheat/Scythe-Anticheat) - Scythe Anticheat - The best Minecraft Bedrock anticheat designed for realms, worlds, and servers
 - [OBNinjaa/mineflayer-discord-bot](https://github.com/OBNinjaa/mineflayer-discord-bot) - Control your mineflayer bot using Discord slash commands and in-game commands.
 - [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait) - (archived) A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver and a REST-like API for external control
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A Meteor addon focused on adding utility modules and giving users more customization options. Made in honor of Number81.
@@ -6247,9 +6246,9 @@
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -6571,7 +6570,7 @@
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [professorDeveloper/Kitsune-App](https://github.com/professorDeveloper/Kitsune-App) - An Android Anilist & MAL client.  Working With Apollo
 - [phisher98/cloudstream-extensions-phisher](https://github.com/phisher98/cloudstream-extensions-phisher) - Cloudstream Extensions by Phisher
-- [jeryjs/TachiyomiSY-with-discord-RPC](https://github.com/jeryjs/TachiyomiSY-with-discord-RPC) - Fork of TachiyomiSY with discord rich presence supprot
+- [jeryjs/TachiyomiSY-with-discord-RPC](https://github.com/jeryjs/TachiyomiSY-with-discord-RPC) - Fork of TachiyomiSY with discord rich presence support
 - [itsmechinmoy/echo-extensions](https://github.com/itsmechinmoy/echo-extensions) - All Echo Extensions Available
 - [LuftVerbot/echo-deezer-extension](https://github.com/LuftVerbot/echo-deezer-extension) - 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -7685,7 +7684,7 @@
 - [Chaitanya-Pratap-Singh/Meme-Share](https://github.com/Chaitanya-Pratap-Singh/Meme-Share) - 
 - [ironmaniiith/Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - :sunglasses: Write your name using the github commits and make your profile awesome
 - [omidnikrah/profile-activity-generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
-- [saturn-abhishek/todoist-readme](https://github.com/saturn-abhishek/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
+- [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) - 🚧 Updates README with Todoist Stats of a user
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [Faruk-Tutkus/macroaimtrainer](https://github.com/Faruk-Tutkus/macroaimtrainer) - Aim Trainer - Challenge and Tracking
@@ -8310,7 +8309,7 @@
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [lgor360/catgameGTK](https://github.com/lgor360/catgameGTK) - tamagochi but on PyGObject!
@@ -8579,7 +8578,7 @@
 ## reinforcement-learning 
 
 - [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) - Reinforcement Learning environments based on the 1993 game Doom :godmode:
 
 ## rest-api 
@@ -9277,7 +9276,7 @@
 
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 
 ## trading 
 
@@ -9438,7 +9437,7 @@
 - [brandleesee/ePSXe64Ubuntu](https://github.com/brandleesee/ePSXe64Ubuntu) - OBSOLETE - ePSXe64Ubuntu is an interactive script that installs ePSXe Linux (x64) & shaders using BIOS HLE and Core Plugins on x86-64 Debian, Ubuntu, Linux Mint, and their derivatives.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 
 ## ui 
@@ -9896,7 +9895,7 @@
 - [laiiihz/alga](https://github.com/laiiihz/alga) - A powerful tool app for all developers.
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [sheikhhaziq/gyawun_music](https://github.com/sheikhhaziq/gyawun_music) - Immerse yourself in the world of Gyawun, where music knows no bounds. Enjoy uninterrupted, ad-free streaming with an extensive library of songs spanning genres and artists from every corner of the glo
