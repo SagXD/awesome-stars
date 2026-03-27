@@ -1148,7 +1148,7 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
 - [BlossomDNS/register](https://github.com/BlossomDNS/register) - BlossomDNS - Giving Away pro-dev.app, py-dev.io, cool-web.site and pro-dev.site subdomains
-- [voidsnam/jsid.dev](https://github.com/voidsnam/jsid.dev) - A free subdomain for developers.
+- [namtxs/jsid.dev](https://github.com/namtxs/jsid.dev) - A free subdomain for developers.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Trixarian/NetherSX2-classic](https://github.com/Trixarian/NetherSX2-classic) - Continuation of NetherSX2 based on AetherSX2 3668
 - [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Continuation of NetherSX2 based on AetherSX2 4248
@@ -1223,7 +1223,7 @@
 
 ## Java 
 
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
@@ -2458,7 +2458,7 @@
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator written in Kotlin
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - JVM bytecode obfuscator framework
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo) - Share pastes privately, with end to end encryption.
 - [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
@@ -3395,8 +3395,7 @@
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [Owez/yark](https://github.com/Owez/yark) - OSINT for YouTube made simple.
-- [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for Python's removed `platform.linux_distribution()` method
 - [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
@@ -4158,7 +4157,7 @@
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [irokaru/pixel-scaler](https://github.com/irokaru/pixel-scaler) - A pixel art upscaling tool
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
 - [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -4217,6 +4216,7 @@
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [Raiza-Hub/globe](https://github.com/Raiza-Hub/globe) - Discover valuable information about countries worldwide, focusing on their unique climates and currencies with detailed insights into the weather patterns and monetary systems of nations around the gl
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
