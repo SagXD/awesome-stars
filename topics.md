@@ -917,7 +917,7 @@
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [achmadqomarudin/NightMode](https://github.com/achmadqomarudin/NightMode) - 🌓 Enabling switching between Dark Mode and Light Mode in an Android app using Java code base in a few seconds.
 - [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
@@ -3451,7 +3451,7 @@
 - [unfa/liblast](https://github.com/unfa/liblast) - A libre multiplayer FPS game created in Godot Engine
 - [endlessm/godot-block-coding](https://github.com/endlessm/godot-block-coding) - Block-based visual programming plugin for Godot
 - [Praytic/youtd2](https://github.com/Praytic/youtd2) - Classic community-driven session-based Tower Defense game with RPG elements.
-- [BonelessWater/Parasite](https://github.com/BonelessWater/Parasite) - Rogue-like single player game w/ Godot game engine
+- [dominickdupuy/Parasite](https://github.com/dominickdupuy/Parasite) - Rogue-like single player game w/ Godot game engine
 - [m-canton/godot-scene-manager](https://github.com/m-canton/godot-scene-manager) - Scene Manager Plugin for Godot.
 - [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
@@ -4843,7 +4843,7 @@
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - Android app for Modrinth written in Kotlin.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
 - [yash-garg/qBittorrent-Manager](https://github.com/yash-garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
@@ -5260,6 +5260,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## localization 
