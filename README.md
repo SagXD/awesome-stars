@@ -1055,7 +1055,7 @@
 - [gomuks/gomuks](https://github.com/gomuks/gomuks) - A Matrix client written in Go.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go
+- [xvzc/spoofdpi](https://github.com/xvzc/spoofdpi) - Simple and fast anti-censorship tool written in Go
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1954,7 +1954,6 @@
 - [SuperIlu/DOStodon](https://github.com/SuperIlu/DOStodon) - MS-DOS Mastodon client
 - [tmhglnd/total-serialism](https://github.com/tmhglnd/total-serialism) - Toolbox full of Algorithmic Composition methods
 - [internetarchive/dweb-mirror](https://github.com/internetarchive/dweb-mirror) - Offline Internet Archive project
-- [Infinite-Null/NekoFlix](https://github.com/Infinite-Null/NekoFlix) - Introducing Nekoflix, your all-in-one destination for anime and manga enthusiasts! With Nekoflix, users can seamlessly stream their favorite anime and dive into captivating manga series, all without i
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
