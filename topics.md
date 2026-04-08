@@ -5974,7 +5974,7 @@
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven music player with powerful features for Android.
 - [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Youtube Music client for Android, built for performance and extensibility.
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend.
+- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend. Modified version on tidal.squid.wtf
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
 - [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player) - (Archived) An audio file player for macOS, inspired by Winamp.
 - [Tomato6966/Music-Bot-with-Filter](https://github.com/Tomato6966/Music-Bot-with-Filter) - A Music bot made with discord-ytdl-core so you can define filters!
@@ -6509,7 +6509,7 @@
 - [milenakos/cat-bot](https://github.com/milenakos/cat-bot) - Discord Cat Bot Source Code
 - [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
 - [yosefario-dev/NClientV3](https://github.com/yosefario-dev/NClientV3) - A modernized, unofficial NHentai Android client. Fork of NClientV2 by Dar9586.
-- [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
+- [MCLCE/MinecraftConsoles](https://github.com/MCLCE/MinecraftConsoles) - Vanilla LCE intended as an upstream base for other projects. Based originally on a WIP version of the TU19 codebase.
 - [minerva-archive/worker](https://github.com/minerva-archive/worker) - Distributed Minerva Worker
 - [javinizer/Javinizer](https://github.com/javinizer/Javinizer) - (NSFW) Organize your local Japanese Adult Video (JAV) library
 - [ajslater/comicbox](https://github.com/ajslater/comicbox) - Comic metadata reading & writing library
@@ -9911,7 +9911,7 @@
 ## website 
 
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend.
+- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend. Modified version on tidal.squid.wtf
 - [kokororin/pixiv.moe](https://github.com/kokororin/pixiv.moe) - 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity.
 - [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk) - Easy create Android app for website. Wrapper for WebView with userscripts
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
