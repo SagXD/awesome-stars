@@ -404,7 +404,7 @@
 - [chasem-dev/MinecraftConsole-Vulkan](https://github.com/chasem-dev/MinecraftConsole-Vulkan) - Cross platform Vulkan implementation of Minecraft Console.
 - [LCEMP/LCEMP](https://github.com/LCEMP/LCEMP) - A fork of minecraft LCE with LAN multiplayer support and other fixes.
 - [Minecraft-Community-Edition/client](https://github.com/Minecraft-Community-Edition/client) - Minecraft CE Client
-- [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
+- [MCLCE/MinecraftConsoles](https://github.com/MCLCE/MinecraftConsoles) - Vanilla LCE intended as an upstream base for other projects. Based originally on a WIP version of the TU19 codebase.
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
@@ -1015,6 +1015,7 @@
 
 ## Go 
 
+- [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -1293,6 +1294,7 @@
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
 - [TeamGalena/oreganized](https://github.com/TeamGalena/oreganized) - Focusing on adding new ores and metals to Minecraft
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [bonsaistudi0s/CrittersAndCompanions](https://github.com/bonsaistudi0s/CrittersAndCompanions) - Critters and Companions  is a vanilla-style creature mod which will fill the overworld with new animals!
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [InflationX/Calligraphy](https://github.com/InflationX/Calligraphy) - Custom fonts in Android the easy way...
@@ -1652,7 +1654,7 @@
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.1 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
 - [pycatmc/TotemChanger](https://github.com/pycatmc/TotemChanger) - Changes totem pop animation and particles.
@@ -2204,6 +2206,7 @@
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [catppuccin/gitui](https://github.com/catppuccin/gitui) - 🍴 Soothing pastel theme for GitUI
 - [catppuccin/tofi](https://github.com/catppuccin/tofi) - 🪝 Soothing pastel theme for tofi
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [catppuccin/qt5ct](https://github.com/catppuccin/qt5ct) - 🎨 Soothing pastel theme for qt5ct & qt6ct
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship
@@ -2297,7 +2300,6 @@
 - [LuftVerbot/echo-deezer-extension](https://github.com/LuftVerbot/echo-deezer-extension) - 
 - [legendsayantan/Extendroid](https://github.com/legendsayantan/Extendroid) - Android Multi-Tasking Manager with desktop-like multi window and remote access support.
 - [guruswarupa/Launch](https://github.com/guruswarupa/Launch) - Docs
-- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
 - [ubergeek42/weechat-android](https://github.com/ubergeek42/weechat-android) - Simple Weechat-Relay Android Client
@@ -2404,7 +2406,7 @@
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - :blue_book: A diary application optimized for user experience.
-- [sosauce/Chocola](https://github.com/sosauce/Chocola) - Chocola is a cute and powerful offline music player for Android!
+- [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - A multi-platform application for memorizing Japanese language
 - [forzzzzz/Calculator-You](https://github.com/forzzzzz/Calculator-You) - Calculator You is a beautiful calculator for solving simple tasks
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -2567,7 +2569,7 @@
 - [libktx/ktx](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [Myzel394/NumberHub](https://github.com/Myzel394/NumberHub) - ➗ Your Hub for ✖️ Math / 💲 Currency rates / 📆 Date calculations / ⌚ Time zones
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Superior calculator and converter
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Superior Calculator and Converter
 - [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
 - [afollestad/mnml](https://github.com/afollestad/mnml) - 📹 A minimal, beautiful screen recorder for Android.
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
@@ -2677,7 +2679,7 @@
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
-- [sosauce/Vanilla](https://github.com/sosauce/Vanilla) - Vanilla is a cute and elegant calculator app for Android!
+- [sosauce/Vanilla](https://github.com/sosauce/Vanilla) - 🍨 Vanilla is a cute and elegant calculator app for Android!
 - [char/Koffee](https://github.com/char/Koffee) - Java bytecode assembler as a Kotlin DSL
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
@@ -2846,6 +2848,7 @@
 - [inkonchain/docs](https://github.com/inkonchain/docs) - Ink Documentation
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
+- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 
 ## Makefile 
 
@@ -3938,7 +3941,6 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
@@ -4027,7 +4029,7 @@
 
 ## Svelte 
 
-- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend.
+- [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend. Modified version on tidal.squid.wtf
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [MauritsWilke/mcpfp](https://github.com/MauritsWilke/mcpfp) - A website to generate Minecraft profile pictures
 - [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups.
@@ -4063,6 +4065,7 @@
 
 ## TypeScript 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [T3-Content/quipslop](https://github.com/T3-Content/quipslop) - 
@@ -4118,7 +4121,7 @@
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
 - [ronitkrshah/waifu-walls](https://github.com/ronitkrshah/waifu-walls) - Waifu Wallpaper Android App for Weebs
@@ -4337,7 +4340,6 @@
 - [face-hh/bussin](https://github.com/face-hh/bussin) - An esolang in TypeScript, for heaven's sake.
 - [illust-bio/illust.bio](https://github.com/illust-bio/illust.bio) - Free domains for illustrators (or anyone related to illustrations).
 - [willin/domain](https://github.com/willin/domain) - Free Domains 免费域名申请：js.cool/sh.gg/憨憨.我爱你/kaiyuan.fund/css.fund/log.lu/v0.chat etc. The only free one supports Vercel (js.cool).
-- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) - WebExtension port of Random Agent Spoofer
