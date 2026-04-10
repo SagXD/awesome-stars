@@ -1468,7 +1468,7 @@
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
-- [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
+- [soulfiremc-com/SoulFire](https://github.com/soulfiremc-com/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
 - [SealedSaucer/Online-Forever](https://github.com/SealedSaucer/Online-Forever) - Make Your Discord Account 24/7 Online!
 - [PeralStudio/DiscordJS-V14-Bot-V2](https://github.com/PeralStudio/DiscordJS-V14-Bot-V2) - A Discord bot project made with Discord.js v14 and it handles Prefix, Slash, User, Message commands, and Modals
 - [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot) - 🎉 Hold giveaways quickly and easily on your Discord server!
@@ -5838,7 +5838,7 @@
 - [fligger/WurstAutoBuildGen](https://github.com/fligger/WurstAutoBuildGen) - A simple GUI application to generate Wurst compatible autobuild json file templates.
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [fligger/FateInjector](https://github.com/fligger/FateInjector) - The Fate Client Themed UWP app dll Injector
-- [AlexProgrammerDE/SoulFire](https://github.com/AlexProgrammerDE/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
+- [soulfiremc-com/SoulFire](https://github.com/soulfiremc-com/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
 - [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Ivaynn/TurtleCraft](https://github.com/Ivaynn/TurtleCraft) - A Minecraft data pack that adds programmable turtles
@@ -6480,6 +6480,7 @@
 
 ## others 
 
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [nikilster/clawflows](https://github.com/nikilster/clawflows) - ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows.
 - [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude) - 
@@ -6519,7 +6520,7 @@
 - [ajslater/comicbox](https://github.com/ajslater/comicbox) - Comic metadata reading & writing library
 - [bigratmonster/bigrat.monster](https://github.com/bigratmonster/bigrat.monster) - a picture of big rat
 - [Xlythe/MinecraftClock](https://github.com/Xlythe/MinecraftClock) - 
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天、一键NSFW、号池并发与自动负载均衡一体化。
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [TheRealDevKat/farm-check](https://github.com/TheRealDevKat/farm-check) - 
