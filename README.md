@@ -1215,6 +1215,7 @@
 
 ## HolyC 
 
+- [Zeal-Operating-System/ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.
 - [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
 
 ## Inno Setup 
@@ -1893,6 +1894,7 @@
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [micha4w/kde-alt-f4-desktop](https://github.com/micha4w/kde-alt-f4-desktop) - KWin Script to show Logout screen when Pressing Alt-F4 on the desktop
@@ -2787,6 +2789,7 @@
 
 ## Lua 
 
+- [26F-Studio/Techmino](https://github.com/26F-Studio/Techmino) - Techmino:方块研究所唯一官方仓库(Github)
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
 - [jonniek/mpv-filenavigator](https://github.com/jonniek/mpv-filenavigator) - Navigate and open your local files in mpv
 - [Dudemanguy/mpv-manga-reader](https://github.com/Dudemanguy/mpv-manga-reader) - Manga reading script for mpv
@@ -3156,7 +3159,6 @@
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
 - [mdshack/shotshare](https://github.com/mdshack/shotshare) - Open source image sharing application
 - [RikudouSage/LemmySchedule](https://github.com/RikudouSage/LemmySchedule) - App for scheduling posts, pins/unpins and notifications about new content
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
 - [Atnode/Minecraft-SkinViewer](https://github.com/Atnode/Minecraft-SkinViewer) - Minecraft SkinViewer allows you to display a skin from a web address or from a Minecraft username.
