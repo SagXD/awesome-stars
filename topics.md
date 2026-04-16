@@ -517,7 +517,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - From the developers that brought you the greatest modded YouTube apps, comes Morphe - the powerful app modification tool that puts you in control
 - [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [e18lab/NHApp](https://github.com/e18lab/NHApp) - nhentai app is a modern and lightweight android and pc client for nhentai
 - [GVCoder09/NoDPI4Android](https://github.com/GVCoder09/NoDPI4Android) - NoDPI4Android is an Android app for bypassing the DPI (Deep Packet Inspection)
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
@@ -762,7 +762,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org former mobile application / new one -&gt; github.com/lichess-org/mobile
 - [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp) - An app for catching up on things.
 - [Exodus-Privacy/exodus-android-app](https://github.com/Exodus-Privacy/exodus-android-app) - εxodus Android application
@@ -1975,7 +1975,7 @@
 ## cryptography 
 
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 - [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -2108,7 +2108,7 @@
 - [Crazy-Marvin/FucksGiven](https://github.com/Crazy-Marvin/FucksGiven) - Count How Many Fucks You Give 🖕
 - [Apoorv-cloud/Flutter_Ludo](https://github.com/Apoorv-cloud/Flutter_Ludo) - Basic Ludo Game with Flutter which will run on both iOS and Android without any UI glitches.
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter). Mirror of main repository https://git.allpurposem.at/mat/Sudoku
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
@@ -2789,7 +2789,7 @@
 ## flutter 
 
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [notFaad/coom-dl](https://github.com/notFaad/coom-dl) - Coomer| kemono  .party or su downloader
 - [biplobsd/running_services_monitor](https://github.com/biplobsd/running_services_monitor) - Monitor running services on your Android device. With a clean and intuitive interface, you can easily view system and user apps, check their status efficiently.
 - [khoadng/Boorusama](https://github.com/khoadng/Boorusama) - A mobile client for booru sites built with Flutter
@@ -2839,7 +2839,7 @@
 - [nizwar/ludo_flutter](https://github.com/nizwar/ludo_flutter) - Ludo game with Flutter
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
@@ -3510,7 +3510,7 @@
 
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -4116,7 +4116,7 @@
 
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [keepassium/KeePassium](https://github.com/keepassium/KeePassium) - KeePass-compatible password manager for iOS and macOS
-- [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [darriousliu/PiPixiv](https://github.com/darriousliu/PiPixiv) - 一个使用Compose Multiplatform开发的第三方Pixiv客户端，支持国内直连
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -4153,7 +4153,7 @@
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [jordond/kmpalette](https://github.com/jordond/kmpalette) - 🎨 A Compose multiplatform port for Androidx Palette. Generate a color palette from an image.
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org former mobile application / new one -&gt; github.com/lichess-org/mobile
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
@@ -5234,7 +5234,7 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) - The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -5930,7 +5930,7 @@
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [blake502/balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
@@ -7075,7 +7075,7 @@
 - [illiliti/ssu](https://github.com/illiliti/ssu) - Extremely simple su utility
 - [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
-- [Fuzss/puzzleslib](https://github.com/Fuzss/puzzleslib) - Why it's called Puzzles, you ask? That's the puzzle!
+- [Fuzss/puzzles-lib](https://github.com/Fuzss/puzzles-lib) - Why it's called Puzzles, you ask? That's the puzzle!
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - Forked from the lightly theme, this style brings a fresh and unique look to your applications
@@ -8262,7 +8262,7 @@
 ## prompt-engineering 
 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -8692,7 +8692,7 @@
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
-- [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Revolt. Community-led project.
+- [upryzing/clerotri](https://github.com/upryzing/clerotri) - React Native client for Upryzing and Stoat/Revolt. Community-led project.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [abadawe-dev/NoFasel](https://github.com/abadawe-dev/NoFasel) - A streaming app with no ADs.
