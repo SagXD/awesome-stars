@@ -291,7 +291,6 @@
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [Xcube-Studio/Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) - A Minecraft launcher specifically designed for Windows 11, delivering a clean and smooth visual experience.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [Hawkynt/2dimagefilter](https://github.com/Hawkynt/2dimagefilter) - A collection of image filters, some especially suited to scale-up low res computer graphics.
 - [scp222thj/MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 - [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -769,7 +768,7 @@
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## CoffeeScript 
 
@@ -1133,6 +1132,7 @@
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
+- [Hawkynt/2dimagefilter](https://github.com/Hawkynt/2dimagefilter) - A collection of image filters, some especially suited to scale-up low res computer graphics.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [uBlockOrigin/uAssetsCDN](https://github.com/uBlockOrigin/uAssetsCDN) - CDN content mirroring uAssets
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -1268,7 +1268,6 @@
 - [tr7zw/PaperDoll](https://github.com/tr7zw/PaperDoll) - Shows a Bedrock/PocketEdition like highly configurable PaperDoll.
 - [tr7zw/ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweaks to the inventory system based on Xisumavoid's video.
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
-- [crispytwig/Naturalist](https://github.com/crispytwig/Naturalist) - 🦌 Enhances the overworld by adding new wildlife with unique behavior!
 - [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - An enhanced Android experience for Backloggd. Get native push notifications for your activity and stay up-to-date
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
@@ -2405,7 +2404,7 @@
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
-- [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
+- [sayaka-sh/spmp](https://github.com/sayaka-sh/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - :blue_book: A diary application optimized for user experience.
@@ -3371,7 +3370,7 @@
 - [deepseek-ai/DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 - [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
-- [ogx-ai/llama-stack](https://github.com/ogx-ai/llama-stack) - Composable building blocks to build LLM Apps
+- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Composable building blocks to build LLM Apps
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
