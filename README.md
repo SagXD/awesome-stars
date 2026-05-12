@@ -685,7 +685,7 @@
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [b1scoito/clicker](https://github.com/b1scoito/clicker) - Advanced Minecraft auto-clicker made in C++
 - [nicolascarlino/Minecraft-Autoclicker](https://github.com/nicolascarlino/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
-- [bunchizmus/lithium.rip](https://github.com/bunchizmus/lithium.rip) - the official source-code leak of lithiumclient.wtf
+- [dystoferris/lithium.rip](https://github.com/dystoferris/lithium.rip) - the official source-code leak of lithiumclient.wtf
 - [IoeCmcomc/MCDatapacker](https://github.com/IoeCmcomc/MCDatapacker) - A Minecraft datapack maker and editor for 1.15 – 1.20.4 data packs
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
@@ -846,7 +846,7 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
-- [kra-mo/Sly](https://github.com/kra-mo/Sly) - Mirrored from https://codeberg.org/kramo/Sly
+- [kra-mo/Sly](https://github.com/kra-mo/Sly) - Mirrored from https://codeberg.org/Sly/Sly
 - [maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes) - Simple, local, material design notes
 - [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) - An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy
@@ -1410,6 +1410,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [AlmostReliable/almostunified](https://github.com/AlmostReliable/almostunified) - A Minecraft mod to unify resources.
 - [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android) - Vespucci is a OpenStreetMap editor for Android
+- [3000IQPlay/HashChecker](https://github.com/3000IQPlay/HashChecker) - Scans hashes of files in a specific directory at once using the SHA-256 algorithm. Useful for verifying backups, checking for file corruption, and ensuring file integrity.
 - [DimensionalDevelopment/DimDoors](https://github.com/DimensionalDevelopment/DimDoors) - A rewrite of the classic mod: Dimensional Doors
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
 - [dulvui/sn4ke](https://github.com/dulvui/sn4ke) - Archived and moved to https://codeberg.org/dulvui/sn4ke
@@ -1814,7 +1815,6 @@
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [cthboss001/PixelDrain-Direct-Video-Streamer](https://github.com/cthboss001/PixelDrain-Direct-Video-Streamer) - # PixelDrain Direct Video Streamer  A simple web tool to stream any video hosted on PixelDrain directly in your browser — without needing to download it first.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [puzzlerush/mangastack](https://github.com/puzzlerush/mangastack) - Front-end web client for MangaDex.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [Walkoud/raidbotdiscord](https://github.com/Walkoud/raidbotdiscord) - create your bot discord raid in discord.js node.js
@@ -1830,6 +1830,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [chandler-stimson/live-stream-downloader](https://github.com/chandler-stimson/live-stream-downloader) - Download M3U8 live streams to the local disk
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
@@ -1849,6 +1850,7 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [miru-project/repo](https://github.com/miru-project/repo) - Miru Repository
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒 𝚍𝚘𝚝 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
@@ -2219,7 +2221,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed cross-platform music tracker for Last.fm, ListenBrainz, Libre.fm, Pleroma and other compatible services
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed scrobbler for Android, Windows & Linux. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. Edit scrobbles, view charts, show Discord Rich Presence and more
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
 - [AppFuton/Futon](https://github.com/AppFuton/Futon) - Manga reader for Android
@@ -2836,7 +2838,6 @@
 
 ## MDX 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [inkonchain/docs](https://github.com/inkonchain/docs) - Ink Documentation
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -2920,6 +2921,7 @@
 - [Turnip-Labs/bta-fabric-instance-repo](https://github.com/Turnip-Labs/bta-fabric-instance-repo) - 
 - [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) - A curated list of FOSS Android TV apps
 - [doingodswork/awesome-stremio](https://github.com/doingodswork/awesome-stremio) - A curated list of awesome tools and addons for Stremio
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [vorapis-yt/v3](https://github.com/vorapis-yt/v3) - Bring Back Old YouTube Web Layout
 - [rebelonion/rebelonion](https://github.com/rebelonion/rebelonion) - 
 - [ProviceUnify/DotClick](https://github.com/ProviceUnify/DotClick) - Dot-typed cursors based on Capitaine Cursors
@@ -3092,11 +3094,13 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [auraside/Hone](https://github.com/auraside/Hone) - 
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
+- [3000IQPlay/M3dC3t-leaked](https://github.com/3000IQPlay/M3dC3t-leaked) - BUSINESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 - [devsyedmohsin/css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - Handmade collection of css tips tricks. Give it a star if you find it useful 🌟
 - [CoolClientCollectorz/future-for-everyone](https://github.com/CoolClientCollectorz/future-for-everyone) - Providing Future to everyone, free of charge
 - [jven123/BreatheClicker](https://github.com/jven123/BreatheClicker) - a minecraft clicker (Breathe some air)
 - [Pickleft/SwiftConfigs](https://github.com/Pickleft/SwiftConfigs) - 
 - [Gatohost/gatoclient](https://github.com/Gatohost/gatoclient) - Gatoclient Rewritten - What people would have wanted
+- [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list) - List of all the somewhat popular and non-popular Java obfuscators on the Internet.
 - [Gav06/Gav06](https://github.com/Gav06/Gav06) - 
 - [adryd325/chat-lag-fix](https://github.com/adryd325/chat-lag-fix) - Fixes Minecraft client lag from receiving chat messages
 - [McTsts/Minecraft-Shaders-Wiki](https://github.com/McTsts/Minecraft-Shaders-Wiki) - A wiki all about glsl shaders in Minecraft.
@@ -3116,7 +3120,6 @@
 - [AntoniSofron/oCd-Pack-Vanilla](https://github.com/AntoniSofron/oCd-Pack-Vanilla) - Minecraft oCd pack 16x
 - [isuewo/OverimaginedShaders](https://github.com/isuewo/OverimaginedShaders) - A Complementary Reimagined edit
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
-- [Foxxey/NullClient](https://github.com/Foxxey/NullClient) - Just a krunker.io client :D
 - [Xyverle/MattPack](https://github.com/Xyverle/MattPack) - The MattPack
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [alfaaarex/awesome-tweaks](https://github.com/alfaaarex/awesome-tweaks) - 💻 List of awesome programs and tweaks for Windows, macOS and Linux.
@@ -3219,7 +3222,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [ElijaxApps-org/android-xmrig-miner](https://github.com/ElijaxApps-org/android-xmrig-miner) - XMRig miner built inside an android app
@@ -4188,7 +4191,6 @@
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -4203,7 +4205,7 @@
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [RezaRafia/Speedy](https://github.com/RezaRafia/Speedy) - Combine multiple internet connections to maximize your speed
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
