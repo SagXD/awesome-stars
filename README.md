@@ -911,7 +911,6 @@
 
 ## EJS 
 
-- [ashleyirispuppy143/poke](https://github.com/ashleyirispuppy143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashleyirispuppy/poke)
 - [d3ward/toolz](https://github.com/d3ward/toolz) - Project Archived - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
 
 ## Elixir 
@@ -1861,6 +1860,7 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [activitypods/activitypods](https://github.com/activitypods/activitypods) - Brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
+- [ashleyirispuppy143/poke](https://github.com/ashleyirispuppy143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashleyirispuppy/poke)
 - [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari.
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [SN-Koarashi/ig-helper](https://github.com/SN-Koarashi/ig-helper) - Simple download of photos, videos, stories, reels, or profile pictures from Instagram.
@@ -2221,7 +2221,7 @@
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature packed scrobbler for Android, Windows & Linux. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. Edit scrobbles, view charts, show Discord Rich Presence and more
+- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [nomoresat/DPITunnel-android](https://github.com/nomoresat/DPITunnel-android) - 
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
 - [AppFuton/Futon](https://github.com/AppFuton/Futon) - Manga reader for Android
@@ -3277,7 +3277,7 @@
 - [BassHous3/taggarr](https://github.com/BassHous3/taggarr) - Dub analysis & tagging.
 - [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4205 Windows x64
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -3690,8 +3690,8 @@
 - [hanatsumi/rakuyomi](https://github.com/hanatsumi/rakuyomi) - A manga reader plugin for KOReader.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
-- [Adolar0042/warden](https://github.com/Adolar0042/warden) - A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [Adolar0042/warden](https://github.com/Adolar0042/warden) - [MIRROR] A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -4182,7 +4182,7 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
