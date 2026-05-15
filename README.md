@@ -399,9 +399,7 @@
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) - Fast, Sharp & Reliable Agentic Intelligence
 - [chasem-dev/MinecraftConsole-Vulkan](https://github.com/chasem-dev/MinecraftConsole-Vulkan) - Cross platform Vulkan implementation of Minecraft Console.
-- [LCEMP/LCEMP](https://github.com/LCEMP/LCEMP) - A fork of minecraft LCE with LAN multiplayer support and other fixes.
 - [Minecraft-Community-Edition/client](https://github.com/Minecraft-Community-Edition/client) - Minecraft CE Client
-- [MCLCE/MinecraftConsoles](https://github.com/MCLCE/MinecraftConsoles) - Vanilla LCE intended as an upstream base for other projects. Originally based on a WIP version of TU19.
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [UZDoom/UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
@@ -1044,6 +1042,7 @@
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [mdlayher/apcupsd_exporter](https://github.com/mdlayher/apcupsd_exporter) - Prometheus exporter that exposes metrics from apcupsd's NIS. MIT Licensed.
 - [NyaaPantsu/nyaa](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang
+- [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -1604,7 +1603,7 @@
 - [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) - Java Driver for Apache Cassandra®
 - [Everyday-Programmer/Android-Stopwatch](https://github.com/Everyday-Programmer/Android-Stopwatch) - This repository contains code of android stopwatch made using java.
 - [sinkillerj/ProjectE](https://github.com/sinkillerj/ProjectE) - ProjectE. A complete rewrite of EE2 for modern Minecraft versions.
-- [SKRInternationals/TouchDroid](https://github.com/SKRInternationals/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
+- [vitaminncpp/TouchDroid](https://github.com/vitaminncpp/TouchDroid) - An Android App that can be used as laptop touchpad via local Network
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [martinmimigames/tiny-music-player](https://github.com/martinmimigames/tiny-music-player) - Android 1.0+ &lt;20KB minimal notification based audio player
 - [martinmimigames/little-music-player](https://github.com/martinmimigames/little-music-player) - Android 1.0+ mini notification based audio player
@@ -3202,6 +3201,7 @@
 
 ## Python 
 
+- [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
@@ -3338,7 +3338,7 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
@@ -3654,7 +3654,6 @@
 - [otwcode/otwarchive](https://github.com/otwcode/otwarchive) - The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [wordnik/wordnik-ruby](https://github.com/wordnik/wordnik-ruby) - The official wordnik gem.
-- [nning/transmission-rss](https://github.com/nning/transmission-rss) - Adds torrents from RSS feeds to Transmission web frontend
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
@@ -3757,6 +3756,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -4253,7 +4253,7 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
@@ -4479,7 +4479,6 @@
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## mcfunction 
 
