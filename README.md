@@ -369,7 +369,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [u16rogue/csgo_external_cs](https://github.com/u16rogue/csgo_external_cs) - External CS:GO cheat written in C#. Comes with Trigger-bot, Radar ESP, and Glow ESP. Uses pattern scanning for offsets to lessen maintenance every update of the game.
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
+- [3fbaea00/MinecraftESP](https://github.com/3fbaea00/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [Pickleft/Window-Manager](https://github.com/Pickleft/Window-Manager) - Window Automation & Management for .Net C#
 - [Pickleft/HCF-Switcher](https://github.com/Pickleft/HCF-Switcher) - Armor Set Switcher For HCF / Similar Mini-Games. (Macro-Switch)
@@ -4188,7 +4188,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
