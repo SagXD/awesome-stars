@@ -445,7 +445,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -490,7 +490,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 
@@ -2000,7 +2000,7 @@
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, BlueSky, TikTok, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [notFaad/coom-dl](https://github.com/notFaad/coom-dl) - Coomer| kemono  .party or su downloader
 - [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -2058,7 +2058,7 @@
 - [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
 - [PintaProject/Pinta](https://github.com/PintaProject/Pinta) - Simple GTK Paint Program
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
+- [3fbaea00/MinecraftESP](https://github.com/3fbaea00/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Pickleft/Imgur-Downloader](https://github.com/Pickleft/Imgur-Downloader) - Downloads Pics & Gifs & Videos From Imgur With Specific Keywords.
 
 ## css 
@@ -3713,7 +3713,7 @@
 - [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.
 - [maxnut/GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay) - Free geometry dash mod menu with useful features such as: startpos switcher, show hitboxes, internal recorder, macro bot, clickbot and much more
 - [lina-x64/MeteorServerSeeker](https://github.com/lina-x64/MeteorServerSeeker) - Dead project
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
+- [3fbaea00/MinecraftESP](https://github.com/3fbaea00/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Sjnez613/RenoSense-Rewrite](https://github.com/Sjnez613/RenoSense-Rewrite) - Rewrite with oyvey
 - [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku) - Lightweight, dependency-free Minecraft 1.12.2 hack
 - [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient) - Minecraft 1.8.9 forge hacked client based on LiquidBounce.
@@ -5338,7 +5338,7 @@
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -5555,7 +5555,7 @@
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
@@ -5923,7 +5923,7 @@
 - [toolbox4minecraft/amidst](https://github.com/toolbox4minecraft/amidst) - Advanced Minecraft Interface and Data/Structure Tracking
 - [mircokroon/minecraft-world-downloader](https://github.com/mircokroon/minecraft-world-downloader) - Download Minecraft worlds, extend server's render distance. 1.12.2 - 1.21
 - [RedCarlos26/HIGTools](https://github.com/RedCarlos26/HIGTools) - Highway Tools for Meteor Client.
-- [Yoticc/MinecraftESP](https://github.com/Yoticc/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
+- [3fbaea00/MinecraftESP](https://github.com/3fbaea00/MinecraftESP) - Internal ESP hack in C# for Java Minecraft
 - [Sjnez613/RenoSense-Rewrite](https://github.com/Sjnez613/RenoSense-Rewrite) - Rewrite with oyvey
 - [moneymod/moneymod](https://github.com/moneymod/moneymod) - 1.12.2 crystalpvp modification (especially for non strict servers like cc)
 - [SkidwareMC/Skidware-Client](https://github.com/SkidwareMC/Skidware-Client) - Minecraft Injection Client
