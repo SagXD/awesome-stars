@@ -357,7 +357,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
@@ -434,7 +434,7 @@
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1645,7 +1645,7 @@
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1935,7 +1935,7 @@
 
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
@@ -2639,7 +2639,6 @@
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [fxfactorial/ocaml-emoji](https://github.com/fxfactorial/ocaml-emoji) - Emojis in OCaml, use them in your CLIs or whatever
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -2648,7 +2647,7 @@
 ## emulator 
 
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Improved fork of https://github.com/Detanup01/gbe_fork for Goldberg Steam Emulator, originally developed by Mr_Goldberg - https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
@@ -2751,7 +2750,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 
 ## firebase 
 
@@ -3742,7 +3741,7 @@
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [MonochromeCMS/Monochrome](https://github.com/MonochromeCMS/Monochrome) - Finally a proper manga CMS
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
@@ -3808,7 +3807,7 @@
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -5707,7 +5706,7 @@
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -6367,7 +6366,7 @@
 - [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin) - A 100% Open Source app that tries to make personal finances easier. Fast, simple, without ads, without the need for an Internet connection and with a groundbreaking design, that's Monekin.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
@@ -6467,7 +6466,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -8810,7 +8809,7 @@
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [Jakiboy/ReVens](https://github.com/Jakiboy/ReVens) - Windows-based AI-powered Reverse Engineering Toolkit "AIO", Built for Security (Malware analysis, Pentesting) & Educational purposes.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
@@ -8915,7 +8914,7 @@
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -10029,7 +10028,7 @@
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [EUCPilots/vcredist](https://github.com/EUCPilots/vcredist) - Lifecycle management for the Microsoft Visual C++ Redistributables
