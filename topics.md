@@ -609,7 +609,7 @@
 - [RevEngiSquad/revengi-app](https://github.com/RevEngiSquad/revengi-app) - Your all-in-one toolkit for reverse engineering: Smali Grammar, DexRepair, Flutter Analysis and much more...
 - [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
 - [Moustachauve/WLED-Android](https://github.com/Moustachauve/WLED-Android) - Native Android application for WLED
@@ -689,7 +689,7 @@
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [Crustack/NotallyX](https://github.com/Crustack/NotallyX) - Minimalistic Android note taking App | Notally, but eXtended.
 - [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - :blue_book: A diary application optimized for user experience.
@@ -2961,7 +2961,7 @@
 ## framework 
 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-- [byronka/minum](https://github.com/byronka/minum) - The smallest fully-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
+- [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
 - [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
@@ -4270,7 +4270,7 @@
 
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
-- [byronka/minum](https://github.com/byronka/minum) - The smallest fully-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
+- [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
 - [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android
@@ -4631,7 +4631,7 @@
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 - [Suwayomi/Suwayomi-JUI](https://github.com/Suwayomi/Suwayomi-JUI) - A Suwayomi-Server client built in Compose Multiplatform
 - [iTaysonLab/jetispot](https://github.com/iTaysonLab/jetispot) - experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
@@ -4648,7 +4648,7 @@
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [sayaka-sh/spmp](https://github.com/sayaka-sh/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [syt0r/Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) - A multi-platform application for memorizing Japanese language
@@ -4799,7 +4799,7 @@
 - [mueller-ma/Coffee](https://github.com/mueller-ma/Coffee) - Android Quick Tile To Keep Screen On
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [RBN-Apps/Quick-Tile-Settings](https://github.com/RBN-Apps/Quick-Tile-Settings) - An Android app that supplies Quick Settings tiles for toggling system preferences. It currently offers Private DNS (Off/Auto/Different Hostnames) and USB Debugging (On/Off) with optional auto-revert.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [HarshAndroid/MusicPlayer-Android-Kotlin](https://github.com/HarshAndroid/MusicPlayer-Android-Kotlin) - Simple and Feature Rich Music Player Application.
 - [terrakok/WikWok](https://github.com/terrakok/WikWok) - WikWok is a beautiful and functional app that transforms your Wikipedia reading experience into an engaging, TikTok-style article feed. Learn something new with every scroll!
 - [pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder) - RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin
@@ -4829,7 +4829,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built wit
+- [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary) - :blue_book: A diary application optimized for user experience.
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [forzzzzz/Calculator-You](https://github.com/forzzzzz/Calculator-You) - Calculator You is a beautiful calculator for solving simple tasks
@@ -4841,7 +4841,7 @@
 - [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time.
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
-- [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+- [ktlint/ktlint](https://github.com/ktlint/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -5628,7 +5628,7 @@
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [BioHazard786/Alternate](https://github.com/BioHazard786/Alternate) - 📞 Privacy-focused caller ID React Native app. Identify unknown callers locally without cluttering your main contacts. Built with Expo, Material Design 3, and custom native modules.
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [enrique-lozano/Monekin](https://github.com/enrique-lozano/Monekin) - A 100% Open Source app that tries to make personal finances easier. Fast, simple, without ads, without the need for an Internet connection and with a groundbreaking design, that's Monekin.
 - [chr56/Phonograph_Plus](https://github.com/chr56/Phonograph_Plus) - Yet another independent fork of kabouzeid/Phonograph -- a  revived classic material designed music player for Android
@@ -6675,7 +6675,7 @@
 - [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) - 使用 Material Design 3 全新设计的阅读 3.0
 - [phisher98/CXXX](https://github.com/phisher98/CXXX) - CXXX
 - [Blorp-Labs/blorp](https://github.com/Blorp-Labs/blorp) - Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!
-- [nicopowa/jspek](https://github.com/nicopowa/jspek) - Acoustic spectrum analyser
+- [nicopowa/jspek](https://github.com/nicopowa/jspek) - acoustic spectrum analyser
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [lambda-client/lambda](https://github.com/lambda-client/lambda) - The ultimate open-source Fabric utility mod written in Kotlin
 - [mirarr-app/Noisem](https://github.com/mirarr-app/Noisem) - An Android app to edit images Retro Style.
@@ -8216,7 +8216,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [ashleyirispuppy143/poke](https://github.com/ashleyirispuppy143/poke) - They made youtube front-ends woke.... (mirror from https://codeberg.org/ashleyirispuppy/poke)
-- [nikolas-trey/TextCloak](https://github.com/nikolas-trey/TextCloak) - A tool for concealing writing style using LLM
+- [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [Andrews54757/Anti-Anti-Debug](https://github.com/Andrews54757/Anti-Anti-Debug) - Be able to use developer tools again on user-hostile websites
@@ -9048,7 +9048,7 @@
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [nikolas-trey/TextCloak](https://github.com/nikolas-trey/TextCloak) - A tool for concealing writing style using LLM
+- [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
 
 ## self-hosted 
 
@@ -9908,7 +9908,7 @@
 
 ## web 
 
-- [byronka/minum](https://github.com/byronka/minum) - The smallest fully-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
+- [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
