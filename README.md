@@ -1136,7 +1136,6 @@
 - [ConorCorp/corp-website](https://github.com/ConorCorp/corp-website) - 
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [mirfatif/PermissionManagerX](https://github.com/mirfatif/PermissionManagerX) - eXtended Permission Manager for Android - view, set, watch Manifest Permissions and AppOps
 - [styluslabs/Write](https://github.com/styluslabs/Write) - Cross-platform app with unique features for editing and organizing handwritten notes
 - [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside.
@@ -2930,6 +2929,7 @@
 - [EdgeIY/infiniteyield](https://github.com/EdgeIY/infiniteyield) - Infinite Yield admin commands
 - [Bohema-developers/VenomHack-leak](https://github.com/Bohema-developers/VenomHack-leak) - VenomHack addon for meteor 1.20.1
 - [Serilum/.issue-tracker](https://github.com/Serilum/.issue-tracker) - Tracks all issues for Serilum's Minecraft mods on CurseForge and Modrinth.
+- [nndl/nndl](https://github.com/nndl/nndl) - 邱锡鹏《神经网络与深度学习》（蒲公英书）理论书 v2 与通识版
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
@@ -3331,7 +3331,7 @@
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Spec-driven development for large codebases
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
-- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
+- [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - 
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
