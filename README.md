@@ -59,6 +59,7 @@
 - [Pawn](#pawn)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [QML](#qml)
 - [QuakeC](#quakec)
@@ -466,7 +467,7 @@
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [BaumFX/cpp-anti-debug](https://github.com/BaumFX/cpp-anti-debug) - anti debugging library in c++.
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
@@ -507,7 +508,7 @@
 - [KDE/elisa](https://github.com/KDE/elisa) - Simple music player aiming to provide a nice experience for its users
 - [omeryusufyagci/fast-music-remover](https://github.com/omeryusufyagci/fast-music-remover) - A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.
 - [spacecamper/miny](https://github.com/spacecamper/miny) - A minesweeper clone for Linux.
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.19.1][Functional] Chromium Embedded Framework Webview for Godot 4
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) - [Plugin][Version 0.19.3][Functional] Chromium Embedded Framework Webview for Godot 4
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Improved fork of https://github.com/Detanup01/gbe_fork for Goldberg Steam Emulator, originally developed by Mr_Goldberg - https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -1158,7 +1159,6 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [semanticdata/firefox-discord-in-sidebar](https://github.com/semanticdata/firefox-discord-in-sidebar) - Firefox extension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle withi
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics
@@ -2761,7 +2761,6 @@
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
-- [SooStrator1136/FlightRadar4k](https://github.com/SooStrator1136/FlightRadar4k) - API for FlightRadar24 written in kotlin.
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
 - [lambda-plugins/HighwayTools](https://github.com/lambda-plugins/HighwayTools) - Advanced highway building bot
 - [lambda-client/cape-api](https://github.com/lambda-client/cape-api) - Our Cape API
@@ -3198,6 +3197,10 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+
+## PureBasic 
+
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 
 ## Python 
 
