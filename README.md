@@ -290,6 +290,7 @@
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [Xcube-Studio/Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) - A Minecraft launcher specifically designed for Windows 11, delivering a clean and smooth visual experience.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
+- [Hawkynt/2dimagefilter](https://github.com/Hawkynt/2dimagefilter) - A collection of image filters, some especially suited to scale-up low res computer graphics.
 - [scp222thj/MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules
 - [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) - A cute running cat animation on your windows taskbar.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -1128,7 +1129,6 @@
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
-- [Hawkynt/2dimagefilter](https://github.com/Hawkynt/2dimagefilter) - A collection of image filters, some especially suited to scale-up low res computer graphics.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [uBlockOrigin/uAssetsCDN](https://github.com/uBlockOrigin/uAssetsCDN) - CDN content mirroring uAssets
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -1315,7 +1315,7 @@
 - [SlimeKnights/Mantle](https://github.com/SlimeKnights/Mantle) - Public shared library for Forge mods
 - [TeamPeril/Sculk-Horde](https://github.com/TeamPeril/Sculk-Horde) - Sculk Hoard implements a new end-game era to your game that once activated, will force you to fight against the newly awaked ancient sculk hoard in order to survive. This ancient enemy seeks to infect
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [elementdavv/chaka](https://github.com/elementdavv/chaka) - Android book reader
 - [TwelveIterations/Waystones](https://github.com/TwelveIterations/Waystones) - Minecraft Mod. Adds waystones you can teleport to after they've been activated.
 - [InLieuOfLuna/elytra-recast](https://github.com/InLieuOfLuna/elytra-recast) - Recasts elytra when you land on the floor holding space
@@ -1743,7 +1743,7 @@
 - [moechakucha/BTAExampleMod-babric](https://github.com/moechakucha/BTAExampleMod-babric) - BTA Example Mod but with Babric
 - [Wurst-Imperium/Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
-- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter
 - [Sol-Client/client](https://github.com/Sol-Client/client) - A fairly good Minecraft client I guess!
 - [ponei/elixe](https://github.com/ponei/elixe) - minecraft 1.8.9 utility modification
 - [pesshown/Skilled-Client-v3](https://github.com/pesshown/Skilled-Client-v3) - Forge Ghost client 1.8.9
