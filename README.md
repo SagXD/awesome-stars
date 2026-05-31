@@ -1258,7 +1258,7 @@
 - [tr7zw/PaperDoll](https://github.com/tr7zw/PaperDoll) - Shows a Bedrock/PocketEdition like highly configurable PaperDoll.
 - [tr7zw/ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweaks to the inventory system based on Xisumavoid's video.
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
-- [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - An enhanced Android experience for Backloggd. Get native push notifications for your activity and stay up-to-date
+- [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - This is an Android application for the website backloggd.com. It provides a native-feeling experience with its own navigation, improved UI/UX, and integrated Android features.
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
 - [fantahund/cr3stal](https://github.com/fantahund/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
