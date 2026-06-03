@@ -1093,7 +1093,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -1847,7 +1847,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [miru-project/repo](https://github.com/miru-project/repo) - Miru Repository
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒 𝚍𝚘𝚝 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
@@ -2355,7 +2355,7 @@
 - [max-kammerer/orion-viewer](https://github.com/max-kammerer/orion-viewer) - Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
 - [Lambada10/SongSync](https://github.com/Lambada10/SongSync) - Android app to download lyrics for songs in your music library.
-- [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) - Unofficial MangaDex Reader for Android 7+
+- [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) - Unofficial MangaDex Reader for Android 8+
 - [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnail
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -3610,7 +3610,7 @@
 - [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [Levi2288/Anti-Discord-Token-Grab](https://github.com/Levi2288/Anti-Discord-Token-Grab) - Protect your discord against shit pasted token loggers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - ✨A Telegram Bot with open source code, which implemented django and a dating system
+- [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Free Again an open source dating platform
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
