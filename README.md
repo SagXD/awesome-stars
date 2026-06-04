@@ -274,7 +274,6 @@
 
 ## C# # 
 
-- [betasharp-official/betasharp](https://github.com/betasharp-official/betasharp) - Minecraft Beta 1.7.3 written in C#
 - [vocoder712/OpenUtauMobile](https://github.com/vocoder712/OpenUtauMobile) - OpenUtau Mobile 是一个面向移动端的开源免费歌声合成软件； OpenUtau Mobile is a free and open-source singing voice synthesis software for mobile devices.
 - [Squaresweets/Ultrakill-in-Ultrakill](https://github.com/Squaresweets/Ultrakill-in-Ultrakill) - 
 - [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
@@ -4096,7 +4095,7 @@
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [OctoNezd/oldlander](https://github.com/OctoNezd/oldlander) - WebExt for to make old reddit more usable on phone
-- [google/A2UI](https://github.com/google/A2UI) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Legacy message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 - [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
