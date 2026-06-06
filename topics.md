@@ -1139,7 +1139,7 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [cot-rs/cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
@@ -1878,7 +1878,7 @@
 - [XORbit01/retro](https://github.com/XORbit01/retro) - 📼 play musics with command line on linux
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -2031,7 +2031,6 @@
 
 ## csharp 
 
-- [betasharp-official/betasharp](https://github.com/betasharp-official/betasharp) - Minecraft Beta 1.7.3 written in C#
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [Xcube-Studio/Natsurainko.FluentLauncher](https://github.com/Xcube-Studio/Natsurainko.FluentLauncher) - A Minecraft launcher specifically designed for Windows 11, delivering a clean and smooth visual experience.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -2530,7 +2529,6 @@
 
 ## dotnet 
 
-- [betasharp-official/betasharp](https://github.com/betasharp-official/betasharp) - Minecraft Beta 1.7.3 written in C#
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
@@ -2954,7 +2952,7 @@
 
 ## font 
 
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
@@ -2969,7 +2967,7 @@
 - [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [cot-rs/cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
@@ -3671,7 +3669,7 @@
 - [lanyeeee/bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader) - 哔哩哔哩漫画 bilibili漫画 B漫 的多线程下载器，带图形界面 支持导出cbz，已打包exe
 - [openconnect/openconnect-gui](https://github.com/openconnect/openconnect-gui) - MOVED TO https://gitlab.com/openconnect/openconnect-gui
 - [gerbil/kubegui](https://github.com/gerbil/kubegui) - Free Kubernetes desktop client with minimalistic UI and simplified workflow
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
@@ -4287,7 +4285,7 @@
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
 - [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
 - [luaj/luaj](https://github.com/luaj/luaj) - Lightweight, fast, Java-centric Lua interpreter written for JME and JSE, with string, table, package, math, io, os, debug, coroutine & luajava libraries, JSR-223 bindings, all metatags, weak tables an
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
@@ -5071,7 +5069,7 @@
 ## library 
 
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [Ladysnake/Satin](https://github.com/Ladysnake/Satin) - A Fabric library to help with shader usage
 - [TeamMidnightDust/MidnightLib](https://github.com/TeamMidnightDust/MidnightLib) - Lightweight annotation-based config library for Minecraft Java mods. Compatible with Fabric, Quilt and NeoForge!
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -5171,7 +5169,7 @@
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
@@ -5493,7 +5491,7 @@
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
@@ -5744,7 +5742,6 @@
 
 - [tranarchy/nicotine](https://github.com/tranarchy/nicotine) - Minecraft utility mod for anarchy servers (26.1.2)
 - [koutsie/MinecraftClock_Nuo](https://github.com/koutsie/MinecraftClock_Nuo) - Updated Minecraft Clock Widget (API 21+, Targetting 34).
-- [betasharp-official/betasharp](https://github.com/betasharp-official/betasharp) - Minecraft Beta 1.7.3 written in C#
 - [v-pun215/Argon](https://github.com/v-pun215/Argon) - A feature-rich Minecraft Launcher built in Python.
 - [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
 - [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
@@ -6080,7 +6077,7 @@
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Moosync/Moosync-electron](https://github.com/Moosync/Moosync-electron) - Music player capable of playing local audio or from Youtube, Spotify and many more
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
@@ -6502,8 +6499,7 @@
 
 ## opengl 
 
-- [betasharp-official/betasharp](https://github.com/betasharp-official/betasharp) - Minecraft Beta 1.7.3 written in C#
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [yvt/openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
@@ -6670,7 +6666,7 @@
 - [Nudin/mpv-script-directory](https://github.com/Nudin/mpv-script-directory) - A machine-readable directory of scripts and other tools for mpv.
 - [Dudemanguy/mpv-manga-reader](https://github.com/Dudemanguy/mpv-manga-reader) - Manga reading script for mpv
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
-- [google/A2UI](https://github.com/google/A2UI) - 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 - [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
@@ -6852,7 +6848,7 @@
 - [HydeYYHH/litube](https://github.com/HydeYYHH/litube) - Litube is an advanced webview wrapper for YouTube.
 - [NineWorlds/serenity-android](https://github.com/NineWorlds/serenity-android) - An Android client for the Emby Media Servers optimized for Television displays.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
@@ -8436,7 +8432,6 @@
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [Cynthion21x/Calcuslugs](https://github.com/Cynthion21x/Calcuslugs) - An artillery game about slugs killing each other using maths
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
@@ -9444,7 +9439,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -9671,7 +9666,7 @@
 ## ui 
 
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a cross-platform UI runtime
+- [BloCamLimb/ModernUI](https://github.com/BloCamLimb/ModernUI) - ModernUI is a comprehensive UI engine and desktop application framework & runtime
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -9862,7 +9857,6 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
 - [openconnect/openconnect-gui](https://github.com/openconnect/openconnect-gui) - MOVED TO https://gitlab.com/openconnect/openconnect-gui
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 - [alex47exe/gse_fork](https://github.com/alex47exe/gse_fork) - Improved fork of https://github.com/Detanup01/gbe_fork for Goldberg Steam Emulator, originally developed by Mr_Goldberg - https://gitlab.com/Mr_Goldberg/goldberg_emulator
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
