@@ -4611,7 +4611,7 @@
 ## jetpack-compose 
 
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
-- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
 - [BobbyESP/Metadator](https://github.com/BobbyESP/Metadator) - An Android ID3 metadata editor and music player built with Jetpack Compose and Material 3
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
@@ -4777,7 +4777,7 @@
 
 - [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven music player with powerful features for Android.
-- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
 - [sadellie/sukko](https://github.com/sadellie/sukko) - KWGT alternative to create custom Android widgets
 - [D4vidDf/HyperBridge](https://github.com/D4vidDf/HyperBridge) - Bring the native Dynamic Island experience to HyperOS. Bridges android notifications into HyperIslands.
@@ -5627,7 +5627,7 @@
 
 ## material-design 
 
-- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
 - [avoonix/material-e621](https://github.com/avoonix/material-e621) - Material e621 is a modern, open source web client for e621.net. It is customizable, comes with a bunch of additional features that are not available on e621.net, and makes browsing posts a delightful 
@@ -6047,7 +6047,7 @@
 ## music 
 
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven music player with powerful features for Android.
-- [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
+- [ArchiveTuneApp/ArchiveTune](https://github.com/ArchiveTuneApp/ArchiveTune) - The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.
 - [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Feature rich scrobbler for Windows, Linux & Android. Supports Last.fm, ListenBrainz, Libre.fm & Pleroma. With regex edits, charts & Discord Rich Presence on PC.
 - [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend. Modified version on tidal.squid.wtf
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
