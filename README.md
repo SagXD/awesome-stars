@@ -466,7 +466,6 @@
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
 - [BaumFX/cpp-anti-debug](https://github.com/BaumFX/cpp-anti-debug) - anti debugging library in c++.
 - [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [gem5/gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
@@ -2940,7 +2939,7 @@
 - [simtrami/posy-improved-cursor-linux](https://github.com/simtrami/posy-improved-cursor-linux) - Posy's improved cursors by Michiel de Boer, available as cursor themes.
 - [An-anonymous-coder/Open-Source-Everything](https://github.com/An-anonymous-coder/Open-Source-Everything) - Open Source Everything: A curated list of the best open source software
 - [vinegarhq/sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
-- [Fuzss/puzzles-lib](https://github.com/Fuzss/puzzles-lib) - Why it's called Puzzles, you ask? That's the puzzle!
+- [Fuzss/puzzles-lib](https://github.com/Fuzss/puzzles-lib) - Why is it called Puzzles? That's the puzzle.
 - [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [Enchanted-Games/block-place-particles](https://github.com/Enchanted-Games/block-place-particles) - (Particle Interactions) A Minecraft mod that adds particles to various interactions in the game, such as placing a block or tilling dirt.
@@ -2960,7 +2959,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [avidseeker/awesome-areweyet](https://github.com/avidseeker/awesome-areweyet) - Current adoption status of various technologies
-- [UmbraC2/UmbraC2](https://github.com/UmbraC2/UmbraC2) - 
+- [GlitchFisher/GlitchFisher](https://github.com/GlitchFisher/GlitchFisher) - 
 - [Keksuccino/FancyMenu](https://github.com/Keksuccino/FancyMenu) - Source code for FancyMenu.
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
@@ -3689,7 +3688,7 @@
 - [thelaao/phixiv](https://github.com/thelaao/phixiv) - pixiv embed fixer.
 - [hanatsumi/rakuyomi](https://github.com/hanatsumi/rakuyomi) - A manga reader plugin for KOReader.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
 - [Adolar0042/warden](https://github.com/Adolar0042/warden) - [MIRROR] A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -3931,6 +3930,7 @@
 - [eworm-de/xcur2png](https://github.com/eworm-de/xcur2png) - fork of original xcur2png
 - [Katze-942/xcursor-massive-resize](https://github.com/Katze-942/xcursor-massive-resize) - 
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) - A shell script for searching for links on torrent sites
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
