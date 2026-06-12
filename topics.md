@@ -1050,7 +1050,7 @@
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [Mufanc/AppLock](https://github.com/Mufanc/AppLock) - 【MIUI】防止应用被侧滑杀死或一键清理
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
@@ -1275,7 +1275,7 @@
 - [willin/domain](https://github.com/willin/domain) - Free Domains 免费域名申请：js.cool/sh.gg/憨憨.我爱你/kaiyuan.fund/css.fund/log.lu/v0.chat etc. The only free one supports Vercel (js.cool).
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
@@ -1349,7 +1349,7 @@
 - [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
@@ -3663,7 +3663,7 @@
 
 ## gui 
 
-- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [lanyeeee/bilibili-manga-watermark-remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) - bilibili漫画 哔哩哔哩漫画 B漫 去水印工具(无痕 无损)，带图形界面，已打包exe
 - [lanyeeee/bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader) - 哔哩哔哩漫画 bilibili漫画 B漫 的多线程下载器，带图形界面 支持导出cbz，已打包exe
@@ -4274,7 +4274,7 @@
 ## java 
 
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
-- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers
 - [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
 - [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
