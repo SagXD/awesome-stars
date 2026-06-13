@@ -255,6 +255,7 @@
 - [adamharrison/lite-xl-terminal](https://github.com/adamharrison/lite-xl-terminal) - A terminal plugin for lite-xl.
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [Aetopia/AppLifecycleOptOut](https://github.com/Aetopia/AppLifecycleOptOut) - A tool to prevent UWP apps from being suspended.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [bradharding/doomretro](https://github.com/bradharding/doomretro) - The classic, refined DOOM source port. For Windows PC.
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
@@ -354,7 +355,6 @@
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 - [DaxEleven/Rule34.xxx-Downloader](https://github.com/DaxEleven/Rule34.xxx-Downloader) - The program for downloading content from the rule34.xxx
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [dotnet/dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented as .NET console applications primarily for providing education and inspiration. :)
 - [ssannandeji/Zenject-2019](https://github.com/ssannandeji/Zenject-2019) - Dependency Injection Framework for Unity3D
 - [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
@@ -1225,7 +1225,7 @@
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app
 - [tranarchy/nicotine](https://github.com/tranarchy/nicotine) - Minecraft utility mod for anarchy servers (26.1.2)
-- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+- [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers
 - [byronka/minum](https://github.com/byronka/minum) - The smallest rock-solid deeply-tested TDD-designed all-essentials-included non-magic zero-dependency minimalist Java web application framework
 - [yosefario-dev/NClientV3](https://github.com/yosefario-dev/NClientV3) - A modernized, unofficial NHentai Android client. Fork of NClientV2 by Dar9586.
 - [koutsie/MinecraftClock_Nuo](https://github.com/koutsie/MinecraftClock_Nuo) - Updated Minecraft Clock Widget (API 21+, Targetting 34).
@@ -3030,7 +3030,7 @@
 - [TrilliumSolutions/GoldGrinder-3.0](https://github.com/TrilliumSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [nw-cn/awesome-nwjs](https://github.com/nw-cn/awesome-nwjs) - Awesome NW.js (node-webkit)
 - [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups!
@@ -3608,7 +3608,7 @@
 - [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [Levi2288/Anti-Discord-Token-Grab](https://github.com/Levi2288/Anti-Discord-Token-Grab) - Protect your discord against shit pasted token loggers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Free Again an open source dating platform
+- [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Great Again an open source dating platform
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
@@ -3688,7 +3688,7 @@
 - [thelaao/phixiv](https://github.com/thelaao/phixiv) - pixiv embed fixer.
 - [hanatsumi/rakuyomi](https://github.com/hanatsumi/rakuyomi) - A manga reader plugin for KOReader.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [dkbednarczyk/marl](https://github.com/dkbednarczyk/marl) - Deezer ARL manager
 - [Adolar0042/warden](https://github.com/Adolar0042/warden) - [MIRROR] A CLI for Git profiles and OAuth credentials, with rule-based profile selection and a built-in git credential helper.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
