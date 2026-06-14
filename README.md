@@ -1671,7 +1671,6 @@
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [TheKisDevs/LavaHack-Public](https://github.com/TheKisDevs/LavaHack-Public) - #ZaПобеду
 - [cqb13/Numby-hack](https://github.com/cqb13/Numby-hack) - A Meteor addon focused on adding utility modules and giving users more customization options. Made in honor of Number81.
-- [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - A fabric client mod to mine bedrock!
 - [thebest9178/Unminable-Meteor](https://github.com/thebest9178/Unminable-Meteor) - A port of LXYan2333's Fabric-Bedrock-Miner to Meteor addon.
 - [PoopenfartenDevelopment/BedrockMinerAddon](https://github.com/PoopenfartenDevelopment/BedrockMinerAddon) - 
 - [BuildTheEarth/terraplusplus](https://github.com/BuildTheEarth/terraplusplus) - A feature-rich fork of Terra121 focusing on performance.
@@ -2262,7 +2261,7 @@
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) - A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
 - [aka-munan/keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
 - [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
@@ -2758,6 +2757,7 @@
 - [Weave-MC/Weave-Loader](https://github.com/Weave-MC/Weave-Loader) - Universal Minecraft Client Mod-Loader, written in Kotlin
 - [Weave-MC/Weave-Gradle](https://github.com/Weave-MC/Weave-Gradle) - Gradle build system plugin used to automate the setup of a modding environment.
 - [ya-ilya/AutoFrameDupePlugin](https://github.com/ya-ilya/AutoFrameDupePlugin) - Plugin for LavaHack
+- [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - A fabric client mod to mine bedrock!
 - [liquidbounceplusreborn/LiquidbouncePlus-Reborn](https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client) - Minecraft Forge 1.8.9 hacked client, Based on LiquidBounce+
 - [lambda-plugins/BookBot](https://github.com/lambda-plugins/BookBot) - Writes to books.
@@ -3123,7 +3123,7 @@
 - [FireFox-CSS/Game-Modding-Tools](https://github.com/FireFox-CSS/Game-Modding-Tools) - List Of Some Tools For Game Modding (Unity).
 - [FireFox-CSS/tweaks](https://github.com/FireFox-CSS/tweaks) - 💻 List of awesome programs and tweaks for Windows
 - [LISTEN-moe/documentation](https://github.com/LISTEN-moe/documentation) - Repo that hosts all of our docs
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Trace back an anime scene with a screenshot
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
 
 ## PHP 
 
@@ -3792,6 +3792,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine.
 - [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
@@ -4253,7 +4254,6 @@
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
-- [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
