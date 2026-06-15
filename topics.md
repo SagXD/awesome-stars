@@ -1625,7 +1625,7 @@
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 - [VeryBigSad/unnamedBot](https://github.com/VeryBigSad/unnamedBot) - A minecraft chat bot for anarchy servers (similar to mooomooo)
 
 ## chatgpt 
@@ -5764,6 +5764,7 @@
 - [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) - A simple Minecraft modpack focusing on performance and graphics enhancements.
 - [Ladysnake/Satin](https://github.com/Ladysnake/Satin) - A Fabric library to help with shader usage
 - [realnnpg/glazed](https://github.com/realnnpg/glazed) - Meteor client addon for DonutSMP
+- [TeamGalena/oreganized](https://github.com/TeamGalena/oreganized) - Focusing on adding new ores and metals to Minecraft
 - [Blocktopograph/Blocktopograph](https://github.com/Blocktopograph/Blocktopograph) - A world editor for Minecraft, cross-platform.
 - [TelepathicGrunt/StructureTutorialMod](https://github.com/TelepathicGrunt/StructureTutorialMod) - A short example showing how to register a structure and get it to generate in all biomes in NeoForge, Forge, and Fabric! (check the branches)
 - [Ninjabrain1/Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
@@ -6488,7 +6489,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 
 ## opencv 
 
@@ -6571,7 +6572,7 @@
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - HyperOS enhancement module - Make HyperOS Great Again!
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-- [theovilardo/PixelPlayer](https://github.com/theovilardo/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
+- [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [surge-synthesizer/OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
@@ -6790,7 +6791,6 @@
 - [nekotrix/auto-boost-algorithm](https://github.com/nekotrix/auto-boost-algorithm) - 
 - [nekotrix/SVT-AV1-Essential](https://github.com/nekotrix/SVT-AV1-Essential) - A no-nonsense SVT-AV1 encoder fork with sensible defaults and Quality of Life improvements.
 - [HelloWorld096/pixel-silhouette](https://github.com/HelloWorld096/pixel-silhouette) - Transform your PNG or JPG images into crisp, black-and-white icons with clean white backgrounds. Perfect for generating simple, clear silhouettes for various uses.
-- [TeamGalena/oreganized](https://github.com/TeamGalena/oreganized) - Focusing on adding new ores and metals to Minecraft
 - [antijingoist/opendyslexic](https://github.com/antijingoist/opendyslexic) - OpenDyslexic, a typeface that uses typeface shapes & features to help offset some visual symptoms of Dyslexia. Now in SIL-OFL.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [professorDeveloper/Kitsune-App](https://github.com/professorDeveloper/Kitsune-App) - An Android Anilist & MAL client.  Working With Apollo
@@ -8505,7 +8505,7 @@
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨 (closed)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Great Again an open source dating platform
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 - [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
@@ -9375,7 +9375,7 @@
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 
 ## telegram-bot 
 
