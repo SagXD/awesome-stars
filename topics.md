@@ -576,7 +576,6 @@
 - [JackEblan/YagniLauncher](https://github.com/JackEblan/YagniLauncher) - You Aren't Gonna Need It Android Launcher From Scratch
 - [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -749,7 +748,7 @@
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
@@ -1146,7 +1145,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
 - [DevCraftClub/StreamTape](https://github.com/DevCraftClub/StreamTape) - Unoffical API wrapper for https://streamtape.com
@@ -1244,7 +1243,7 @@
 - [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 - [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
 - [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
-- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
+- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast GUI autoclicker for x11 linux desktops
 
 ## awesome 
 
@@ -1490,7 +1489,7 @@
 - [turt2live/matrix-bot-sdk](https://github.com/turt2live/matrix-bot-sdk) - TypeScript/JavaScript SDK for Matrix bots
 - [dishapatel010/SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Snapchat Bot to get Public Stories 👻 on Telegram
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
-- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
+- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A elegantly enhanced Telegram Bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl 
 - [etaxi341/FreeSteamGames-TelegramBot](https://github.com/etaxi341/FreeSteamGames-TelegramBot) - A Telegram Bot that sends you a message when a game on steam is free
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 - [azalea-rs/azalea](https://github.com/azalea-rs/azalea) - A collection of Rust crates for making Minecraft bots, clients, and tools.
@@ -1549,7 +1548,7 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
+- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast GUI autoclicker for x11 linux desktops
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
 ## c-plus-plus 
@@ -4186,7 +4185,6 @@
 - [darriousliu/PiPixiv](https://github.com/darriousliu/PiPixiv) - 一个使用Compose Multiplatform开发的第三方Pixiv客户端，支持国内直连
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player) - Flutter Music Player - First Open Source Flutter based material design music player with audio plugin to play local music files.
 - [Tweener/alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
 - [aayush2622/Dartotsu](https://github.com/aayush2622/Dartotsu) - A multiplatform tracking client based on Dantotsu
@@ -4310,10 +4308,10 @@
 - [robolectric/robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 - [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM bytecode obfuscator framework
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM obfuscator with native-obf support
 - [stipple-effect/stipple-effect](https://github.com/stipple-effect/stipple-effect) - Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)
 - [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [peterosterlund2/droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish Android Chess App
@@ -4473,7 +4471,7 @@
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [collidingScopes/shimmer](https://github.com/collidingScopes/shimmer) - Turn photos into oscillating wave animations, using javascript / HTML5 canvas
 - [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js) - Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD.
 - [open-emojify/emojify](https://github.com/open-emojify/emojify) - Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.
@@ -4863,7 +4861,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM bytecode obfuscator framework
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM obfuscator with native-obf support
 - [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Mastodon and Friendica
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [LiveFastEatTrashRaccoon/RaccoonForLemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) - A Kotlin Multiplatform client for Lemmy
@@ -5103,7 +5101,6 @@
 - [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) - Anarchy Linux - A simple and intuitive Arch Linux installer. https://anarchyinstaller.org/
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -5294,7 +5291,7 @@
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [eHonnef/afk-clicker](https://github.com/eHonnef/afk-clicker) - An AFK clicker that allow to simulate keystrokes (mouse or keyboard) even if the window isn't focused.
-- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast gui autoclicker for x11 linux desktops
+- [robiot/xclicker](https://github.com/robiot/xclicker) - XClicker - Fast GUI autoclicker for x11 linux desktops
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -5741,7 +5738,7 @@
 
 ## minecraft 
 
-- [tranarchy/nicotine](https://github.com/tranarchy/nicotine) - Minecraft utility mod for anarchy servers (26.1.2)
+- [tranarchy/nicotine](https://github.com/tranarchy/nicotine) - Minecraft utility mod for anarchy servers (26.2)
 - [koutsie/MinecraftClock_Nuo](https://github.com/koutsie/MinecraftClock_Nuo) - Updated Minecraft Clock Widget (API 21+, Targetting 34).
 - [v-pun215/Argon](https://github.com/v-pun215/Argon) - A feature-rich Minecraft Launcher built in Python.
 - [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
@@ -6383,7 +6380,7 @@
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [An-anonymous-coder/Open-Source-Everything](https://github.com/An-anonymous-coder/Open-Source-Everything) - Open Source Everything: A curated list of the best open source software
 - [thegatesbrowser/thegates](https://github.com/thegatesbrowser/thegates) - 3D internet browser build with Godot Engine
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [thedev-me/register](https://github.com/thedev-me/register) - Get your free '{name}.thedev.me' domain
 - [open-emojify/emojify](https://github.com/open-emojify/emojify) - Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.
 - [techlore/Plexus-app](https://github.com/techlore/Plexus-app) - Remove the fear of Android app compatibility on de-Googled devices.
@@ -6554,6 +6551,8 @@
 
 ## others 
 
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
+- [WolframResearch/Arrival-Movie-Live-Coding](https://github.com/WolframResearch/Arrival-Movie-Live-Coding) - Documents from a live coding session by Christopher Wolfram related to content from the 2016 film Arrival
 - [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - A demake of Balatro for the GBA
@@ -8454,7 +8453,7 @@
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [psi314/ktxpy](https://github.com/psi314/ktxpy) - Python Compiler/ide For Android with Material3
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
-- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl serv
+- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) - A elegantly enhanced Telegram Bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl 
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [amit9838/mousam](https://github.com/amit9838/mousam) - Weather at a glance
@@ -8823,7 +8822,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
-- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM bytecode obfuscator framework
+- [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM obfuscator with native-obf support
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -9331,6 +9330,7 @@
 
 ## telegram 
 
+- [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
 - [daisyUniverse/TwitFix](https://github.com/daisyUniverse/TwitFix) - Fix Twitter video embeds in Discord (and Telegram!)
@@ -10030,7 +10030,6 @@
 - [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [EUCPilots/vcredist](https://github.com/EUCPilots/vcredist) - Lifecycle management for the Microsoft Visual C++ Redistributables
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
