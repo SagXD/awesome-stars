@@ -284,7 +284,6 @@
 - [CosmicPredator/AniMoe-Legacy](https://github.com/CosmicPredator/AniMoe-Legacy) - An Unofficial Windows 10 & 11 app for AniList.co
 - [Alex4SSB/ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
-- [Crunchy-DL/Crunchy-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) - A simple crunchyroll downloader that allows you to download your favorite series and episodes directly from Crunchyroll
 - [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
@@ -1256,7 +1255,7 @@
 - [tr7zw/PaperDoll](https://github.com/tr7zw/PaperDoll) - Shows a Bedrock/PocketEdition like highly configurable PaperDoll.
 - [tr7zw/ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweaks to the inventory system based on Xisumavoid's video.
 - [tr7zw/Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS!
-- [wagenknecht/Backloggd-Android-App](https://github.com/wagenknecht/Backloggd-Android-App) - This is an Android application for the website backloggd.com. It provides a native-feeling experience with its own navigation, improved UI/UX, and integrated Android features.
+- [wagenknecht/backloggd-android-app](https://github.com/wagenknecht/backloggd-android-app) - This is an Android application for the website backloggd.com. It provides a native-feeling experience with its own navigation, improved UI/UX, and integrated Android features.
 - [Captain-Chaos/WorldPainter](https://github.com/Captain-Chaos/WorldPainter) - WorldPainter is an interactive graphical map generator for the indie game Minecraft.
 - [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings
 - [fantahund/cr3stal](https://github.com/fantahund/cr3stal) - A Minecraft mod that turns End Crystals into Rubik's Cubes
@@ -1269,7 +1268,6 @@
 - [StoneEggs/AlienPlus](https://github.com/StoneEggs/AlienPlus) - A powerful 2b2t client, modified from Alien. 一个强大的 2b2t 客户端，魔改自 Alien。
 - [hammertater/treechop](https://github.com/hammertater/treechop) - 
 - [MehVahdJukaar/amendments](https://github.com/MehVahdJukaar/amendments) - 
-- [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [JamiesWhiteShirt/reach-entity-attributes](https://github.com/JamiesWhiteShirt/reach-entity-attributes) - Library of entity attributes for armor, tools, potions, etc. to increase or decrease reach distance and attack range
 - [joshuawolfsohn/Private-DNS-Quick-Tile](https://github.com/joshuawolfsohn/Private-DNS-Quick-Tile) - A simple app that adds a quick tile to toggle the Private DNS settings on Android 9.0+
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
@@ -2261,6 +2259,7 @@
 - [DrawAnywhere/DrawAnywhere](https://github.com/DrawAnywhere/DrawAnywhere) - DrawAnywhere is an Android application that lets you draw on top of other apps.
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) - A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
+- [YasserNull/shappky](https://github.com/YasserNull/shappky) - A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
 - [aka-munan/keysync](https://github.com/aka-munan/keysync) - Play games using mouse and keyboard on Android device
 - [galaxygoldfish/pineapple](https://github.com/galaxygoldfish/pineapple) - 🍍 Reddit client for Android using Material You
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A third-party client for the Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and o
