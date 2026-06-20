@@ -374,7 +374,6 @@
 - [Pickleft/Window-Manager](https://github.com/Pickleft/Window-Manager) - Window Automation & Management for .Net C#
 - [Pickleft/HCF-Switcher](https://github.com/Pickleft/HCF-Switcher) - Armor Set Switcher For HCF / Similar Mini-Games. (Macro-Switch)
 - [BedrockLauncher/BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
-- [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
 - [Pickleft/EasyHook](https://github.com/Pickleft/EasyHook) - A Simple GUI App To Control Your Discord Webhook
 - [Pickleft/MC-Grabber](https://github.com/Pickleft/MC-Grabber) - Minecraft & Lunar Grabber For : Session ID & UUID & Username & Access Token
 - [Pickleft/Animator](https://github.com/Pickleft/Animator) - C# Form Display Animation.
@@ -680,6 +679,7 @@
 - [stuffbydavid/Mine-imator](https://github.com/stuffbydavid/Mine-imator) - 3D movie maker based on the sandbox game Minecraft
 - [dillongoostudios/goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+- [MCMrARM/mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher.
 - [b1scoito/clicker](https://github.com/b1scoito/clicker) - Advanced Minecraft auto-clicker made in C++
 - [nicolascarlino/Minecraft-Autoclicker](https://github.com/nicolascarlino/Minecraft-Autoclicker) - A simple autoclicker in C++ with randomization, undetected.
 - [dystoferris/lithium.rip](https://github.com/dystoferris/lithium.rip) - the official source-code leak of lithiumclient.wtf
@@ -4076,7 +4076,7 @@
 - [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
