@@ -1500,7 +1500,7 @@
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.2 Fishing bot for Minecraft
 - [rzashakeri/Instagram-Assistant](https://github.com/rzashakeri/Instagram-Assistant) - Features: 📥  📤  📈  🎲  👤  🆓
 - [soulfiremc-com/SoulFire](https://github.com/soulfiremc-com/SoulFire) - 🧙 Advanced Minecraft Bot Tool. Deploy automated bots for server testing, automation, and development.
 - [PeralStudio/DiscordJS-V14-Bot-V2](https://github.com/PeralStudio/DiscordJS-V14-Bot-V2) - A Discord bot project made with Discord.js v14 and it handles Prefix, Slash, User, Message commands, and Modals
@@ -4389,7 +4389,7 @@
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.2 Fishing bot for Minecraft
 - [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [pycatmc/TotemChanger](https://github.com/pycatmc/TotemChanger) - Changes totem pop animation and particles.
@@ -5903,7 +5903,7 @@
 - [atxi/Polymer](https://github.com/atxi/Polymer) - In-development Minecraft client using C++ and Vulkan.
 - [lina-x64/MeteorServerSeeker](https://github.com/lina-x64/MeteorServerSeeker) - Dead project
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.2 Fishing bot for Minecraft
 - [ConcreteMC/Alex](https://github.com/ConcreteMC/Alex) - A Minecraft client written in C# aimed at compatibility with MC:Java & MC:Bedrock
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [AntiCope/anticope.ml](https://github.com/AntiCope/anticope.ml) - Welcome to the AntiCope Website! Here you can find a list of free and open-source Meteor Client addons as well as other client-side Fabric Minecraft mods.
