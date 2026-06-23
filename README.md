@@ -1464,7 +1464,6 @@
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
 - [FxMorin/MoreCulling](https://github.com/FxMorin/MoreCulling) - Stop rendering things you can't see. A minecraft mod that changes how multiple types of culling are handled in order to improve performance
-- [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [RedCarlos26/WiderTab](https://github.com/RedCarlos26/WiderTab) - A mod that extends the tablist to fit more players.
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
@@ -1554,7 +1553,6 @@
 - [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [Chisel-Team/Chisel](https://github.com/Chisel-Team/Chisel) - A builder's best friend
 - [gsantner/memetastic](https://github.com/gsantner/memetastic) - Meme Creator for Android - Simple & Ad-Free
@@ -1639,7 +1637,7 @@
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.1.2 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.2 Fishing bot for Minecraft
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
 - [pycatmc/TotemChanger](https://github.com/pycatmc/TotemChanger) - Changes totem pop animation and particles.
@@ -1900,6 +1898,7 @@
 - [pxlsspace/pxls-web](https://github.com/pxlsspace/pxls-web) - Web client for pxls.space
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [placeAtlas/atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
+- [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [alexcmgit/lofi-player](https://github.com/alexcmgit/lofi-player) - Web lofi-player built to learn HTML, CSS and JavaScript.
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [sharukhi/lofi-box](https://github.com/sharukhi/lofi-box) - ✨ Relaxing lo-fi tunes directly within your web browser.
@@ -2199,7 +2198,7 @@
 
 ## Kotlin 
 
-- [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A native Android document reader application built with Kotlin and Jetpack Compose.
+- [Aryan-Raj3112/episteme](https://github.com/Aryan-Raj3112/episteme) - A multi-platform document and e-book reader.
 - [evergreentree97/easy-shimmer-compose](https://github.com/evergreentree97/easy-shimmer-compose) - a lightweight library that simplifies adding shimmer effects to your Jetpack Compose
 - [HaoweiLi97/mihon_img_upscale](https://github.com/HaoweiLi97/mihon_img_upscale) - A high-performance Mihon fork featuring integrated AI upscaling (Real-CUGAN, Real-ESRGAN, Waifu2x) to enhance low-resolution manga in real-time.
 - [mardous/BoomingMusic](https://github.com/mardous/BoomingMusic) - Clean, fast, and Material-driven music player with powerful features for Android.
@@ -2354,7 +2353,7 @@
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
 - [Lambada10/SongSync](https://github.com/Lambada10/SongSync) - Android app to download lyrics for songs in your music library.
 - [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) - Unofficial MangaDex Reader for Android 8+
-- [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnail
+- [panpf/sketch](https://github.com/panpf/sketch) - Image loading library designed for Compose Multiplatform and Android View. Supports loading Image, GIF, SVG, Video thumbnails from the network, local, resources, and photo albums.
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
@@ -2545,6 +2544,7 @@
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
 - [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
+- [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [storeforminecraft/SkinViewAndroid](https://github.com/storeforminecraft/SkinViewAndroid) - Shows Minecraft skins in 2D and 3D on Android
@@ -3495,7 +3495,7 @@
 - [jc141x/releases-feed](https://github.com/jc141x/releases-feed) - Our releases scraped into various machine readable files (CSV, JSON, RSS)
 - [sharkwouter/minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
-- [couleur-tweak-tips/Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Smoothie is python is abandonned, please see couleur-tweak-tips/smoothie-rs
+- [couleur-tweak-tips/Smoothie](https://github.com/couleur-tweak-tips/Smoothie) - Smoothie in python is abandoned, see couleur-tweak-tips/smoothie-rs
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
 - [0xf4b1/unify](https://github.com/0xf4b1/unify) - Automatically port Unity games for macOS or Windows to Linux
 - [vetleledaal/game-engine-finder](https://github.com/vetleledaal/game-engine-finder) - Find the engine used within a game by it's .exe file (or surrounding files). For use on PCGamingWiki.
@@ -3949,7 +3949,6 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-- [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
@@ -4170,7 +4169,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [treetrum/amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Allows you to bulk download all your Kindle eBook in a more automated fashion. This tool allows you to create backup copies of the books you've already purchased.
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
@@ -4329,6 +4328,7 @@
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
