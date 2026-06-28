@@ -60,7 +60,6 @@
 - [Pawn](#pawn)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [PureBasic](#purebasic)
 - [Python](#python)
 - [QML](#qml)
 - [QuakeC](#quakec)
@@ -308,7 +307,7 @@
 - [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [Washi1337/AsmResolver](https://github.com/Washi1337/AsmResolver) - A library for creating, reading and editing PE files and .NET modules.
-- [sunnamed434/BitMono](https://github.com/sunnamed434/BitMono) - Obfuscator for .NET and Mono, with a customizable engine for building your own obfuscators.
+- [bitmono-project/BitMono](https://github.com/bitmono-project/BitMono) - Obfuscator for .NET and Mono, with a customizable engine for building your own obfuscators.
 - [DmitriySalnikov/GodotPCKExplorer](https://github.com/DmitriySalnikov/GodotPCKExplorer) - Small program for exploring and extracting files from the Godot Engine PCK
 - [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
@@ -1157,6 +1156,7 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [r-Roms/r-Roms.github.io](https://github.com/r-Roms/r-Roms.github.io) - 
 - [DecodersCommunity/animepedia](https://github.com/DecodersCommunity/animepedia) - A website ( should we say paradise? ) for all the Anime hunters out there!
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [semanticdata/firefox-discord-in-sidebar](https://github.com/semanticdata/firefox-discord-in-sidebar) - Firefox extension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle withi
 - [u8views/go-u8views](https://github.com/u8views/go-u8views) - GitHub profile views tracker: displaying monthly view statistics
@@ -2206,6 +2206,7 @@
 - [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 - [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - [wchill/patcheddit](https://github.com/wchill/patcheddit) - Morphe patches for reddit apps
+- [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
 - [android/nav3-recipes](https://github.com/android/nav3-recipes) - Implement common use cases with Jetpack Navigation 3
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
@@ -3202,10 +3203,6 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
-## PureBasic 
-
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
-
 ## Python 
 
 - [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
@@ -3677,7 +3674,7 @@
 ## Rust 
 
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [hmenzagh/CCMeter](https://github.com/hmenzagh/CCMeter) - Deep analytics and session insights for your Claude Code usage
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
@@ -4180,7 +4177,7 @@
 - [piotrostr/listen](https://github.com/piotrostr/listen) - DeFAI Swiss Army Knife
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
