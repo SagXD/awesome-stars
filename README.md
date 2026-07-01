@@ -2546,7 +2546,7 @@
 - [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
-- [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
+- [ActivityLauncher/ActivityLauncher](https://github.com/ActivityLauncher/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [storeforminecraft/SkinViewAndroid](https://github.com/storeforminecraft/SkinViewAndroid) - Shows Minecraft skins in 2D and 3D on Android
 - [SchizoidDevelopment/schizoid](https://github.com/SchizoidDevelopment/schizoid) - Elevate your Minecraft gameplay with this free and feature-rich client built with Fabric API and utilizing mixin-based injection techniques.
@@ -2611,7 +2611,6 @@
 - [TeamNothingMuch/NothingMuch](https://github.com/TeamNothingMuch/NothingMuch) - An icon pack based on Nothing Brand Colors
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [zacharee/Tweaker](https://github.com/zacharee/Tweaker) - 
 - [jiesou/Android-Screener](https://github.com/jiesou/Android-Screener) - A Shizuku/ROOT tool for easily adjusting screen resolution and frame rate
@@ -3446,7 +3445,6 @@
 - [x2es/bt-dualboot](https://github.com/x2es/bt-dualboot) - Sync Bluetooth for dualboot Linux and Windows
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [severityc/Fake-Vouch](https://github.com/severityc/Fake-Vouch) - A fully functioning Fake Vouch Python script using Discord API to automate messages to startup servers
 - [tehskai/godot-unpacker](https://github.com/tehskai/godot-unpacker) - godot .pck unpacker
 - [YashGoti/crtsh](https://github.com/YashGoti/crtsh) - A Python Script to Get Subdomain using https://crt.sh
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
@@ -3612,7 +3610,6 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Great Again an open source dating platform
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
-- [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
