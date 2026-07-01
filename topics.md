@@ -859,7 +859,7 @@
 - [Angel-Studio/SoundTap](https://github.com/Angel-Studio/SoundTap) - SoundTap is an Android app that enhances your music listening experience by allowing you to control playback using your device's volume buttons. Skip tracks, pause, and resume with ease. Built with Ko
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 - [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
-- [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
+- [ActivityLauncher/ActivityLauncher](https://github.com/ActivityLauncher/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide) - Slide is an open-source, ad-free Reddit browser for Android.
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
@@ -955,7 +955,6 @@
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
 - [achmadqomarudin/NightMode](https://github.com/achmadqomarudin/NightMode) - 🌓 Enabling switching between Dark Mode and Light Mode in an Android app using Java code base in a few seconds.
 - [tahaak67/Farhan](https://github.com/tahaak67/Farhan) - An Android app to help you with phone addiction.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private files and apps with a single click.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
@@ -2377,7 +2376,6 @@
 - [Jiiks/BetterDiscordApp](https://github.com/Jiiks/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [VatosV2/Nexus-MultiTool](https://github.com/VatosV2/Nexus-MultiTool) - Nexus-MultiTool is Multi/ Dicsord-Tool mostly centered around discord Tokens But also has Other Functions
-- [severityc/Fake-Vouch](https://github.com/severityc/Fake-Vouch) - A fully functioning Fake Vouch Python script using Discord API to automate messages to startup servers
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -2417,7 +2415,6 @@
 - [VeryBigSad/unnamedBot](https://github.com/VeryBigSad/unnamedBot) - A minecraft chat bot for anarchy servers (similar to mooomooo)
 - [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [Gatohost/gatoclient](https://github.com/Gatohost/gatoclient) - Gatoclient Rewritten - What people would have wanted
-- [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Pickleft/EasyHook](https://github.com/Pickleft/EasyHook) - A Simple GUI App To Control Your Discord Webhook
@@ -4341,7 +4338,7 @@
 - [quek04/undergarden](https://github.com/quek04/undergarden) - Repository for the Undergarden, a Minecraft dimension mod.
 - [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 - [alRex-U/ParCool](https://github.com/alRex-U/ParCool) - A Minecraft Forge Mod for action of Cool Parkour
-- [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
+- [ActivityLauncher/ActivityLauncher](https://github.com/ActivityLauncher/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
 - [GlowstoneMC/Glowstone](https://github.com/GlowstoneMC/Glowstone) - A fast, customizable and compatible open source server for Minecraft: Java Edition
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
@@ -4943,7 +4940,6 @@
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - An app for browsing Modrinth on your Android phone.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [GustavoASantos/Noti](https://github.com/GustavoASantos/Noti) - Quick glance, clear progress
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 - [srilakshmikanthanp/clipbirdroid](https://github.com/srilakshmikanthanp/clipbirdroid) - A Bird that helps you to sync clipboard between devices in your local network - Clipbird Android Version!
 - [yash-garg/qBittorrent-Manager](https://github.com/yash-garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
@@ -8516,7 +8512,6 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dzhalaevd/Donatello](https://github.com/dzhalaevd/Donatello) - Make Dating Great Again an open source dating platform
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
-- [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -8557,7 +8552,6 @@
 - [llunariis/lemonade](https://github.com/llunariis/lemonade) - 🍋 Follow discussions on Lemmy
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
-- [hoemotion/discord-mass-dm](https://github.com/hoemotion/discord-mass-dm) - A discord program that will send a message to nearly every user in a discord server. Only for educational purposes 🥱🚀
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 
 ## pytorch 
@@ -8932,6 +8926,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -10278,7 +10273,6 @@
 - [ikskuh/SDL.zig](https://github.com/ikskuh/SDL.zig) - A shallow wrapper around SDL that provides object API and error handling
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
