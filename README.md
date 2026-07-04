@@ -205,7 +205,7 @@
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [sahib/glyr](https://github.com/sahib/glyr) - Glyr is a music related metadata searchengine, both with commandline interface and C API
-- [ravachol/kew](https://github.com/ravachol/kew) - A Terminal Music Player
+- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
 - [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
@@ -635,7 +635,6 @@
 - [Open-GD/OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of Geometry Dash powered by a fork of cocos2dx 4.0.
 - [absoIute/Mega-Hack-v5](https://github.com/absoIute/Mega-Hack-v5) - 
 - [maxnut/GDMegaOverlay](https://github.com/maxnut/GDMegaOverlay) - Free geometry dash mod menu with useful features such as: startpos switcher, show hitboxes, internal recorder, macro bot, clickbot and much more
-- [TobyAdd/GDH](https://github.com/TobyAdd/GDH) - Mod menu for Geometry Dash
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -1028,7 +1027,7 @@
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [mrusme/bookmarkdown](https://github.com/mrusme/bookmarkdown) - A super lightweight tool for accessing links from a markdown file (https://codeberg.org/mrus/bookmarkdown)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1700,7 +1699,6 @@
 - [AntiCope/orion](https://github.com/AntiCope/orion) - Continuation of GhostTypes' Orion
 - [Crimply/Claudius](https://github.com/Crimply/Claudius) - Claudius 1.12.2 Mod
 - [Ai2473/1.8.7-earthhack](https://github.com/Ai2473/1.8.7-earthhack) - Utility mod and proxy server for 1.12.2
-- [GameboyVlol/Rat](https://github.com/GameboyVlol/Rat) - A Tool To Get Another Computer’s Information And Send It Via A Webhook To Your Discord Server
 - [CDAGaming/CrystalOptimizer](https://github.com/CDAGaming/CrystalOptimizer) - Inspired from Marlow's Crystal Optimizer, now open-sourced and for more MC Versions! For Research Purposes!
 - [Nooniboi/Public-Ikea](https://github.com/Nooniboi/Public-Ikea) - Public Ikea Addon
 - [FxMorin/carpet-fixes](https://github.com/FxMorin/carpet-fixes) - fabric-carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible. Feel free to add as many fixes as you want!   Currently 220+ Fixes!
@@ -3299,7 +3297,7 @@
 - [AlecM33/balatro-joker-bot](https://github.com/AlecM33/balatro-joker-bot) - A bot that monitors reddit comments and replies with Balatro info when summoned. Inspired by u/balatro-bot.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [Akkudoktor-EOS/EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity price
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
