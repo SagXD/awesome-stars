@@ -805,7 +805,7 @@
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 - [obfusk/reproducible-apk-tools](https://github.com/obfusk/reproducible-apk-tools) - reproducible-apk-tools - scripts to make android apks reproducible
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
@@ -2802,7 +2802,7 @@
 - [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated) - 🦊 Firefox user CSS theme looks similar to Chrome
 - [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-- [zJohnWick/cleanfix-config](https://github.com/zJohnWick/cleanfix-config) - Firefox config for better privacy and security with better user experience.
+- [MithunWijayasiri/Cleanfox](https://github.com/MithunWijayasiri/Cleanfox) - Firefox config for better privacy and security with better user experience.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -2909,7 +2909,7 @@
 - [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 - [bmaroti9/Overmorrow](https://github.com/bmaroti9/Overmorrow) - modern material design weather app
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [nullxception/boorusphere](https://github.com/nullxception/boorusphere) - Simple, content-focused booru viewer for Android
 - [Drarox/Flutter_2048](https://github.com/Drarox/Flutter_2048) - Simple 2048 game made with Flutter for iOS, Android and Web.
@@ -5198,7 +5198,7 @@
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -5522,7 +5522,7 @@
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -6114,7 +6114,7 @@
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue) - A beginner-friendly music making app.
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - (Migrated to https://codeberg.org/antoinepirlot/Satunes) Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto made in 🇪🇺.
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
@@ -6875,7 +6875,7 @@
 - [AmanoTeam/Kahon](https://github.com/AmanoTeam/Kahon) - A fork of Mihon with some annoying restrictions removed
 - [Agundur-KDE/KCast](https://github.com/Agundur-KDE/KCast) - KCast is a KDE Plasma 6 widget that lets you cast video files or youtube URLs to a Chromecast devices in your local network. It supports device discovery, local media playback via an embedded HTTP ser
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [HydeYYHH/litube](https://github.com/HydeYYHH/litube) - Litube is an advanced webview wrapper for YouTube.
+- [HydeYYHH/Litube](https://github.com/HydeYYHH/Litube) - Litube is an advanced webview wrapper for YouTube.
 - [NineWorlds/serenity-android](https://github.com/NineWorlds/serenity-android) - An Android client for the Emby Media Servers optimized for Television displays.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
@@ -7562,7 +7562,6 @@
 - [subins2000/WebDrop](https://github.com/subins2000/WebDrop) - Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 - [larvalabs/boo](https://github.com/larvalabs/boo) - An Android Experiment that uses face detection to model shy little creatures.
 - [Trambled/OzarkClient](https://github.com/Trambled/OzarkClient) - very sexy client
-- [VikasLagerweij/health-indicators](https://github.com/VikasLagerweij/health-indicators) - Simple health indicators for fabric 1.19.2
 - [open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon) - vib-ribbon decompilation (PAL version)
 - [gita/Bhagavad-Gita-App](https://github.com/gita/Bhagavad-Gita-App) - Flutter app for Bhagavad Gita
 - [zacharee/WiFiList](https://github.com/zacharee/WiFiList) - 
@@ -8574,7 +8573,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [nrxss/Perfect-Circle](https://github.com/nrxss/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
-- [llunariis/lemonade](https://github.com/llunariis/lemonade) - 🍋 Follow discussions on Lemmy
+- [theycallhermax/lemonade](https://github.com/theycallhermax/lemonade) - 🍋 Follow discussions on Lemmy
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
@@ -10119,7 +10118,7 @@
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
