@@ -1902,7 +1902,7 @@
 - [XORbit01/retro](https://github.com/XORbit01/retro) - 📼 play musics with command line on linux
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -3700,7 +3700,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform Media Ripping and Browsing GUI
 - [AKotov-dev/warpgui](https://github.com/AKotov-dev/warpgui) - GUI for Cloudflare ™ WARP
-- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - a chess client for Linux/Windows
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
 - [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with Sci-Fi elements and own Track Editor. The main repository with sources and data. Using Ogre-Next 3.0 and VDrift.
 - [Keksuccino/FancyMenu](https://github.com/Keksuccino/FancyMenu) - Source code for FancyMenu.
 - [svg-beauty/svgomfg](https://github.com/svg-beauty/svgomfg) - Offline Capable⚡Web GUI for easy and visual 🎛️ Vector Optimization feat. latest⚙️SVGO v3.1.0
@@ -5196,7 +5196,7 @@
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
@@ -5520,7 +5520,7 @@
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
@@ -6109,7 +6109,7 @@
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [Sandakan/Nora](https://github.com/Sandakan/Nora) - An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.
 - [Moosync/Moosync-electron](https://github.com/Moosync/Moosync-electron) - Music player capable of playing local audio or from Youtube, Spotify and many more
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) - A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [weespin/KhinsiderDownloader](https://github.com/weespin/KhinsiderDownloader) - A simple Bulk Khinsider downloader with GUI, better and faster than all implementations on python 👀
@@ -8557,7 +8557,7 @@
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - a chess client for Linux/Windows
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
 - [DevCraftClub/StreamTape](https://github.com/DevCraftClub/StreamTape) - Unoffical API wrapper for https://streamtape.com
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -9472,7 +9472,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -10117,7 +10117,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [K3vinb5/unyo-app](https://github.com/K3vinb5/unyo-app) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
-- [ravachol/kew](https://github.com/ravachol/kew) - An aesthetically pleasing, immersive and fast music player with privacy.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [Bithack/principia](https://github.com/Bithack/principia) - Open source physics-based sandbox game.
