@@ -524,7 +524,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
@@ -539,6 +539,7 @@
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+- [yosefario-dev/NClientV3](https://github.com/yosefario-dev/NClientV3) - A modernized, unofficial NHentai Android client. Fork of NClientV2 by Dar9586.
 - [siper/Youamp](https://github.com/siper/Youamp) - Material You kotlin multiplatform player for subsonic music stream servers
 - [android/nav3-recipes](https://github.com/android/nav3-recipes) - Implement common use cases with Jetpack Navigation 3
 - [koutsie/MinecraftClock_Nuo](https://github.com/koutsie/MinecraftClock_Nuo) - Updated Minecraft Clock Widget (API 21+, Targetting 34).
@@ -2261,7 +2262,7 @@
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -2417,7 +2418,6 @@
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Monochromish/Kalopsia-Bot](https://github.com/Monochromish/Kalopsia-Bot) - ♠️ A Powerful Open-Source Discord,js (v13) Bot written in JavaScript with many moderation, fun, economy, music, utility commands ♠️
 - [GeorgeSG/sub.rehab](https://github.com/GeorgeSG/sub.rehab) - A list of subreddit alternatives
-- [Blank-c/Blank-Grabber](https://github.com/Blank-c/Blank-Grabber) - The most powerful stealer written in Python 3 and packed with a lot of features.
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python!
 - [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs) - Notes and hacks relating to Discord and its API.
@@ -6622,7 +6622,6 @@
 - [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 - [milenakos/cat-bot](https://github.com/milenakos/cat-bot) - Discord Cat Bot Source Code
 - [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
-- [yosefario-dev/NClientV3](https://github.com/yosefario-dev/NClientV3) - A modernized, unofficial NHentai Android client. Fork of NClientV2 by Dar9586.
 - [minerva-archive/worker](https://github.com/minerva-archive/worker) - Distributed Minerva Worker
 - [javinizer/Javinizer](https://github.com/javinizer/Javinizer) - (NSFW) Organize your local Japanese Adult Video (JAV) library
 - [ajslater/comicbox](https://github.com/ajslater/comicbox) - Comic metadata reading & writing library
@@ -8207,7 +8206,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -9243,7 +9242,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
