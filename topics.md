@@ -4242,6 +4242,7 @@
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org former mobile application / new one -&gt; github.com/lichess-org/mobile
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
 - [vovagorodok/ble_ota_app](https://github.com/vovagorodok/ble_ota_app) - Upload firmware over Bluetooth
 - [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
