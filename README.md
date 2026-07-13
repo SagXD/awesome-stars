@@ -1372,7 +1372,6 @@
 - [cylonid/NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) - 
 - [117HD/RLHD](https://github.com/117HD/RLHD) - Old School RuneScape GPU renderer with a suite of graphical enhancements.
 - [runelite/runelite](https://github.com/runelite/runelite) - Open source Old School RuneScape client
-- [AraafRoyall/Cleaner-Royall](https://github.com/AraafRoyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 - [RattlesHyper/lyra-addon](https://github.com/RattlesHyper/lyra-addon) - Lyra Addon is a Meteor Client add-on specifically designed for Creative Mode and Creative servers.
 - [Flowit-Game/Flowit](https://github.com/Flowit-Game/Flowit) - Minimalistic puzzle game
@@ -1532,7 +1531,7 @@
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 - [FabricMC/fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.2 Lightweight Minecraft server
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [RakambdaOrg/FallingTree](https://github.com/RakambdaOrg/FallingTree) - Minecraft mod to make the trees fall in one cut
@@ -3001,7 +3000,6 @@
 - [Xubuntu/xubuntu-seed](https://github.com/Xubuntu/xubuntu-seed) - Read-only mirror of lp:~xubuntu-dev/ubuntu-seeds/+git/xubuntu
 - [ValveSoftware/Source-1-Games](https://github.com/ValveSoftware/Source-1-Games) - Source 1 based games such as TF2 and Counter-Strike: Source
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-- [TrilliumSolutions/Francium-1.20.4](https://github.com/TrilliumSolutions/Francium-1.20.4) - 1.20.4 Fabric cpvp ghost client. Ablue ran FranciumCrackoredFreeClean(3).jar :skrim:
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [Goodwy/Discussion](https://github.com/Goodwy/Discussion) - A place for discussing all apps in general + anything else you want to say
 - [imwaitingnow/WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - WorkshopDL - The Best Steam Workshop Downloader
@@ -3030,7 +3028,6 @@
 - [Wircea/TempleCraft](https://github.com/Wircea/TempleCraft) - 2D Minecraft clone for TempleOS
 - [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - A modern, lightweight QuickPic Gallery with a fast, offline-first experience.
-- [TrilliumSolutions/GoldGrinder-3.0](https://github.com/TrilliumSolutions/GoldGrinder-3.0) - $300.00 1.8.9 Forge Mod. Hypixel kikes are going to lose it rn ☠️
 - [FossifyOrg/General-Discussion](https://github.com/FossifyOrg/General-Discussion) - A place for discussing all apps in general plus anything else you want to say.
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhan
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
@@ -3086,7 +3083,6 @@
 - [bugswriter/fooddish](https://github.com/bugswriter/fooddish) - 
 - [bugswriter/bugsnavi](https://github.com/bugswriter/bugsnavi) - 
 - [bugswriter/Bugswriter](https://github.com/bugswriter/Bugswriter) - 
-- [TrilliumSolutions/RavenB-Old](https://github.com/TrilliumSolutions/RavenB-Old) - $$$ Some random paid paste that everyone hates LMAO $$$
 - [epicfacethe3rd/BeeBox](https://github.com/epicfacethe3rd/BeeBox) - Conceptualization of a coordinate exploit for minecraft using, you guessed it, bees (lmao)
 - [dgibbs64/discord-banners](https://github.com/dgibbs64/discord-banners) - A reference for the Official Discord banners
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -3934,6 +3930,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [AraafRoyall/Cleaner-Royall](https://github.com/AraafRoyall/Cleaner-Royall) - 🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
