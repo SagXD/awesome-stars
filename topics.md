@@ -3199,7 +3199,6 @@
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [Zylann/godot_heightmap_plugin](https://github.com/Zylann/godot_heightmap_plugin) - HeightMap terrain for Godot implemented in GDScript
-- [Phazorknight/Cogito](https://github.com/Phazorknight/Cogito) - Immersive Sim Template Project for GODOT 4
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 - [Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template) - Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
@@ -3299,7 +3298,6 @@
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
-- [Phazorknight/Cogito](https://github.com/Phazorknight/Cogito) - Immersive Sim Template Project for GODOT 4
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [YuriSizov/boscaceoil-blue](https://github.com/YuriSizov/boscaceoil-blue) - A beginner-friendly music making app.
@@ -3542,7 +3540,6 @@
 - [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia) - RPG game action-adventure MMO built with Godot and Rust.
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
-- [Phazorknight/Cogito](https://github.com/Phazorknight/Cogito) - Immersive Sim Template Project for GODOT 4
 - [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 - [Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template) - Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
