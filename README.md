@@ -940,7 +940,6 @@
 - [HungryProton/scatter](https://github.com/HungryProton/scatter) - Godot engine addon to randomly fill an area with props or other scenes
 - [pablogila/TileMapDual](https://github.com/pablogila/TileMapDual) - An automatic, real-time dual-grid tileset system for Godot
 - [derkork/godot-statecharts](https://github.com/derkork/godot-statecharts) - A state charts extension for Godot 4
-- [Phazorknight/Cogito](https://github.com/Phazorknight/Cogito) - Immersive Sim Template Project for GODOT 4
 - [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 - [Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template) - Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
@@ -3054,7 +3053,6 @@
 - [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -3557,6 +3555,7 @@
 - [volitank/nala](https://github.com/volitank/nala) - Nala is a front-end for libapt-pkg.
 - [Abhishek10351/fictional-journey](https://github.com/Abhishek10351/fictional-journey) - It is the classic space invaders game , but with modern intuitive UI. The game is developed using the python programming language and uses the arcade game development framework.
 - [nrxss/Perfect-Circle](https://github.com/nrxss/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [1j01/textual-paint](https://github.com/1j01/textual-paint) - :art: MS Paint in your terminal.
 - [albertomosconi/foss-apps](https://github.com/albertomosconi/foss-apps) - a list of 100+ awesome open source android apps 📱
