@@ -170,7 +170,7 @@
 - [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [xiph/flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [espressif/esp32-camera](https://github.com/espressif/esp32-camera) - 
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -2216,7 +2216,7 @@
 - [sadellie/sukko](https://github.com/sadellie/sukko) - KWGT alternative to create custom Android widgets
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [D4vidDf/HyperBridge](https://github.com/D4vidDf/HyperBridge) - Bring the native Dynamic Island experience to HyperOS. Bridges android notifications into HyperIslands.
-- [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - note: this is a mirror of https://codeberg.org/dryerlint/dejpeg - all future releases will be published there
+- [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - 
 - [AKS-Labs/CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) - CircleToSearch with multi search engine support for all android
 - [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) - 使用 Material Design 3 全新设计的阅读 3.0
 - [phisher98/CXXX](https://github.com/phisher98/CXXX) - CXXX
@@ -2248,7 +2248,7 @@
 - [Jeremiznoo/FlipperDroid](https://github.com/Jeremiznoo/FlipperDroid) - FlipperDroid is a Kotlin-based Android app that turns your smartphone into a powerful mobile cybersecurity toolkit, emulating Flipper Zero features like NFC, RFID, Bluetooth, BadUSB, and more.
 - [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 - [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
-- [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
+- [lysine-dev/sqldelight](https://github.com/lysine-dev/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 - [DrawAnywhere/DrawAnywhere](https://github.com/DrawAnywhere/DrawAnywhere) - DrawAnywhere is an Android application that lets you draw on top of other apps.
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [dead8309/Kizzy](https://github.com/dead8309/Kizzy) - A Discord Rich Presence manager for Android fully written in Kotlin. Made with jetpack compose and material3
@@ -4059,7 +4059,7 @@
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [T3-Content/quipslop](https://github.com/T3-Content/quipslop) - 
 - [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
