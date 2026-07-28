@@ -6784,7 +6784,7 @@
 - [DieselTech/CBL-ReadingLists](https://github.com/DieselTech/CBL-ReadingLists) - Comic Book Reading Orders - Reading Lists for Marvel / DC / Image / Others
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [builtbybel/CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
-- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - decentralized mesh chat
 - [Fazecast/jSerialComm](https://github.com/Fazecast/jSerialComm) - Platform-independent serial port access for Java
 - [Jeremiznoo/FlipperDroid](https://github.com/Jeremiznoo/FlipperDroid) - FlipperDroid is a Kotlin-based Android app that turns your smartphone into a powerful mobile cybersecurity toolkit, emulating Flipper Zero features like NFC, RFID, Bluetooth, BadUSB, and more.
 - [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
