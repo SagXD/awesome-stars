@@ -9817,7 +9817,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, BlueSky, TikTok, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [qsniyg/maxurl](https://github.com/qsniyg/maxurl) - Finds larger/original versions of images and videos
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
