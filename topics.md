@@ -4241,7 +4241,6 @@
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
-- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - Aesthetic clients for the entire Fediverse. Clean design. Simple experience. 💛😎
 - [odaridavid/WeatherApp](https://github.com/odaridavid/WeatherApp) - ☁️ ❄️ A KMP weather app built with Jetpack Compose , MVI , Unit Testing , Hilt and Location Services, Github Actions, Firebase + Material 3
 - [alorma/Compose-Settings](https://github.com/alorma/Compose-Settings) - Pre-built Material 3 Settings UI components for Compose Multiplatform. Supports Android, iOS, Desktop, JavaScript, and WebAssembly.
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
@@ -8586,7 +8585,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [nrxss/Perfect-Circle](https://github.com/nrxss/Perfect-Circle) - Make a perfect circle on neal.fun with ~99% accuracy
-- [theycallhermax/lemonade](https://github.com/theycallhermax/lemonade) - 🍋 Follow discussions on Lemmy
 - [LawOff/DiscordServerCloner2.0](https://github.com/LawOff/DiscordServerCloner2.0) - A Discord Server Cloner made using Python
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
@@ -8723,6 +8721,7 @@
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
+- [suvam0451/dhaaga](https://github.com/suvam0451/dhaaga) - Aesthetic clients for the entire Fediverse. Clean design. Simple experience. 💛😎
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
