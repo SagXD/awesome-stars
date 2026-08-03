@@ -49,7 +49,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
-- [Meson](#meson)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -2850,10 +2849,6 @@
 ## Mathematica 
 
 - [WolframResearch/Arrival-Movie-Live-Coding](https://github.com/WolframResearch/Arrival-Movie-Live-Coding) - Documents from a live coding session by Christopher Wolfram related to content from the 2016 film Arrival
-
-## Meson 
-
-- [theycallhermax/lemonade](https://github.com/theycallhermax/lemonade) - 🍋 Follow discussions on Lemmy
 
 ## MoonScript 
 
