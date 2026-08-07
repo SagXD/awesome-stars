@@ -779,7 +779,6 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 - [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
-- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client for the modern web
 - [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook, showcase or play-ground if you want!
@@ -1970,7 +1969,6 @@
 ## cpp 
 
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [betacraftuk/betacraft-launcher](https://github.com/betacraftuk/betacraft-launcher) - A launcher for Minecraft focused on legacy versions of the game
@@ -5659,7 +5657,7 @@
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
 - [LiveFastEatTrashRaccoon/RaccoonForFriendica](https://github.com/LiveFastEatTrashRaccoon/RaccoonForFriendica) - A Kotlin Multiplatform client for Mastodon and Friendica
-- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client for the modern web
+- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client apps for Mastodon, Misskey, Bluesky, and beyond
 - [tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
@@ -8728,7 +8726,7 @@
 - [devxprite/Gitglance](https://github.com/devxprite/Gitglance) - GitGlance is your go-to tool for visualizing GitHub profiles. Gain insights into your contributions, expertise, and community engagement with intuitive visualizations.
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
-- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client for the modern web
+- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client apps for Mastodon, Misskey, Bluesky, and beyond
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -8785,7 +8783,7 @@
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client for the modern web
+- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client apps for Mastodon, Misskey, Bluesky, and beyond
 - [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
 - [Memmy-App/memmy](https://github.com/Memmy-App/memmy) - An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!
 - [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
