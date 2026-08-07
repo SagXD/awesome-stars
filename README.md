@@ -408,7 +408,6 @@
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 - [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)
 - [Sinflower/BookLiveRipper](https://github.com/Sinflower/BookLiveRipper) - Qt-Based tool to download full novels from Booklive.jp
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [hexstr/UnityFPSUnlocker](https://github.com/hexstr/UnityFPSUnlocker) - 为unity-il2cpp提供在手机上设置FPS的模块
 - [iscle/SpaceCadetPinball](https://github.com/iscle/SpaceCadetPinball) - Android port of 3D Pinball for Windows – Space Cadet
 - [fexed/Pinball-on-Android](https://github.com/fexed/Pinball-on-Android) - Android port of 3D Pinball Space Cadet
@@ -3373,7 +3372,6 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [umutcamliyurt/TextCloak](https://github.com/umutcamliyurt/TextCloak) - A tool for concealing writing style using LLM
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [syeopite/priviblur](https://github.com/syeopite/priviblur) - A privacy-focused alternative frontend to Tumblr with a touch of modern design
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
@@ -3614,6 +3612,7 @@
 ## QML 
 
 - [rxappdev/MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [Agundur-KDE/KCast](https://github.com/Agundur-KDE/KCast) - KCast is a KDE Plasma 6 widget that lets you cast video files or youtube URLs to a Chromecast devices in your local network. It supports device discovery, local media playback via an embedded HTTP ser
 - [PapirusDevelopmentTeam/arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde) - Arc KDE customization
 - [xerolinux/xero-layan-git](https://github.com/xerolinux/xero-layan-git) - XeroLinux Layan Rice
@@ -4202,6 +4201,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [vega-org/vega-app](https://github.com/vega-org/vega-app) - A media streaming app for android.
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [badlogic/skyview](https://github.com/badlogic/skyview) - Thread reader for Bluesky
@@ -4226,7 +4226,7 @@
 - [basedcount/defed-investigator](https://github.com/basedcount/defed-investigator) - A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client for the modern web
+- [suvam0451/Dhaaga](https://github.com/suvam0451/Dhaaga) - 🧵 धागा - Light and sleek social media client apps for Mastodon, Misskey, Bluesky, and beyond
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 - [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
