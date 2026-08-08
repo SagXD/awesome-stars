@@ -4086,7 +4086,7 @@
 - [OctoNezd/oldlander](https://github.com/OctoNezd/oldlander) - WebExt for to make old reddit more usable on phone
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
-- [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Legacy message manipulation and export tool for Discord. (Chrome/Firefox Extension)
+- [pratherbytecraft/discrub-ext](https://github.com/pratherbytecraft/discrub-ext) - Legacy message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 - [MinnDevelopment/fxreddit](https://github.com/MinnDevelopment/fxreddit) - Provides improved reddit embeds for services such as Discord.
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API.
