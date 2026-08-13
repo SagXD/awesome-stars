@@ -360,7 +360,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -1652,7 +1652,7 @@
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
@@ -1828,7 +1828,7 @@
 - [GetStream/stream-cli](https://github.com/GetStream/stream-cli) - Configure & manage Stream applications from the command line. 🚀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -2572,7 +2572,7 @@
 - [bitmono-project/BitMono](https://github.com/bitmono-project/BitMono) - Obfuscator for .NET and Mono, with a customizable engine for building your own obfuscators.
 - [outfox/fennecs](https://github.com/outfox/fennecs) - ...the little C# ECS that loves you back! 🦊
 - [nager/Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) - Parse and validate domain names using the Public Suffix List, splitting domains into subdomain, main part, and TLD for .NET applications.
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -3709,7 +3709,7 @@
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform Media Ripping and Browsing GUI
 - [AKotov-dev/warpgui](https://github.com/AKotov-dev/warpgui) - GUI for Cloudflare ™ WARP
 - [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
@@ -5182,7 +5182,7 @@
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [yvt/openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
@@ -5235,7 +5235,7 @@
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
@@ -5382,7 +5382,7 @@
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -5530,7 +5530,7 @@
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [yvt/openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Sammy-T/avda](https://github.com/Sammy-T/avda) - A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups.
@@ -6140,7 +6140,7 @@
 - [antoinepirlot/Satunes](https://github.com/antoinepirlot/Satunes) - (Migrated to https://codeberg.org/antoinepirlot/Satunes) Modern MP3 Player to listen your local music files on Android Lollipop 5.1.1+ & compatible with Android Auto made in 🇪🇺.
 - [LISTEN-moe/android-app](https://github.com/LISTEN-moe/android-app) - Official LISTEN.moe Android app
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [tmhglnd/total-serialism](https://github.com/tmhglnd/total-serialism) - Toolbox full of Algorithmic Composition methods
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) - Make your Termux look better
@@ -6524,7 +6524,7 @@
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -8842,7 +8842,7 @@
 ## reinforcement-learning 
 
 - [areal-project/AReaL](https://github.com/areal-project/AReaL) - The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) - Reinforcement Learning environments based on the 1993 game Doom :godmode:
 
 ## rest-api 
@@ -8962,7 +8962,7 @@
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
@@ -9074,7 +9074,7 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -9126,7 +9126,7 @@
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -9290,7 +9290,7 @@
 
 ## stable-diffusion 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -9552,7 +9552,7 @@
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 
 ## trading 
 
@@ -9569,7 +9569,7 @@
 - [XORbit01/retro](https://github.com/XORbit01/retro) - 📼 play musics with command line on linux
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [ratatui/bevy_ratatui](https://github.com/ratatui/bevy_ratatui) - A rust crate for using Ratatui in a Bevy application.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
@@ -9724,7 +9724,7 @@
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [Apoorv-cloud/Flutter_Ludo](https://github.com/Apoorv-cloud/Flutter_Ludo) - Basic Ludo Game with Flutter which will run on both iOS and Android without any UI glitches.
@@ -10110,7 +10110,7 @@
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [yvt/openspades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -10148,7 +10148,7 @@
 - [ademlabs/synckeys](https://github.com/ademlabs/synckeys) - Syncronize your Bluetooth device pairing keys from Windows to Linux. Share your Bluetooth devices between these OSes without having to pair them each time.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [yne/dzr](https://github.com/yne/dzr) - deezer.com Player (CLI & VSCode)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [DNAMcKnight/CloudflareWarpGUI](https://github.com/DNAMcKnight/CloudflareWarpGUI) - A Python GUI originally made just for Linux users to use Cloudflare WARP using a GUI since Linux only had a CLI
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) - DNS Changer for Windows, Linux, Mac operating systems
@@ -10287,7 +10287,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
-- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win & Linux
+- [jooapa/jammer](https://github.com/jooapa/jammer) - light-weight CLI music player with Soundcloud, Youtube, Rss, Midi Support for Win, Linux & OSX
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
