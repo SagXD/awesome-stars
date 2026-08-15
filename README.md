@@ -77,6 +77,7 @@
 - [SourcePawn](#sourcepawn)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Valve Data Format](#valve-data-format)
@@ -103,6 +104,7 @@
 
 ## Astro 
 
+- [michaelvcolianna/kiwisbybeat.net](https://github.com/michaelvcolianna/kiwisbybeat.net) - A reimagining of the Kiwis by Beat web site by Ryan Armand, using the data from evrys/kiwisbybeat-archive.
 - [VojtaStruhar/steam-review-template](https://github.com/VojtaStruhar/steam-review-template) - Checklist review template from Steam that we all know and love.
 - [rdwz/freesubdoma.in](https://github.com/rdwz/freesubdoma.in) - 🆓 Free Domain Directory - Comprehensive list of 24 Subdomains to choose from!!
 - [FossifyOrg/fossifyorg.github.io](https://github.com/FossifyOrg/fossifyorg.github.io) - The projects' website
@@ -1112,6 +1114,7 @@
 
 ## HTML 
 
+- [evrys/kiwisbybeat-archive](https://github.com/evrys/kiwisbybeat-archive) - Jan 2016 archive of webcomics by Ryan Armand
 - [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
 - [mojuru/cursed-manga-repo](https://github.com/mojuru/cursed-manga-repo) - Extensions for Komikku / Mihon & forks.
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
@@ -1305,7 +1308,7 @@
 - [SlimeKnights/Mantle](https://github.com/SlimeKnights/Mantle) - Public shared library for Forge mods
 - [TeamPeril/Sculk-Horde](https://github.com/TeamPeril/Sculk-Horde) - Sculk Hoard implements a new end-game era to your game that once activated, will force you to fight against the newly awaked ancient sculk hoard in order to survive. This ancient enemy seeks to infect
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
-- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [elementdavv/chaka](https://github.com/elementdavv/chaka) - Android book reader
 - [TwelveIterations/Waystones](https://github.com/TwelveIterations/Waystones) - Minecraft Mod. Adds waystones you can teleport to after they've been activated.
 - [InLieuOfLuna/elytra-recast](https://github.com/InLieuOfLuna/elytra-recast) - Recasts elytra when you land on the floor holding space
@@ -4044,6 +4047,10 @@
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [Athlon007/Leomard](https://github.com/Athlon007/Leomard) - A Lemmy client for macOS
 - [mlemgroup/mlem](https://github.com/mlemgroup/mlem) - Mlem for Lemmy
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
