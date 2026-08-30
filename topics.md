@@ -763,7 +763,7 @@
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - ‎Telegram for Android watch & wearos
-- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android and Jetpack Compose.
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin Multiplatform.
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
@@ -4709,7 +4709,7 @@
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
-- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android and Jetpack Compose.
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin Multiplatform.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 - [ImaginativeShohag/Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook, showcase or play-ground if you want!
@@ -4900,7 +4900,7 @@
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [Anthonyy232/Paperize](https://github.com/Anthonyy232/Paperize) - Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kotlin, Jetpack Compose, and Material 3
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android and Jetpack Compose.
+- [skydoves/Balloon](https://github.com/skydoves/Balloon) - :balloon: Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Compose and Kotlin Multiplatform.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
@@ -7431,7 +7431,7 @@
 - [samolego/FabricTailor](https://github.com/samolego/FabricTailor) - A server-side or singleplayer skin changing mod for fabric.
 - [storeforminecraft/SkinViewAndroid](https://github.com/storeforminecraft/SkinViewAndroid) - Shows Minecraft skins in 2D and 3D on Android
 - [RocketGod-git/Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - My SD Drive for Flipper Zero
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
 - [carl-vbn/opengl-portals](https://github.com/carl-vbn/opengl-portals) - 
 - [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community
 - [Pan4ur/ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode) - 1.21 minecraft client for Crystal / Sword hvh
@@ -9149,7 +9149,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
-- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A self-hosted media download manager, automation interface, and media-library preparation layer for yt-dlp
+- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A self-hosted media download manager, automation interface, and media library preparation layer for yt-dlp
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -10299,7 +10299,7 @@
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 - [Tomato6966/Music-Bot-with-Filter](https://github.com/Tomato6966/Music-Bot-with-Filter) - A Music bot made with discord-ytdl-core so you can define filters!
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source.
-- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A self-hosted media download manager, automation interface, and media-library preparation layer for yt-dlp
+- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A self-hosted media download manager, automation interface, and media library preparation layer for yt-dlp
 - [vorapis-yt/v3](https://github.com/vorapis-yt/v3) - Bring Back Old YouTube Web Layout
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 - [mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.
