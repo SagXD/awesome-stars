@@ -1620,7 +1620,7 @@
 - [SpigotMC/BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [essentials/Essentials](https://github.com/essentials/Essentials) - Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server
-- [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft Hacked Client. (O++ S++ I+ C E- M V? !PS D+)
+- [pixelcmtd/CXClient](https://github.com/pixelcmtd/CXClient) - The CXClient Minecraft 1.8.8 Hacked Client
 - [mycodedoesnotcompile2/jdownloader_mirror](https://github.com/mycodedoesnotcompile2/jdownloader_mirror) - JDownloader open-source code mirror from the official SVN repository
 - [mirror/jdownloader](https://github.com/mirror/jdownloader) - JDownloader mirror
 - [crosby-moe/Tokyo-Client](https://github.com/crosby-moe/Tokyo-Client) - Anarchy tool of the future.
@@ -4063,7 +4063,7 @@
 - [xyzeva/k-id-age-verifier](https://github.com/xyzeva/k-id-age-verifier) - automatically verify your age on discord, twitch, kick, quora and more (k-id)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [BankkRoll/clipy](https://github.com/BankkRoll/clipy) - Clipy is a fully open-source, bloat-free Electron desktop application for downloading and editing YouTube videos in their original quality without compression or re-encoding. It provides a clean, adva
 - [Producdevity/EmuReady](https://github.com/Producdevity/EmuReady) - A community-driven platform for tracking emulation compatibility across different devices and emulators.
