@@ -65,7 +65,6 @@
 - [QuakeC](#quakec)
 - [Reason](#reason)
 - [Ren'Py](#ren'py)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1384,7 +1383,6 @@
 - [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) - A Minecraft: Java Edition mod that adds a tropical vacation dimension to your world
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [pufmat/skillsmod](https://github.com/pufmat/skillsmod) - A Minecraft mod that adds a fully configurable skill system to the game.
-- [xoureldeen-dev/Winux-VM](https://github.com/xoureldeen-dev/Winux-VM) - Boxvidra is an Android application designed to bring Debian, XFCE4, Wine, Box86, and Box64 environments to your Android device using Proot. It allows you to run Linux applications and Windows binaries
 - [Snownee/Jade](https://github.com/Snownee/Jade) - Minecraft mod that shows what you are looking at. (Hwyla fork)
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [peterosterlund2/droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish Android Chess App
@@ -3626,10 +3624,6 @@
 ## Ren'Py 
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
