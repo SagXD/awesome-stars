@@ -157,6 +157,7 @@
 - [Fazecast/jSerialComm](https://github.com/Fazecast/jSerialComm) - Platform-independent serial port access for Java
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 - [nekotrix/SVT-AV1-Essential](https://github.com/nekotrix/SVT-AV1-Essential) - A no-nonsense SVT-AV1 encoder fork with sensible defaults and Quality of Life improvements.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [fandahao17/Raspberry-Pi-DMA-Tutorial](https://github.com/fandahao17/Raspberry-Pi-DMA-Tutorial) - A step-by-step guide on using DMA to achieve high-speed sampling on Raspberry Pi
 - [LWSS/Fuzion](https://github.com/LWSS/Fuzion) - Fuzion is a free-as-in-freedom CSGO cheat for linux
 - [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
@@ -2436,7 +2437,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [littlerobots/ytch-android](https://github.com/littlerobots/ytch-android) - ytch.xyz on your Android TV
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
-- [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
+- [kitshn-app/kitshn](https://github.com/kitshn-app/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [Drumber/Kitsune](https://github.com/Drumber/Kitsune) - Unofficial android app for Kitsu.app (Kitsu.io)
 - [SpartanB312/Grunt](https://github.com/SpartanB312/Grunt) - Industrial-aimed JVM obfuscator with native transpiler
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
@@ -2657,7 +2658,7 @@
 - [phstudio2/FreeTV](https://github.com/phstudio2/FreeTV) - Free TV app
 - [AfigAliyev/Cinemax](https://github.com/AfigAliyev/Cinemax) - Cinemax is a Movies & TV Shows application for Android.
 - [ejektaflex/Bountiful](https://github.com/ejektaflex/Bountiful) - A Minecraft mod adding bounties for specific items.
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [sosauce/Vanilla](https://github.com/sosauce/Vanilla) - 🍨 Vanilla is a cute and elegant calculator app for Android!
 - [char/Koffee](https://github.com/char/Koffee) - Java bytecode assembler as a Kotlin DSL
 - [GabrielOlvH/Industrial-Revolution](https://github.com/GabrielOlvH/Industrial-Revolution) - An Industrial mod made for Fabric.
@@ -2864,7 +2865,6 @@
 
 ## OCaml 
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [fxfactorial/ocaml-emoji](https://github.com/fxfactorial/ocaml-emoji) - Emojis in OCaml, use them in your CLIs or whatever
 
 ## Objective-C 
@@ -4170,7 +4170,7 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
