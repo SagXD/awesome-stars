@@ -869,7 +869,7 @@
 - [TheSunCat/Sudoku](https://github.com/TheSunCat/Sudoku) - FOSS Sudoku, made with 💜 (and Flutter). Mirror of main repository https://git.allpurposem.at/mat/Sudoku
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Spsden/Drip](https://github.com/Spsden/Drip) - A Youtube Music client for Desktop. (in Development)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [saltymaccas/muffed](https://github.com/saltymaccas/muffed) - A Lemmy client for Android and iOS with focus on usability and privacy
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [SAGARSURI/MyMovies](https://github.com/SAGARSURI/MyMovies) - A Flutter app which shows a list of popular movies.
@@ -970,6 +970,7 @@
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [popcar2/CleanDoom](https://github.com/popcar2/CleanDoom) - The Clean and Modern Doom Mod Launcher
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 - [Blobfish-Games/godot-workshop-utility](https://github.com/Blobfish-Games/godot-workshop-utility) - Small utility used to upload content to Steam Workshop with Godot
 - [GodotModding/godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) - A general purpose mod loader for GDScript based Godot Games [3.x/4.x]
 - [BrotatoMods/Darkly77-ShowModSource](https://github.com/BrotatoMods/Darkly77-ShowModSource) - Shows where modded content comes from. Works with characters, items, and weapons
@@ -1016,7 +1017,7 @@
 - [zhaarey/apple-music-downloader](https://github.com/zhaarey/apple-music-downloader) - Apple Music ALAC / Dolby Atmos / AAC / MV Downloader
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -1437,7 +1438,7 @@
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
 - [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
-- [Teneted/Tenet](https://github.com/Teneted/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
+- [TiangongCraft/Tenet](https://github.com/TiangongCraft/Tenet) - Minecraft Forge Hybrid server implementing the Spigot/Bukkit API, formerly known as Thermos/Cauldron/MCPC+
 - [BlouFlin/Photography](https://github.com/BlouFlin/Photography) - Yet another Minecraft camera mod to take photos of your world on maps!
 - [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
 - [TudbuT/ttc](https://github.com/TudbuT/ttc) - TTC Client
@@ -1549,6 +1550,7 @@
 - [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [farmerbb/Taskbar](https://github.com/farmerbb/Taskbar) - PC-style productivity for Android
 - [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [Chisel-Team/Chisel](https://github.com/Chisel-Team/Chisel) - A builder's best friend
 - [gsantner/memetastic](https://github.com/gsantner/memetastic) - Meme Creator for Android - Simple & Ad-Free
@@ -1632,7 +1634,6 @@
 - [tpcstld/2048](https://github.com/tpcstld/2048) - Porting 2048 to android
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
-- [Coffee-Client/Coffee](https://github.com/Coffee-Client/Coffee) - A multipurpose Minecraft client mod, focussing on utilities to make the game easier.
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 26.2 Fishing bot for Minecraft
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [skyecodes/IBE-Editor](https://github.com/skyecodes/IBE-Editor) - A simple GUI mod to edit an item, a block or an entity in your current world.
@@ -1945,7 +1946,6 @@
 - [NotNeelPatel/WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) - Change the colour schemes of wallpapers
 - [QuiteAFancyEmerald/InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service (website) that helps you access websites that may be blocked by your network, government or policy all within your browser with no downloads. It does this secure
 - [pixelfed/pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
 - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
@@ -2263,7 +2263,7 @@
 - [nethical6/LockLock](https://github.com/nethical6/LockLock) - Free, Secure and OpenSource AppLocker For Android
 - [Malopieds/InnerTune](https://github.com/Malopieds/InnerTune) - A fork of InnerTune, a Material 3 YouTube Music client for Android
 - [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
-- [aload0/AppLock](https://github.com/aload0/AppLock) - Powerful Privacy tool to secure your sensitive apps.
+- [aload0/AppLock](https://github.com/aload0/AppLock) - Powerful privacy tool to lock apps from intruders
 - [0xZhangKe/Fread](https://github.com/0xZhangKe/Fread) - Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.
 - [komikku-app/anikku](https://github.com/komikku-app/anikku) - Free and open source anime watcher for Android
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
@@ -3263,7 +3263,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [BassHous3/taggarr](https://github.com/BassHous3/taggarr) - Dub analysis & tagging.
-- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4205 Windows x64
+- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4214 Windows x64
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -3336,7 +3336,7 @@
 - [google/meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 - [NotPrab/.NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator) - Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )
 - [deepseek-ai/ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -3414,7 +3414,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [tor2web/Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [RebeccaRGB/emojifont-touhou](https://github.com/RebeccaRGB/emojifont-touhou) - Touhou Katsujishotai (Touhou Character Emoji Font) v1.0 for Mac OS X, Firefox, Photoshop, Windows 10
 - [feisuzhu/thbattle](https://github.com/feisuzhu/thbattle) - A Sanguosha board game clone, based on Touhou Project
@@ -3767,7 +3767,7 @@
 - [jice-nospam/doryen-rs](https://github.com/jice-nospam/doryen-rs) - ascii roguelike library in rust with native and wasm support
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [Marekkon5/onetagger](https://github.com/Marekkon5/onetagger) - Music tagger for Windows, MacOS and Linux with Beatport, Discogs, Musicbrainz, Spotify, Traxsource and many other platforms support.
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Many Sessions. One GPU.
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Run multiple gaming sessions on a single GPU
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
@@ -4247,7 +4247,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -4314,7 +4314,6 @@
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
@@ -4447,7 +4446,7 @@
 - [bugswriter/contact-app](https://github.com/bugswriter/contact-app) - 
 - [bugswriter/vuelocker](https://github.com/bugswriter/vuelocker) - 
 - [Faithful-Resource-Pack/Website](https://github.com/Faithful-Resource-Pack/Website) - The official website for the Faithful Resource Packs.
-- [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue 2.0.
+- [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue.
 - [LISTEN-moe/desktop-app](https://github.com/LISTEN-moe/desktop-app) - Official LISTEN.moe Desktop Client
 
 ## XSLT 
