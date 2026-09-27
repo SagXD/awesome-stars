@@ -2587,7 +2587,7 @@
 - [DeDiamondPro/Resourcify](https://github.com/DeDiamondPro/Resourcify) - In-game resource pack, data pack and shader browser and updater
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [TheClashFruit/Rithle](https://github.com/TheClashFruit/Rithle) - An app for browsing Modrinth on your Android phone.
-- [quickdesh/Animiru](https://github.com/quickdesh/Animiru) - video player and library manager
+- [animiruorg/Animiru](https://github.com/animiruorg/Animiru) - video player and library manager
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -3385,7 +3385,7 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows/macOS
 - [lichess-bot-devs/lichess-bot](https://github.com/lichess-bot-devs/lichess-bot) - A bridge between Lichess bots and chess engines
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [hugolabe/Wike](https://github.com/hugolabe/Wike) - Wikipedia Reader for the GNOME Desktop
