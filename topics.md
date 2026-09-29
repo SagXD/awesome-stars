@@ -371,7 +371,6 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
@@ -468,7 +467,6 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [WSTxda/Google-Shortcuts-Launcher](https://github.com/WSTxda/Google-Shortcuts-Launcher) - Easily access essential Google apps features directly from your launcher app drawer.
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
@@ -1627,7 +1625,6 @@
 
 ## c-sharp 
 
-- [JavLuv/JavLuv](https://github.com/JavLuv/JavLuv) - Your JAV Movie Organizer
 - [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core
@@ -2548,7 +2545,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [forscht/ddrive](https://github.com/forscht/ddrive) - Discord as a filesystem.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [halftheopposite/TOSIOS](https://github.com/halftheopposite/TOSIOS) - The Open-Source IO Shooter is an open-source multiplayer game in the browser
@@ -3554,7 +3551,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [df-mc/dragonfly](https://github.com/df-mc/dragonfly) - Minecraft Bedrock Edition server software written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -3733,7 +3730,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [MediaHarbor/mediaharbor](https://github.com/MediaHarbor/mediaharbor) - Cross-platform Media Ripping and Browsing GUI
 - [AKotov-dev/warpgui](https://github.com/AKotov-dev/warpgui) - GUI for Cloudflare ™ WARP
-- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows/macOS
 - [stuntrally/stuntrally3](https://github.com/stuntrally/stuntrally3) - 3D racing game with Sci-Fi elements and own Track Editor. The main repository with sources and data. Using Ogre-Next 3.0 and VDrift.
 - [Keksuccino/FancyMenu](https://github.com/Keksuccino/FancyMenu) - Source code for FancyMenu.
 - [svg-beauty/svgomfg](https://github.com/svg-beauty/svgomfg) - Offline Capable⚡Web GUI for easy and visual 🎛️ Vector Optimization feat. latest⚙️SVGO v3.1.0
@@ -5660,7 +5657,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -6514,6 +6511,7 @@
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -6782,7 +6780,7 @@
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [snes9xgit/snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
-- [dborth/snes9xgx](https://github.com/dborth/snes9xgx) - Snes9x GX - Port of Snes9x for Wii
+- [dborth/snes9xgx](https://github.com/dborth/snes9xgx) - Snes9x GX - Super Nintendo emulator for GameCube, Wii, and Wii U
 - [mannu691/TachiyomiAT](https://github.com/mannu691/TachiyomiAT) - Free and open source manga reader for Android
 - [CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 - [Kotatsu-Redo/Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) - Manga reader for Android
@@ -7230,7 +7228,7 @@
 - [reburndev/reburn3](https://github.com/reburndev/reburn3) - An open source reimplementation of Burnout 3: Takedown
 - [KaviD-115/Worlds-Collide](https://github.com/KaviD-115/Worlds-Collide) - A Vanilla Balanced mix of original and crossover content from iconic videogames.
 - [icculus/inline-reddit](https://github.com/icculus/inline-reddit) - Provide reddit RSS feeds with images inlined.
-- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
+- [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP. Blocking anything flagged as GenAI by default.
 - [badlogic/skyview](https://github.com/badlogic/skyview) - Thread reader for Bluesky
 - [kickTROLL/awesome-system-design](https://github.com/kickTROLL/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 - [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
@@ -7624,7 +7622,7 @@
 - [Deftu/DeftuDownloadCounter](https://github.com/Deftu/DeftuDownloadCounter) - 
 - [modrinth/awesome](https://github.com/modrinth/awesome) - A collection of awesome open-source projects which use the Modrinth API
 - [overviewer/Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface
-- [quickdesh/Animiru](https://github.com/quickdesh/Animiru) - video player and library manager
+- [animiruorg/Animiru](https://github.com/animiruorg/Animiru) - video player and library manager
 - [Ai2473/8b8t-kitbot](https://github.com/Ai2473/8b8t-kitbot) - 
 - [gazlaws-dev/codeboard](https://github.com/gazlaws-dev/codeboard) - Codeboard App
 - [UnifiedPush/fcm-distributor](https://github.com/UnifiedPush/fcm-distributor) - Mirror of https://codeberg.org/UnifiedPush/fcm-distributor
@@ -7679,7 +7677,7 @@
 - [Ma7moud3ly/micro-repl](https://github.com/Ma7moud3ly/micro-repl) - A MicroPython IDE for Android
 - [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [Psiphon-Inc/psiphon-android](https://github.com/Psiphon-Inc/psiphon-android) - Psiphon client for Android
-- [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 or april fools day
+- [andyngojs/crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 or april fools day (just for fun)
 - [kubowania/candy-crush](https://github.com/kubowania/candy-crush) - A vanilla JavaScript Game inspired by Candy Crush
 - [boeledi/flutter_crush](https://github.com/boeledi/flutter_crush) - How to build a Match-3 game, like Candy Crush, Bejeweled, FishDom… in Flutter.
 - [developerrahulofficial/impressingCrush](https://github.com/developerrahulofficial/impressingCrush) - 
@@ -7794,7 +7792,7 @@
 - [Moulberry/Graphite](https://github.com/Moulberry/Graphite) - 1.19.1 high-performance Minecraft server
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
 - [ivansaul/terabox_downloader](https://github.com/ivansaul/terabox_downloader) - Terabox Downloader
-- [LukeNeedham/Vibrator](https://github.com/LukeNeedham/Vibrator) - Simple Android app for starting and stopping the system vibrator
+- [LukeNeedham/Android-Vibes](https://github.com/LukeNeedham/Android-Vibes) - Simple Android app for starting and stopping the system vibrator
 - [ghmxr/ftpshare](https://github.com/ghmxr/ftpshare) - an android application using to share files through ftp
 - [ghmxr/apkextractor](https://github.com/ghmxr/apkextractor) - an android application using to extract app packages installed on the device
 - [Litarvan/OpenAuth](https://github.com/Litarvan/OpenAuth) - Java Yggdrasil library.
@@ -8616,7 +8614,7 @@
 - [PaulSonOfLars/tgbot](https://github.com/PaulSonOfLars/tgbot) - Modular telegram group management bot
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows
+- [pychess/pychess](https://github.com/pychess/pychess) - PyChess - desktop chess client for Linux/Windows/macOS
 - [DevCraftClub/StreamTape](https://github.com/DevCraftClub/StreamTape) - Unoffical API wrapper for https://streamtape.com
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -8791,7 +8789,7 @@
 - [ruralad/notedown](https://github.com/ruralad/notedown) - Note taking with react + rust. For windows, mac and linux.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [kurozenzen/r34-react](https://github.com/kurozenzen/r34-react) - A modern tag-based rule 34 browsing site focused on simplicity and user experience.
@@ -9199,7 +9197,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -9334,7 +9332,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [IamTheDefender/Bedwars-Cosmetics](https://github.com/IamTheDefender/Bedwars-Cosmetics) - An plugin that adds various sets of cosmetics to enhance the gameplay of bedwars
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 ## stable-diffusion 
@@ -10122,7 +10120,6 @@
 - [Teraskull/PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
-- [JavLuv/JavLuv](https://github.com/JavLuv/JavLuv) - Your JAV Movie Organizer
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [kitswas/VirtualGamePad](https://github.com/kitswas/VirtualGamePad) - Android phone as gamepad for PCs
