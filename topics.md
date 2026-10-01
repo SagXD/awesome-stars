@@ -428,7 +428,7 @@
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -869,6 +869,7 @@
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock) - 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) - Magisk module to block ads on android
+- [DHD2280/Oxygen-Customizer](https://github.com/DHD2280/Oxygen-Customizer) - Customize Oxygen OS
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [Hamza417/Peristyle](https://github.com/Hamza417/Peristyle) - Advance wallpaper manager app for Android with cool glassmorphic UI, tags, auto wallpaper, custom effects and multiple folder support and a native live wallpaper picker.
@@ -1629,7 +1630,7 @@
 
 ## c-sharp 
 
-- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Repository for Shoko Server.
+- [ShokoAnime/ShokoServer](https://github.com/ShokoAnime/ShokoServer) - Shoko is a media metadata aggregator that solves all of the annoying edge cases that face anime's differing structure from western media. It integrates directly with media software rather than working
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [Dentrax/Z00bfuscator](https://github.com/Dentrax/Z00bfuscator) - Z00bfuscator is the simple, open-source, cross-platform obfuscator for .NET Assemblies built on .NET Core
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
@@ -2178,6 +2179,7 @@
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in t
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
@@ -2808,12 +2810,11 @@
 - [MonochromeCMS/Monochrome](https://github.com/MonochromeCMS/Monochrome) - Finally a proper manga CMS
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
 ## finance 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 
@@ -5506,7 +5507,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [nndl/nndl](https://github.com/nndl/nndl) - 邱锡鹏《神经网络与深度学习》第二版与通识版：电子书、章节目录、学习资源与勘误。
@@ -7388,7 +7389,6 @@
 - [farnots/RedditToMarkdown](https://github.com/farnots/RedditToMarkdown) - Export Reddit Post and comments to a markdown format
 - [Novum/vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm
 - [99keshav99/CaptureSposed](https://github.com/99keshav99/CaptureSposed) - Xposed module that effectively disables the newly introduced screenshot detection API in Android 14
-- [DHD2280/Oxygen-Customizer](https://github.com/DHD2280/Oxygen-Customizer) - Customize Oxygen OS
 - [FileContainer/iAdb-api](https://github.com/FileContainer/iAdb-api) - 
 - [wanam/YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
 - [Lightman314/LightmansCurrency](https://github.com/Lightman314/LightmansCurrency) - Lightman's Currency Minecraft Mod
@@ -7483,7 +7483,7 @@
 - [watchlonelil/extension](https://github.com/watchlonelil/extension) - 
 - [nh6574/JokerDisplay](https://github.com/nh6574/JokerDisplay) - Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.
 - [kleinfreund/balatrolator](https://github.com/kleinfreund/balatrolator) - Balatro calculator
-- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3
+- [tom-james-watson/Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK4
 - [Batcastle/emoji-selector-for-xfce](https://github.com/Batcastle/emoji-selector-for-xfce) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
 - [dewitt/opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [SpectralPack/Immolate](https://github.com/SpectralPack/Immolate) - An OpenCL seed searcher for Balatro.
@@ -8465,7 +8465,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
@@ -8690,7 +8690,7 @@
 
 ## quantitative-finance 
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## r 
