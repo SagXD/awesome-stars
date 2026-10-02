@@ -5389,6 +5389,7 @@
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
@@ -7049,7 +7050,6 @@
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
 - [Alexofp/BDCC](https://github.com/Alexofp/BDCC) - Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unsta
 - [Bohema-developers/VenomHack-leak](https://github.com/Bohema-developers/VenomHack-leak) - VenomHack addon for meteor 1.20.1
 - [PortSwigger/http-request-smuggler](https://github.com/PortSwigger/http-request-smuggler) - 
@@ -8649,6 +8649,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
@@ -8827,7 +8828,7 @@
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
 - [mozzius/graysky](https://github.com/mozzius/graysky) - a bluesky client for ios and android
-- [vega-org/vega-app](https://github.com/vega-org/vega-app) - A media streaming app for android.
+- [vega-org/vega-app](https://github.com/vega-org/vega-app) - A app to Play, Stream or Cast Media for andorid.
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [Technicolor-Dreamcoat/Quiblr](https://github.com/Technicolor-Dreamcoat/Quiblr) - Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -8892,6 +8893,7 @@
 ## reinforcement-learning 
 
 - [areal-project/AReaL](https://github.com/areal-project/AReaL) - The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [Farama-Foundation/ViZDoom](https://github.com/Farama-Foundation/ViZDoom) - Reinforcement Learning environments based on the 1993 game Doom :godmode:
 
