@@ -970,7 +970,6 @@
 - [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game
 - [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) - open source collective hell game
 - [popcar2/CleanDoom](https://github.com/popcar2/CleanDoom) - The Clean and Modern Doom Mod Launcher
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 - [Blobfish-Games/godot-workshop-utility](https://github.com/Blobfish-Games/godot-workshop-utility) - Small utility used to upload content to Steam Workshop with Godot
 - [GodotModding/godot-mod-loader](https://github.com/GodotModding/godot-mod-loader) - A general purpose mod loader for GDScript based Godot Games [3.x/4.x]
 - [BrotatoMods/Darkly77-ShowModSource](https://github.com/BrotatoMods/Darkly77-ShowModSource) - Shows where modded content comes from. Works with characters, items, and weapons
@@ -1301,7 +1300,6 @@
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [pietro-lopes/AllTheLeaks](https://github.com/pietro-lopes/AllTheLeaks) - This is a Minecraft Mod that patches various memory leaks.
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
-- [HydeYYHH/Litube](https://github.com/HydeYYHH/Litube) - Litube is an advanced webview wrapper for YouTube.
 - [VinylMusicPlayer/VinylMusicPlayer](https://github.com/VinylMusicPlayer/VinylMusicPlayer) - A material designed music player for Android
 - [seleuco/MAME4droid-Current](https://github.com/seleuco/MAME4droid-Current) - MAME4droid (Current) is developed by David Valdeita (Seleuco) as a port of the latest MAME emulator by MAMEDev and contributors. It emulates arcade games and systems like ZX Spectrum, Amstrad CPC, MSX
 - [CorgiTaco-MC/Enhanced-Celestials](https://github.com/CorgiTaco-MC/Enhanced-Celestials) - A Minecraft mod adding new Lunar Events such as Blood Moons!
@@ -1445,7 +1443,7 @@
 - [MuntashirAkon/SetEdit](https://github.com/MuntashirAkon/SetEdit) - Open source version of the original Settings Database Editor
 - [NextAlone/Nnngram](https://github.com/NextAlone/Nnngram) - Another gram by NextAlone
 - [ChoiceTheorem/ChoiceTheorem-s-overhauled-village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) - Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.
-- [Let-s-Do-Collection/Meadow](https://github.com/Let-s-Do-Collection/Meadow) - A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.
+- [Let-s-Do-Collection/Meadow](https://github.com/Let-s-Do-Collection/Meadow) - 
 - [Patbox/UniversalGraves](https://github.com/Patbox/UniversalGraves) - Grave mod for Fabric!
 - [Darkhax-Minecraft/Enchantment-Descriptions](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) - Displays descriptions about an enchantment on the tooltip.
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
@@ -1754,6 +1752,7 @@
 
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [ccloli/E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free
@@ -1776,7 +1775,7 @@
 - [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 - [omnidevZero/YouTubeRedux](https://github.com/omnidevZero/YouTubeRedux) - Browser extension that focuses on restoring old YouTube layout within Polymer design (modern layout).
 - [KevinParnell/OneeChan](https://github.com/KevinParnell/OneeChan) - Customizable rice and themes for 4chan X
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [pea3nut/Pxer](https://github.com/pea3nut/Pxer) - A tool for pixiv.net. 人人可用的P站爬虫
 - [DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource) - 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv
 - [Mapaler/PixivUserBatchDownload](https://github.com/Mapaler/PixivUserBatchDownload) - P站画师个人作品批量下载工具，UserScript + Aria2。可高度自定义重命名，发送到本地或远程(如路由器)下载。
@@ -1880,7 +1879,6 @@
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [SubZeroPL/cs-rin-ru-enhanced-mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhance your experience at CS.RIN.RU
 - [mister-ben/videojs-mobile-ui](https://github.com/mister-ben/videojs-mobile-ui) - Mobile UI for Video.js
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [Haroenv/holmes](https://github.com/Haroenv/holmes) - Fast and easy searching inside a page
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [ermiyaeskandary/Slither.io-bot](https://github.com/ermiyaeskandary/Slither.io-bot) - Just for fun and AI. Written in Javascript, this is a project which the aim is to make a computer play against humans inside a human-driven game, which is in this case Slither.io. The goal is simple -
@@ -2293,6 +2291,7 @@
 - [uditkarode/AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - 🎵 A Youtube Music like app with a Spotify like design - ad free, open source.
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) - Android permission explorer 🧑‍✈️
 - [LagradOst/QuickNovel](https://github.com/LagradOst/QuickNovel) - Android app for downloading novels
+- [HydeYYHH/Litube](https://github.com/HydeYYHH/Litube) - Litube is an advanced webview wrapper for YouTube.
 - [NineWorlds/serenity-android](https://github.com/NineWorlds/serenity-android) - An Android client for the Emby Media Servers optimized for Television displays.
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [gmathi/NovelLibrary-Extensions](https://github.com/gmathi/NovelLibrary-Extensions) - Extensions for NovelLibrary
@@ -2625,7 +2624,7 @@
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [FossifyOrg/commons](https://github.com/FossifyOrg/commons) - Some helper functions and shared resources used by the Fossify apps.
 - [shxp3/CrossSine](https://github.com/shxp3/CrossSine) - Minecraft 1.8.9 Forge Hack Client
-- [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - An Android app to randomly select fingers on the screen
+- [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - an android app to randomly select fingers on the screen
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [CookieJarApps/SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A customisable, open source web browser for Android.
@@ -3137,7 +3136,6 @@
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++
@@ -3810,6 +3808,7 @@
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [couleur-tweak-tips/smoothie-rs](https://github.com/couleur-tweak-tips/smoothie-rs) - 🧋 add motion blur to videos, with granular configuration
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend with an emphasis on performance.
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
@@ -4052,7 +4051,6 @@
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [T3-Content/quipslop](https://github.com/T3-Content/quipslop) - 
 - [EaseCation/cube-3d-text](https://github.com/EaseCation/cube-3d-text) - A web tool to generate 3D cube text (in any language)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
@@ -4228,6 +4226,7 @@
 - [lichess-org/pgn-viewer](https://github.com/lichess-org/pgn-viewer) - PGN viewer widget
 - [lichess-org/chessground](https://github.com/lichess-org/chessground) - Mobile/Web chess UI for lichess.org
 - [niklasf/chessops](https://github.com/niklasf/chessops) - Chess and chess variant rules and operations in TypeScript
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org former mobile application / new one -&gt; github.com/lichess-org/mobile
@@ -4299,6 +4298,7 @@
 - [taskyland/snowbin](https://github.com/taskyland/snowbin) - ❄️ Delightfully crafted markdown pastebin with &lt;3
 - [VadimDez/Counter-Strike-JS](https://github.com/VadimDez/Counter-Strike-JS) - Counter Strike implementation with Javascript/Typescript
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
